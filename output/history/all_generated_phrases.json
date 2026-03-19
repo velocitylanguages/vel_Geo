@@ -89,7 +89,37 @@
       "georgian": "გაიარეთ მაღაზია.",
       "category": "Directions",
       "generated_at": "2026-03-19T18:11:33.170784"
+    },
+    {
+      "english": "I am scared, very scared.",
+      "georgian": "ძალიან, მეშინია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T19:57:58.918168"
+    },
+    {
+      "english": "He is excited, so excited.",
+      "georgian": "ძალიან, აღფრთოვანებულია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T19:57:58.918177"
+    },
+    {
+      "english": "She is bored, quite bored.",
+      "georgian": "ძალიან, მოწყენილია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T19:57:58.918178"
+    },
+    {
+      "english": "We are confused, what?",
+      "georgian": "დაბნეულები, ვართ.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T19:57:58.918180"
+    },
+    {
+      "english": "They are proud, very proud.",
+      "georgian": "ამაყი, არიან.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T19:57:58.918181"
     }
   ],
-  "last_updated": "2026-03-19T18:11:33.170785"
+  "last_updated": "2026-03-19T19:57:58.918182"
 }
