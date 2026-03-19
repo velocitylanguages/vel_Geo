@@ -119,7 +119,37 @@
       "georgian": "ამაყი, არიან.",
       "category": "Emotions",
       "generated_at": "2026-03-19T19:57:58.918181"
+    },
+    {
+      "english": "Let's listen, to music.",
+      "georgian": "მუსიკას, მოვუსმინოთ.",
+      "category": "Music",
+      "generated_at": "2026-03-19T21:51:12.063559"
+    },
+    {
+      "english": "This song, is beautiful.",
+      "georgian": "ეს სიმღერა, ლამაზია.",
+      "category": "Music",
+      "generated_at": "2026-03-19T21:51:12.063569"
+    },
+    {
+      "english": "I like, this melody.",
+      "georgian": "მომწონს, ეს მელოდია.",
+      "category": "Music",
+      "generated_at": "2026-03-19T21:51:12.063570"
+    },
+    {
+      "english": "Play it, again please.",
+      "georgian": "დაუკარით, კიდევ გთხოვთ.",
+      "category": "Music",
+      "generated_at": "2026-03-19T21:51:12.063571"
+    },
+    {
+      "english": "Do you sing, well?",
+      "georgian": "კარგად, მღერი?",
+      "category": "Music",
+      "generated_at": "2026-03-19T21:51:12.063572"
     }
   ],
-  "last_updated": "2026-03-19T19:57:58.918182"
+  "last_updated": "2026-03-19T21:51:12.063574"
 }
