@@ -59,7 +59,37 @@
       "georgian": "დაღლილები, არიან.",
       "category": "Emotions",
       "generated_at": "2026-03-19T17:36:54.541555"
+    },
+    {
+      "english": "Go straight, then turn left.",
+      "georgian": "პირდაპირ, მერე მარცხნივ.",
+      "category": "Directions",
+      "generated_at": "2026-03-19T18:11:33.170772"
+    },
+    {
+      "english": "Turn right, at the corner.",
+      "georgian": "მარჯვნივ, კუთხეში.",
+      "category": "Directions",
+      "generated_at": "2026-03-19T18:11:33.170780"
+    },
+    {
+      "english": "It's on the left, side.",
+      "georgian": "ეს არის მარცხნივ.",
+      "category": "Directions",
+      "generated_at": "2026-03-19T18:11:33.170781"
+    },
+    {
+      "english": "It's on the right, side.",
+      "georgian": "ეს არის მარჯვნივ.",
+      "category": "Directions",
+      "generated_at": "2026-03-19T18:11:33.170782"
+    },
+    {
+      "english": "Walk past the shop.",
+      "georgian": "გაიარეთ მაღაზია.",
+      "category": "Directions",
+      "generated_at": "2026-03-19T18:11:33.170784"
     }
   ],
-  "last_updated": "2026-03-19T17:36:54.541557"
+  "last_updated": "2026-03-19T18:11:33.170785"
 }
