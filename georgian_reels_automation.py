@@ -1,0 +1,863 @@
+"""
+Georgian Language Learning Automation - Bilingual English/Georgian Content Generator
+Creates engaging video content for learning Georgian language
+"""
+
+import os
+import sys
+import json
+import random
+import asyncio
+import subprocess
+from datetime import datetime
+from pathlib import Path
+from dotenv import load_dotenv
+
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8")
+
+load_dotenv()
+
+POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
+
+# Directories
+BASE_DIR = Path(__file__).parent
+OUTPUT_DIR = BASE_DIR / "output"
+IMAGES_DIR = OUTPUT_DIR / "images"
+AUDIO_DIR = OUTPUT_DIR / "audio"
+VIDEO_DIR = OUTPUT_DIR / "video"
+HISTORY_DIR = OUTPUT_DIR / "history"
+
+for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR]:
+    d.mkdir(exist_ok=True)
+
+# Video settings (9:16 vertical)
+VIDEO_WIDTH = 1080
+VIDEO_HEIGHT = 1920
+FPS = 30
+
+# English category names (for learners)
+CATEGORIES_ENGLISH = [
+    "Greetings", "Family", "Food", "Travel", "Numbers",
+    "Time", "Colors", "Animals", "Weather", "Emotions",
+    "Work", "Health", "Shopping", "Directions", "Home",
+    "Nature", "Sports", "Music", "Education", "Friendship",
+    "Love", "Success", "Wisdom", "Happiness", "Gratitude"
+]
+
+# Georgian translations for categories
+CATEGORIES_GEORGIAN = {
+    "Greetings": "მისალმება",
+    "Family": "ოჯახი",
+    "Food": "საკვები",
+    "Travel": "მოგზაურობა",
+    "Numbers": "რიცხვები",
+    "Time": "დრო",
+    "Colors": "ფერები",
+    "Animals": "ცხოველები",
+    "Weather": "ამინდი",
+    "Emotions": "ემოციები",
+    "Work": "სამუშაო",
+    "Health": "ჯანმრთელობა",
+    "Shopping": "შოპინგი",
+    "Directions": "მიმართულებები",
+    "Home": "სახლი",
+    "Nature": "ბუნება",
+    "Sports": "სპორტი",
+    "Music": "მუსიკა",
+    "Education": "განათლება",
+    "Friendship": "მეგობრობა",
+    "Love": "სიყვარული",
+    "Success": "წარმატება",
+    "Wisdom": "სიბრძნე",
+    "Happiness": "ბედნიერება",
+    "Gratitude": "მადლიერება"
+}
+
+# Edge TTS voices - Georgian native voices available
+ENGLISH_VOICE = "en-US-GuyNeural"
+GEORGIAN_VOICE = "ka-GE-GiorgiNeural"  # Native Georgian male voice
+
+# AI Model - loaded from environment
+AI_MODEL = os.getenv("AI_MODEL", "openai")
+
+# Phrase history file
+PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
+
+
+# ============== PHRASE HISTORY MANAGEMENT ==============
+
+def load_phrase_history():
+    """Load all previously generated phrases"""
+    if PHRASE_HISTORY_FILE.exists():
+        with open(PHRASE_HISTORY_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"phrases": [], "last_updated": None}
+
+
+def save_phrase_history(data):
+    """Save phrase history"""
+    data["last_updated"] = datetime.now().isoformat()
+    with open(PHRASE_HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def is_phrase_used(english_phrase):
+    """Check if phrase was already generated"""
+    history = load_phrase_history()
+    english_lower = english_phrase.lower().strip()
+    for p in history.get("phrases", []):
+        if p.get("english", "").lower().strip() == english_lower:
+            return True
+    return False
+
+
+def add_phrases_to_history(phrases, category):
+    """Add new phrases to history"""
+    history = load_phrase_history()
+    for phrase in phrases:
+        history["phrases"].append({
+            "english": phrase["english"],
+            "georgian": phrase["georgian"],
+            "category": category,
+            "generated_at": datetime.now().isoformat()
+        })
+    save_phrase_history(history)
+    print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
+
+
+# ============== GEORGIAN CONTENT GENERATION ==============
+
+def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
+    """Generate unique English-Georgian phrases with natural pauses"""
+
+    # Try AI first
+    max_attempts = 3
+    for attempt in range(max_attempts):
+        try:
+            import requests
+            url = "https://gen.pollinations.ai/v1/chat/completions"
+            headers = {
+                "Authorization": f"Bearer {POLLINATIONS_API_KEY}",
+                "Content-Type": "application/json"
+            }
+
+            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Georgian.
+
+IMPORTANT RULES:
+1. Keep phrases SHORT (3-10 words max per language)
+2. Add NATURAL PAUSES using commas
+3. Each phrase should be speakable in 3-5 seconds
+4. Use authentic, commonly-spoken Georgian
+5. Include proper Georgian script (Mkhedruli)
+
+For each phrase provide:
+1. English phrase (with natural pauses/commas)
+2. Georgian translation in Georgian script (Mkhedruli)
+3. Phonetic pronunciation guide (Latin alphabet for English speakers)
+
+Return as JSON array:
+[{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
+
+IMPORTANT: Create FRESH, UNIQUE phrases. Use proper Georgian Mkhedruli script."""
+
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": "You are a Georgian language teacher. Create short, natural phrases with proper Georgian script."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 0.9
+            }
+
+            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            response.raise_for_status()
+
+            data = response.json()
+            content = data["choices"][0]["message"]["content"].strip()
+
+            # Extract JSON
+            if "```json" in content:
+                content = content.split("```json")[1].split("```")[0].strip()
+            elif "```" in content:
+                content = content.split("```")[1].split("```")[0].strip()
+
+            phrases = json.loads(content)
+
+            # Filter and validate
+            unique_phrases = []
+            for phrase in phrases:
+                if len(phrase["english"].split()) > 15:
+                    continue
+                if not is_phrase_used(phrase["english"]):
+                    unique_phrases.append(phrase)
+                if len(unique_phrases) >= num_phrases:
+                    break
+
+            if len(unique_phrases) >= num_phrases:
+                add_phrases_to_history(unique_phrases[:num_phrases], category_english)
+                return unique_phrases[:num_phrases]
+
+        except Exception as e:
+            print(f"[content] Attempt {attempt + 1} failed: {e}")
+
+    # Fallback to hardcoded phrases
+    print("[content] Using fallback phrases...")
+    return get_fallback_georgian_phrases(category_english, num_phrases)
+
+
+def get_fallback_georgian_phrases(category: str, num_phrases: int) -> list:
+    """Get fallback Georgian phrases with proper pronunciation"""
+
+    all_fallbacks = {
+        "Greetings": [
+            {"english": "Hello, how are you?", "georgian": "გამარჯობა, როგორ ხარ?", "pronunciation": "Gah-mar-joh-bah, roh-gor khar?"},
+            {"english": "Good morning!", "georgian": "დილა მშვიდობისა!", "pronunciation": "Dee-lah mshvee-doh-bee-sah!"},
+            {"english": "Good evening!", "georgian": "საღამო მშვიდობისა!", "pronunciation": "Sah-ghah-moh mshvee-doh-bee-sah!"},
+            {"english": "Nice to meet you.", "georgian": "სიამოვნებაა თქვენი გაცნობა.", "pronunciation": "See-ahm-ov-neh-bah-ah tkveh-nee gats-noh-bah."},
+            {"english": "What is your name?", "georgian": "რა გქვია სახელი?", "pronunciation": "Rah ghkvee-ah sah-kheh-lee?"},
+        ],
+        "Family": [
+            {"english": "This is my family.", "georgian": "ეს არის ჩემი ოჯახი.", "pronunciation": "Ess ah-rees chkeh-mee oh-jah-khee."},
+            {"english": "I love my mother.", "georgian": "მიყვარს ჩემი დედა.", "pronunciation": "Mee-khvars chkeh-mee deh-dah."},
+            {"english": "My father is kind.", "georgian": "ჩემი მამა კარგია.", "pronunciation": "Chkeh-mee mah-mah kahr-gee-ah."},
+            {"english": "She is my sister.", "georgian": "ის ჩემი დაა.", "pronunciation": "Ees chkeh-mee dah-ah."},
+            {"english": "He is my brother.", "georgian": "ის ჩემი ძმაა.", "pronunciation": "Ees chkeh-mee dzmah-ah."},
+        ],
+        "Food": [
+            {"english": "This food is delicious.", "georgian": "ეს საკვები გემრიელია.", "pronunciation": "Ess sah-khveh-bee gem-ree-eh-lee-ah."},
+            {"english": "I am hungry.", "georgian": "მშია.", "pronunciation": "Mshee-ah."},
+            {"english": "I am thirsty.", "georgian": "მწყურია.", "pronunciation": "Mtskoo-ree-ah."},
+            {"english": "Cheers to your health!", "georgian": "გაგიმარჯოს!", "pronunciation": "Gah-gee-mahr-jos!"},
+            {"english": "Bon appetit!", "georgian": "ნუგბარი იყოს!", "pronunciation": "Noog-bah-ree ee-khos!"},
+        ],
+        "Love": [
+            {"english": "I love you.", "georgian": "მიყვარხარ.", "pronunciation": "Mee-khvar-khar."},
+            {"english": "You are beautiful.", "georgian": "შენ ლამაზი ხარ.", "pronunciation": "Shen lah-mah-zee khar."},
+            {"english": "My heart is yours.", "georgian": "ჩემი გული შენია.", "pronunciation": "Chkeh-mee goo-lee sheh-nee-ah."},
+            {"english": "I miss you.", "georgian": "მენატრები.", "pronunciation": "Meh-nah-treh-bee."},
+            {"english": "You are my everything.", "georgian": "შენ ჩემი ყველაფერი ხარ.", "pronunciation": "Shen chkeh-mee kvleh-lah-peh-ree khar."},
+        ],
+        "Success": [
+            {"english": "You will succeed.", "georgian": "შენ წარმატებას მიაღწევ.", "pronunciation": "Shen tsahr-mah-teh-bahs mee-agh-tsev."},
+            {"english": "Believe in yourself.", "georgian": "გწამდეს საკუთარი თავის.", "pronunciation": "Gtsahm-des sah-koo-tah-ree tah-vees."},
+            {"english": "Never give up.", "georgian": "არასდროს დანებდე.", "pronunciation": "Ah-rahs-dros dah-nehb-deh."},
+            {"english": "Dream big.", "georgian": "იოცნებე დიდად.", "pronunciation": "Ee-ots-neh-beh dee-dahd."},
+            {"english": "Your future is bright.", "georgian": "შენი მომავალი ნათელია.", "pronunciation": "Shenh-nee moh-mah-vah-lee nah-teh-lee-ah."},
+        ],
+        "Wisdom": [
+            {"english": "Knowledge is power.", "georgian": "ცოდნა ძალაა.", "pronunciation": "Tsohd-nah dzah-lah-ah."},
+            {"english": "Learn every day.", "georgian": "ისწავლე ყოველ დღეს.", "pronunciation": "Eests-vahv-leh kvoh-vel dhghes."},
+            {"english": "Wisdom comes with time.", "georgian": "სიბრძნე დროსთან ერთად მოდის.", "pronunciation": "See-brdz-neh drohs-tahn ehr-tahd moh-dees."},
+            {"english": "Think before you speak.", "georgian": "იფიქრე სანამ იტყვი.", "pronunciation": "Ee-peek-reh sah-nahm eet-khvee."},
+            {"english": "Patience is virtue.", "georgian": "მოთმინება სათნოებაა.", "pronunciation": "Moh-tmee-neh-bah sah-tnoh-eh-bah-ah."},
+        ],
+        "Happiness": [
+            {"english": "I am happy.", "georgian": "ბედნიერი ვარ.", "pronunciation": "Behd-nee-eh-ree vah-r."},
+            {"english": "Life is beautiful.", "georgian": "ცხოვრება ლამაზია.", "pronunciation": "Tskhov-reh-bah lah-mah-zee-ah."},
+            {"english": "Enjoy every moment.", "georgian": "ისიამოვნე ყოველი წამით.", "pronunciation": "Ee-see-ah-mov-neh kvoh-veh-lee tsah-mee-t."},
+            {"english": "Smile more often.", "georgian": "უფრო ხშირად გაიღიმე.", "pronunciation": "Oo-proh khshoo-rahd gah-ee-ghmee-meh."},
+            {"english": "Happiness is within.", "georgian": "ბედნიერება შიგნითაა.", "pronunciation": "Behd-nee-eh-reh-bah shig-nee-tah-ah."},
+        ],
+        "Gratitude": [
+            {"english": "Thank you very much.", "georgian": "დიდი მადლობა.", "pronunciation": "Dee-dee mahd-loh-bah."},
+            {"english": "I am grateful.", "georgian": "მადლიერი ვარ.", "pronunciation": "Mahd-lee-eh-ree vah-r."},
+            {"english": "You helped me.", "georgian": "შენ დამეხმარე.", "pronunciation": "Shen dah-mehkh-mah-reh."},
+            {"english": "I appreciate this.", "georgian": "ვაფასებ ამას.", "pronunciation": "Vah-pah-sehb ah-mahs."},
+            {"english": "Thanks for everything.", "georgian": "მადლობა ყველაფრისთვის.", "pronunciation": "Mahd-loh-bah kvleh-lahp-hreesth-vees."},
+        ],
+    }
+
+    fallbacks = all_fallbacks.get(category, all_fallbacks["Greetings"])
+    fresh_phrases = [p for p in fallbacks if not is_phrase_used(p["english"])]
+    
+    if not fresh_phrases:
+        fresh_phrases = fallbacks
+    
+    return fresh_phrases[:num_phrases]
+
+
+# ============== AUDIO GENERATION ==============
+
+async def generate_single_audio(text: str, voice: str, output_path: str):
+    """Generate audio using Edge TTS"""
+    try:
+        import edge_tts
+        communicate = edge_tts.Communicate(text, voice)
+        await communicate.save(output_path)
+        return True
+    except Exception as e:
+        print(f"  TTS error: {e}")
+        return False
+
+
+def generate_all_audio(phrases: list, output_dir: str):
+    """Generate audio for all phrases with proper timing"""
+
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    audio_files = []
+
+    for i, phrase in enumerate(phrases):
+        english_file = output_dir / f"english_{i}.mp3"
+        georgian_file = output_dir / f"georgian_{i}.mp3"
+        combined_file = output_dir / f"combined_{i}.mp3"
+
+        print(f"\n  Phrase {i+1}:")
+        print(f"    EN: {phrase['english']}")
+        print(f"    GE: {phrase['georgian']}")
+
+        # Generate English audio
+        en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
+        if en_success:
+            print(f"    ✓ English: {english_file.name}")
+        else:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
+            subprocess.run(cmd, capture_output=True)
+
+        # Generate Georgian audio (use Russian voice as fallback)
+        ge_success = asyncio.run(generate_single_audio(phrase["georgian"], GEORGIAN_VOICE, str(georgian_file)))
+        if ge_success:
+            print(f"    ✓ Georgian: {georgian_file.name}")
+        else:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(georgian_file)]
+            subprocess.run(cmd, capture_output=True)
+
+        # Get ACTUAL durations
+        en_duration = get_audio_duration(str(english_file))
+        ge_duration = get_audio_duration(str(georgian_file))
+
+        # Add pause between English and Georgian
+        pause_between = 0.5
+        total_duration = en_duration + pause_between + ge_duration
+
+        print(f"    ⏱️  Total: {total_duration:.2f}s (EN: {en_duration:.2f}s + pause: {pause_between}s + GE: {ge_duration:.2f}s)")
+
+        # Combine audio files
+        cmd = [
+            "ffmpeg", "-y",
+            "-i", str(english_file),
+            "-i", str(georgian_file),
+            "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
+            "-map", "[out]",
+            str(combined_file)
+        ]
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+
+        if result.returncode != 0:
+            concat_file = output_dir / f"concat_{i}.txt"
+            with open(concat_file, "w", encoding="utf-8") as f:
+                f.write(f"file '{english_file.as_posix()}'\n")
+                f.write(f"file '{georgian_file.as_posix()}'\n")
+
+            cmd = [
+                "ffmpeg", "-y",
+                "-f", "concat", "-safe", "0",
+                "-i", str(concat_file),
+                "-c:a", "aac",
+                str(combined_file)
+            ]
+            subprocess.run(cmd, capture_output=True)
+            if concat_file.exists():
+                concat_file.unlink()
+
+        actual_duration = get_audio_duration(str(combined_file))
+        print(f"    ✓ Combined verified: {actual_duration:.2f}s")
+
+        audio_files.append({
+            "index": i,
+            "english": str(english_file),
+            "georgian": str(georgian_file),
+            "combined": str(combined_file),
+            "duration": actual_duration,
+            "en_duration": en_duration,
+            "ge_duration": ge_duration
+        })
+
+    print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
+    return audio_files
+
+
+def get_audio_duration(audio_file: str) -> float:
+    """Get audio duration in seconds"""
+    if not Path(audio_file).exists():
+        return 2.0
+    cmd = ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", audio_file]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    try:
+        return float(result.stdout.strip())
+    except:
+        return 2.0
+
+
+def create_final_narration(audio_files: list, output_file: str):
+    """Combine all audio files"""
+    n = len(audio_files)
+    print(f"[audio] Combining {n} audio files...")
+
+    concat_file = Path(output_file).parent / "narration_list.txt"
+
+    with open(concat_file, "w", encoding="utf-8") as f:
+        for audio_info in audio_files:
+            combined_path = Path(audio_info["combined"])
+            if combined_path.exists():
+                path_str = str(combined_path.resolve()).replace("\\", "/").replace("'", "'\\''")
+                f.write(f"file '{path_str}'\n")
+
+    cmd = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", str(concat_file), "-c:a", "copy", str(output_file)]
+    result = subprocess.run(cmd, capture_output=True, text=True)
+
+    if concat_file.exists():
+        concat_file.unlink()
+
+    if result.returncode == 0 and Path(output_file).exists() and Path(output_file).stat().st_size > 0:
+        size = Path(output_file).stat().st_size
+        print(f"\n[audio] ✓ Final narration: {Path(output_file).name} ({size/1024:.1f} KB)")
+        return True
+
+    return False
+
+
+# ============== IMAGE GENERATION ==============
+
+def create_impressive_background(category_english: str):
+    """Create stunning gradient background with geometric patterns and glow"""
+    from PIL import Image, ImageDraw
+
+    img = Image.new('RGB', (VIDEO_WIDTH, VIDEO_HEIGHT))
+    draw = ImageDraw.Draw(img)
+
+    # HIGH CONTRAST gradients for ALL 25 categories
+    category_colors = {
+        "Greetings": [(138, 43, 226), (75, 0, 130), (255, 20, 147), (147, 112, 219)],
+        "Family": [(255, 0, 100), (139, 0, 0), (255, 105, 180), (255, 192, 203)],
+        "Food": [(255, 215, 0), (0, 100, 0), (255, 140, 0), (34, 139, 34)],
+        "Travel": [(0, 0, 139), (255, 215, 0), (70, 130, 180), (255, 255, 0)],
+        "Numbers": [(255, 255, 0), (255, 0, 255), (255, 165, 0), (147, 112, 219)],
+        "Time": [(0, 128, 0), (255, 215, 0), (0, 255, 0), (255, 140, 0)],
+        "Colors": [(255, 127, 80), (75, 0, 130), (255, 160, 122), (138, 43, 226)],
+        "Animals": [(255, 192, 203), (0, 100, 80), (255, 105, 180), (0, 200, 160)],
+        "Weather": [(0, 0, 100), (255, 255, 0), (70, 130, 180), (255, 215, 0)],
+        "Emotions": [(255, 0, 127), (0, 0, 139), (255, 20, 147), (75, 0, 130)],
+        "Work": [(135, 206, 235), (0, 0, 100), (176, 224, 230), (75, 0, 130)],
+        "Health": [(255, 69, 0), (0, 0, 139), (255, 140, 0), (70, 130, 180)],
+        "Shopping": [(139, 69, 19), (255, 215, 0), (160, 82, 45), (255, 140, 0)],
+        "Directions": [(255, 0, 255), (75, 0, 130), (255, 20, 147), (0, 0, 139)],
+        "Home": [(50, 205, 50), (255, 0, 127), (144, 238, 144), (255, 20, 147)],
+        "Nature": [(178, 34, 34), (255, 215, 0), (220, 20, 60), (255, 140, 0)],
+        "Sports": [(255, 182, 193), (138, 43, 226), (255, 160, 122), (75, 0, 130)],
+        "Music": [(34, 139, 34), (255, 255, 0), (60, 179, 113), (255, 215, 0)],
+        "Education": [(230, 230, 250), (75, 0, 130), (216, 191, 216), (138, 43, 226)],
+        "Friendship": [(100, 100, 100), (255, 69, 0), (150, 150, 150), (255, 140, 0)],
+        "Love": [(255, 255, 0), (255, 0, 127), (255, 215, 0), (147, 112, 219)],
+        "Success": [(60, 179, 113), (138, 43, 226), (152, 251, 152), (75, 0, 130)],
+        "Wisdom": [(0, 100, 0), (255, 215, 0), (34, 139, 34), (255, 140, 0)],
+        "Happiness": [(75, 0, 130), (255, 215, 0), (138, 43, 226), (255, 140, 0)],
+        "Gratitude": [(210, 180, 140), (75, 0, 130), (245, 245, 220), (138, 43, 226)],
+    }
+
+    colors = category_colors.get(category_english, [(138, 43, 226), (75, 0, 130), (255, 20, 147), (147, 112, 219)])
+
+    # Create smooth multi-stop gradient
+    for y in range(VIDEO_HEIGHT):
+        ratio = y / VIDEO_HEIGHT
+        if ratio < 0.33:
+            r = int(colors[0][0] + (colors[1][0] - colors[0][0]) * (ratio * 3))
+            g = int(colors[0][1] + (colors[1][1] - colors[0][1]) * (ratio * 3))
+            b = int(colors[0][2] + (colors[1][2] - colors[0][2]) * (ratio * 3))
+        elif ratio < 0.66:
+            r = int(colors[1][0] + (colors[2][0] - colors[1][0]) * ((ratio - 0.33) * 3))
+            g = int(colors[1][1] + (colors[2][1] - colors[1][1]) * ((ratio - 0.33) * 3))
+            b = int(colors[1][2] + (colors[2][2] - colors[1][2]) * ((ratio - 0.33) * 3))
+        else:
+            r = int(colors[2][0] + (colors[3][0] - colors[2][0]) * ((ratio - 0.66) * 3))
+            g = int(colors[2][1] + (colors[3][1] - colors[2][1]) * ((ratio - 0.66) * 3))
+            b = int(colors[2][2] + (colors[3][2] - colors[2][2]) * ((ratio - 0.66) * 3))
+        draw.rectangle([(0, y), (VIDEO_WIDTH, y + 1)], fill=(r, g, b))
+
+    # Add subtle geometric pattern for depth (circles)
+    for i in range(0, VIDEO_WIDTH, 120):
+        for j in range(0, VIDEO_HEIGHT, 120):
+            draw.ellipse(
+                [(i + 30, j + 30), (i + 90, j + 90)],
+                outline=(255, 255, 255, 20),
+                width=1
+            )
+
+    # Add radial glow effect from center
+    glow = Image.new('RGBA', (VIDEO_WIDTH, VIDEO_HEIGHT), (0, 0, 0, 0))
+    glow_draw = ImageDraw.Draw(glow)
+
+    for radius in range(800, 0, -50):
+        alpha = int(30 * (1 - radius / 800))
+        glow_draw.ellipse(
+            [(VIDEO_WIDTH//2 - radius, VIDEO_HEIGHT//3 - radius),
+             (VIDEO_WIDTH//2 + radius, VIDEO_HEIGHT//3 + radius)],
+            fill=(255, 255, 255, alpha)
+        )
+
+    # Composite glow over background
+    img = img.convert('RGBA')
+    img = Image.alpha_composite(img, glow)
+
+    return img
+
+
+def generate_complete_image(phrase_data: dict, category_english: str, output_path: str):
+    """Generate image with impressive background and Georgian font support"""
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        print("PIL not available. Install: pip install Pillow")
+        return None
+
+    img = create_impressive_background(category_english)
+    draw = ImageDraw.Draw(img)
+
+    # Font paths - Georgian compatible
+    # Priority: 1) Project fonts dir, 2) Windows fonts, 3) Linux fonts, 4) Default
+    font_dirs = [
+        Path(__file__).parent / "fonts",  # Project fonts
+        Path("C:/Windows/Fonts"),  # Windows
+        Path("/usr/share/fonts/truetype/noto"),  # Linux (Ubuntu/Debian)
+        Path("/usr/share/fonts"),  # Linux generic
+    ]
+    
+    font_files = {
+        "bold": ["NotoSansGeorgian-Bold.ttf", "arialbd.ttf", "DejaVuSans-Bold.ttf"],
+        "regular": ["NotoSansGeorgian-Regular.ttf", "arial.ttf", "DejaVuSans.ttf"],
+    }
+    
+    def find_font(weight):
+        """Find font file in priority order"""
+        for font_dir in font_dirs:
+            for font_name in font_files.get(weight, []):
+                font_path = font_dir / font_name
+                if font_path.exists():
+                    return str(font_path)
+        return None
+    
+    # Load fonts with Georgian support
+    font_category_size = 60
+    font_large_size = 85
+    font_pronunciation_size = 42
+    font_branding_size = 52
+    
+    try:
+        bold_font = find_font("bold")
+        regular_font = find_font("regular")
+        
+        if bold_font and regular_font:
+            font_category = ImageFont.truetype(bold_font, font_category_size)
+            font_large = ImageFont.truetype(bold_font, font_large_size)
+            font_pronunciation = ImageFont.truetype(regular_font, font_pronunciation_size)
+            font_branding = ImageFont.truetype(bold_font, font_branding_size)
+            print(f"  ✓ Using fonts: {bold_font}")
+        else:
+            raise FileNotFoundError("Georgian fonts not found")
+    except Exception as e:
+        print(f"  ⚠️  Font warning: {e}")
+        print("  Using default fonts (Georgian may not render correctly)")
+        font_category = ImageFont.load_default()
+        font_large = ImageFont.load_default()
+        font_pronunciation = ImageFont.load_default()
+        font_branding = ImageFont.load_default()
+
+    english = phrase_data.get("english", "")
+    georgian = phrase_data.get("georgian", "")
+    pronunciation = phrase_data.get("pronunciation", "")
+
+    def wrap_text(text, font, max_width):
+        words = text.split()
+        lines = []
+        current_line = []
+        for word in words:
+            test_line = ' '.join(current_line + [word])
+            bbox = draw.textbbox((0, 0), test_line, font=font)
+            width = bbox[2] - bbox[0]
+            if width <= max_width:
+                current_line.append(word)
+            else:
+                if current_line:
+                    lines.append(' '.join(current_line))
+                current_line = [word]
+        if current_line:
+            lines.append(' '.join(current_line))
+        return lines
+
+    # Category at top
+    category_text = category_english.upper()
+    category_bbox = draw.textbbox((VIDEO_WIDTH // 2, 140), category_text, font=font_category, anchor="mm")
+    padding = 25
+    draw.rectangle(
+        [(category_bbox[0] - padding, category_bbox[1] - padding),
+         (category_bbox[2] + padding, category_bbox[3] + padding)],
+        fill=(0, 0, 0, 200)
+    )
+    draw.text(
+        (VIDEO_WIDTH // 2, 140),
+        category_text,
+        fill=(255, 255, 255),
+        font=font_category,
+        anchor="mm",
+        stroke_width=2,
+        stroke_fill=(0, 0, 0)
+    )
+
+    # English text
+    english_y = 470
+    english_lines = wrap_text(english, font_large, VIDEO_WIDTH - 140)
+    total_height = len(english_lines) * 95
+
+    draw.rectangle(
+        [(60, english_y - 55), (VIDEO_WIDTH - 60, english_y + total_height + 15)],
+        fill=(20, 30, 80, 220)
+    )
+
+    for i, line in enumerate(english_lines):
+        y_pos = english_y + (i * 95)
+        draw.text(
+            (VIDEO_WIDTH // 2, y_pos),
+            line,
+            fill=(255, 255, 255),
+            font=font_large,
+            anchor="mm",
+            stroke_width=2,
+            stroke_fill=(0, 0, 0)
+        )
+
+    # Georgian text
+    georgian_y = english_y + total_height + 110
+    georgian_lines = wrap_text(georgian, font_large, VIDEO_WIDTH - 140)
+    total_height = len(georgian_lines) * 95
+
+    draw.rectangle(
+        [(60, georgian_y - 55), (VIDEO_WIDTH - 60, georgian_y + total_height + 15)],
+        fill=(80, 30, 30, 220)
+    )
+
+    for i, line in enumerate(georgian_lines):
+        y_pos = georgian_y + (i * 95)
+        draw.text(
+            (VIDEO_WIDTH // 2, y_pos),
+            line,
+            fill=(255, 255, 0),
+            font=font_large,
+            anchor="mm",
+            stroke_width=2,
+            stroke_fill=(0, 0, 0)
+        )
+
+    # Pronunciation with FILLED BOX
+    pronunciation_y = georgian_y + total_height + 90
+    pronunciation_text = f"[{pronunciation}]"
+    pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 160)
+
+    if pron_lines:
+        pron_total_height = len(pron_lines) * 42
+        draw.rectangle(
+            [(70, pronunciation_y - 20), (VIDEO_WIDTH - 70, pronunciation_y + pron_total_height + 10)],
+            fill=(40, 40, 40, 230)
+        )
+
+        for i, pron_line in enumerate(pron_lines):
+            y_pos = pronunciation_y + (i * 42)
+            draw.text(
+                (VIDEO_WIDTH // 2, y_pos),
+                pron_line,
+                fill=(240, 240, 240),
+                font=font_pronunciation,
+                anchor="mm",
+                stroke_width=1,
+                stroke_fill=(20, 20, 20, 200)
+            )
+
+    # Branding
+    branding_y = VIDEO_HEIGHT - 100
+    draw.rectangle(
+        [(0, branding_y - 30), (VIDEO_WIDTH, branding_y + 50)],
+        fill=(0, 0, 0, 180)
+    )
+    draw.text(
+        (VIDEO_WIDTH // 2, branding_y),
+        "VELOCITY GEORGIAN",
+        fill=(255, 255, 255),
+        font=font_branding,
+        anchor="mm",
+        stroke_width=2,
+        stroke_fill=(0, 0, 0)
+    )
+
+    if img.mode == 'RGBA':
+        img = img.convert('RGB')
+
+    Path(output_path).parent.mkdir(parents=True, exist_ok=True)
+    img.save(output_path, quality=95, optimize=True)
+    print(f"  ✓ Image: {Path(output_path).name}")
+    return output_path
+
+
+# ============== VIDEO CREATION ==============
+
+def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
+    """Create video from images and audio with PERFECT synchronization"""
+
+    print(f"\n[video] Creating video from {len(image_files)} images...")
+    print(f"[video] Ensuring complete audio playback and sync...")
+
+    temp_clips = []
+
+    for i, (img_info, audio_info) in enumerate(zip(image_files, audio_files)):
+        duration = audio_info['duration']
+        print(f"[video] Clip {i+1}/{len(image_files)}: {duration:.2f}s")
+
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clips.append(temp_clip)
+
+        # Create video clip from image with exact duration
+        cmd = [
+            "ffmpeg", "-y",
+            "-loop", "1",
+            "-i", str(img_info['image']),
+            "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS}",
+            "-t", str(duration),
+            "-c:v", "libx264",
+            "-pix_fmt", "yuv420p",
+            "-preset", "medium",
+            str(temp_clip)
+        ]
+
+        subprocess.run(cmd, check=True, capture_output=True)
+
+    # Create concat file
+    concat_file = Path(output_file).parent / "concat_list.txt"
+    with open(concat_file, "w", encoding="utf-8") as f:
+        for clip in temp_clips:
+            f.write(f"file '{clip.resolve()}'\n")
+
+    # Concatenate clips
+    print("[video] Concatenating clips...")
+    temp_video = Path(output_file).parent / "temp_video.mp4"
+
+    cmd = [
+        "ffmpeg", "-y",
+        "-f", "concat",
+        "-safe", "0",
+        "-i", str(concat_file),
+        "-c", "copy",
+        str(temp_video)
+    ]
+
+    subprocess.run(cmd, check=True, capture_output=True)
+
+    # Add audio
+    print("[video] Adding audio...")
+
+    cmd = [
+        "ffmpeg", "-y",
+        "-i", str(temp_video),
+        "-i", str(combined_audio),
+        "-c:v", "copy",
+        "-c:a", "aac",
+        "-shortest",
+        str(output_file)
+    ]
+
+    subprocess.run(cmd, check=True, capture_output=True)
+
+    print(f"[video] ✓ Video created: {output_file}")
+
+    # Cleanup
+    for clip in temp_clips:
+        if clip.exists():
+            clip.unlink()
+    if temp_video.exists():
+        temp_video.unlink()
+    if concat_file.exists():
+        concat_file.unlink()
+
+    return output_file
+
+
+# ============== MAIN WORKFLOW ==============
+
+def create_georgian_reel(category: str = None, num_phrases: int = 5):
+    """Create complete Georgian learning reel"""
+
+    if category is None:
+        category = random.choice(CATEGORIES_ENGLISH)
+
+    print("\n" + "="*80)
+    print("🇬🇪 VELOCITY GEORGIAN - LANGUAGE LEARNING REEL 🇬🇪")
+    print("="*80)
+    print(f"Category: {category}")
+    print(f"Georgian: {CATEGORIES_GEORGIAN.get(category, 'N/A')}")
+    print(f"Phrases: {num_phrases}")
+    print("="*80)
+
+    # Generate phrases
+    print("\n[content] Generating Georgian phrases...")
+    phrases = generate_phrases(category, num_phrases)
+
+    for i, phrase in enumerate(phrases, 1):
+        print(f"\n  {i}. {phrase['english']}")
+        print(f"     Georgian: {phrase['georgian']}")
+        print(f"     Pronunciation: {phrase['pronunciation']}")
+
+    # Generate images
+    print("\n[image] Generating images...")
+    image_files = []
+    for i, phrase in enumerate(phrases):
+        image_path = IMAGES_DIR / f"image_{i:02d}.jpg"
+        img_result = generate_complete_image(phrase, category, str(image_path))
+        if img_result:
+            image_files.append({"index": i, "image": img_result})
+
+    # Generate audio
+    print("\n[audio] Generating audio...")
+    audio_files = generate_all_audio(phrases, str(AUDIO_DIR))
+
+    # Create combined narration
+    combined_audio = AUDIO_DIR / "combined_narration.mp3"
+    create_final_narration(audio_files, str(combined_audio))
+
+    # Create video
+    print("\n[video] Creating final video...")
+    output_video = VIDEO_DIR / f"georgian_{category.replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}" / "final_reel.mp4"
+    output_video.parent.mkdir(parents=True, exist_ok=True)
+
+    create_video_from_images_audio(image_files, audio_files, str(combined_audio), str(output_video))
+
+    # Save metadata
+    metadata = {
+        "category_english": category,
+        "category_georgian": CATEGORIES_GEORGIAN.get(category, ""),
+        "phrases": phrases,
+        "created_at": datetime.now().isoformat(),
+        "video_path": str(output_video)
+    }
+
+    metadata_file = output_video.parent / "metadata.json"
+    with open(metadata_file, "w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+    print(f"\n[complete] ✓ Reel created successfully!")
+    print(f"[complete] Video: {output_video}")
+    print(f"[complete] Metadata: {metadata_file}")
+    print("="*80)
+
+    return str(output_video)
+
+
+if __name__ == "__main__":
+    # Create a Georgian learning reel
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Create Georgian language learning reels")
+    parser.add_argument("--category", "-c", choices=CATEGORIES_ENGLISH, help="Learning category")
+    parser.add_argument("--phrases", "-p", type=int, default=5, help="Number of phrases")
+
+    args = parser.parse_args()
+
+    create_georgian_reel(category=args.category, num_phrases=args.phrases)
