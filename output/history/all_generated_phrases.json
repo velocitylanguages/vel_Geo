@@ -29,7 +29,37 @@
       "georgian": "გამარჯობა, ჩემო კარგო.",
       "category": "Greetings",
       "generated_at": "2026-03-19T12:47:30.473487"
+    },
+    {
+      "english": "I am happy, very happy.",
+      "georgian": "ძალიან, მიხარია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T17:36:54.541543"
+    },
+    {
+      "english": "He is sad, a little sad.",
+      "georgian": "ცოტა, სევდიანია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T17:36:54.541551"
+    },
+    {
+      "english": "She is angry, really angry.",
+      "georgian": "ძალიან, გაბრაზებულია.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T17:36:54.541553"
+    },
+    {
+      "english": "We are surprised, wow!",
+      "georgian": "გაკვირვებული, ვართ!",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T17:36:54.541554"
+    },
+    {
+      "english": "They are tired, so tired.",
+      "georgian": "დაღლილები, არიან.",
+      "category": "Emotions",
+      "generated_at": "2026-03-19T17:36:54.541555"
     }
   ],
-  "last_updated": "2026-03-19T12:47:30.473489"
+  "last_updated": "2026-03-19T17:36:54.541557"
 }
