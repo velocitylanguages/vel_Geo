@@ -1,0 +1,35 @@
+{
+  "phrases": [
+    {
+      "english": "Hello, how are you?",
+      "georgian": "გამარჯობა, როგორ ხარ?",
+      "category": "Greetings",
+      "generated_at": "2026-03-19T12:47:30.473473"
+    },
+    {
+      "english": "Good morning, friend.",
+      "georgian": "დილა მშვიდობისა, მეგობარო.",
+      "category": "Greetings",
+      "generated_at": "2026-03-19T12:47:30.473480"
+    },
+    {
+      "english": "Nice to meet you.",
+      "georgian": "სასიამოვნოა შენი გაცნობა.",
+      "category": "Greetings",
+      "generated_at": "2026-03-19T12:47:30.473481"
+    },
+    {
+      "english": "Welcome, come in.",
+      "georgian": "მოგესალმებით, შემოდით.",
+      "category": "Greetings",
+      "generated_at": "2026-03-19T12:47:30.473482"
+    },
+    {
+      "english": "Hello, my dear.",
+      "georgian": "გამარჯობა, ჩემო კარგო.",
+      "category": "Greetings",
+      "generated_at": "2026-03-19T12:47:30.473487"
+    }
+  ],
+  "last_updated": "2026-03-19T12:47:30.473489"
+}
