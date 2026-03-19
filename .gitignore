@@ -31,7 +31,6 @@ wheels/
 output/images/
 output/audio/
 output/video/
-output/history/
 output/*.json
 output/*.mp3
 output/*.mp4
