@@ -209,7 +209,37 @@
       "georgian": "გასულ კვირას, კარგი.",
       "category": "Time",
       "generated_at": "2026-03-20T16:02:19.397917"
+    },
+    {
+      "english": "Let's play, now.",
+      "georgian": "ვითამაშოთ, ახლა.",
+      "category": "Sports",
+      "generated_at": "2026-03-20T17:56:39.550032"
+    },
+    {
+      "english": "Good game, friends.",
+      "georgian": "კარგი თამაში, მეგობრებო.",
+      "category": "Sports",
+      "generated_at": "2026-03-20T17:56:39.550044"
+    },
+    {
+      "english": "I love football.",
+      "georgian": "ფეხბურთი მიყვარს.",
+      "category": "Sports",
+      "generated_at": "2026-03-20T17:56:39.550047"
+    },
+    {
+      "english": "Goal! Yes!",
+      "georgian": "გოლი! დიახ!",
+      "category": "Sports",
+      "generated_at": "2026-03-20T17:56:39.550048"
+    },
+    {
+      "english": "Who won?",
+      "georgian": "ვინ მოიგო?",
+      "category": "Sports",
+      "generated_at": "2026-03-20T17:56:39.550050"
     }
   ],
-  "last_updated": "2026-03-20T16:02:19.397919"
+  "last_updated": "2026-03-20T17:56:39.550053"
 }
