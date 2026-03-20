@@ -179,7 +179,37 @@
       "georgian": "ქარია, ეს.",
       "category": "Weather",
       "generated_at": "2026-03-20T05:08:58.594589"
+    },
+    {
+      "english": "Now, please.",
+      "georgian": "ახლა, გთხოვთ.",
+      "category": "Time",
+      "generated_at": "2026-03-20T16:02:19.397905"
+    },
+    {
+      "english": "Later, maybe.",
+      "georgian": "მოგვიანებით, იქნებ.",
+      "category": "Time",
+      "generated_at": "2026-03-20T16:02:19.397914"
+    },
+    {
+      "english": "Today, sunny.",
+      "georgian": "დღეს, მზიანი.",
+      "category": "Time",
+      "generated_at": "2026-03-20T16:02:19.397915"
+    },
+    {
+      "english": "Tomorrow, work.",
+      "georgian": "ხვალ, სამსახური.",
+      "category": "Time",
+      "generated_at": "2026-03-20T16:02:19.397916"
+    },
+    {
+      "english": "Last week, good.",
+      "georgian": "გასულ კვირას, კარგი.",
+      "category": "Time",
+      "generated_at": "2026-03-20T16:02:19.397917"
     }
   ],
-  "last_updated": "2026-03-20T05:08:58.594595"
+  "last_updated": "2026-03-20T16:02:19.397919"
 }
