@@ -149,7 +149,37 @@
       "georgian": "კარგად, მღერი?",
       "category": "Music",
       "generated_at": "2026-03-19T21:51:12.063572"
+    },
+    {
+      "english": "It's sunny, today.",
+      "georgian": "მზეა, დღეს.",
+      "category": "Weather",
+      "generated_at": "2026-03-20T05:08:58.594576"
+    },
+    {
+      "english": "It's raining, a lot.",
+      "georgian": "წვიმს, ძალიან.",
+      "category": "Weather",
+      "generated_at": "2026-03-20T05:08:58.594585"
+    },
+    {
+      "english": "It's cold, outside.",
+      "georgian": "ცივა, გარეთ.",
+      "category": "Weather",
+      "generated_at": "2026-03-20T05:08:58.594586"
+    },
+    {
+      "english": "It's warm, now.",
+      "georgian": "თბილა, ახლა.",
+      "category": "Weather",
+      "generated_at": "2026-03-20T05:08:58.594587"
+    },
+    {
+      "english": "Windy, it is.",
+      "georgian": "ქარია, ეს.",
+      "category": "Weather",
+      "generated_at": "2026-03-20T05:08:58.594589"
     }
   ],
-  "last_updated": "2026-03-19T21:51:12.063574"
+  "last_updated": "2026-03-20T05:08:58.594595"
 }
