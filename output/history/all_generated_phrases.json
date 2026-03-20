@@ -239,7 +239,37 @@
       "georgian": "ვინ მოიგო?",
       "category": "Sports",
       "generated_at": "2026-03-20T17:56:39.550050"
+    },
+    {
+      "english": "How are you, feeling?",
+      "georgian": "როგორ ხარ, გრძნობ?",
+      "category": "Health",
+      "generated_at": "2026-03-20T21:03:50.418585"
+    },
+    {
+      "english": "I feel, better.",
+      "georgian": "უკეთ ვგრძნობ, თავს.",
+      "category": "Health",
+      "generated_at": "2026-03-20T21:03:50.418593"
+    },
+    {
+      "english": "Where does, it hurt?",
+      "georgian": "სად გტკივა, მითხარი?",
+      "category": "Health",
+      "generated_at": "2026-03-20T21:03:50.418594"
+    },
+    {
+      "english": "I need, medicine.",
+      "georgian": "წამალი, მჭირდება.",
+      "category": "Health",
+      "generated_at": "2026-03-20T21:03:50.418596"
+    },
+    {
+      "english": "Do you have, a doctor?",
+      "georgian": "ექიმი, გყავს?",
+      "category": "Health",
+      "generated_at": "2026-03-20T21:03:50.418597"
     }
   ],
-  "last_updated": "2026-03-20T17:56:39.550053"
+  "last_updated": "2026-03-20T21:03:50.418598"
 }
