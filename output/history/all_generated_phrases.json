@@ -299,7 +299,37 @@
       "georgian": "კარგი მეგობარი ხარ.",
       "category": "Friendship",
       "generated_at": "2026-03-21T04:54:35.990192"
+    },
+    {
+      "english": "My mother, is here.",
+      "georgian": "დედაჩემი, აქ არის.",
+      "category": "Family",
+      "generated_at": "2026-03-21T14:56:54.035638"
+    },
+    {
+      "english": "My father, loves me.",
+      "georgian": "მამაჩემი, მიყვარს.",
+      "category": "Family",
+      "generated_at": "2026-03-21T14:56:54.035646"
+    },
+    {
+      "english": "My sister, is young.",
+      "georgian": "დაჩემი, პატარაა.",
+      "category": "Family",
+      "generated_at": "2026-03-21T14:56:54.035647"
+    },
+    {
+      "english": "My brother, is tall.",
+      "georgian": "ძმაჩემი, მაღალია.",
+      "category": "Family",
+      "generated_at": "2026-03-21T14:56:54.035652"
+    },
+    {
+      "english": "My son, is playing.",
+      "georgian": "ჩემი შვილი, თამაშობს.",
+      "category": "Family",
+      "generated_at": "2026-03-21T14:56:54.035653"
     }
   ],
-  "last_updated": "2026-03-21T04:54:35.990193"
+  "last_updated": "2026-03-21T14:56:54.035655"
 }
