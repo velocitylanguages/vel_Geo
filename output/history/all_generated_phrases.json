@@ -329,7 +329,37 @@
       "georgian": "ჩემი შვილი, თამაშობს.",
       "category": "Family",
       "generated_at": "2026-03-21T14:56:54.035653"
+    },
+    {
+      "english": "Cross the street, carefully.",
+      "georgian": "გაიარეთ ქუჩა, ფრთხილად.",
+      "category": "Directions",
+      "generated_at": "2026-03-21T16:59:50.984939"
+    },
+    {
+      "english": "It's opposite, the park.",
+      "georgian": "ეს არის პარკის მოპირდაპირე.",
+      "category": "Directions",
+      "generated_at": "2026-03-21T16:59:50.984948"
+    },
+    {
+      "english": "Go until, the traffic light.",
+      "georgian": "წადით სანამ, შუქნიშანს.",
+      "category": "Directions",
+      "generated_at": "2026-03-21T16:59:50.984954"
+    },
+    {
+      "english": "Take the second, street.",
+      "georgian": "აიღეთ მეორე, ქუჩა.",
+      "category": "Directions",
+      "generated_at": "2026-03-21T16:59:50.984955"
+    },
+    {
+      "english": "Here, it is.",
+      "georgian": "აი, აქ არის.",
+      "category": "Directions",
+      "generated_at": "2026-03-21T16:59:50.984956"
     }
   ],
-  "last_updated": "2026-03-21T14:56:54.035655"
+  "last_updated": "2026-03-21T16:59:50.984958"
 }
