@@ -359,7 +359,37 @@
       "georgian": "აი, აქ არის.",
       "category": "Directions",
       "generated_at": "2026-03-21T16:59:50.984956"
+    },
+    {
+      "english": "Thank you, very much.",
+      "georgian": "მადლობა, ძალიან.",
+      "category": "Travel",
+      "generated_at": "2026-03-21T19:05:10.885634"
+    },
+    {
+      "english": "Excuse me, please.",
+      "georgian": "უკაცრავად, თუ შეიძლება.",
+      "category": "Travel",
+      "generated_at": "2026-03-21T19:05:10.885643"
+    },
+    {
+      "english": "Where is, the toilet?",
+      "georgian": "სად არის, ტუალეტი?",
+      "category": "Travel",
+      "generated_at": "2026-03-21T19:05:10.885644"
+    },
+    {
+      "english": "How much is, this?",
+      "georgian": "რა ღირს, ეს?",
+      "category": "Travel",
+      "generated_at": "2026-03-21T19:05:10.885645"
+    },
+    {
+      "english": "I don't understand.",
+      "georgian": "ვერ გავიგე.",
+      "category": "Travel",
+      "generated_at": "2026-03-21T19:05:10.885646"
     }
   ],
-  "last_updated": "2026-03-21T16:59:50.984958"
+  "last_updated": "2026-03-21T19:05:10.885648"
 }
