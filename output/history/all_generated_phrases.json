@@ -389,7 +389,37 @@
       "georgian": "ვერ გავიგე.",
       "category": "Travel",
       "generated_at": "2026-03-21T19:05:10.885646"
+    },
+    {
+      "english": "I love you, very much.",
+      "georgian": "მიყვარხარ, ძალიან.",
+      "category": "Love",
+      "generated_at": "2026-03-21T20:56:36.248894"
+    },
+    {
+      "english": "You are my everything.",
+      "georgian": "ჩემი ყველაფერი ხარ.",
+      "category": "Love",
+      "generated_at": "2026-03-21T20:56:36.248902"
+    },
+    {
+      "english": "I miss you, my dear.",
+      "georgian": "მენატრები, ჩემო საყვარელო.",
+      "category": "Love",
+      "generated_at": "2026-03-21T20:56:36.248904"
+    },
+    {
+      "english": "My heart is yours.",
+      "georgian": "ჩემი გული, შენია.",
+      "category": "Love",
+      "generated_at": "2026-03-21T20:56:36.248905"
+    },
+    {
+      "english": "You make me happy.",
+      "georgian": "მაბედნიერებ, შენ.",
+      "category": "Love",
+      "generated_at": "2026-03-21T20:56:36.248906"
     }
   ],
-  "last_updated": "2026-03-21T19:05:10.885648"
+  "last_updated": "2026-03-21T20:56:36.248907"
 }
