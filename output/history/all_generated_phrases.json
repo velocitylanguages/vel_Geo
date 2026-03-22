@@ -419,7 +419,37 @@
       "georgian": "მაბედნიერებ, შენ.",
       "category": "Love",
       "generated_at": "2026-03-21T20:56:36.248906"
+    },
+    {
+      "english": "How is your day?",
+      "georgian": "როგორი დღე გაქვს?",
+      "category": "Greetings",
+      "generated_at": "2026-03-22T05:12:47.414636"
+    },
+    {
+      "english": "Good evening, sir.",
+      "georgian": "საღამო მშვიდობისა, ბატონო.",
+      "category": "Greetings",
+      "generated_at": "2026-03-22T05:12:47.414645"
+    },
+    {
+      "english": "Goodbye, see you.",
+      "georgian": "ნახვამდის, მალე შევხვდებით.",
+      "category": "Greetings",
+      "generated_at": "2026-03-22T05:12:47.414646"
+    },
+    {
+      "english": "Hello, how's it going?",
+      "georgian": "სალამი, როგორა ხარ?",
+      "category": "Greetings",
+      "generated_at": "2026-03-22T05:12:47.414648"
+    },
+    {
+      "english": "Be well, my friend.",
+      "georgian": "კარგად იყავი, ჩემო მეგობარო.",
+      "category": "Greetings",
+      "generated_at": "2026-03-22T05:12:47.414649"
     }
   ],
-  "last_updated": "2026-03-21T20:56:36.248907"
+  "last_updated": "2026-03-22T05:12:47.414650"
 }
