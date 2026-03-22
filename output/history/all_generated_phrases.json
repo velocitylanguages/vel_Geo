@@ -539,7 +539,37 @@
       "georgian": "პატარა ყვავილი, ყვავის.",
       "category": "Nature",
       "generated_at": "2026-03-22T19:16:57.090155"
+    },
+    {
+      "english": "Warm sun, rises.",
+      "georgian": "თბილი მზე, ამოდის.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T20:58:13.542993"
+    },
+    {
+      "english": "High mountain, waits.",
+      "georgian": "მაღალი მთა, ელოდება.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T20:58:13.543001"
+    },
+    {
+      "english": "Cool breeze, blows.",
+      "georgian": "გრილი ნიავი, ქრის.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T20:58:13.543003"
+    },
+    {
+      "english": "Dark forest, sleeps.",
+      "georgian": "ბნელი ტყე, სძინავს.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T20:58:13.543004"
+    },
+    {
+      "english": "Bright star, twinkles.",
+      "georgian": "კაშკაშა ვარსკვლავი, ციმციმებს.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T20:58:13.543006"
     }
   ],
-  "last_updated": "2026-03-22T19:16:57.090157"
+  "last_updated": "2026-03-22T20:58:13.543007"
 }
