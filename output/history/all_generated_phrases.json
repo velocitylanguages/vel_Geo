@@ -509,7 +509,37 @@
       "georgian": "ეს არის წიგნი.",
       "category": "Education",
       "generated_at": "2026-03-22T17:00:46.964459"
+    },
+    {
+      "english": "Green grass, grows.",
+      "georgian": "მწვანე ბალახი, იზრდება.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T19:16:57.090144"
+    },
+    {
+      "english": "Big tree, stands.",
+      "georgian": "დიდი ხე, დგას.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T19:16:57.090152"
+    },
+    {
+      "english": "Blue sky, shines.",
+      "georgian": "ლურჯი ცა, ანათებს.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T19:16:57.090153"
+    },
+    {
+      "english": "Clear water, flows.",
+      "georgian": "წმინდა წყალი, მოედინება.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T19:16:57.090154"
+    },
+    {
+      "english": "Small flower, blooms.",
+      "georgian": "პატარა ყვავილი, ყვავის.",
+      "category": "Nature",
+      "generated_at": "2026-03-22T19:16:57.090155"
     }
   ],
-  "last_updated": "2026-03-22T17:00:46.964461"
+  "last_updated": "2026-03-22T19:16:57.090157"
 }
