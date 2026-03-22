@@ -479,7 +479,37 @@
       "georgian": "ვჭამოთ, ახლა.",
       "category": "Food",
       "generated_at": "2026-03-22T14:57:43.897647"
+    },
+    {
+      "english": "Hello, teacher.",
+      "georgian": "გამარჯობა, მასწავლებელო.",
+      "category": "Education",
+      "generated_at": "2026-03-22T17:00:46.964449"
+    },
+    {
+      "english": "Thank you, professor.",
+      "georgian": "მადლობა, პროფესორო.",
+      "category": "Education",
+      "generated_at": "2026-03-22T17:00:46.964456"
+    },
+    {
+      "english": "What is this?",
+      "georgian": "რა არის ეს?",
+      "category": "Education",
+      "generated_at": "2026-03-22T17:00:46.964457"
+    },
+    {
+      "english": "Can you repeat?",
+      "georgian": "გაიმეორეთ, გთხოვთ?",
+      "category": "Education",
+      "generated_at": "2026-03-22T17:00:46.964458"
+    },
+    {
+      "english": "This is a book.",
+      "georgian": "ეს არის წიგნი.",
+      "category": "Education",
+      "generated_at": "2026-03-22T17:00:46.964459"
     }
   ],
-  "last_updated": "2026-03-22T14:57:43.897649"
+  "last_updated": "2026-03-22T17:00:46.964461"
 }
