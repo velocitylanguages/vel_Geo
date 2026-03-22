@@ -449,7 +449,37 @@
       "georgian": "კარგად იყავი, ჩემო მეგობარო.",
       "category": "Greetings",
       "generated_at": "2026-03-22T05:12:47.414649"
+    },
+    {
+      "english": "Delicious, food!",
+      "georgian": "გემრიელი, საჭმელი!",
+      "category": "Food",
+      "generated_at": "2026-03-22T14:57:43.897635"
+    },
+    {
+      "english": "I want, bread.",
+      "georgian": "მინდა, პური.",
+      "category": "Food",
+      "generated_at": "2026-03-22T14:57:43.897644"
+    },
+    {
+      "english": "More, water, please.",
+      "georgian": "მეტი, წყალი, გთხოვთ.",
+      "category": "Food",
+      "generated_at": "2026-03-22T14:57:43.897645"
+    },
+    {
+      "english": "Very, tasty!",
+      "georgian": "ძალიან, გემრიელი!",
+      "category": "Food",
+      "generated_at": "2026-03-22T14:57:43.897646"
+    },
+    {
+      "english": "Let's eat, now.",
+      "georgian": "ვჭამოთ, ახლა.",
+      "category": "Food",
+      "generated_at": "2026-03-22T14:57:43.897647"
     }
   ],
-  "last_updated": "2026-03-22T05:12:47.414650"
+  "last_updated": "2026-03-22T14:57:43.897649"
 }
