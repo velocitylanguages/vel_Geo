@@ -659,7 +659,37 @@
       "georgian": "ნელა ისაუბრე, ღრმად იფიქრე.",
       "category": "Wisdom",
       "generated_at": "2026-03-23T19:11:20.677682"
+    },
+    {
+      "english": "My daughter, is smart.",
+      "georgian": "ჩემი ქალიშვილი, ჭკვიანია.",
+      "category": "Family",
+      "generated_at": "2026-03-23T21:52:41.876121"
+    },
+    {
+      "english": "My grandparents, are old.",
+      "georgian": "ბებია-ბაბუა, ხანშია.",
+      "category": "Family",
+      "generated_at": "2026-03-23T21:52:41.876132"
+    },
+    {
+      "english": "My aunt, is kind.",
+      "georgian": "დეიდაჩემი, კეთილია.",
+      "category": "Family",
+      "generated_at": "2026-03-23T21:52:41.876134"
+    },
+    {
+      "english": "My uncle, is funny.",
+      "georgian": "ბიძაჩემი, სასაცილოა.",
+      "category": "Family",
+      "generated_at": "2026-03-23T21:52:41.876135"
+    },
+    {
+      "english": "My family, is happy.",
+      "georgian": "ჩემი ოჯახი, ბედნიერია.",
+      "category": "Family",
+      "generated_at": "2026-03-23T21:52:41.876136"
     }
   ],
-  "last_updated": "2026-03-23T19:11:20.677684"
+  "last_updated": "2026-03-23T21:52:41.876137"
 }
