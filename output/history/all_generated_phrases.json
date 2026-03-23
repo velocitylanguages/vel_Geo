@@ -599,7 +599,37 @@
       "georgian": "მადლობა, საჭმლისთვის.",
       "category": "Food",
       "generated_at": "2026-03-23T05:48:12.617016"
+    },
+    {
+      "english": "I am, happy.",
+      "georgian": "მე, ბედნიერი ვარ.",
+      "category": "Happiness",
+      "generated_at": "2026-03-23T17:10:45.945580"
+    },
+    {
+      "english": "This, is joy.",
+      "georgian": "ეს, სიხარულია.",
+      "category": "Happiness",
+      "generated_at": "2026-03-23T17:10:45.945592"
+    },
+    {
+      "english": "Life, is good.",
+      "georgian": "ცხოვრება, კარგია.",
+      "category": "Happiness",
+      "generated_at": "2026-03-23T17:10:45.945594"
+    },
+    {
+      "english": "I, smile.",
+      "georgian": "მე, ვიცინი.",
+      "category": "Happiness",
+      "generated_at": "2026-03-23T17:10:45.945597"
+    },
+    {
+      "english": "All, is well.",
+      "georgian": "ყველაფერი, კარგადაა.",
+      "category": "Happiness",
+      "generated_at": "2026-03-23T17:10:45.945599"
     }
   ],
-  "last_updated": "2026-03-23T05:48:12.617018"
+  "last_updated": "2026-03-23T17:10:45.945601"
 }
