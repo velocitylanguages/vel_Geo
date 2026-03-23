@@ -569,7 +569,37 @@
       "georgian": "კაშკაშა ვარსკვლავი, ციმციმებს.",
       "category": "Nature",
       "generated_at": "2026-03-22T20:58:13.543006"
+    },
+    {
+      "english": "This, is, cheese.",
+      "georgian": "ეს, არის, ყველი.",
+      "category": "Food",
+      "generated_at": "2026-03-23T05:48:12.617005"
+    },
+    {
+      "english": "I like, khachapuri.",
+      "georgian": "მიყვარს, ხაჭაპური.",
+      "category": "Food",
+      "generated_at": "2026-03-23T05:48:12.617012"
+    },
+    {
+      "english": "One, coffee, please.",
+      "georgian": "ერთი, ყავა, გთხოვთ.",
+      "category": "Food",
+      "generated_at": "2026-03-23T05:48:12.617014"
+    },
+    {
+      "english": "Good, appetite!",
+      "georgian": "გემრიელად, მიირთვით!",
+      "category": "Food",
+      "generated_at": "2026-03-23T05:48:12.617015"
+    },
+    {
+      "english": "Thank you, for, food.",
+      "georgian": "მადლობა, საჭმლისთვის.",
+      "category": "Food",
+      "generated_at": "2026-03-23T05:48:12.617016"
     }
   ],
-  "last_updated": "2026-03-22T20:58:13.543007"
+  "last_updated": "2026-03-23T05:48:12.617018"
 }
