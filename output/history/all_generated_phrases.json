@@ -719,7 +719,37 @@
       "georgian": "დუმილი, ოქროსფერია.",
       "category": "Wisdom",
       "generated_at": "2026-03-24T19:38:09.020418"
+    },
+    {
+      "english": "Welcome, home.",
+      "georgian": "კეთილი იყოს თქვენი, მობრძანება.",
+      "category": "Home",
+      "generated_at": "2026-03-24T20:02:07.909947"
+    },
+    {
+      "english": "This is my house.",
+      "georgian": "ეს ჩემი, სახლია.",
+      "category": "Home",
+      "generated_at": "2026-03-24T20:02:07.909956"
+    },
+    {
+      "english": "Please, sit down.",
+      "georgian": "დაჯექით, გეთაყვა.",
+      "category": "Home",
+      "generated_at": "2026-03-24T20:02:07.909957"
+    },
+    {
+      "english": "Can I help?",
+      "georgian": "შემიძლია, დაგეხმაროთ?",
+      "category": "Home",
+      "generated_at": "2026-03-24T20:02:07.909958"
+    },
+    {
+      "english": "It's delicious, thank you.",
+      "georgian": "ძალიან, გემრიელია, მადლობა.",
+      "category": "Home",
+      "generated_at": "2026-03-24T20:02:07.909960"
     }
   ],
-  "last_updated": "2026-03-24T19:38:09.020424"
+  "last_updated": "2026-03-24T20:02:07.909961"
 }
