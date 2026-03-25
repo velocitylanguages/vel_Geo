@@ -869,7 +869,37 @@
       "georgian": "გმადლობთ, ექიმო.",
       "category": "Health",
       "generated_at": "2026-03-25T18:39:31.037915"
+    },
+    {
+      "english": "What's that, instrument?",
+      "georgian": "რა არის, ეს ინსტრუმენტი?",
+      "category": "Music",
+      "generated_at": "2026-03-25T21:57:46.451398"
+    },
+    {
+      "english": "I can play, guitar.",
+      "georgian": "გიტარის, დაკვრა შემიძლია.",
+      "category": "Music",
+      "generated_at": "2026-03-25T21:57:46.451406"
+    },
+    {
+      "english": "This rhythm, is fast.",
+      "georgian": "ეს რიტმი, სწრაფია.",
+      "category": "Music",
+      "generated_at": "2026-03-25T21:57:46.451407"
+    },
+    {
+      "english": "Let's dance, a little.",
+      "georgian": "ცოტა, ვიცეკვოთ.",
+      "category": "Music",
+      "generated_at": "2026-03-25T21:57:46.451408"
+    },
+    {
+      "english": "My favorite, musician.",
+      "georgian": "ჩემი საყვარელი, მუსიკოსი.",
+      "category": "Music",
+      "generated_at": "2026-03-25T21:57:46.451409"
     }
   ],
-  "last_updated": "2026-03-25T18:39:31.037917"
+  "last_updated": "2026-03-25T21:57:46.451414"
 }
