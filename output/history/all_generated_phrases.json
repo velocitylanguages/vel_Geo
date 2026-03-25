@@ -809,7 +809,37 @@
       "georgian": "ბრწყინვალე ძალისხმევა!",
       "category": "Sports",
       "generated_at": "2026-03-25T05:17:09.137012"
+    },
+    {
+      "english": "Next month, travel.",
+      "georgian": "შემდეგ თვეს, მოგზაურობა.",
+      "category": "Time",
+      "generated_at": "2026-03-25T17:39:31.187971"
+    },
+    {
+      "english": "Morning, coffee.",
+      "georgian": "დილა, ყავა.",
+      "category": "Time",
+      "generated_at": "2026-03-25T17:39:31.187980"
+    },
+    {
+      "english": "Evening, relax.",
+      "georgian": "საღამო, დასვენება.",
+      "category": "Time",
+      "generated_at": "2026-03-25T17:39:31.187981"
+    },
+    {
+      "english": "In time, yes.",
+      "georgian": "დროზე, დიახ.",
+      "category": "Time",
+      "generated_at": "2026-03-25T17:39:31.187982"
+    },
+    {
+      "english": "After a while.",
+      "georgian": "ცოტა ხანში.",
+      "category": "Time",
+      "generated_at": "2026-03-25T17:39:31.187984"
     }
   ],
-  "last_updated": "2026-03-25T05:17:09.137014"
+  "last_updated": "2026-03-25T17:39:31.187985"
 }
