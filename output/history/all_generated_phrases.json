@@ -839,7 +839,37 @@
       "georgian": "ცოტა ხანში.",
       "category": "Time",
       "generated_at": "2026-03-25T17:39:31.187984"
+    },
+    {
+      "english": "I am, tired.",
+      "georgian": "დაღლილი, ვარ.",
+      "category": "Health",
+      "generated_at": "2026-03-25T18:39:31.037903"
+    },
+    {
+      "english": "I need, rest.",
+      "georgian": "დასვენება, მინდა.",
+      "category": "Health",
+      "generated_at": "2026-03-25T18:39:31.037912"
+    },
+    {
+      "english": "My head, hurts.",
+      "georgian": "თავი, მტკივა.",
+      "category": "Health",
+      "generated_at": "2026-03-25T18:39:31.037913"
+    },
+    {
+      "english": "Is it, serious?",
+      "georgian": "სერიოზულია, ეს?",
+      "category": "Health",
+      "generated_at": "2026-03-25T18:39:31.037914"
+    },
+    {
+      "english": "Thank you, doctor.",
+      "georgian": "გმადლობთ, ექიმო.",
+      "category": "Health",
+      "generated_at": "2026-03-25T18:39:31.037915"
     }
   ],
-  "last_updated": "2026-03-25T17:39:31.187985"
+  "last_updated": "2026-03-25T18:39:31.037917"
 }
