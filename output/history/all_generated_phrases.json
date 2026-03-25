@@ -779,7 +779,37 @@
       "georgian": "ჩემი ცხოვრება, ხარ.",
       "category": "Love",
       "generated_at": "2026-03-24T21:56:44.588847"
+    },
+    {
+      "english": "Let's run, fast.",
+      "georgian": "ვირბინოთ, სწრაფად.",
+      "category": "Sports",
+      "generated_at": "2026-03-25T05:17:09.137000"
+    },
+    {
+      "english": "Score a point.",
+      "georgian": "ქულა დავიგროვოთ.",
+      "category": "Sports",
+      "generated_at": "2026-03-25T05:17:09.137009"
+    },
+    {
+      "english": "Are you ready?",
+      "georgian": "მზად ხარ?",
+      "category": "Sports",
+      "generated_at": "2026-03-25T05:17:09.137010"
+    },
+    {
+      "english": "This is exciting!",
+      "georgian": "ძალიან საინტერესოა!",
+      "category": "Sports",
+      "generated_at": "2026-03-25T05:17:09.137011"
+    },
+    {
+      "english": "Great effort!",
+      "georgian": "ბრწყინვალე ძალისხმევა!",
+      "category": "Sports",
+      "generated_at": "2026-03-25T05:17:09.137012"
     }
   ],
-  "last_updated": "2026-03-24T21:56:44.588850"
+  "last_updated": "2026-03-25T05:17:09.137014"
 }
