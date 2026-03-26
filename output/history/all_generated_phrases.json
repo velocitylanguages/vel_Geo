@@ -929,7 +929,37 @@
       "georgian": "ცა, ლურჯია.",
       "category": "Colors",
       "generated_at": "2026-03-26T05:52:10.318251"
+    },
+    {
+      "english": "Let's talk later.",
+      "georgian": "მერე ვისაუბროთ.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T19:41:20.942630"
+    },
+    {
+      "english": "Thank you, friend.",
+      "georgian": "მადლობა, მეგობარო.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T19:41:20.942636"
+    },
+    {
+      "english": "This is my friend.",
+      "georgian": "ეს ჩემი მეგობარია.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T19:41:20.942638"
+    },
+    {
+      "english": "We are friends.",
+      "georgian": "ჩვენ მეგობრები ვართ.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T19:41:20.942639"
+    },
+    {
+      "english": "Come over, friend.",
+      "georgian": "მოდი, მეგობარო.",
+      "category": "Friendship",
+      "generated_at": "2026-03-26T19:41:20.942640"
     }
   ],
-  "last_updated": "2026-03-26T05:52:10.318253"
+  "last_updated": "2026-03-26T19:41:20.942641"
 }
