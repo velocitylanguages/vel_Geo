@@ -899,7 +899,37 @@
       "georgian": "ჩემი საყვარელი, მუსიკოსი.",
       "category": "Music",
       "generated_at": "2026-03-25T21:57:46.451409"
+    },
+    {
+      "english": "What color is it?",
+      "georgian": "რა ფერისაა?",
+      "category": "Colors",
+      "generated_at": "2026-03-26T05:52:10.318239"
+    },
+    {
+      "english": "It's red, and blue.",
+      "georgian": "წითელი, და ლურჯი.",
+      "category": "Colors",
+      "generated_at": "2026-03-26T05:52:10.318248"
+    },
+    {
+      "english": "A little green, maybe.",
+      "georgian": "ცოტა მწვანე, ალბათ.",
+      "category": "Colors",
+      "generated_at": "2026-03-26T05:52:10.318249"
+    },
+    {
+      "english": "I like yellow, very much.",
+      "georgian": "ყვითელი, ძალიან მომწონს.",
+      "category": "Colors",
+      "generated_at": "2026-03-26T05:52:10.318250"
+    },
+    {
+      "english": "The sky is blue.",
+      "georgian": "ცა, ლურჯია.",
+      "category": "Colors",
+      "generated_at": "2026-03-26T05:52:10.318251"
     }
   ],
-  "last_updated": "2026-03-25T21:57:46.451414"
+  "last_updated": "2026-03-26T05:52:10.318253"
 }
