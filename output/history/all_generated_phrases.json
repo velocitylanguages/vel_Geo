@@ -959,7 +959,37 @@
       "georgian": "მოდი, მეგობარო.",
       "category": "Friendship",
       "generated_at": "2026-03-26T19:41:20.942640"
+    },
+    {
+      "english": "Cat, sleeps.",
+      "georgian": "კატა, სძინავს.",
+      "category": "Animals",
+      "generated_at": "2026-03-26T20:01:20.772819"
+    },
+    {
+      "english": "Dog, barks.",
+      "georgian": "ძაღლი, ყეფს.",
+      "category": "Animals",
+      "generated_at": "2026-03-26T20:01:20.772859"
+    },
+    {
+      "english": "Bird, flies.",
+      "georgian": "ჩიტი, დაფრინავს.",
+      "category": "Animals",
+      "generated_at": "2026-03-26T20:01:20.772861"
+    },
+    {
+      "english": "Fish, swims.",
+      "georgian": "თევზი, ცურავს.",
+      "category": "Animals",
+      "generated_at": "2026-03-26T20:01:20.772862"
+    },
+    {
+      "english": "Cow, eats.",
+      "georgian": "ძროხა, ჭამს.",
+      "category": "Animals",
+      "generated_at": "2026-03-26T20:01:20.772864"
     }
   ],
-  "last_updated": "2026-03-26T19:41:20.942641"
+  "last_updated": "2026-03-26T20:01:20.772865"
 }
