@@ -989,7 +989,37 @@
       "georgian": "ძროხა, ჭამს.",
       "category": "Animals",
       "generated_at": "2026-03-26T20:01:20.772864"
+    },
+    {
+      "english": "Hello, boss.",
+      "georgian": "გამარჯობა, უფროსო.",
+      "category": "Work",
+      "generated_at": "2026-03-27T05:52:29.367920"
+    },
+    {
+      "english": "Good morning, team.",
+      "georgian": "დილა მშვიდობისა, გუნდო.",
+      "category": "Work",
+      "generated_at": "2026-03-27T05:52:29.367928"
+    },
+    {
+      "english": "Where is the meeting?",
+      "georgian": "სად არის შეხვედრა?",
+      "category": "Work",
+      "generated_at": "2026-03-27T05:52:29.367930"
+    },
+    {
+      "english": "I have a question.",
+      "georgian": "მაქვს შეკითხვა.",
+      "category": "Work",
+      "generated_at": "2026-03-27T05:52:29.367931"
+    },
+    {
+      "english": "This is urgent.",
+      "georgian": "ეს არის სასწრაფო.",
+      "category": "Work",
+      "generated_at": "2026-03-27T05:52:29.367932"
     }
   ],
-  "last_updated": "2026-03-26T20:01:20.772865"
+  "last_updated": "2026-03-27T05:52:29.367934"
 }
