@@ -1019,7 +1019,37 @@
       "georgian": "ეს არის სასწრაფო.",
       "category": "Work",
       "generated_at": "2026-03-27T05:52:29.367932"
+    },
+    {
+      "english": "Cloudy, it seems.",
+      "georgian": "ღრუბლიანია, თითქოს.",
+      "category": "Weather",
+      "generated_at": "2026-03-27T19:54:43.336119"
+    },
+    {
+      "english": "Snowing, lightly.",
+      "georgian": "თოვს, ნელა.",
+      "category": "Weather",
+      "generated_at": "2026-03-27T19:54:43.336127"
+    },
+    {
+      "english": "Hot, today, isn't it?",
+      "georgian": "ცხელა, დღეს, ხომ?",
+      "category": "Weather",
+      "generated_at": "2026-03-27T19:54:43.336129"
+    },
+    {
+      "english": "Foggy, in the morning.",
+      "georgian": "ნისლია, დილით.",
+      "category": "Weather",
+      "generated_at": "2026-03-27T19:54:43.336130"
+    },
+    {
+      "english": "Weather, good, yes.",
+      "georgian": "ამინდი, კარგი, დიახ.",
+      "category": "Weather",
+      "generated_at": "2026-03-27T19:54:43.336131"
     }
   ],
-  "last_updated": "2026-03-27T05:52:29.367934"
+  "last_updated": "2026-03-27T19:54:43.336133"
 }
