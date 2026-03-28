@@ -1049,7 +1049,37 @@
       "georgian": "ამინდი, კარგი, დიახ.",
       "category": "Weather",
       "generated_at": "2026-03-27T19:54:43.336131"
+    },
+    {
+      "english": "I'm grateful, for this.",
+      "georgian": "მადლიერი ვარ, ამისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-28T05:14:56.063892"
+    },
+    {
+      "english": "Thanks, a lot.",
+      "georgian": "დიდი მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-28T05:14:56.063901"
+    },
+    {
+      "english": "You are kind, thank you.",
+      "georgian": "კეთილი ხართ, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-28T05:14:56.063902"
+    },
+    {
+      "english": "So nice, of you.",
+      "georgian": "ძალიან კარგი, თქვენი.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-28T05:14:56.063904"
+    },
+    {
+      "english": "Appreciate, it.",
+      "georgian": "ვაფასებ, ამას.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-28T05:14:56.063905"
     }
   ],
-  "last_updated": "2026-03-27T19:54:43.336133"
+  "last_updated": "2026-03-28T05:14:56.063907"
 }
