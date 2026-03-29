@@ -1109,7 +1109,37 @@
       "georgian": "წმინდა, ბედნიერება.",
       "category": "Happiness",
       "generated_at": "2026-03-29T15:04:36.490316"
+    },
+    {
+      "english": "Hello, how much is this?",
+      "georgian": "გამარჯობა, ეს რა ღირს?",
+      "category": "Shopping",
+      "generated_at": "2026-03-29T19:49:27.464365"
+    },
+    {
+      "english": "I want this, please.",
+      "georgian": "მე ეს მინდა, თუ შეიძლება.",
+      "category": "Shopping",
+      "generated_at": "2026-03-29T19:49:27.464373"
+    },
+    {
+      "english": "Can I see, that one?",
+      "georgian": "იმას შემიძლია ვნახო?",
+      "category": "Shopping",
+      "generated_at": "2026-03-29T19:49:27.464374"
+    },
+    {
+      "english": "Do you have, this size?",
+      "georgian": "ამ ზომა, თუ გაქვთ?",
+      "category": "Shopping",
+      "generated_at": "2026-03-29T19:49:27.464375"
+    },
+    {
+      "english": "It is too expensive.",
+      "georgian": "ძალიან ძვირია.",
+      "category": "Shopping",
+      "generated_at": "2026-03-29T19:49:27.464376"
     }
   ],
-  "last_updated": "2026-03-29T15:04:36.490318"
+  "last_updated": "2026-03-29T19:49:27.464378"
 }
