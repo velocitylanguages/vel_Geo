@@ -1139,7 +1139,37 @@
       "georgian": "ძალიან ძვირია.",
       "category": "Shopping",
       "generated_at": "2026-03-29T19:49:27.464376"
+    },
+    {
+      "english": "Can you help me?",
+      "georgian": "შემიძლია დამეხმარო?",
+      "category": "Work",
+      "generated_at": "2026-03-30T20:06:02.822115"
+    },
+    {
+      "english": "My work is done.",
+      "georgian": "ჩემი სამუშაო დასრულებულია.",
+      "category": "Work",
+      "generated_at": "2026-03-30T20:06:02.822123"
+    },
+    {
+      "english": "Let's start now.",
+      "georgian": "დავიწყოთ ახლა.",
+      "category": "Work",
+      "generated_at": "2026-03-30T20:06:02.822125"
+    },
+    {
+      "english": "Thank you, colleague.",
+      "georgian": "მადლობა, კოლეგა.",
+      "category": "Work",
+      "generated_at": "2026-03-30T20:06:02.822126"
+    },
+    {
+      "english": "See you tomorrow.",
+      "georgian": "ხვალამდე.",
+      "category": "Work",
+      "generated_at": "2026-03-30T20:06:02.822127"
     }
   ],
-  "last_updated": "2026-03-29T19:49:27.464378"
+  "last_updated": "2026-03-30T20:06:02.822128"
 }
