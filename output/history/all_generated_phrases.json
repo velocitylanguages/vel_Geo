@@ -1169,7 +1169,37 @@
       "georgian": "ხვალამდე.",
       "category": "Work",
       "generated_at": "2026-03-30T20:06:02.822127"
+    },
+    {
+      "english": "Can I pay, by card?",
+      "georgian": "ბარათით, შემიძლია გადახდა?",
+      "category": "Shopping",
+      "generated_at": "2026-03-31T20:05:32.475684"
+    },
+    {
+      "english": "Where is the changing room?",
+      "georgian": "საცდელი, სად არის?",
+      "category": "Shopping",
+      "generated_at": "2026-03-31T20:05:32.475693"
+    },
+    {
+      "english": "I will take, this one.",
+      "georgian": "ამას ავიღებ.",
+      "category": "Shopping",
+      "generated_at": "2026-03-31T20:05:32.475694"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "georgian": "გმადლობთ, დახმარებისთვის.",
+      "category": "Shopping",
+      "generated_at": "2026-03-31T20:05:32.475695"
+    },
+    {
+      "english": "Just looking, thank you.",
+      "georgian": "მხოლოდ, ვათვალიერებ, მადლობა.",
+      "category": "Shopping",
+      "generated_at": "2026-03-31T20:05:32.475697"
     }
   ],
-  "last_updated": "2026-03-30T20:06:02.822128"
+  "last_updated": "2026-03-31T20:05:32.475702"
 }
