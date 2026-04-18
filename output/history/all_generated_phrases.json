@@ -1199,7 +1199,37 @@
       "georgian": "მხოლოდ, ვათვალიერებ, მადლობა.",
       "category": "Shopping",
       "generated_at": "2026-03-31T20:05:32.475697"
+    },
+    {
+      "english": "White, and black, together.",
+      "georgian": "თეთრი, და შავი, ერთად.",
+      "category": "Colors",
+      "generated_at": "2026-04-18T21:53:29.540846"
+    },
+    {
+      "english": "That is orange.",
+      "georgian": "ის, ნარინჯისფერია.",
+      "category": "Colors",
+      "generated_at": "2026-04-18T21:53:29.540857"
+    },
+    {
+      "english": "Brown, like the earth.",
+      "georgian": "ყავისფერი, მიწასავით.",
+      "category": "Colors",
+      "generated_at": "2026-04-18T21:53:29.540859"
+    },
+    {
+      "english": "Is it purple?",
+      "georgian": "იისფერია, ეს?",
+      "category": "Colors",
+      "generated_at": "2026-04-18T21:53:29.540861"
+    },
+    {
+      "english": "Pink, like a flower.",
+      "georgian": "ვარდისფერი, ყვავილივით.",
+      "category": "Colors",
+      "generated_at": "2026-04-18T21:53:29.540863"
     }
   ],
-  "last_updated": "2026-03-31T20:05:32.475702"
+  "last_updated": "2026-04-18T21:53:29.540865"
 }
