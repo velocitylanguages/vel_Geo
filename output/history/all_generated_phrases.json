@@ -1229,7 +1229,37 @@
       "georgian": "ვარდისფერი, ყვავილივით.",
       "category": "Colors",
       "generated_at": "2026-04-18T21:53:29.540863"
+    },
+    {
+      "english": "Well done, friend.",
+      "georgian": "კარგად, მეგობარო.",
+      "category": "Success",
+      "generated_at": "2026-04-19T19:02:51.613712"
+    },
+    {
+      "english": "You're learning fast.",
+      "georgian": "სწრაფად სწავლობ.",
+      "category": "Success",
+      "generated_at": "2026-04-19T19:02:51.613721"
+    },
+    {
+      "english": "Great progress!",
+      "georgian": "დიდი პროგრესი!",
+      "category": "Success",
+      "generated_at": "2026-04-19T19:02:51.613722"
+    },
+    {
+      "english": "Keep going, you can do it.",
+      "georgian": "გააგრძელე, შეგიძლია.",
+      "category": "Success",
+      "generated_at": "2026-04-19T19:02:51.613723"
+    },
+    {
+      "english": "Excellent effort!",
+      "georgian": "შესანიშნავი ძალისხმევა!",
+      "category": "Success",
+      "generated_at": "2026-04-19T19:02:51.613725"
     }
   ],
-  "last_updated": "2026-04-18T21:53:29.540865"
+  "last_updated": "2026-04-19T19:02:51.613726"
 }
