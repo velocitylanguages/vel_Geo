@@ -1259,7 +1259,37 @@
       "georgian": "შესანიშნავი ძალისხმევა!",
       "category": "Success",
       "generated_at": "2026-04-19T19:02:51.613725"
+    },
+    {
+      "english": "That's correct!",
+      "georgian": "ეგ სწორია!",
+      "category": "Success",
+      "generated_at": "2026-04-20T20:58:41.864814"
+    },
+    {
+      "english": "You're speaking well.",
+      "georgian": "კარგად ლაპარაკობ.",
+      "category": "Success",
+      "generated_at": "2026-04-20T20:58:41.864823"
+    },
+    {
+      "english": "Very good job.",
+      "georgian": "ძალიან კარგი საქმე.",
+      "category": "Success",
+      "generated_at": "2026-04-20T20:58:41.864824"
+    },
+    {
+      "english": "Impressive, truly.",
+      "georgian": "შთამბეჭდავი, ნამდვილად.",
+      "category": "Success",
+      "generated_at": "2026-04-20T20:58:41.864825"
+    },
+    {
+      "english": "You got it!",
+      "georgian": "მიხვდი!",
+      "category": "Success",
+      "generated_at": "2026-04-20T20:58:41.864827"
     }
   ],
-  "last_updated": "2026-04-19T19:02:51.613726"
+  "last_updated": "2026-04-20T20:58:41.864828"
 }
