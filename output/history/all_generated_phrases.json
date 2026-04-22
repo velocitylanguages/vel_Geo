@@ -1289,7 +1289,37 @@
       "georgian": "მიხვდი!",
       "category": "Success",
       "generated_at": "2026-04-20T20:58:41.864827"
+    },
+    {
+      "english": "Horse, runs.",
+      "georgian": "ცხენი, გარბის.",
+      "category": "Animals",
+      "generated_at": "2026-04-22T01:46:09.477585"
+    },
+    {
+      "english": "Lion, roars.",
+      "georgian": "ლომი, ღრიალებს.",
+      "category": "Animals",
+      "generated_at": "2026-04-22T01:46:09.477594"
+    },
+    {
+      "english": "Elephant, is big.",
+      "georgian": "სპილო, დიდია.",
+      "category": "Animals",
+      "generated_at": "2026-04-22T01:46:09.477595"
+    },
+    {
+      "english": "Monkey, jumps.",
+      "georgian": "მაიმუნი, ხტება.",
+      "category": "Animals",
+      "generated_at": "2026-04-22T01:46:09.477596"
+    },
+    {
+      "english": "Bear, eats honey.",
+      "georgian": "დათვი, თაფლს ჭამს.",
+      "category": "Animals",
+      "generated_at": "2026-04-22T01:46:09.477597"
     }
   ],
-  "last_updated": "2026-04-20T20:58:41.864828"
+  "last_updated": "2026-04-22T01:46:09.477599"
 }
