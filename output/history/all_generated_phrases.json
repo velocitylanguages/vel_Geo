@@ -1439,7 +1439,37 @@
       "georgian": "აღფრთოვანებული, ვარ!",
       "category": "Emotions",
       "generated_at": "2026-05-01T19:14:10.535403"
+    },
+    {
+      "english": "How much is this?",
+      "georgian": "ეს რამდენი?",
+      "category": "Shopping",
+      "generated_at": "2026-05-01T20:53:47.632127"
+    },
+    {
+      "english": "Do you have this?",
+      "georgian": "ეს გაქვთ?",
+      "category": "Shopping",
+      "generated_at": "2026-05-01T20:53:47.632136"
+    },
+    {
+      "english": "Can I see that?",
+      "georgian": "იმას ვნახავ?",
+      "category": "Shopping",
+      "generated_at": "2026-05-01T20:53:47.632137"
+    },
+    {
+      "english": "Just looking, thanks.",
+      "georgian": "მხოლოდ ვათვალიერებ, მადლობა.",
+      "category": "Shopping",
+      "generated_at": "2026-05-01T20:53:47.632138"
+    },
+    {
+      "english": "I will take it.",
+      "georgian": "ამას ავიღებ.",
+      "category": "Shopping",
+      "generated_at": "2026-05-01T20:53:47.632139"
     }
   ],
-  "last_updated": "2026-05-01T19:14:10.535405"
+  "last_updated": "2026-05-01T20:53:47.632141"
 }
