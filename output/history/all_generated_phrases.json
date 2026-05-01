@@ -1349,7 +1349,37 @@
       "georgian": "ექიმი მჭირდება.",
       "category": "Health",
       "generated_at": "2026-05-01T05:48:48.263718"
+    },
+    {
+      "english": "Green grass, so beautiful.",
+      "georgian": "მწვანე ბალახი, ძალიან ლამაზია.",
+      "category": "Nature",
+      "generated_at": "2026-05-01T14:58:35.544899"
+    },
+    {
+      "english": "Blue sky, bright sun.",
+      "georgian": "ცისფერი ცა, კაშკაშა მზე.",
+      "category": "Nature",
+      "generated_at": "2026-05-01T14:58:35.544908"
+    },
+    {
+      "english": "Tall tree, strong roots.",
+      "georgian": "მაღალი ხე, ძლიერი ფესვები.",
+      "category": "Nature",
+      "generated_at": "2026-05-01T14:58:35.544909"
+    },
+    {
+      "english": "Clear water, flowing river.",
+      "georgian": "წმინდა წყალი, მიმავალი მდინარე.",
+      "category": "Nature",
+      "generated_at": "2026-05-01T14:58:35.544910"
+    },
+    {
+      "english": "Small flower, sweet smell.",
+      "georgian": "პატარა ყვავილი, ტკბილი სურნელი.",
+      "category": "Nature",
+      "generated_at": "2026-05-01T14:58:35.544911"
     }
   ],
-  "last_updated": "2026-05-01T05:48:48.263720"
+  "last_updated": "2026-05-01T14:58:35.544913"
 }
