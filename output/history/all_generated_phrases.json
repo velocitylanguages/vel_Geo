@@ -1319,7 +1319,37 @@
       "georgian": "დათვი, თაფლს ჭამს.",
       "category": "Animals",
       "generated_at": "2026-04-22T01:46:09.477597"
+    },
+    {
+      "english": "How do you feel?",
+      "georgian": "როგორ ხარ?",
+      "category": "Health",
+      "generated_at": "2026-05-01T05:48:48.263705"
+    },
+    {
+      "english": "I feel good.",
+      "georgian": "კარგად ვარ.",
+      "category": "Health",
+      "generated_at": "2026-05-01T05:48:48.263714"
+    },
+    {
+      "english": "I don't feel well.",
+      "georgian": "ცუდად ვარ.",
+      "category": "Health",
+      "generated_at": "2026-05-01T05:48:48.263715"
+    },
+    {
+      "english": "Are you sick?",
+      "georgian": "ავად ხარ?",
+      "category": "Health",
+      "generated_at": "2026-05-01T05:48:48.263716"
+    },
+    {
+      "english": "I need a doctor.",
+      "georgian": "ექიმი მჭირდება.",
+      "category": "Health",
+      "generated_at": "2026-05-01T05:48:48.263718"
     }
   ],
-  "last_updated": "2026-04-22T01:46:09.477599"
+  "last_updated": "2026-05-01T05:48:48.263720"
 }
