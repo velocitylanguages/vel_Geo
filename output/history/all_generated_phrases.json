@@ -1409,7 +1409,37 @@
       "georgian": "ცა, ღრუბლიანია.",
       "category": "Weather",
       "generated_at": "2026-05-01T16:51:06.568179"
+    },
+    {
+      "english": "I am sad, a little.",
+      "georgian": "ცოტა, მეწყინა.",
+      "category": "Emotions",
+      "generated_at": "2026-05-01T19:14:10.535387"
+    },
+    {
+      "english": "I am angry, a lot.",
+      "georgian": "ძალიან, გავბრაზდი.",
+      "category": "Emotions",
+      "generated_at": "2026-05-01T19:14:10.535399"
+    },
+    {
+      "english": "I am surprised, wow!",
+      "georgian": "გამიკვირდა, ვაუ!",
+      "category": "Emotions",
+      "generated_at": "2026-05-01T19:14:10.535401"
+    },
+    {
+      "english": "I am tired, very.",
+      "georgian": "ძალიან, დავიღალე.",
+      "category": "Emotions",
+      "generated_at": "2026-05-01T19:14:10.535402"
+    },
+    {
+      "english": "I am excited, yes!",
+      "georgian": "აღფრთოვანებული, ვარ!",
+      "category": "Emotions",
+      "generated_at": "2026-05-01T19:14:10.535403"
     }
   ],
-  "last_updated": "2026-05-01T16:51:06.568180"
+  "last_updated": "2026-05-01T19:14:10.535405"
 }
