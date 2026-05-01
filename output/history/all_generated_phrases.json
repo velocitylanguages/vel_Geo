@@ -1379,7 +1379,37 @@
       "georgian": "პატარა ყვავილი, ტკბილი სურნელი.",
       "category": "Nature",
       "generated_at": "2026-05-01T14:58:35.544911"
+    },
+    {
+      "english": "It's raining, a little.",
+      "georgian": "წვიმს, ცოტა.",
+      "category": "Weather",
+      "generated_at": "2026-05-01T16:51:06.568164"
+    },
+    {
+      "english": "It's windy, outside.",
+      "georgian": "ქარია, გარეთ.",
+      "category": "Weather",
+      "generated_at": "2026-05-01T16:51:06.568175"
+    },
+    {
+      "english": "It's cold, now.",
+      "georgian": "ცივა, ახლა.",
+      "category": "Weather",
+      "generated_at": "2026-05-01T16:51:06.568176"
+    },
+    {
+      "english": "It's hot, very.",
+      "georgian": "ცხელა, ძალიან.",
+      "category": "Weather",
+      "generated_at": "2026-05-01T16:51:06.568178"
+    },
+    {
+      "english": "The sky, is cloudy.",
+      "georgian": "ცა, ღრუბლიანია.",
+      "category": "Weather",
+      "generated_at": "2026-05-01T16:51:06.568179"
     }
   ],
-  "last_updated": "2026-05-01T14:58:35.544913"
+  "last_updated": "2026-05-01T16:51:06.568180"
 }
