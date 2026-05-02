@@ -1499,7 +1499,37 @@
       "georgian": "შორეული ქუხილი, მოსალოდნელი ქარიშხალი.",
       "category": "Nature",
       "generated_at": "2026-05-02T02:04:23.300535"
+    },
+    {
+      "english": "Thank you, so much.",
+      "georgian": "მადლობა, ძალიან.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-02T14:51:41.748675"
+    },
+    {
+      "english": "You're, welcome.",
+      "georgian": "არაფრის, თქვენ.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-02T14:51:41.748685"
+    },
+    {
+      "english": "Very, kind.",
+      "georgian": "ძალიან, კეთილი.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-02T14:51:41.748687"
+    },
+    {
+      "english": "I appreciate, it.",
+      "georgian": "ვაფასებ, ამას.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-02T14:51:41.748688"
+    },
+    {
+      "english": "You helped, me.",
+      "georgian": "დამეხმარე, შენ.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-02T14:51:41.748689"
     }
   ],
-  "last_updated": "2026-05-02T02:04:23.300537"
+  "last_updated": "2026-05-02T14:51:41.748695"
 }
