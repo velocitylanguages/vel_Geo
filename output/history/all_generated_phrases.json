@@ -1469,7 +1469,37 @@
       "georgian": "ამას ავიღებ.",
       "category": "Shopping",
       "generated_at": "2026-05-01T20:53:47.632139"
+    },
+    {
+      "english": "Quiet forest, many birds.",
+      "georgian": "მშვიდი ტყე, ბევრი ჩიტი.",
+      "category": "Nature",
+      "generated_at": "2026-05-02T02:04:23.300524"
+    },
+    {
+      "english": "Big mountain, white snow.",
+      "georgian": "დიდი მთა, თეთრი თოვლი.",
+      "category": "Nature",
+      "generated_at": "2026-05-02T02:04:23.300532"
+    },
+    {
+      "english": "Gentle breeze, cool air.",
+      "georgian": "ნაზი ნიავი, გრილი ჰაერი.",
+      "category": "Nature",
+      "generated_at": "2026-05-02T02:04:23.300533"
+    },
+    {
+      "english": "Rocky path, going up.",
+      "georgian": "კლდოვანი ბილიკი, ადის ზევით.",
+      "category": "Nature",
+      "generated_at": "2026-05-02T02:04:23.300534"
+    },
+    {
+      "english": "Distant thunder, coming storm.",
+      "georgian": "შორეული ქუხილი, მოსალოდნელი ქარიშხალი.",
+      "category": "Nature",
+      "generated_at": "2026-05-02T02:04:23.300535"
     }
   ],
-  "last_updated": "2026-05-01T20:53:47.632141"
+  "last_updated": "2026-05-02T02:04:23.300537"
 }
