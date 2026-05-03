@@ -1619,7 +1619,37 @@
       "georgian": "ახალი რამ ვისწავლე.",
       "category": "Success",
       "generated_at": "2026-05-03T14:52:03.155305"
+    },
+    {
+      "english": "Big dog, small cat.",
+      "georgian": "დიდი ძაღლი, პატარა კატა.",
+      "category": "Animals",
+      "generated_at": "2026-05-03T16:41:54.441097"
+    },
+    {
+      "english": "Where is the horse?",
+      "georgian": "სად არის ცხენი?",
+      "category": "Animals",
+      "generated_at": "2026-05-03T16:41:54.441105"
+    },
+    {
+      "english": "I like birds.",
+      "georgian": "მე მიყვარს ფრინველები.",
+      "category": "Animals",
+      "generated_at": "2026-05-03T16:41:54.441106"
+    },
+    {
+      "english": "The cow is brown.",
+      "georgian": "ძროხა ყავისფერია.",
+      "category": "Animals",
+      "generated_at": "2026-05-03T16:41:54.441107"
+    },
+    {
+      "english": "Look, a lion!",
+      "georgian": "ნახე, ლომი!",
+      "category": "Animals",
+      "generated_at": "2026-05-03T16:41:54.441109"
     }
   ],
-  "last_updated": "2026-05-03T14:52:03.155307"
+  "last_updated": "2026-05-03T16:41:54.441110"
 }
