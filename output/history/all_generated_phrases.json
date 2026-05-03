@@ -1589,7 +1589,37 @@
       "georgian": "როგორ მიდის ყველაფერი?",
       "category": "Greetings",
       "generated_at": "2026-05-03T02:10:02.435451"
+    },
+    {
+      "english": "I understood, thank you.",
+      "georgian": "გავიგე, მადლობა.",
+      "category": "Success",
+      "generated_at": "2026-05-03T14:52:03.155294"
+    },
+    {
+      "english": "That's great, really!",
+      "georgian": "ძალიან მაგარია, მართლა!",
+      "category": "Success",
+      "generated_at": "2026-05-03T14:52:03.155301"
+    },
+    {
+      "english": "I can speak a little.",
+      "georgian": "ცოტა მესმის.",
+      "category": "Success",
+      "generated_at": "2026-05-03T14:52:03.155303"
+    },
+    {
+      "english": "This is very useful.",
+      "georgian": "ეს ძალიან მეხმარება.",
+      "category": "Success",
+      "generated_at": "2026-05-03T14:52:03.155304"
+    },
+    {
+      "english": "I learned something new.",
+      "georgian": "ახალი რამ ვისწავლე.",
+      "category": "Success",
+      "generated_at": "2026-05-03T14:52:03.155305"
     }
   ],
-  "last_updated": "2026-05-03T02:10:02.435452"
+  "last_updated": "2026-05-03T14:52:03.155307"
 }
