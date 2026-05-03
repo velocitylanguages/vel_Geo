@@ -1559,7 +1559,37 @@
       "georgian": "ფანტასტიურია, გამოგივიდა!",
       "category": "Success",
       "generated_at": "2026-05-02T16:40:45.705695"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "georgian": "ძალიან სასიამოვნოა, თქვენი გაცნობა.",
+      "category": "Greetings",
+      "generated_at": "2026-05-03T02:10:02.435438"
+    },
+    {
+      "english": "Welcome to Georgia, friend.",
+      "georgian": "კეთილი იყოს თქვენი მობრძანება, მეგობარო.",
+      "category": "Greetings",
+      "generated_at": "2026-05-03T02:10:02.435448"
+    },
+    {
+      "english": "Hope you have a good trip.",
+      "georgian": "იმედია, კარგი მგზავრობა გექნებათ.",
+      "category": "Greetings",
+      "generated_at": "2026-05-03T02:10:02.435449"
+    },
+    {
+      "english": "What's new with you?",
+      "georgian": "შენთან რა ხდება ახალი?",
+      "category": "Greetings",
+      "generated_at": "2026-05-03T02:10:02.435450"
+    },
+    {
+      "english": "How is everything going?",
+      "georgian": "როგორ მიდის ყველაფერი?",
+      "category": "Greetings",
+      "generated_at": "2026-05-03T02:10:02.435451"
     }
   ],
-  "last_updated": "2026-05-02T16:40:45.705699"
+  "last_updated": "2026-05-03T02:10:02.435452"
 }
