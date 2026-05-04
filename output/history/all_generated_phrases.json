@@ -1769,7 +1769,37 @@
       "georgian": "საუკეთესო ხართ, მადლობა!",
       "category": "Gratitude",
       "generated_at": "2026-05-04T16:04:25.272420"
+    },
+    {
+      "english": "What time, is it?",
+      "georgian": "რომელ, საათზე, ხარ?",
+      "category": "Time",
+      "generated_at": "2026-05-04T17:27:09.023429"
+    },
+    {
+      "english": "It's, ten o'clock.",
+      "georgian": "ათი, საათია.",
+      "category": "Time",
+      "generated_at": "2026-05-04T17:27:09.023438"
+    },
+    {
+      "english": "Almost, noon.",
+      "georgian": "თითქმის, შუადღეა.",
+      "category": "Time",
+      "generated_at": "2026-05-04T17:27:09.023439"
+    },
+    {
+      "english": "After, sunset.",
+      "georgian": "მზის, ამოსვლის, შემდეგ.",
+      "category": "Time",
+      "generated_at": "2026-05-04T17:27:09.023440"
+    },
+    {
+      "english": "Before, midnight.",
+      "georgian": "შუაღამემდე.",
+      "category": "Time",
+      "generated_at": "2026-05-04T17:27:09.023442"
     }
   ],
-  "last_updated": "2026-05-04T16:04:25.272422"
+  "last_updated": "2026-05-04T17:27:09.023443"
 }
