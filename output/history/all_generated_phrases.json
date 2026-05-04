@@ -1739,7 +1739,37 @@
       "georgian": "ცისფერი ცა, ღრუბლები.",
       "category": "Nature",
       "generated_at": "2026-05-04T02:09:21.337561"
+    },
+    {
+      "english": "I am grateful, for this.",
+      "georgian": "მადლიერი ვარ, ამისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T16:04:25.272405"
+    },
+    {
+      "english": "It means a lot, thank you.",
+      "georgian": "ბევრს ნიშნავს, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T16:04:25.272414"
+    },
+    {
+      "english": "So kind of you, thanks.",
+      "georgian": "ძალიან კეთილი ხართ, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T16:04:25.272416"
+    },
+    {
+      "english": "I appreciate it, truly.",
+      "georgian": "ვაფასებ, ნამდვილად.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T16:04:25.272419"
+    },
+    {
+      "english": "You are the best, thanks!",
+      "georgian": "საუკეთესო ხართ, მადლობა!",
+      "category": "Gratitude",
+      "generated_at": "2026-05-04T16:04:25.272420"
     }
   ],
-  "last_updated": "2026-05-04T02:09:21.337562"
+  "last_updated": "2026-05-04T16:04:25.272422"
 }
