@@ -1709,7 +1709,37 @@
       "georgian": "კმაყოფილი, ვარ.",
       "category": "Happiness",
       "generated_at": "2026-05-03T20:43:07.551378"
+    },
+    {
+      "english": "Beautiful mountain, vista.",
+      "georgian": "ლამაზი მთა, ხედი.",
+      "category": "Nature",
+      "generated_at": "2026-05-04T02:09:21.337549"
+    },
+    {
+      "english": "Green forest, path.",
+      "georgian": "მწვანე ტყე, ბილიკი.",
+      "category": "Nature",
+      "generated_at": "2026-05-04T02:09:21.337557"
+    },
+    {
+      "english": "Clear river, flowing.",
+      "georgian": "სუფთა მდინარე, მიედინება.",
+      "category": "Nature",
+      "generated_at": "2026-05-04T02:09:21.337559"
+    },
+    {
+      "english": "Bright sun, shines.",
+      "georgian": "კაშკაშა მზე, ანათებს.",
+      "category": "Nature",
+      "generated_at": "2026-05-04T02:09:21.337560"
+    },
+    {
+      "english": "Blue sky, clouds.",
+      "georgian": "ცისფერი ცა, ღრუბლები.",
+      "category": "Nature",
+      "generated_at": "2026-05-04T02:09:21.337561"
     }
   ],
-  "last_updated": "2026-05-03T20:43:07.551380"
+  "last_updated": "2026-05-04T02:09:21.337562"
 }
