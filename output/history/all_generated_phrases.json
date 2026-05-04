@@ -1799,7 +1799,37 @@
       "georgian": "შუაღამემდე.",
       "category": "Time",
       "generated_at": "2026-05-04T17:27:09.023442"
+    },
+    {
+      "english": "Where is, the bathroom?",
+      "georgian": "სად არის, ტუალეტი?",
+      "category": "Travel",
+      "generated_at": "2026-05-04T19:42:04.910802"
+    },
+    {
+      "english": "How much, is this?",
+      "georgian": "რა ღირს, ეს?",
+      "category": "Travel",
+      "generated_at": "2026-05-04T19:42:04.910813"
+    },
+    {
+      "english": "I need, a taxi.",
+      "georgian": "მჭირდება, ტაქსი.",
+      "category": "Travel",
+      "generated_at": "2026-05-04T19:42:04.910815"
+    },
+    {
+      "english": "Can you help, me please?",
+      "georgian": "შეგიძლიათ, დამეხმაროთ, გთხოვთ?",
+      "category": "Travel",
+      "generated_at": "2026-05-04T19:42:04.910816"
+    },
+    {
+      "english": "One ticket, to Tbilisi.",
+      "georgian": "ერთი ბილეთი, თბილისამდე.",
+      "category": "Travel",
+      "generated_at": "2026-05-04T19:42:04.910817"
     }
   ],
-  "last_updated": "2026-05-04T17:27:09.023443"
+  "last_updated": "2026-05-04T19:42:04.910819"
 }
