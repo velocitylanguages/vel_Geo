@@ -1943,7 +1943,37 @@
       "georgian": "რა კერძია ეს?",
       "category": "Food",
       "generated_at": "2026-05-05T19:22:58.207432"
+    },
+    {
+      "english": "It's cloudy, a little.",
+      "georgian": "ღრუბლიანია, ცოტა.",
+      "category": "Weather",
+      "generated_at": "2026-05-05T21:04:46.579444"
+    },
+    {
+      "english": "It's raining, now.",
+      "georgian": "წვიმს, ახლა.",
+      "category": "Weather",
+      "generated_at": "2026-05-05T21:04:46.579455"
+    },
+    {
+      "english": "It's cold, really.",
+      "georgian": "ცივა, ძალიან.",
+      "category": "Weather",
+      "generated_at": "2026-05-05T21:04:46.579456"
+    },
+    {
+      "english": "It's warm, for now.",
+      "georgian": "თბილა, ჯერ.",
+      "category": "Weather",
+      "generated_at": "2026-05-05T21:04:46.579457"
+    },
+    {
+      "english": "Snowing, is it?",
+      "georgian": "თოვს, ხომ?",
+      "category": "Weather",
+      "generated_at": "2026-05-05T21:04:46.579458"
     }
   ],
-  "last_updated": "2026-05-05T19:22:58.207434"
+  "last_updated": "2026-05-05T21:04:46.579460"
 }
