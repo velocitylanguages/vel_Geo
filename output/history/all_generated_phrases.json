@@ -1853,7 +1853,37 @@
       "georgian": "დუმილი, ბევრს ამბობს.",
       "category": "Wisdom",
       "generated_at": "2026-05-04T21:09:53.627715"
+    },
+    {
+      "english": "I want, to buy.",
+      "georgian": "მინდა, ვიყიდო.",
+      "category": "Shopping",
+      "generated_at": "2026-05-05T02:08:28.288762"
+    },
+    {
+      "english": "Where is, the changing room?",
+      "georgian": "სად არის, გასახდელი?",
+      "category": "Shopping",
+      "generated_at": "2026-05-05T02:08:28.288771"
+    },
+    {
+      "english": "Do you have, this in red?",
+      "georgian": "გაქვთ, ეს წითლად?",
+      "category": "Shopping",
+      "generated_at": "2026-05-05T02:08:28.288773"
+    },
+    {
+      "english": "It's too expensive, sorry.",
+      "georgian": "ძალიან ძვირია, ბოდიში.",
+      "category": "Shopping",
+      "generated_at": "2026-05-05T02:08:28.288774"
+    },
+    {
+      "english": "Can I, pay by card?",
+      "georgian": "შემიძლია, ბარათით გადახდა?",
+      "category": "Shopping",
+      "generated_at": "2026-05-05T02:08:28.288780"
     }
   ],
-  "last_updated": "2026-05-04T21:09:53.627717"
+  "last_updated": "2026-05-05T02:08:28.288782"
 }
