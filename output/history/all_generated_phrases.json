@@ -1913,7 +1913,37 @@
       "georgian": "ყოველი, წუთი ოქროა.",
       "category": "Happiness",
       "generated_at": "2026-05-05T17:38:53.229266"
+    },
+    {
+      "english": "Delicious, please give me more.",
+      "georgian": "გემრიელია, კიდევ მომეცი.",
+      "category": "Food",
+      "generated_at": "2026-05-05T19:22:58.207418"
+    },
+    {
+      "english": "This is very tasty.",
+      "georgian": "ძალიან გემრიელია ეს.",
+      "category": "Food",
+      "generated_at": "2026-05-05T19:22:58.207427"
+    },
+    {
+      "english": "A little spicy, please.",
+      "georgian": "ცოტა ცხარე, გეთაყვა.",
+      "category": "Food",
+      "generated_at": "2026-05-05T19:22:58.207429"
+    },
+    {
+      "english": "I want khachapuri.",
+      "georgian": "ხაჭაპური მინდა.",
+      "category": "Food",
+      "generated_at": "2026-05-05T19:22:58.207430"
+    },
+    {
+      "english": "What is this dish?",
+      "georgian": "რა კერძია ეს?",
+      "category": "Food",
+      "generated_at": "2026-05-05T19:22:58.207432"
     }
   ],
-  "last_updated": "2026-05-05T17:38:53.229267"
+  "last_updated": "2026-05-05T19:22:58.207434"
 }
