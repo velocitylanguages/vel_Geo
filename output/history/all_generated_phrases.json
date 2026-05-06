@@ -2003,7 +2003,37 @@
       "georgian": "მე ამაზე ვმუშაობ.",
       "category": "Work",
       "generated_at": "2026-05-06T02:08:19.942671"
+    },
+    {
+      "english": "My home, is here.",
+      "georgian": "ჩემი სახლი, აქ არის.",
+      "category": "Home",
+      "generated_at": "2026-05-06T16:04:10.821732"
+    },
+    {
+      "english": "Where is the key?",
+      "georgian": "სად არის, გასაღები?",
+      "category": "Home",
+      "generated_at": "2026-05-06T16:04:10.821742"
+    },
+    {
+      "english": "I am at home.",
+      "georgian": "მე სახლში ვარ.",
+      "category": "Home",
+      "generated_at": "2026-05-06T16:04:10.821743"
+    },
+    {
+      "english": "Dinner is ready.",
+      "georgian": "ვახშამი, მზად არის.",
+      "category": "Home",
+      "generated_at": "2026-05-06T16:04:10.821744"
+    },
+    {
+      "english": "Open the door.",
+      "georgian": "გააღე, კარი.",
+      "category": "Home",
+      "generated_at": "2026-05-06T16:04:10.821745"
     }
   ],
-  "last_updated": "2026-05-06T02:08:19.942673"
+  "last_updated": "2026-05-06T16:04:10.821747"
 }
