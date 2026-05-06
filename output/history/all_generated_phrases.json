@@ -1973,7 +1973,37 @@
       "georgian": "თოვს, ხომ?",
       "category": "Weather",
       "generated_at": "2026-05-05T21:04:46.579458"
+    },
+    {
+      "english": "What is the deadline, please?",
+      "georgian": "ვადა, თუ შეიძლება?",
+      "category": "Work",
+      "generated_at": "2026-05-06T02:08:19.942657"
+    },
+    {
+      "english": "I need this, urgently.",
+      "georgian": "ეს მჭირდება, სასწრაფოდ.",
+      "category": "Work",
+      "generated_at": "2026-05-06T02:08:19.942667"
+    },
+    {
+      "english": "Can you send the file?",
+      "georgian": "შეგიძლიათ ფაილი გამომიგზავნოთ?",
+      "category": "Work",
+      "generated_at": "2026-05-06T02:08:19.942669"
+    },
+    {
+      "english": "Let's meet, tomorrow morning.",
+      "georgian": "ხვალ დილით, შევხვდეთ.",
+      "category": "Work",
+      "generated_at": "2026-05-06T02:08:19.942670"
+    },
+    {
+      "english": "I am working, on that.",
+      "georgian": "მე ამაზე ვმუშაობ.",
+      "category": "Work",
+      "generated_at": "2026-05-06T02:08:19.942671"
     }
   ],
-  "last_updated": "2026-05-05T21:04:46.579460"
+  "last_updated": "2026-05-06T02:08:19.942673"
 }
