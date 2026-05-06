@@ -2033,7 +2033,37 @@
       "georgian": "გააღე, კარი.",
       "category": "Home",
       "generated_at": "2026-05-06T16:04:10.821745"
+    },
+    {
+      "english": "My mom, is here.",
+      "georgian": "დედა, აქ არის.",
+      "category": "Family",
+      "generated_at": "2026-05-06T17:28:50.114149"
+    },
+    {
+      "english": "My dad, loves me.",
+      "georgian": "მამა, მიყვარს.",
+      "category": "Family",
+      "generated_at": "2026-05-06T17:28:50.114159"
+    },
+    {
+      "english": "My brother, is young.",
+      "georgian": "ძმა, ახალგაზრდაა.",
+      "category": "Family",
+      "generated_at": "2026-05-06T17:28:50.114160"
+    },
+    {
+      "english": "My sister, is smart.",
+      "georgian": "და, ჭკვიანია.",
+      "category": "Family",
+      "generated_at": "2026-05-06T17:28:50.114161"
+    },
+    {
+      "english": "My grandmother, cooks well.",
+      "georgian": "ბებია, კარგად ამზადებს.",
+      "category": "Family",
+      "generated_at": "2026-05-06T17:28:50.114162"
     }
   ],
-  "last_updated": "2026-05-06T16:04:10.821747"
+  "last_updated": "2026-05-06T17:28:50.114163"
 }
