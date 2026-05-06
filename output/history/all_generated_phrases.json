@@ -2063,7 +2063,37 @@
       "georgian": "ბებია, კარგად ამზადებს.",
       "category": "Family",
       "generated_at": "2026-05-06T17:28:50.114162"
+    },
+    {
+      "english": "Let's play football, shall we?",
+      "georgian": "ფეხბურთს ვითამაშებთ, ხომ?",
+      "category": "Sports",
+      "generated_at": "2026-05-06T19:48:02.285713"
+    },
+    {
+      "english": "Who scored the goal?",
+      "georgian": "ვინ გაიტანა გოლი?",
+      "category": "Sports",
+      "generated_at": "2026-05-06T19:48:02.285726"
+    },
+    {
+      "english": "Great shot!",
+      "georgian": "დიდი ნახტომია!",
+      "category": "Sports",
+      "generated_at": "2026-05-06T19:48:02.285727"
+    },
+    {
+      "english": "The score is tied.",
+      "georgian": "ანგარიში ფრეა.",
+      "category": "Sports",
+      "generated_at": "2026-05-06T19:48:02.285728"
+    },
+    {
+      "english": "Are you ready to play?",
+      "georgian": "თამაშისთვის მზად ხარ?",
+      "category": "Sports",
+      "generated_at": "2026-05-06T19:48:02.285730"
     }
   ],
-  "last_updated": "2026-05-06T17:28:50.114163"
+  "last_updated": "2026-05-06T19:48:02.285732"
 }
