@@ -2093,7 +2093,37 @@
       "georgian": "თამაშისთვის მზად ხარ?",
       "category": "Sports",
       "generated_at": "2026-05-06T19:48:02.285730"
+    },
+    {
+      "english": "It's getting easier.",
+      "georgian": "უფრო ადვილი ხდება.",
+      "category": "Success",
+      "generated_at": "2026-05-06T21:12:19.195547"
+    },
+    {
+      "english": "I'm proud of myself.",
+      "georgian": "საკუთარი თავით ვამაყობ.",
+      "category": "Success",
+      "generated_at": "2026-05-06T21:12:19.195557"
+    },
+    {
+      "english": "Great progress, wow!",
+      "georgian": "დიდი წინსვლა, ვაუ!",
+      "category": "Success",
+      "generated_at": "2026-05-06T21:12:19.195559"
+    },
+    {
+      "english": "I'm understanding more.",
+      "georgian": "უფრო კარგად მესმის.",
+      "category": "Success",
+      "generated_at": "2026-05-06T21:12:19.195560"
+    },
+    {
+      "english": "Almost there, keep going!",
+      "georgian": "თითქმის მივაღწიე, გააგრძელე!",
+      "category": "Success",
+      "generated_at": "2026-05-06T21:12:19.195561"
     }
   ],
-  "last_updated": "2026-05-06T19:48:02.285732"
+  "last_updated": "2026-05-06T21:12:19.195563"
 }
