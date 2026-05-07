@@ -2123,7 +2123,37 @@
       "georgian": "თითქმის მივაღწიე, გააგრძელე!",
       "category": "Success",
       "generated_at": "2026-05-06T21:12:19.195561"
+    },
+    {
+      "english": "I want to learn, Georgian.",
+      "georgian": "მინდა, ვისწავლო, ქართული.",
+      "category": "Education",
+      "generated_at": "2026-05-07T02:10:24.531766"
+    },
+    {
+      "english": "This is, a new word.",
+      "georgian": "ეს არის, ახალი სიტყვა.",
+      "category": "Education",
+      "generated_at": "2026-05-07T02:10:24.531776"
+    },
+    {
+      "english": "Can you repeat, please?",
+      "georgian": "გაიმეორეთ, რა?",
+      "category": "Education",
+      "generated_at": "2026-05-07T02:10:24.531777"
+    },
+    {
+      "english": "What does this mean?",
+      "georgian": "რას ნიშნავს, ეს?",
+      "category": "Education",
+      "generated_at": "2026-05-07T02:10:24.531778"
+    },
+    {
+      "english": "I don't understand, yet.",
+      "georgian": "ვერ გავიგე, ჯერ.",
+      "category": "Education",
+      "generated_at": "2026-05-07T02:10:24.531779"
     }
   ],
-  "last_updated": "2026-05-06T21:12:19.195563"
+  "last_updated": "2026-05-07T02:10:24.531780"
 }
