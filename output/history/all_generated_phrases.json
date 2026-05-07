@@ -2153,7 +2153,37 @@
       "georgian": "ვერ გავიგე, ჯერ.",
       "category": "Education",
       "generated_at": "2026-05-07T02:10:24.531779"
+    },
+    {
+      "english": "Water, please.",
+      "georgian": "წყალი, გთხოვთ.",
+      "category": "Food",
+      "generated_at": "2026-05-07T16:08:51.914173"
+    },
+    {
+      "english": "Can I have the bill?",
+      "georgian": "ანგარიში, შეიძლება?",
+      "category": "Food",
+      "generated_at": "2026-05-07T16:08:51.914184"
+    },
+    {
+      "english": "Bread, and cheese.",
+      "georgian": "პური, და ყველი.",
+      "category": "Food",
+      "generated_at": "2026-05-07T16:08:51.914186"
+    },
+    {
+      "english": "More wine, please.",
+      "georgian": "კიდევ ღვინო, გთხოვ.",
+      "category": "Food",
+      "generated_at": "2026-05-07T16:08:51.914187"
+    },
+    {
+      "english": "Very good food.",
+      "georgian": "ძალიან კარგი საჭმელი.",
+      "category": "Food",
+      "generated_at": "2026-05-07T16:08:51.914188"
     }
   ],
-  "last_updated": "2026-05-07T02:10:24.531780"
+  "last_updated": "2026-05-07T16:08:51.914190"
 }
