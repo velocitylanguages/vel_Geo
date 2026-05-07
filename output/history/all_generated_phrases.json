@@ -2243,7 +2243,37 @@
       "georgian": "სიცხე, მაქვს, ცოტა.",
       "category": "Health",
       "generated_at": "2026-05-07T19:44:28.741967"
+    },
+    {
+      "english": "Sing it, again, please.",
+      "georgian": "იმღერე, კიდევ, რა.",
+      "category": "Music",
+      "generated_at": "2026-05-07T21:05:13.130960"
+    },
+    {
+      "english": "Do you hear, that sound?",
+      "georgian": "გესმის, ის ხმა?",
+      "category": "Music",
+      "generated_at": "2026-05-07T21:05:13.130970"
+    },
+    {
+      "english": "Let's dance, to the music.",
+      "georgian": "ვიცეკვოთ, მუსიკაზე.",
+      "category": "Music",
+      "generated_at": "2026-05-07T21:05:13.130972"
+    },
+    {
+      "english": "My favorite, instrument.",
+      "georgian": "ჩემი საყვარელი, ინსტრუმენტი.",
+      "category": "Music",
+      "generated_at": "2026-05-07T21:05:13.130973"
+    },
+    {
+      "english": "The rhythm, is catchy.",
+      "georgian": "რიტმი, ძალიან იზიდავს.",
+      "category": "Music",
+      "generated_at": "2026-05-07T21:05:13.130974"
     }
   ],
-  "last_updated": "2026-05-07T19:44:28.741968"
+  "last_updated": "2026-05-07T21:05:13.130976"
 }
