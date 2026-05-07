@@ -2183,7 +2183,37 @@
       "georgian": "ძალიან კარგი საჭმელი.",
       "category": "Food",
       "generated_at": "2026-05-07T16:08:51.914188"
+    },
+    {
+      "english": "My grandfather, tells stories.",
+      "georgian": "პაპა, ზღაპრებს ყვება.",
+      "category": "Family",
+      "generated_at": "2026-05-07T17:54:08.890726"
+    },
+    {
+      "english": "My son, is funny.",
+      "georgian": "შვილი, სასაცილოა.",
+      "category": "Family",
+      "generated_at": "2026-05-07T17:54:08.890736"
+    },
+    {
+      "english": "My daughter, sings nicely.",
+      "georgian": "შვილი, კარგად მღერის.",
+      "category": "Family",
+      "generated_at": "2026-05-07T17:54:08.890738"
+    },
+    {
+      "english": "Our family, is happy.",
+      "georgian": "ჩვენი ოჯახი, ბედნიერია.",
+      "category": "Family",
+      "generated_at": "2026-05-07T17:54:08.890739"
+    },
+    {
+      "english": "Who is this?, my uncle.",
+      "georgian": "ვინ არის?, ჩემი ბიძა.",
+      "category": "Family",
+      "generated_at": "2026-05-07T17:54:08.890740"
     }
   ],
-  "last_updated": "2026-05-07T16:08:51.914190"
+  "last_updated": "2026-05-07T17:54:08.890742"
 }
