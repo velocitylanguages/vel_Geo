@@ -2213,7 +2213,37 @@
       "georgian": "ვინ არის?, ჩემი ბიძა.",
       "category": "Family",
       "generated_at": "2026-05-07T17:54:08.890740"
+    },
+    {
+      "english": "I don't feel well, lately.",
+      "georgian": "თავს, კარგად, ვერ ვგრძნობ, ბოლო დროს.",
+      "category": "Health",
+      "generated_at": "2026-05-07T19:44:28.741954"
+    },
+    {
+      "english": "I need medicine, please.",
+      "georgian": "წამალი, მჭირდება, გთხოვთ.",
+      "category": "Health",
+      "generated_at": "2026-05-07T19:44:28.741963"
+    },
+    {
+      "english": "Where is the pharmacy?",
+      "georgian": "სად არის, აფთიაქი?",
+      "category": "Health",
+      "generated_at": "2026-05-07T19:44:28.741965"
+    },
+    {
+      "english": "I have a headache.",
+      "georgian": "თავი, მტკივა.",
+      "category": "Health",
+      "generated_at": "2026-05-07T19:44:28.741966"
+    },
+    {
+      "english": "I have a fever, a little.",
+      "georgian": "სიცხე, მაქვს, ცოტა.",
+      "category": "Health",
+      "generated_at": "2026-05-07T19:44:28.741967"
     }
   ],
-  "last_updated": "2026-05-07T17:54:08.890742"
+  "last_updated": "2026-05-07T19:44:28.741968"
 }
