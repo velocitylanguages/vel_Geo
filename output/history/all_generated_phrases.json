@@ -2303,7 +2303,31 @@
       "georgian": "ლამაზი ხარ, ჩემთვის.",
       "category": "Love",
       "generated_at": "2026-05-08T02:26:53.569929"
+    },
+    {
+      "english": "Bless you, for your help.",
+      "georgian": "დაგლოცოთ, დახმარებისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-08T15:27:15.260104"
+    },
+    {
+      "english": "My sincere thanks, to you.",
+      "georgian": "გულითადი მადლობა, თქვენ.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-08T15:27:15.260114"
+    },
+    {
+      "english": "Wonderful, thank you.",
+      "georgian": "საოცარია, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-08T15:27:15.260115"
+    },
+    {
+      "english": "Thanks for everything, really.",
+      "georgian": "მადლობა ყველაფრისთვის, მართლა.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-08T15:27:15.260116"
     }
   ],
-  "last_updated": "2026-05-08T02:26:53.569930"
+  "last_updated": "2026-05-08T15:27:15.260118"
 }
