@@ -2357,7 +2357,37 @@
       "georgian": "სულ, ახლახან.",
       "category": "Time",
       "generated_at": "2026-05-08T17:08:05.747421"
+    },
+    {
+      "english": "Let's practice, grammar.",
+      "georgian": "ვივარჯიშოთ, გრამატიკა.",
+      "category": "Education",
+      "generated_at": "2026-05-08T19:20:05.377060"
+    },
+    {
+      "english": "This sentence, is difficult.",
+      "georgian": "ეს წინადადება, რთულია.",
+      "category": "Education",
+      "generated_at": "2026-05-08T19:20:05.377069"
+    },
+    {
+      "english": "Read this, aloud.",
+      "georgian": "წაიკითხე, ხმამაღლა.",
+      "category": "Education",
+      "generated_at": "2026-05-08T19:20:05.377070"
+    },
+    {
+      "english": "How do you say, 'book'?",
+      "georgian": "როგორ ითქმის, 'წიგნი'?",
+      "category": "Education",
+      "generated_at": "2026-05-08T19:20:05.377071"
+    },
+    {
+      "english": "I am studying, hard.",
+      "georgian": "ბევრს ვსწავლობ, მე.",
+      "category": "Education",
+      "generated_at": "2026-05-08T19:20:05.377072"
     }
   ],
-  "last_updated": "2026-05-08T17:08:05.747423"
+  "last_updated": "2026-05-08T19:20:05.377074"
 }
