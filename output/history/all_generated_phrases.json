@@ -2327,7 +2327,37 @@
       "georgian": "მადლობა ყველაფრისთვის, მართლა.",
       "category": "Gratitude",
       "generated_at": "2026-05-08T15:27:15.260116"
+    },
+    {
+      "english": "Late, at night.",
+      "georgian": "გვიან, ღამით.",
+      "category": "Time",
+      "generated_at": "2026-05-08T17:08:05.747405"
+    },
+    {
+      "english": "Early, in the morning.",
+      "georgian": "ადრე, დილით.",
+      "category": "Time",
+      "generated_at": "2026-05-08T17:08:05.747417"
+    },
+    {
+      "english": "During, the day.",
+      "georgian": "დღის, განმავლობაში.",
+      "category": "Time",
+      "generated_at": "2026-05-08T17:08:05.747419"
+    },
+    {
+      "english": "In, a moment.",
+      "georgian": "ერთ, წუთში.",
+      "category": "Time",
+      "generated_at": "2026-05-08T17:08:05.747420"
+    },
+    {
+      "english": "Just, now.",
+      "georgian": "სულ, ახლახან.",
+      "category": "Time",
+      "generated_at": "2026-05-08T17:08:05.747421"
     }
   ],
-  "last_updated": "2026-05-08T15:27:15.260118"
+  "last_updated": "2026-05-08T17:08:05.747423"
 }
