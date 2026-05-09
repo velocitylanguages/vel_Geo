@@ -2417,7 +2417,37 @@
       "georgian": "ეს არის ბანკის გვერდით.",
       "category": "Directions",
       "generated_at": "2026-05-08T21:01:17.150536"
+    },
+    {
+      "english": "This red shirt, please.",
+      "georgian": "ეს წითელი პერანგი, მადლობ.",
+      "category": "Colors",
+      "generated_at": "2026-05-09T02:11:22.334987"
+    },
+    {
+      "english": "A green apple, nice.",
+      "georgian": "მწვანე ვაშლი, ლამაზია.",
+      "category": "Colors",
+      "generated_at": "2026-05-09T02:11:22.334995"
+    },
+    {
+      "english": "That yellow flower, beautiful.",
+      "georgian": "ის ყვითელი ყვავილი, მშვენიერი.",
+      "category": "Colors",
+      "generated_at": "2026-05-09T02:11:22.334997"
+    },
+    {
+      "english": "The car is black.",
+      "georgian": "მანქანა, შავია.",
+      "category": "Colors",
+      "generated_at": "2026-05-09T02:11:22.334998"
+    },
+    {
+      "english": "White bread, I like.",
+      "georgian": "თეთრი პური, მომწონს.",
+      "category": "Colors",
+      "generated_at": "2026-05-09T02:11:22.334999"
     }
   ],
-  "last_updated": "2026-05-08T21:01:17.150538"
+  "last_updated": "2026-05-09T02:11:22.335003"
 }
