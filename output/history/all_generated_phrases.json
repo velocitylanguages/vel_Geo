@@ -2507,7 +2507,37 @@
       "georgian": "ისინი, ბრაზობენ.",
       "category": "Emotions",
       "generated_at": "2026-05-09T19:03:35.305675"
+    },
+    {
+      "english": "Small flower, blooming.",
+      "georgian": "პატარა ყვავილი, ყვავის.",
+      "category": "Nature",
+      "generated_at": "2026-05-09T20:43:08.959012"
+    },
+    {
+      "english": "Vast sea, waves.",
+      "georgian": "უზარმაზარი ზღვა, ტალღები.",
+      "category": "Nature",
+      "generated_at": "2026-05-09T20:43:08.959023"
+    },
+    {
+      "english": "Quiet lake, peaceful.",
+      "georgian": "ჩუმი ტბა, მშვიდია.",
+      "category": "Nature",
+      "generated_at": "2026-05-09T20:43:08.959024"
+    },
+    {
+      "english": "Tall tree, strong.",
+      "georgian": "მაღალი ხე, ძლიერია.",
+      "category": "Nature",
+      "generated_at": "2026-05-09T20:43:08.959025"
+    },
+    {
+      "english": "Wild bird, singing.",
+      "georgian": "ველური ფრინველი, მღერის.",
+      "category": "Nature",
+      "generated_at": "2026-05-09T20:43:08.959026"
     }
   ],
-  "last_updated": "2026-05-09T19:03:35.305676"
+  "last_updated": "2026-05-09T20:43:08.959028"
 }
