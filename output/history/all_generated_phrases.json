@@ -2477,7 +2477,37 @@
       "georgian": "თამაში უყურე?",
       "category": "Sports",
       "generated_at": "2026-05-09T16:45:31.357056"
+    },
+    {
+      "english": "I am, very happy.",
+      "georgian": "ძალიან, მიხარია.",
+      "category": "Emotions",
+      "generated_at": "2026-05-09T19:03:35.305662"
+    },
+    {
+      "english": "She is, sad.",
+      "georgian": "ის, სევდიანია.",
+      "category": "Emotions",
+      "generated_at": "2026-05-09T19:03:35.305671"
+    },
+    {
+      "english": "He feels, tired.",
+      "georgian": "ის, დაღლილია.",
+      "category": "Emotions",
+      "generated_at": "2026-05-09T19:03:35.305673"
+    },
+    {
+      "english": "We are, surprised.",
+      "georgian": "გვიკვირს, ძალიან.",
+      "category": "Emotions",
+      "generated_at": "2026-05-09T19:03:35.305674"
+    },
+    {
+      "english": "They seem, angry.",
+      "georgian": "ისინი, ბრაზობენ.",
+      "category": "Emotions",
+      "generated_at": "2026-05-09T19:03:35.305675"
     }
   ],
-  "last_updated": "2026-05-09T16:45:31.357057"
+  "last_updated": "2026-05-09T19:03:35.305676"
 }
