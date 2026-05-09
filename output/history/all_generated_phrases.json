@@ -2447,7 +2447,37 @@
       "georgian": "თეთრი პური, მომწონს.",
       "category": "Colors",
       "generated_at": "2026-05-09T02:11:22.334999"
+    },
+    {
+      "english": "Come on, team!",
+      "georgian": "აი, გუნდი!",
+      "category": "Sports",
+      "generated_at": "2026-05-09T16:45:31.357043"
+    },
+    {
+      "english": "That was a foul.",
+      "georgian": "ეს იყო ჯარიმა.",
+      "category": "Sports",
+      "generated_at": "2026-05-09T16:45:31.357052"
+    },
+    {
+      "english": "I love basketball.",
+      "georgian": "მიყვარს კალათბურთი.",
+      "category": "Sports",
+      "generated_at": "2026-05-09T16:45:31.357053"
+    },
+    {
+      "english": "Let's go for a run.",
+      "georgian": "სირბილზე წავიდეთ.",
+      "category": "Sports",
+      "generated_at": "2026-05-09T16:45:31.357054"
+    },
+    {
+      "english": "Did you watch the game?",
+      "georgian": "თამაში უყურე?",
+      "category": "Sports",
+      "generated_at": "2026-05-09T16:45:31.357056"
     }
   ],
-  "last_updated": "2026-05-09T02:11:22.335003"
+  "last_updated": "2026-05-09T16:45:31.357057"
 }
