@@ -2537,7 +2537,37 @@
       "georgian": "ველური ფრინველი, მღერის.",
       "category": "Nature",
       "generated_at": "2026-05-09T20:43:08.959026"
+    },
+    {
+      "english": "Can you help, me?",
+      "georgian": "შეგიძლიათ, დამეხმაროთ?",
+      "category": "Health",
+      "generated_at": "2026-05-10T02:12:44.654041"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "georgian": "ექიმი, მჭირდება, სასწრაფოდ.",
+      "category": "Health",
+      "generated_at": "2026-05-10T02:12:44.654049"
+    },
+    {
+      "english": "My stomach, hurts.",
+      "georgian": "მუცელი, მტკივა.",
+      "category": "Health",
+      "generated_at": "2026-05-10T02:12:44.654051"
+    },
+    {
+      "english": "I feel tired, very.",
+      "georgian": "დაღლილი, ვგრძნობ, თავს, ძალიან.",
+      "category": "Health",
+      "generated_at": "2026-05-10T02:12:44.654052"
+    },
+    {
+      "english": "Is it serious, doctor?",
+      "georgian": "სერიოზულია, ექიმო?",
+      "category": "Health",
+      "generated_at": "2026-05-10T02:12:44.654053"
     }
   ],
-  "last_updated": "2026-05-09T20:43:08.959028"
+  "last_updated": "2026-05-10T02:12:44.654055"
 }
