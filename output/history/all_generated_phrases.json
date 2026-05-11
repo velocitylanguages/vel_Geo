@@ -2627,7 +2627,31 @@
       "georgian": "ნისლია, სამწუხაროდ.",
       "category": "Weather",
       "generated_at": "2026-05-11T19:48:45.989441"
+    },
+    {
+      "english": "Where can I, find water?",
+      "georgian": "სად ვიშოვო, წყალი?",
+      "category": "Travel",
+      "generated_at": "2026-05-11T21:18:03.968243"
+    },
+    {
+      "english": "I am lost, please.",
+      "georgian": "დავკარგე, გზა, გთხოვთ.",
+      "category": "Travel",
+      "generated_at": "2026-05-11T21:18:03.968253"
+    },
+    {
+      "english": "What is this, called?",
+      "georgian": "როგორ ამბობენ, ამას?",
+      "category": "Travel",
+      "generated_at": "2026-05-11T21:18:03.968255"
+    },
+    {
+      "english": "Can I have, the menu?",
+      "georgian": "შეიძლება, მენიუ?",
+      "category": "Travel",
+      "generated_at": "2026-05-11T21:18:03.968256"
     }
   ],
-  "last_updated": "2026-05-11T19:48:45.989442"
+  "last_updated": "2026-05-11T21:18:03.968258"
 }
