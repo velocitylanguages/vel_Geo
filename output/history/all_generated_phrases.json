@@ -2579,7 +2579,37 @@
       "georgian": "ჩემი ოცნება, ხარ.",
       "category": "Love",
       "generated_at": "2026-05-10T14:56:12.540336"
+    },
+    {
+      "english": "One apple, please.",
+      "georgian": "ერთი ვაშლი, თუ შეიძლება.",
+      "category": "Numbers",
+      "generated_at": "2026-05-11T17:51:57.850932"
+    },
+    {
+      "english": "Two cats, sleeping.",
+      "georgian": "ორი კატა, სძინავთ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-11T17:51:57.850941"
+    },
+    {
+      "english": "Three books, on the table.",
+      "georgian": "სამი წიგნი, მაგიდაზე.",
+      "category": "Numbers",
+      "generated_at": "2026-05-11T17:51:57.850942"
+    },
+    {
+      "english": "Four friends, arrived.",
+      "georgian": "ოთხი მეგობარი, ჩამოვიდნენ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-11T17:51:57.850943"
+    },
+    {
+      "english": "Five cars, parked.",
+      "georgian": "ხუთი მანქანა, გაჩერებული.",
+      "category": "Numbers",
+      "generated_at": "2026-05-11T17:51:57.850944"
     }
   ],
-  "last_updated": "2026-05-10T14:56:12.540338"
+  "last_updated": "2026-05-11T17:51:57.850946"
 }
