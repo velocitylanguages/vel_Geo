@@ -2609,7 +2609,25 @@
       "georgian": "ხუთი მანქანა, გაჩერებული.",
       "category": "Numbers",
       "generated_at": "2026-05-11T17:51:57.850944"
+    },
+    {
+      "english": "What's the weather, like?",
+      "georgian": "როგორი ამინდია?",
+      "category": "Weather",
+      "generated_at": "2026-05-11T19:48:45.989432"
+    },
+    {
+      "english": "Hot, is it, today?",
+      "georgian": "ცხელა, დღეს?",
+      "category": "Weather",
+      "generated_at": "2026-05-11T19:48:45.989439"
+    },
+    {
+      "english": "Foggy, unfortunately.",
+      "georgian": "ნისლია, სამწუხაროდ.",
+      "category": "Weather",
+      "generated_at": "2026-05-11T19:48:45.989441"
     }
   ],
-  "last_updated": "2026-05-11T17:51:57.850946"
+  "last_updated": "2026-05-11T19:48:45.989442"
 }
