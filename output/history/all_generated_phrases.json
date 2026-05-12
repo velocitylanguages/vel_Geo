@@ -2651,7 +2651,37 @@
       "georgian": "შეიძლება, მენიუ?",
       "category": "Travel",
       "generated_at": "2026-05-11T21:18:03.968256"
+    },
+    {
+      "english": "Glad to see you again.",
+      "georgian": "ისევ გხედავ, მიხარია.",
+      "category": "Greetings",
+      "generated_at": "2026-05-12T02:24:45.946268"
+    },
+    {
+      "english": "Hope you are doing well.",
+      "georgian": "იმედია, კარგად ხარ.",
+      "category": "Greetings",
+      "generated_at": "2026-05-12T02:24:45.946278"
+    },
+    {
+      "english": "Have a wonderful day ahead.",
+      "georgian": "გისურვებ, მშვენიერ დღეს.",
+      "category": "Greetings",
+      "generated_at": "2026-05-12T02:24:45.946280"
+    },
+    {
+      "english": "All the best to you.",
+      "georgian": "ყველაფერი საუკეთესო შენთვის.",
+      "category": "Greetings",
+      "generated_at": "2026-05-12T02:24:45.946281"
+    },
+    {
+      "english": "May your day be bright.",
+      "georgian": "შენი დღე, ნათელი ყოფილიყოს.",
+      "category": "Greetings",
+      "generated_at": "2026-05-12T02:24:45.946282"
     }
   ],
-  "last_updated": "2026-05-11T21:18:03.968258"
+  "last_updated": "2026-05-12T02:24:45.946284"
 }
