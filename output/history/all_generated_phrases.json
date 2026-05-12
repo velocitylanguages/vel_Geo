@@ -2681,7 +2681,37 @@
       "georgian": "შენი დღე, ნათელი ყოფილიყოს.",
       "category": "Greetings",
       "generated_at": "2026-05-12T02:24:45.946282"
+    },
+    {
+      "english": "I am, a little worried.",
+      "georgian": "ცოტა, ვნერვიულობ.",
+      "category": "Emotions",
+      "generated_at": "2026-05-12T20:03:59.350562"
+    },
+    {
+      "english": "Are you, excited?",
+      "georgian": "აღელვებული, ხარ?",
+      "category": "Emotions",
+      "generated_at": "2026-05-12T20:03:59.350573"
+    },
+    {
+      "english": "It's, interesting.",
+      "georgian": "საინტერესოა, ეს.",
+      "category": "Emotions",
+      "generated_at": "2026-05-12T20:03:59.350575"
+    },
+    {
+      "english": "I feel, lonely.",
+      "georgian": "მარტო, ვგრძნობ თავს.",
+      "category": "Emotions",
+      "generated_at": "2026-05-12T20:03:59.350576"
+    },
+    {
+      "english": "This is, annoying.",
+      "georgian": "მაღიზიანებს, ეს.",
+      "category": "Emotions",
+      "generated_at": "2026-05-12T20:03:59.350577"
     }
   ],
-  "last_updated": "2026-05-12T02:24:45.946284"
+  "last_updated": "2026-05-12T20:03:59.350579"
 }
