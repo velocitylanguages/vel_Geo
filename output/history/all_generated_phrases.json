@@ -2741,7 +2741,31 @@
       "georgian": "დიდი მეგობარი ხარ.",
       "category": "Friendship",
       "generated_at": "2026-05-13T21:26:47.237183"
+    },
+    {
+      "english": "What is the task?",
+      "georgian": "რა არის დავალება?",
+      "category": "Work",
+      "generated_at": "2026-05-14T17:46:34.488279"
+    },
+    {
+      "english": "I have a question, about the project.",
+      "georgian": "პროექტზე, მაქვს შეკითხვა.",
+      "category": "Work",
+      "generated_at": "2026-05-14T17:46:34.488288"
+    },
+    {
+      "english": "Can we discuss, later?",
+      "georgian": "შემდეგ, განვიხილოთ?",
+      "category": "Work",
+      "generated_at": "2026-05-14T17:46:34.488289"
+    },
+    {
+      "english": "This is very important.",
+      "georgian": "ეს ძალიან მნიშვნელოვანია.",
+      "category": "Work",
+      "generated_at": "2026-05-14T17:46:34.488291"
     }
   ],
-  "last_updated": "2026-05-13T21:26:47.237185"
+  "last_updated": "2026-05-14T17:46:34.488292"
 }
