@@ -2789,7 +2789,37 @@
       "georgian": "ჩემი ახალი ვარდისფერი კაბა.",
       "category": "Colors",
       "generated_at": "2026-05-15T02:31:42.893149"
+    },
+    {
+      "english": "Close the window.",
+      "georgian": "დახურე, ფანჯარა.",
+      "category": "Home",
+      "generated_at": "2026-05-15T21:00:56.679176"
+    },
+    {
+      "english": "Is anyone home?",
+      "georgian": "ვინმე, სახლშია?",
+      "category": "Home",
+      "generated_at": "2026-05-15T21:00:56.679188"
+    },
+    {
+      "english": "I need to clean.",
+      "georgian": "უნდა, დავაცხო.",
+      "category": "Home",
+      "generated_at": "2026-05-15T21:00:56.679191"
+    },
+    {
+      "english": "This is my room.",
+      "georgian": "ეს, ჩემი ოთახია.",
+      "category": "Home",
+      "generated_at": "2026-05-15T21:00:56.679193"
+    },
+    {
+      "english": "Let's rest now.",
+      "georgian": "დავისვენოთ, ახლა.",
+      "category": "Home",
+      "generated_at": "2026-05-15T21:00:56.679195"
     }
   ],
-  "last_updated": "2026-05-15T02:31:42.893151"
+  "last_updated": "2026-05-15T21:00:56.679198"
 }
