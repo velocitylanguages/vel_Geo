@@ -2819,7 +2819,25 @@
       "georgian": "დავისვენოთ, ახლა.",
       "category": "Home",
       "generated_at": "2026-05-15T21:00:56.679195"
+    },
+    {
+      "english": "Go past the big building.",
+      "georgian": "გაიარეთ დიდი შენობის მერე.",
+      "category": "Directions",
+      "generated_at": "2026-05-16T16:53:02.819859"
+    },
+    {
+      "english": "Is it far from here?",
+      "georgian": "შორს არის აქედან?",
+      "category": "Directions",
+      "generated_at": "2026-05-16T16:53:02.819867"
+    },
+    {
+      "english": "You are almost there.",
+      "georgian": "თითქმის მიხვედით.",
+      "category": "Directions",
+      "generated_at": "2026-05-16T16:53:02.819869"
     }
   ],
-  "last_updated": "2026-05-15T21:00:56.679198"
+  "last_updated": "2026-05-16T16:53:02.819871"
 }
