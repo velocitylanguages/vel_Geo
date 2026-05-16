@@ -2837,7 +2837,37 @@
       "georgian": "თითქმის მიხვედით.",
       "category": "Directions",
       "generated_at": "2026-05-16T16:53:02.819869"
+    },
+    {
+      "english": "Fish swim in water.",
+      "georgian": "თევზები წყალში ცურავენ.",
+      "category": "Animals",
+      "generated_at": "2026-05-16T20:47:21.061235"
+    },
+    {
+      "english": "The elephant is huge.",
+      "georgian": "სპილო ძალიან დიდია.",
+      "category": "Animals",
+      "generated_at": "2026-05-16T20:47:21.061246"
+    },
+    {
+      "english": "A happy monkey.",
+      "georgian": "მხიარული მაიმუნი.",
+      "category": "Animals",
+      "generated_at": "2026-05-16T20:47:21.061248"
+    },
+    {
+      "english": "The snake is long.",
+      "georgian": "გველი გრძელია.",
+      "category": "Animals",
+      "generated_at": "2026-05-16T20:47:21.061249"
+    },
+    {
+      "english": "My rabbit is white.",
+      "georgian": "ჩემი კურდღელი თეთრია.",
+      "category": "Animals",
+      "generated_at": "2026-05-16T20:47:21.061250"
     }
   ],
-  "last_updated": "2026-05-16T16:53:02.819871"
+  "last_updated": "2026-05-16T20:47:21.061252"
 }
