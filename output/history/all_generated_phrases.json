@@ -2867,7 +2867,25 @@
       "georgian": "ჩემი კურდღელი თეთრია.",
       "category": "Animals",
       "generated_at": "2026-05-16T20:47:21.061250"
+    },
+    {
+      "english": "I like, this one.",
+      "georgian": "მომწონს, ეს.",
+      "category": "Shopping",
+      "generated_at": "2026-05-17T16:52:21.459524"
+    },
+    {
+      "english": "Do you have, a bag?",
+      "georgian": "ხომ არ გაქვთ, პარკი?",
+      "category": "Shopping",
+      "generated_at": "2026-05-17T16:52:21.459534"
+    },
+    {
+      "english": "Can I try, this on?",
+      "georgian": "შემიძლია, გავზომო?",
+      "category": "Shopping",
+      "generated_at": "2026-05-17T16:52:21.459535"
     }
   ],
-  "last_updated": "2026-05-16T20:47:21.061252"
+  "last_updated": "2026-05-17T16:52:21.459537"
 }
