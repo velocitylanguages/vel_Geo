@@ -2885,7 +2885,37 @@
       "georgian": "შემიძლია, გავზომო?",
       "category": "Shopping",
       "generated_at": "2026-05-17T16:52:21.459535"
+    },
+    {
+      "english": "Six days, ago.",
+      "georgian": "ექვსი დღის, წინ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-19T18:00:15.227993"
+    },
+    {
+      "english": "Seven people, waiting.",
+      "georgian": "შვიდი ადამიანი, ელოდება.",
+      "category": "Numbers",
+      "generated_at": "2026-05-19T18:00:15.228004"
+    },
+    {
+      "english": "Eight birds, singing.",
+      "georgian": "რვა ჩიტი, მღერის.",
+      "category": "Numbers",
+      "generated_at": "2026-05-19T18:00:15.228005"
+    },
+    {
+      "english": "Nine flowers, blooming.",
+      "georgian": "ცხრა ყვავილი, იშლება.",
+      "category": "Numbers",
+      "generated_at": "2026-05-19T18:00:15.228006"
+    },
+    {
+      "english": "Ten fingers, counting.",
+      "georgian": "ათი თითი, ითვლის.",
+      "category": "Numbers",
+      "generated_at": "2026-05-19T18:00:15.228007"
     }
   ],
-  "last_updated": "2026-05-17T16:52:21.459537"
+  "last_updated": "2026-05-19T18:00:15.228009"
 }
