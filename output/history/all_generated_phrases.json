@@ -2975,7 +2975,37 @@
       "georgian": "მიხარია შენი ნახვა,",
       "category": "Friendship",
       "generated_at": "2026-05-29T18:29:21.051487"
+    },
+    {
+      "english": "You did it, well done!",
+      "georgian": "გააკეთე, ბრავო!",
+      "category": "Success",
+      "generated_at": "2026-05-29T20:26:34.535293"
+    },
+    {
+      "english": "Great progress, keep going!",
+      "georgian": "დიდი წინსვლა, გააგრძელე!",
+      "category": "Success",
+      "generated_at": "2026-05-29T20:26:34.535303"
+    },
+    {
+      "english": "Excellent job, congratulations!",
+      "georgian": "ბრწყინვალედ, გილოცავ!",
+      "category": "Success",
+      "generated_at": "2026-05-29T20:26:34.535305"
+    },
+    {
+      "english": "You're learning fast, amazing!",
+      "georgian": "სწრაფად სწავლობ, საოცარია!",
+      "category": "Success",
+      "generated_at": "2026-05-29T20:26:34.535306"
+    },
+    {
+      "english": "Fantastic effort, proud of you!",
+      "georgian": "ფანტასტიკური ძალისხმევა, მეამაყები!",
+      "category": "Success",
+      "generated_at": "2026-05-29T20:26:34.535307"
     }
   ],
-  "last_updated": "2026-05-29T18:29:21.051489"
+  "last_updated": "2026-05-29T20:26:34.535309"
 }
