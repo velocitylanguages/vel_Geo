@@ -3005,7 +3005,37 @@
       "georgian": "ფანტასტიკური ძალისხმევა, მეამაყები!",
       "category": "Success",
       "generated_at": "2026-05-29T20:26:34.535307"
+    },
+    {
+      "english": "I am learning, Georgian.",
+      "georgian": "ვსწავლობ, ქართულს.",
+      "category": "Education",
+      "generated_at": "2026-05-29T21:52:36.943117"
+    },
+    {
+      "english": "This is, a book.",
+      "georgian": "ეს არის, წიგნი.",
+      "category": "Education",
+      "generated_at": "2026-05-29T21:52:36.943126"
+    },
+    {
+      "english": "What is this?, please.",
+      "georgian": "რა არის ეს?, გთხოვთ.",
+      "category": "Education",
+      "generated_at": "2026-05-29T21:52:36.943128"
+    },
+    {
+      "english": "Can you repeat?, please.",
+      "georgian": "გაიმეორეთ?, გთხოვთ.",
+      "category": "Education",
+      "generated_at": "2026-05-29T21:52:36.943129"
+    },
+    {
+      "english": "Where is the, classroom?",
+      "georgian": "სად არის, აუდიტორია?",
+      "category": "Education",
+      "generated_at": "2026-05-29T21:52:36.943130"
     }
   ],
-  "last_updated": "2026-05-29T20:26:34.535309"
+  "last_updated": "2026-05-29T21:52:36.943131"
 }
