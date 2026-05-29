@@ -2945,7 +2945,37 @@
       "georgian": "ეს, ტკივილია?",
       "category": "Health",
       "generated_at": "2026-05-29T17:35:46.219751"
+    },
+    {
+      "english": "My dear friend,",
+      "georgian": "ჩემო საყვარელო მეგობარო,",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T18:29:21.051469"
+    },
+    {
+      "english": "Thank you, friend,",
+      "georgian": "მადლობა, მეგობარო,",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T18:29:21.051480"
+    },
+    {
+      "english": "Let's go, friend!",
+      "georgian": "წავიდეთ, მეგობარო!",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T18:29:21.051484"
+    },
+    {
+      "english": "You are my best friend,",
+      "georgian": "ჩემი საუკეთესო მეგობარი ხარ,",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T18:29:21.051485"
+    },
+    {
+      "english": "I'm glad to see you,",
+      "georgian": "მიხარია შენი ნახვა,",
+      "category": "Friendship",
+      "generated_at": "2026-05-29T18:29:21.051487"
     }
   ],
-  "last_updated": "2026-05-29T17:35:46.219753"
+  "last_updated": "2026-05-29T18:29:21.051489"
 }
