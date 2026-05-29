@@ -2915,7 +2915,37 @@
       "georgian": "ათი თითი, ითვლის.",
       "category": "Numbers",
       "generated_at": "2026-05-19T18:00:15.228007"
+    },
+    {
+      "english": "I don't feel well, often.",
+      "georgian": "თავს, კარგად, არ ვგრძნობ ხშირად.",
+      "category": "Health",
+      "generated_at": "2026-05-29T17:35:46.219737"
+    },
+    {
+      "english": "Where is the, pharmacy?",
+      "georgian": "სად არის, აფთიაქი?",
+      "category": "Health",
+      "generated_at": "2026-05-29T17:35:46.219747"
+    },
+    {
+      "english": "I have, a fever.",
+      "georgian": "სიცხე, მაქვს.",
+      "category": "Health",
+      "generated_at": "2026-05-29T17:35:46.219749"
+    },
+    {
+      "english": "I have, allergies.",
+      "georgian": "ალერგია, მაქვს.",
+      "category": "Health",
+      "generated_at": "2026-05-29T17:35:46.219750"
+    },
+    {
+      "english": "Is this, for pain?",
+      "georgian": "ეს, ტკივილია?",
+      "category": "Health",
+      "generated_at": "2026-05-29T17:35:46.219751"
     }
   ],
-  "last_updated": "2026-05-19T18:00:15.228009"
+  "last_updated": "2026-05-29T17:35:46.219753"
 }
