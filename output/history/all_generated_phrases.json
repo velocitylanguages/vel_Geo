@@ -3065,7 +3065,37 @@
       "georgian": "დივანი კომფორტულია.",
       "category": "Home",
       "generated_at": "2026-05-30T02:29:47.316821"
+    },
+    {
+      "english": "I am sad, a little sad.",
+      "georgian": "ცოტა, მეწყინა.",
+      "category": "Emotions",
+      "generated_at": "2026-05-30T15:10:26.468157"
+    },
+    {
+      "english": "I am angry, really angry.",
+      "georgian": "გაბრაზებული, ვარ.",
+      "category": "Emotions",
+      "generated_at": "2026-05-30T15:10:26.468169"
+    },
+    {
+      "english": "I am tired, very tired.",
+      "georgian": "დაღლილი, ვარ, ძალიან.",
+      "category": "Emotions",
+      "generated_at": "2026-05-30T15:10:26.468171"
+    },
+    {
+      "english": "I am scared, a little scared.",
+      "georgian": "ცოტა, მეშინია.",
+      "category": "Emotions",
+      "generated_at": "2026-05-30T15:10:26.468172"
+    },
+    {
+      "english": "I am excited, can't wait!",
+      "georgian": "აღფრთოვანებული, ვარ, მოუთმენლად!",
+      "category": "Emotions",
+      "generated_at": "2026-05-30T15:10:26.468173"
     }
   ],
-  "last_updated": "2026-05-30T02:29:47.316823"
+  "last_updated": "2026-05-30T15:10:26.468174"
 }
