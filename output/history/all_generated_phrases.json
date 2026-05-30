@@ -3155,7 +3155,37 @@
       "georgian": "ახლა თბილა.",
       "category": "Weather",
       "generated_at": "2026-05-30T19:17:10.745807"
+    },
+    {
+      "english": "Pleasure, to meet you.",
+      "georgian": "სასიამოვნოა, თქვენი გაცნობა.",
+      "category": "Greetings",
+      "generated_at": "2026-05-30T20:57:22.435456"
+    },
+    {
+      "english": "Welcome, friend.",
+      "georgian": "კეთილი იყოს, თქვენი მობრძანება, მეგობარო.",
+      "category": "Greetings",
+      "generated_at": "2026-05-30T20:57:22.435466"
+    },
+    {
+      "english": "How's, everything going?",
+      "georgian": "როგორ, მიდის, ყველაფერი?",
+      "category": "Greetings",
+      "generated_at": "2026-05-30T20:57:22.435468"
+    },
+    {
+      "english": "Nice, to see you.",
+      "georgian": "მიხარია, თქვენი ნახვა.",
+      "category": "Greetings",
+      "generated_at": "2026-05-30T20:57:22.435469"
+    },
+    {
+      "english": "Greetings, from afar.",
+      "georgian": "მოკითხვა, შორიდან.",
+      "category": "Greetings",
+      "generated_at": "2026-05-30T20:57:22.435470"
     }
   ],
-  "last_updated": "2026-05-30T19:17:10.745809"
+  "last_updated": "2026-05-30T20:57:22.435471"
 }
