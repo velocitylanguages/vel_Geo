@@ -3035,7 +3035,37 @@
       "georgian": "სად არის, აუდიტორია?",
       "category": "Education",
       "generated_at": "2026-05-29T21:52:36.943130"
+    },
+    {
+      "english": "This is my home.",
+      "georgian": "ეს ჩემი სახლია.",
+      "category": "Home",
+      "generated_at": "2026-05-30T02:29:47.316809"
+    },
+    {
+      "english": "Where is the kitchen?",
+      "georgian": "სად არის სამზარეულო?",
+      "category": "Home",
+      "generated_at": "2026-05-30T02:29:47.316818"
+    },
+    {
+      "english": "I want tea, please.",
+      "georgian": "ჩაი მინდა, თუ შეიძლება.",
+      "category": "Home",
+      "generated_at": "2026-05-30T02:29:47.316819"
+    },
+    {
+      "english": "Can I help you?",
+      "georgian": "შემიძლია დაგეხმაროთ?",
+      "category": "Home",
+      "generated_at": "2026-05-30T02:29:47.316820"
+    },
+    {
+      "english": "The sofa is comfortable.",
+      "georgian": "დივანი კომფორტულია.",
+      "category": "Home",
+      "generated_at": "2026-05-30T02:29:47.316821"
     }
   ],
-  "last_updated": "2026-05-29T21:52:36.943131"
+  "last_updated": "2026-05-30T02:29:47.316823"
 }
