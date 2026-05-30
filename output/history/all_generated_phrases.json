@@ -3095,7 +3095,37 @@
       "georgian": "აღფრთოვანებული, ვარ, მოუთმენლად!",
       "category": "Emotions",
       "generated_at": "2026-05-30T15:10:26.468173"
+    },
+    {
+      "english": "The dog barks, loudly.",
+      "georgian": "ძაღლი ყეფს, ხმამაღლა.",
+      "category": "Animals",
+      "generated_at": "2026-05-30T16:55:41.532475"
+    },
+    {
+      "english": "A cat sleeps, peacefully.",
+      "georgian": "კატა სძინავს, მშვიდად.",
+      "category": "Animals",
+      "generated_at": "2026-05-30T16:55:41.532492"
+    },
+    {
+      "english": "Birds sing, sweetly.",
+      "georgian": "ჩიტები მღერიან, საყვარლად.",
+      "category": "Animals",
+      "generated_at": "2026-05-30T16:55:41.532494"
+    },
+    {
+      "english": "The horse runs, fast.",
+      "georgian": "ცხენი გარბის, სწრაფად.",
+      "category": "Animals",
+      "generated_at": "2026-05-30T16:55:41.532495"
+    },
+    {
+      "english": "A cow moos, softly.",
+      "georgian": "ძროხა ბღავის, ნელა.",
+      "category": "Animals",
+      "generated_at": "2026-05-30T16:55:41.532496"
     }
   ],
-  "last_updated": "2026-05-30T15:10:26.468174"
+  "last_updated": "2026-05-30T16:55:41.532498"
 }
