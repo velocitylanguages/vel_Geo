@@ -3215,7 +3215,37 @@
       "georgian": "ხუთი, მანქანა, გარეთ.",
       "category": "Numbers",
       "generated_at": "2026-05-31T02:45:45.293819"
+    },
+    {
+      "english": "Mastered it, well done!",
+      "georgian": "აითვისე, ბრავო!",
+      "category": "Success",
+      "generated_at": "2026-05-31T15:18:34.971056"
+    },
+    {
+      "english": "Your Georgian is improving!",
+      "georgian": "შენი ქართული უმჯობესდება!",
+      "category": "Success",
+      "generated_at": "2026-05-31T15:18:34.971064"
+    },
+    {
+      "english": "You've achieved a lot!",
+      "georgian": "ბევრი მიღწევა გაქვს!",
+      "category": "Success",
+      "generated_at": "2026-05-31T15:18:34.971066"
+    },
+    {
+      "english": "Keep up the great work!",
+      "georgian": "ასე გააგრძელე!",
+      "category": "Success",
+      "generated_at": "2026-05-31T15:18:34.971067"
+    },
+    {
+      "english": "You're speaking Georgian, yes!",
+      "georgian": "ქართულად ლაპარაკობ, დიახ!",
+      "category": "Success",
+      "generated_at": "2026-05-31T15:18:34.971067"
     }
   ],
-  "last_updated": "2026-05-31T02:45:45.293822"
+  "last_updated": "2026-05-31T15:18:34.971069"
 }
