@@ -3185,7 +3185,37 @@
       "georgian": "მოკითხვა, შორიდან.",
       "category": "Greetings",
       "generated_at": "2026-05-30T20:57:22.435470"
+    },
+    {
+      "english": "One, apple, please.",
+      "georgian": "ერთი, ვაშლი, გთხოვთ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-31T02:45:45.293797"
+    },
+    {
+      "english": "Two, books, here.",
+      "georgian": "ორი, წიგნი, აქ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-31T02:45:45.293807"
+    },
+    {
+      "english": "Three, cats, are sleeping.",
+      "georgian": "სამი, კატა, სძინავს.",
+      "category": "Numbers",
+      "generated_at": "2026-05-31T02:45:45.293814"
+    },
+    {
+      "english": "Four, dogs, ran.",
+      "georgian": "ოთხი, ძაღლი, გაიქცა.",
+      "category": "Numbers",
+      "generated_at": "2026-05-31T02:45:45.293816"
+    },
+    {
+      "english": "Five, cars, outside.",
+      "georgian": "ხუთი, მანქანა, გარეთ.",
+      "category": "Numbers",
+      "generated_at": "2026-05-31T02:45:45.293819"
     }
   ],
-  "last_updated": "2026-05-30T20:57:22.435471"
+  "last_updated": "2026-05-31T02:45:45.293822"
 }
