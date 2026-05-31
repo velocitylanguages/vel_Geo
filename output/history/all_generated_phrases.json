@@ -3245,7 +3245,37 @@
       "georgian": "ქართულად ლაპარაკობ, დიახ!",
       "category": "Success",
       "generated_at": "2026-05-31T15:18:34.971067"
+    },
+    {
+      "english": "Let's play football, okay?",
+      "georgian": "ფეხბურთს ვითამაშოთ, ხო?",
+      "category": "Sports",
+      "generated_at": "2026-05-31T19:18:24.672157"
+    },
+    {
+      "english": "Good game, well done!",
+      "georgian": "კარგი თამაში, მადლობა!",
+      "category": "Sports",
+      "generated_at": "2026-05-31T19:18:24.672166"
+    },
+    {
+      "english": "I like basketball, it's fun.",
+      "georgian": "კალათბურთი მიყვარს, სასიამოვნოა.",
+      "category": "Sports",
+      "generated_at": "2026-05-31T19:18:24.672168"
+    },
+    {
+      "english": "Ready for the match?",
+      "georgian": "მატჩისთვის მზად ხარ?",
+      "category": "Sports",
+      "generated_at": "2026-05-31T19:18:24.672169"
+    },
+    {
+      "english": "Who won, tell me.",
+      "georgian": "ვინ მოიგო, მითხარი.",
+      "category": "Sports",
+      "generated_at": "2026-05-31T19:18:24.672170"
     }
   ],
-  "last_updated": "2026-05-31T15:18:34.971069"
+  "last_updated": "2026-05-31T19:18:24.672172"
 }
