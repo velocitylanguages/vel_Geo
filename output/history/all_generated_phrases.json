@@ -3317,7 +3317,37 @@
       "georgian": "კიდევ, ერთი კერძი.",
       "category": "Food",
       "generated_at": "2026-06-01T19:21:45.122190"
+    },
+    {
+      "english": "Beautiful mountain, look!",
+      "georgian": "მშვენიერი მთა, ნახე!",
+      "category": "Nature",
+      "generated_at": "2026-06-01T20:13:34.699279"
+    },
+    {
+      "english": "Green forest, so quiet.",
+      "georgian": "მწვანე ტყე, ძალიან მშვიდია.",
+      "category": "Nature",
+      "generated_at": "2026-06-01T20:13:34.699288"
+    },
+    {
+      "english": "Blue sky, sun shines.",
+      "georgian": "ლურჯი ცა, მზე ანათებს.",
+      "category": "Nature",
+      "generated_at": "2026-06-01T20:13:34.699290"
+    },
+    {
+      "english": "Clear river, flows fast.",
+      "georgian": "წმინდა მდინარე, სწრაფად მიედინება.",
+      "category": "Nature",
+      "generated_at": "2026-06-01T20:13:34.699291"
+    },
+    {
+      "english": "Big tree, old roots.",
+      "georgian": "დიდი ხე, ძველი ფესვებით.",
+      "category": "Nature",
+      "generated_at": "2026-06-01T20:13:34.699292"
     }
   ],
-  "last_updated": "2026-06-01T19:21:45.122192"
+  "last_updated": "2026-06-01T20:13:34.699294"
 }
