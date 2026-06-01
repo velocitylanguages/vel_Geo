@@ -3287,7 +3287,37 @@
       "georgian": "მუცელი, მტკივა.",
       "category": "Health",
       "generated_at": "2026-05-31T21:00:13.139359"
+    },
+    {
+      "english": "Delicious, very tasty!",
+      "georgian": "ძალიან, გემრიელია!",
+      "category": "Food",
+      "generated_at": "2026-06-01T19:21:45.122180"
+    },
+    {
+      "english": "I want, khachapuri.",
+      "georgian": "მინდა, ხაჭაპური.",
+      "category": "Food",
+      "generated_at": "2026-06-01T19:21:45.122186"
+    },
+    {
+      "english": "One, glass of wine.",
+      "georgian": "ერთი, ჭიქა ღვინო.",
+      "category": "Food",
+      "generated_at": "2026-06-01T19:21:45.122188"
+    },
+    {
+      "english": "This is, Georgian bread.",
+      "georgian": "ეს არის, ქართული პური.",
+      "category": "Food",
+      "generated_at": "2026-06-01T19:21:45.122189"
+    },
+    {
+      "english": "Another, dish please.",
+      "georgian": "კიდევ, ერთი კერძი.",
+      "category": "Food",
+      "generated_at": "2026-06-01T19:21:45.122190"
     }
   ],
-  "last_updated": "2026-05-31T21:00:13.139361"
+  "last_updated": "2026-06-01T19:21:45.122192"
 }
