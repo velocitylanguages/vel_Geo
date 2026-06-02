@@ -3401,7 +3401,37 @@
       "georgian": "მშვიდობით, მეგობარო!",
       "category": "Friendship",
       "generated_at": "2026-06-01T22:33:49.310156"
+    },
+    {
+      "english": "Where is the, bathroom?",
+      "georgian": "სად არის, აბაზანა?",
+      "category": "Travel",
+      "generated_at": "2026-06-02T02:51:57.370620"
+    },
+    {
+      "english": "Where is, the hotel?",
+      "georgian": "სად არის, სასტუმრო?",
+      "category": "Travel",
+      "generated_at": "2026-06-02T02:51:57.370629"
+    },
+    {
+      "english": "I want, to eat.",
+      "georgian": "მინდა, ვჭამო.",
+      "category": "Travel",
+      "generated_at": "2026-06-02T02:51:57.370631"
+    },
+    {
+      "english": "Where can, I buy?, tickets?",
+      "georgian": "სად ვიყიდო, ბილეთები?",
+      "category": "Travel",
+      "generated_at": "2026-06-02T02:51:57.370632"
+    },
+    {
+      "english": "It's very, beautiful.",
+      "georgian": "ძალიან, ლამაზია.",
+      "category": "Travel",
+      "generated_at": "2026-06-02T02:51:57.370633"
     }
   ],
-  "last_updated": "2026-06-01T22:33:49.310158"
+  "last_updated": "2026-06-02T02:51:57.370634"
 }
