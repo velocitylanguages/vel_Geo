@@ -3491,7 +3491,31 @@
       "georgian": "ეს თქვენს მარჯვნივ არის.",
       "category": "Directions",
       "generated_at": "2026-06-02T19:38:30.330985"
+    },
+    {
+      "english": "This means a lot.",
+      "georgian": "ბევრი რამისთვის მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T20:50:44.958330"
+    },
+    {
+      "english": "Grateful for your time.",
+      "georgian": "დროისთვის, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T20:50:44.958339"
+    },
+    {
+      "english": "You're the best!",
+      "georgian": "საუკეთესო ხართ!",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T20:50:44.958340"
+    },
+    {
+      "english": "Thank you, indeed.",
+      "georgian": "ნამდვილად, მადლობა.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T20:50:44.958342"
     }
   ],
-  "last_updated": "2026-06-02T19:38:30.330986"
+  "last_updated": "2026-06-02T20:50:44.958343"
 }
