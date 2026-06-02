@@ -3461,7 +3461,37 @@
       "georgian": "მადლობა, ყველაფრისთვის.",
       "category": "Gratitude",
       "generated_at": "2026-06-02T18:06:48.675609"
+    },
+    {
+      "english": "Go straight, then turn right.",
+      "georgian": "სწორად წადით, მერე მარჯვნივ მოუხვიეთ.",
+      "category": "Directions",
+      "generated_at": "2026-06-02T19:38:30.330972"
+    },
+    {
+      "english": "Turn left, at the corner.",
+      "georgian": "მარცხნივ მოუხვიეთ, კუთხეში.",
+      "category": "Directions",
+      "generated_at": "2026-06-02T19:38:30.330981"
+    },
+    {
+      "english": "Where is the nearest bank?",
+      "georgian": "სად არის უახლოესი ბანკი?",
+      "category": "Directions",
+      "generated_at": "2026-06-02T19:38:30.330983"
+    },
+    {
+      "english": "It's on your left.",
+      "georgian": "ეს თქვენს მარცხნივ არის.",
+      "category": "Directions",
+      "generated_at": "2026-06-02T19:38:30.330984"
+    },
+    {
+      "english": "It's on your right.",
+      "georgian": "ეს თქვენს მარჯვნივ არის.",
+      "category": "Directions",
+      "generated_at": "2026-06-02T19:38:30.330985"
     }
   ],
-  "last_updated": "2026-06-02T18:06:48.675611"
+  "last_updated": "2026-06-02T19:38:30.330986"
 }
