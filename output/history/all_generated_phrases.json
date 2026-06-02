@@ -3515,7 +3515,37 @@
       "georgian": "ნამდვილად, მადლობა.",
       "category": "Gratitude",
       "generated_at": "2026-06-02T20:50:44.958342"
+    },
+    {
+      "english": "Let's start, the meeting.",
+      "georgian": "დავიწყოთ, შეხვედრა.",
+      "category": "Work",
+      "generated_at": "2026-06-02T22:23:10.094022"
+    },
+    {
+      "english": "I need help, please.",
+      "georgian": "დახმარება მჭირდება, გთხოვთ.",
+      "category": "Work",
+      "generated_at": "2026-06-02T22:23:10.094032"
+    },
+    {
+      "english": "When is the deadline?",
+      "georgian": "როდის არის, ვადა?",
+      "category": "Work",
+      "generated_at": "2026-06-02T22:23:10.094034"
+    },
+    {
+      "english": "This is important, work.",
+      "georgian": "ეს არის, მნიშვნელოვანი, სამსახური.",
+      "category": "Work",
+      "generated_at": "2026-06-02T22:23:10.094035"
+    },
+    {
+      "english": "I will finish, soon.",
+      "georgian": "მალე, დავამთავრებ.",
+      "category": "Work",
+      "generated_at": "2026-06-02T22:23:10.094036"
     }
   ],
-  "last_updated": "2026-06-02T20:50:44.958343"
+  "last_updated": "2026-06-02T22:23:10.094037"
 }
