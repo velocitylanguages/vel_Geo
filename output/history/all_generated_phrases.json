@@ -3431,7 +3431,37 @@
       "georgian": "ძალიან, ლამაზია.",
       "category": "Travel",
       "generated_at": "2026-06-02T02:51:57.370633"
+    },
+    {
+      "english": "I'm very grateful.",
+      "georgian": "ძალიან მადლობელი ვარ.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T18:06:48.675596"
+    },
+    {
+      "english": "Thanks for your help.",
+      "georgian": "მადლობა, დახმარებისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T18:06:48.675605"
+    },
+    {
+      "english": "You are kind.",
+      "georgian": "ძალიან კეთილი ხართ.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T18:06:48.675607"
+    },
+    {
+      "english": "I appreciate it.",
+      "georgian": "ვაფასებ ამას.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T18:06:48.675608"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "georgian": "მადლობა, ყველაფრისთვის.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-02T18:06:48.675609"
     }
   ],
-  "last_updated": "2026-06-02T02:51:57.370634"
+  "last_updated": "2026-06-02T18:06:48.675611"
 }
