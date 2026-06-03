@@ -3605,7 +3605,31 @@
       "georgian": "იმედი, ანათებს, ნათლად.",
       "category": "Wisdom",
       "generated_at": "2026-06-03T18:24:30.400665"
+    },
+    {
+      "english": "What time is it?",
+      "georgian": "რომელი საათია?",
+      "category": "Home",
+      "generated_at": "2026-06-03T20:56:45.087323"
+    },
+    {
+      "english": "Close the door, please.",
+      "georgian": "კარი დახურეთ, გთხოვთ.",
+      "category": "Home",
+      "generated_at": "2026-06-03T20:56:45.087329"
+    },
+    {
+      "english": "Is there Wi-Fi here?",
+      "georgian": "აქ არის Wi-Fi?",
+      "category": "Home",
+      "generated_at": "2026-06-03T20:56:45.087331"
+    },
+    {
+      "english": "Good night, everyone.",
+      "georgian": "ღამე მშვიდობისა, ყველას.",
+      "category": "Home",
+      "generated_at": "2026-06-03T20:56:45.087332"
     }
   ],
-  "last_updated": "2026-06-03T18:24:30.400667"
+  "last_updated": "2026-06-03T20:56:45.087334"
 }
