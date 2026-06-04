@@ -3629,7 +3629,37 @@
       "georgian": "ღამე მშვიდობისა, ყველას.",
       "category": "Home",
       "generated_at": "2026-06-03T20:56:45.087332"
+    },
+    {
+      "english": "Wild flowers, smell nice.",
+      "georgian": "ველური ყვავილები, ლამაზად სურნელებენ.",
+      "category": "Nature",
+      "generated_at": "2026-06-04T18:11:29.438875"
+    },
+    {
+      "english": "Rocky path, careful step.",
+      "georgian": "კლდოვანი ბილიკი, ფრთხილად იარე.",
+      "category": "Nature",
+      "generated_at": "2026-06-04T18:11:29.438885"
+    },
+    {
+      "english": "Evening breeze, cool air.",
+      "georgian": "საღამოს ნიავი, გრილი ჰაერი.",
+      "category": "Nature",
+      "generated_at": "2026-06-04T18:11:29.438887"
+    },
+    {
+      "english": "Bright stars, night sky.",
+      "georgian": "მზიანი ვარსკვლავები, ღამის ცა.",
+      "category": "Nature",
+      "generated_at": "2026-06-04T18:11:29.438888"
+    },
+    {
+      "english": "Peaceful lake, reflection.",
+      "georgian": "მშვიდი ტბა, ანარეკლი.",
+      "category": "Nature",
+      "generated_at": "2026-06-04T18:11:29.438889"
     }
   ],
-  "last_updated": "2026-06-03T20:56:45.087334"
+  "last_updated": "2026-06-04T18:11:29.438890"
 }
