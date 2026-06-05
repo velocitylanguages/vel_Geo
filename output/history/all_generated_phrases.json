@@ -3671,7 +3671,37 @@
       "georgian": "განვიხილოთ, ეს.",
       "category": "Work",
       "generated_at": "2026-06-05T02:43:47.028568"
+    },
+    {
+      "english": "What time is it, please?",
+      "georgian": "რომელი საათია, გთხოვთ?",
+      "category": "Time",
+      "generated_at": "2026-06-05T17:50:01.601901"
+    },
+    {
+      "english": "It is 5 o'clock.",
+      "georgian": "ხუთი საათია.",
+      "category": "Time",
+      "generated_at": "2026-06-05T17:50:01.601910"
+    },
+    {
+      "english": "It is noon.",
+      "georgian": "შუადღეა.",
+      "category": "Time",
+      "generated_at": "2026-06-05T17:50:01.601911"
+    },
+    {
+      "english": "It is midnight.",
+      "georgian": "შუაღამეა.",
+      "category": "Time",
+      "generated_at": "2026-06-05T17:50:01.601913"
+    },
+    {
+      "english": "In the morning, at 8.",
+      "georgian": "დილით, რვაზე.",
+      "category": "Time",
+      "generated_at": "2026-06-05T17:50:01.601914"
     }
   ],
-  "last_updated": "2026-06-05T02:43:47.028570"
+  "last_updated": "2026-06-05T17:50:01.601915"
 }
