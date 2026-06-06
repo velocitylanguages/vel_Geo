@@ -3743,7 +3743,37 @@
       "georgian": "ფუტკრები ზუზუნებენ, ყვავილებთან.",
       "category": "Animals",
       "generated_at": "2026-06-06T15:18:44.093040"
+    },
+    {
+      "english": "My father, is good.",
+      "georgian": "მამაჩემი, კარგად არის.",
+      "category": "Family",
+      "generated_at": "2026-06-06T17:04:47.941094"
+    },
+    {
+      "english": "My brother, my sister.",
+      "georgian": "ჩემი ძმა, ჩემი და.",
+      "category": "Family",
+      "generated_at": "2026-06-06T17:04:47.941104"
+    },
+    {
+      "english": "My grandmother, loves me.",
+      "georgian": "ბებიაჩემი, მიყვარს.",
+      "category": "Family",
+      "generated_at": "2026-06-06T17:04:47.941105"
+    },
+    {
+      "english": "My grandfather, is old.",
+      "georgian": "პაპაჩემი, მოხუცია.",
+      "category": "Family",
+      "generated_at": "2026-06-06T17:04:47.941107"
+    },
+    {
+      "english": "Our family, is big.",
+      "georgian": "ჩვენი ოჯახი, დიდია.",
+      "category": "Family",
+      "generated_at": "2026-06-06T17:04:47.941108"
     }
   ],
-  "last_updated": "2026-06-06T15:18:44.093042"
+  "last_updated": "2026-06-06T17:04:47.941110"
 }
