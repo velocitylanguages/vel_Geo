@@ -3713,7 +3713,37 @@
       "georgian": "აიღეთ მეორე ქუჩა.",
       "category": "Directions",
       "generated_at": "2026-06-06T02:31:06.779044"
+    },
+    {
+      "english": "Fish swim, in water.",
+      "georgian": "თევზები ცურავენ, წყალში.",
+      "category": "Animals",
+      "generated_at": "2026-06-06T15:18:44.093030"
+    },
+    {
+      "english": "The lion roars, powerfully.",
+      "georgian": "ლომი ღრიალებს, ძლიერად.",
+      "category": "Animals",
+      "generated_at": "2026-06-06T15:18:44.093036"
+    },
+    {
+      "english": "Monkeys climb, trees.",
+      "georgian": "მაიმუნები ადიან, ხეებზე.",
+      "category": "Animals",
+      "generated_at": "2026-06-06T15:18:44.093038"
+    },
+    {
+      "english": "An elephant walks, slowly.",
+      "georgian": "სპილო მიდის, ნელ-ნელა.",
+      "category": "Animals",
+      "generated_at": "2026-06-06T15:18:44.093039"
+    },
+    {
+      "english": "Bees buzz, around flowers.",
+      "georgian": "ფუტკრები ზუზუნებენ, ყვავილებთან.",
+      "category": "Animals",
+      "generated_at": "2026-06-06T15:18:44.093040"
     }
   ],
-  "last_updated": "2026-06-06T02:31:06.779046"
+  "last_updated": "2026-06-06T15:18:44.093042"
 }
