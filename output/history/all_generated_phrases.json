@@ -3773,7 +3773,37 @@
       "georgian": "ჩვენი ოჯახი, დიდია.",
       "category": "Family",
       "generated_at": "2026-06-06T17:04:47.941108"
+    },
+    {
+      "english": "I want, to buy this.",
+      "georgian": "ამას, ვიყიდი.",
+      "category": "Shopping",
+      "generated_at": "2026-06-06T21:05:05.600238"
+    },
+    {
+      "english": "Do you have, this color?",
+      "georgian": "ამ ფერის, გაქვთ?",
+      "category": "Shopping",
+      "generated_at": "2026-06-06T21:05:05.600249"
+    },
+    {
+      "english": "Can I try, it on?",
+      "georgian": "შემიძლია, ვცადო?",
+      "category": "Shopping",
+      "generated_at": "2026-06-06T21:05:05.600251"
+    },
+    {
+      "english": "Where is, the fitting room?",
+      "georgian": "სად არის, გასახდელი?",
+      "category": "Shopping",
+      "generated_at": "2026-06-06T21:05:05.600252"
+    },
+    {
+      "english": "I'm looking, for a gift.",
+      "georgian": "საჩუქარს, ვეძებ.",
+      "category": "Shopping",
+      "generated_at": "2026-06-06T21:05:05.600253"
     }
   ],
-  "last_updated": "2026-06-06T17:04:47.941110"
+  "last_updated": "2026-06-06T21:05:05.600257"
 }
