@@ -3701,7 +3701,19 @@
       "georgian": "დილით, რვაზე.",
       "category": "Time",
       "generated_at": "2026-06-05T17:50:01.601914"
+    },
+    {
+      "english": "It's very close, here.",
+      "georgian": "ძალიან ახლოს არის, აქ.",
+      "category": "Directions",
+      "generated_at": "2026-06-06T02:31:06.779035"
+    },
+    {
+      "english": "Take the second street.",
+      "georgian": "აიღეთ მეორე ქუჩა.",
+      "category": "Directions",
+      "generated_at": "2026-06-06T02:31:06.779044"
     }
   ],
-  "last_updated": "2026-06-05T17:50:01.601915"
+  "last_updated": "2026-06-06T02:31:06.779046"
 }
