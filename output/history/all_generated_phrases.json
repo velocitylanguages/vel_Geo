@@ -3833,7 +3833,25 @@
       "georgian": "შენზე ვფიქრობ, სულ.",
       "category": "Love",
       "generated_at": "2026-06-07T17:09:19.406516"
+    },
+    {
+      "english": "This is, my wife.",
+      "georgian": "ეს არის, ჩემი ცოლი.",
+      "category": "Family",
+      "generated_at": "2026-06-07T19:23:42.466903"
+    },
+    {
+      "english": "This is, my husband.",
+      "georgian": "ეს არის, ჩემი ქმარი.",
+      "category": "Family",
+      "generated_at": "2026-06-07T19:23:42.466911"
+    },
+    {
+      "english": "My son, is small.",
+      "georgian": "ჩემი შვილი, პატარაა.",
+      "category": "Family",
+      "generated_at": "2026-06-07T19:23:42.466913"
     }
   ],
-  "last_updated": "2026-06-07T17:09:19.406518"
+  "last_updated": "2026-06-07T19:23:42.466915"
 }
