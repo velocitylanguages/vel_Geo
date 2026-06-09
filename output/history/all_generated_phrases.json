@@ -3851,7 +3851,37 @@
       "georgian": "ჩემი შვილი, პატარაა.",
       "category": "Family",
       "generated_at": "2026-06-07T19:23:42.466913"
+    },
+    {
+      "english": "Beautiful song, I like it.",
+      "georgian": "ლამაზი სიმღერაა, მომწონს.",
+      "category": "Music",
+      "generated_at": "2026-06-09T16:32:46.892869"
+    },
+    {
+      "english": "What is this music?",
+      "georgian": "ეს რა მუსიკაა?",
+      "category": "Music",
+      "generated_at": "2026-06-09T16:32:46.892878"
+    },
+    {
+      "english": "Play it again, please.",
+      "georgian": "კიდევ დაუკარი, გთხოვ.",
+      "category": "Music",
+      "generated_at": "2026-06-09T16:32:46.892880"
+    },
+    {
+      "english": "This melody is nice.",
+      "georgian": "ეს მელოდია კარგია.",
+      "category": "Music",
+      "generated_at": "2026-06-09T16:32:46.892881"
+    },
+    {
+      "english": "I love Georgian music.",
+      "georgian": "ქართული მუსიკა მიყვარს.",
+      "category": "Music",
+      "generated_at": "2026-06-09T16:32:46.892882"
     }
   ],
-  "last_updated": "2026-06-07T19:23:42.466915"
+  "last_updated": "2026-06-09T16:32:46.892883"
 }
