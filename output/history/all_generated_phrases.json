@@ -3965,7 +3965,31 @@
       "georgian": "ბარათებს, იღებთ?",
       "category": "Shopping",
       "generated_at": "2026-06-10T20:31:38.469537"
+    },
+    {
+      "english": "Let's study, together.",
+      "georgian": "ვისწავლოთ, ერთად.",
+      "category": "Education",
+      "generated_at": "2026-06-10T22:02:52.872359"
+    },
+    {
+      "english": "This word, means...",
+      "georgian": "ეს სიტყვა, ნიშნავს...",
+      "category": "Education",
+      "generated_at": "2026-06-10T22:02:52.872365"
+    },
+    {
+      "english": "My teacher, is kind.",
+      "georgian": "ჩემი მასწავლებელი, კეთილია.",
+      "category": "Education",
+      "generated_at": "2026-06-10T22:02:52.872367"
+    },
+    {
+      "english": "I need, help.",
+      "georgian": "დახმარება, მჭირდება.",
+      "category": "Education",
+      "generated_at": "2026-06-10T22:02:52.872368"
     }
   ],
-  "last_updated": "2026-06-10T20:31:38.469539"
+  "last_updated": "2026-06-10T22:02:52.872370"
 }
