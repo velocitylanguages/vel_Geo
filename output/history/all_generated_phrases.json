@@ -3911,7 +3911,37 @@
       "georgian": "იმედია, კარგად, ხართ.",
       "category": "Greetings",
       "generated_at": "2026-06-09T21:48:07.033577"
+    },
+    {
+      "english": "Six, houses, for sale.",
+      "georgian": "ექვსი, სახლი, გასაყიდად.",
+      "category": "Numbers",
+      "generated_at": "2026-06-10T02:43:25.350298"
+    },
+    {
+      "english": "Seven, friends, arrived.",
+      "georgian": "შვიდი, მეგობარი, ჩამოვიდა.",
+      "category": "Numbers",
+      "generated_at": "2026-06-10T02:43:25.350307"
+    },
+    {
+      "english": "Eight, birds, are singing.",
+      "georgian": "რვა, ჩიტი, მღერის.",
+      "category": "Numbers",
+      "generated_at": "2026-06-10T02:43:25.350308"
+    },
+    {
+      "english": "Nine, flowers, bloomed.",
+      "georgian": "ცხრა, ყვავილი, აყვავდა.",
+      "category": "Numbers",
+      "generated_at": "2026-06-10T02:43:25.350310"
+    },
+    {
+      "english": "Ten, fingers, on hand.",
+      "georgian": "ათი, თითი, ხელზე.",
+      "category": "Numbers",
+      "generated_at": "2026-06-10T02:43:25.350311"
     }
   ],
-  "last_updated": "2026-06-09T21:48:07.033579"
+  "last_updated": "2026-06-10T02:43:25.350312"
 }
