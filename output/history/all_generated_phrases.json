@@ -3947,7 +3947,25 @@
       "georgian": "უკაცრავად, ბატონო/ქალბატონო.",
       "category": "Travel",
       "generated_at": "2026-06-10T17:22:17.184755"
+    },
+    {
+      "english": "This is, too expensive.",
+      "georgian": "ძალიან, ძვირია.",
+      "category": "Shopping",
+      "generated_at": "2026-06-10T20:31:38.469524"
+    },
+    {
+      "english": "I'll take, this one.",
+      "georgian": "ამას, ავიღებ.",
+      "category": "Shopping",
+      "generated_at": "2026-06-10T20:31:38.469536"
+    },
+    {
+      "english": "Do you accept, cards?",
+      "georgian": "ბარათებს, იღებთ?",
+      "category": "Shopping",
+      "generated_at": "2026-06-10T20:31:38.469537"
     }
   ],
-  "last_updated": "2026-06-10T17:22:17.184765"
+  "last_updated": "2026-06-10T20:31:38.469539"
 }
