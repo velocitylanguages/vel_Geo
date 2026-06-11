@@ -4019,7 +4019,37 @@
       "georgian": "დღეს ცხელა.",
       "category": "Weather",
       "generated_at": "2026-06-11T02:52:57.235863"
+    },
+    {
+      "english": "Can you sing this?",
+      "georgian": "ამას იმღერებ?",
+      "category": "Music",
+      "generated_at": "2026-06-11T18:44:07.038780"
+    },
+    {
+      "english": "Very rhythmic, energetic.",
+      "georgian": "ძალიან რიტმული, ენერგიული.",
+      "category": "Music",
+      "generated_at": "2026-06-11T18:44:07.038790"
+    },
+    {
+      "english": "This is a folk song.",
+      "georgian": "ეს ხალხური სიმღერაა.",
+      "category": "Music",
+      "generated_at": "2026-06-11T18:44:07.038791"
+    },
+    {
+      "english": "Let's dance to this.",
+      "georgian": "ამაზე ვიცეკვოთ.",
+      "category": "Music",
+      "generated_at": "2026-06-11T18:44:07.038792"
+    },
+    {
+      "english": "The voice is amazing.",
+      "georgian": "ხმა საოცარია.",
+      "category": "Music",
+      "generated_at": "2026-06-11T18:44:07.038794"
     }
   ],
-  "last_updated": "2026-06-11T02:52:57.235864"
+  "last_updated": "2026-06-11T18:44:07.038796"
 }
