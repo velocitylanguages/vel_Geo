@@ -3989,7 +3989,37 @@
       "georgian": "დახმარება, მჭირდება.",
       "category": "Education",
       "generated_at": "2026-06-10T22:02:52.872368"
+    },
+    {
+      "english": "Is it cloudy, maybe?",
+      "georgian": "ღრუბლიანია, იქნებ?",
+      "category": "Weather",
+      "generated_at": "2026-06-11T02:52:57.235848"
+    },
+    {
+      "english": "Snowing, very heavily.",
+      "georgian": "თოვს, ძალიან.",
+      "category": "Weather",
+      "generated_at": "2026-06-11T02:52:57.235857"
+    },
+    {
+      "english": "The sky, is clear.",
+      "georgian": "ცათა, ნათელია.",
+      "category": "Weather",
+      "generated_at": "2026-06-11T02:52:57.235861"
+    },
+    {
+      "english": "What is the weather?",
+      "georgian": "როგორი ამინდია?",
+      "category": "Weather",
+      "generated_at": "2026-06-11T02:52:57.235862"
+    },
+    {
+      "english": "It is hot, today.",
+      "georgian": "დღეს ცხელა.",
+      "category": "Weather",
+      "generated_at": "2026-06-11T02:52:57.235863"
     }
   ],
-  "last_updated": "2026-06-10T22:02:52.872370"
+  "last_updated": "2026-06-11T02:52:57.235864"
 }
