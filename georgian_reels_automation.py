@@ -81,11 +81,22 @@ GEORGIAN_VOICE = "ka-GE-GiorgiNeural"  # Native Georgian male voice
 # AI Model - loaded from environment
 AI_MODEL = os.getenv("AI_MODEL")
 
+def mask_key(k):
+    return f"{k[:6]}...{k[-4:]}" if k and len(k) > 10 else ("MISSING" if not k else k)
+
+print(f"[config] POLLINATIONS_API_KEY: {mask_key(POLLINATIONS_API_KEY)}")
+print(f"[config] AI_MODEL: {AI_MODEL or 'MISSING'}")
+
 if not AI_MODEL:
-    print("⚠️  WARNING: AI_MODEL not found in .env file. AI generation may fail.")
+    print("⚠️  WARNING: AI_MODEL not found in .env file. AI generation will fail.")
+if not POLLINATIONS_API_KEY:
+    print("⚠️  WARNING: POLLINATIONS_API_KEY not found in .env file. AI generation will fail.")
 
 # Phrase history file
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
+
+# Recent categories file (for rotation across runs)
+RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
 
 
 # ============== PHRASE HISTORY MANAGEMENT ==============
@@ -135,32 +146,89 @@ def add_phrases_to_history(phrases, category):
     print(f"[history] Added {len(phrases)} phrases to history (total: {len(history['phrases'])})")
 
 
+# ============== CATEGORY ROTATION ==============
+
+def load_recent_categories():
+    """Load recently used categories to avoid repetition"""
+    if RECENT_CATEGORIES_FILE.exists():
+        try:
+            with open(RECENT_CATEGORIES_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            print(f"[rotation] Error loading recent categories: {e}")
+    return {"date": None, "last_3_days": []}
+
+
+def save_recent_categories(data):
+    """Save recent categories"""
+    data["date"] = datetime.now().strftime("%Y-%m-%d")
+    with open(RECENT_CATEGORIES_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def get_rotation_category():
+    """Pick a category not used in the last 3 days, or least recently used"""
+    recent = load_recent_categories()
+    used_today = recent.get("last_3_days", [])
+
+    # Flatten all recently used categories
+    recently_used = set()
+    for day_entry in used_today:
+        if isinstance(day_entry, dict):
+            recently_used.update(day_entry.get("categories", []))
+        elif isinstance(day_entry, list):
+            recently_used.update(day_entry)
+
+    # Filter available categories
+    available = [c for c in CATEGORIES_ENGLISH if c not in recently_used]
+
+    if not available:
+        available = list(CATEGORIES_ENGLISH)
+
+    chosen = random.choice(available)
+
+    # Update recent categories
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    today_entry = None
+    for i, entry in enumerate(used_today):
+        if isinstance(entry, dict) and entry.get("date") == today_str:
+            today_entry = i
+            break
+
+    if today_entry is not None:
+        if chosen not in used_today[today_entry].get("categories", []):
+            used_today[today_entry]["categories"].append(chosen)
+    else:
+        used_today.append({"date": today_str, "categories": [chosen]})
+        # Keep only last 3 days
+        if len(used_today) > 3:
+            used_today = used_today[-3:]
+
+    recent["last_3_days"] = used_today
+    save_recent_categories(recent)
+
+    print(f"[rotation] Chose category: {chosen} (avoiding: {recently_used - {chosen}})")
+    return chosen
+
+
 # ============== GEORGIAN CONTENT GENERATION ==============
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    """Generate unique English-Georgian phrases with natural pauses"""
+    """Generate unique English-Georgian phrases using AI. Raises on failure."""
 
-    # Load history once for efficiency
     used_phrases = get_used_phrases_set()
     collected_unique_phrases = []
-    
-    # Try AI first
-    max_attempts = 3
-    for attempt in range(max_attempts):
-        try:
-            import requests
-            url = "https://gen.pollinations.ai/v1/chat/completions"
-            headers = {
-                "Authorization": f"Bearer {POLLINATIONS_API_KEY}" if POLLINATIONS_API_KEY else "",
-                "Content-Type": "application/json"
-            }
-            
-            # Adjust request if no key
-            if not POLLINATIONS_API_KEY:
-                headers.pop("Authorization", None)
 
-            # Inform the AI about avoiding common phrases
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Georgian.
+    import requests
+    url = "https://gen.pollinations.ai/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {POLLINATIONS_API_KEY}" if POLLINATIONS_API_KEY else "",
+        "Content-Type": "application/json"
+    }
+    if not POLLINATIONS_API_KEY:
+        headers.pop("Authorization", None)
+
+    prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Georgian.
 
 IMPORTANT RULES:
 1. Keep phrases SHORT (3-10 words max per language)
@@ -180,172 +248,58 @@ Return as JSON array:
 
 IMPORTANT: Create FRESH, UNIQUE, and DIVERSE phrases. Use proper Georgian Mkhedruli script."""
 
-            payload = {
-                "model": AI_MODEL,
-                "messages": [
-                    {"role": "system", "content": "You are a Georgian language teacher. Create short, natural phrases with proper Georgian script. You MUST return ONLY valid JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                "temperature": 1.0 # Increased for more variety
-            }
-
-            response = requests.post(url, headers=headers, json=payload, timeout=60)
-            if response.status_code != 200:
-                print(f"[content] API Error {response.status_code}: {response.text[:200]}")
-                continue
-                
-            data = response.json()
-            content = data["choices"][0]["message"]["content"].strip()
-
-            # Extract JSON
-            json_content = content
-            if "```json" in content:
-                json_content = content.split("```json")[1].split("```")[0].strip()
-            elif "```" in content:
-                json_content = content.split("```")[1].split("```")[0].strip()
-            
-            # Clean up potential leading/trailing text if not in blocks
-            if not json_content.startswith("[") and "[" in json_content:
-                json_content = json_content[json_content.find("["):]
-            if not json_content.endswith("]") and "]" in json_content:
-                json_content = json_content[:json_content.rfind("]")+1]
-
-            phrases = json.loads(json_content)
-
-            # Filter and validate
-            for phrase in phrases:
-                # Basic validation
-                if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
-                    continue
-                    
-                if len(phrase["english"].split()) > 15:
-                    continue
-                
-                phrase_en = phrase["english"].strip()
-                if phrase_en.lower() not in used_phrases:
-                    # Check if already collected in this run
-                    if not any(p["english"].lower() == phrase_en.lower() for p in collected_unique_phrases):
-                        collected_unique_phrases.append(phrase)
-                        used_phrases.add(phrase_en.lower())
-                
-                if len(collected_unique_phrases) >= num_phrases:
-                    break
-
-            if len(collected_unique_phrases) >= num_phrases:
-                final_phrases = collected_unique_phrases[:num_phrases]
-                add_phrases_to_history(final_phrases, category_english)
-                return final_phrases
-
-        except Exception as e:
-            print(f"[content] Attempt {attempt + 1} failed: {e}")
-
-    # If we collected SOME unique phrases but not enough, use them and fill with fallback
-    if collected_unique_phrases:
-        print(f"[content] Only found {len(collected_unique_phrases)} unique phrases via AI. Filling rest with fallbacks.")
-        needed = num_phrases - len(collected_unique_phrases)
-        fallbacks = get_fallback_georgian_phrases(category_english, needed, exclude_set=used_phrases)
-        final_phrases = collected_unique_phrases + fallbacks
-        add_phrases_to_history(collected_unique_phrases, category_english) # Only add AI ones to history, fallback adds itself if it wants
-        return final_phrases[:num_phrases]
-
-    # Fallback to hardcoded phrases
-    print("[content] Using fallback phrases...")
-    return get_fallback_georgian_phrases(category_english, num_phrases, exclude_set=used_phrases)
-
-
-def get_fallback_georgian_phrases(category: str, num_phrases: int, exclude_set: set = None) -> list:
-    """Get fallback Georgian phrases with proper pronunciation"""
-
-    all_fallbacks = {
-        "Greetings": [
-            {"english": "Hello, how are you?", "georgian": "გამარჯობა, როგორ ხარ?", "pronunciation": "Gah-mar-joh-bah, roh-gor khar?"},
-            {"english": "Good morning!", "georgian": "დილა მშვიდობისა!", "pronunciation": "Dee-lah mshvee-doh-bee-sah!"},
-            {"english": "Good evening!", "georgian": "საღამო მშვიდობისა!", "pronunciation": "Sah-ghah-moh mshvee-doh-bee-sah!"},
-            {"english": "Nice to meet you.", "georgian": "სასიამოვნოა თქვენი გაცნობა.", "pronunciation": "Sah-see-ah-mov-noh-ah tkveh-nee gats-noh-bah."},
-            {"english": "What is your name?", "georgian": "რა გქვიათ?", "pronunciation": "Rah ghkvee-aht?"},
-            {"english": "See you later.", "georgian": "მოგვიანებით შევხვდებით.", "pronunciation": "Moh-gvee-ah-neh-beet shehv-khvdeh-beet."},
-            {"english": "Have a nice day.", "georgian": "კარგ დღეს გისურვებთ.", "pronunciation": "Kahrg dghes gee-soor-vehbt."},
+    payload = {
+        "model": AI_MODEL,
+        "messages": [
+            {"role": "system", "content": "You are a Georgian language teacher. Create short, natural phrases with proper Georgian script. You MUST return ONLY valid JSON."},
+            {"role": "user", "content": prompt}
         ],
-        "Education": [
-            {"english": "I am learning Georgian.", "georgian": "ქართულს ვსწავლობ.", "pronunciation": "Khar-tool-s vstsahv-lob."},
-            {"english": "Can you repeat that?", "georgian": "შეგიძლიათ გაიმეოროთ?", "pronunciation": "Sheh-geez-lee-aht gah-ee-meh-oh-roht?"},
-            {"english": "I don't understand.", "georgian": "ვერ ვიგებ.", "pronunciation": "Vehr vee-gehb."},
-            {"english": "How do you say this?", "georgian": "ეს როგორ ითქმის?", "pronunciation": "Ess roh-gor eet-khmees?"},
-            {"english": "What does this mean?", "georgian": "ეს რას ნიშნავს?", "pronunciation": "Ess rahs neesh-nahvs?"},
-            {"english": "Slowly, please.", "georgian": "ნელა, გთხოვთ.", "pronunciation": "Neh-lah, gthkhovt."},
-            {"english": "Write it down, please.", "georgian": "დაწერეთ, გთხოვთ.", "pronunciation": "Dah-tseh-reht, gthkhovt."},
-        ],
-        "Family": [
-            {"english": "This is my family.", "georgian": "ეს არის ჩემი ოჯახი.", "pronunciation": "Ess ah-rees chkeh-mee oh-jah-khee."},
-            {"english": "I love my mother.", "georgian": "მიყვარს ჩემი დედა.", "pronunciation": "Mee-khvars chkeh-mee deh-dah."},
-            {"english": "My father is kind.", "georgian": "ჩემი მამა კარგია.", "pronunciation": "Chkeh-mee mah-mah kahr-gee-ah."},
-            {"english": "She is my sister.", "georgian": "ის ჩემი დაა.", "pronunciation": "Ees chkeh-mee dah-ah."},
-            {"english": "He is my brother.", "georgian": "ის ჩემი ძმაა.", "pronunciation": "Ees chkeh-mee dzmah-ah."},
-        ],
-        "Food": [
-            {"english": "This food is delicious.", "georgian": "ეს საკვები გემრიელია.", "pronunciation": "Ess sah-khveh-bee gem-ree-eh-lee-ah."},
-            {"english": "I am hungry.", "georgian": "მშია.", "pronunciation": "Mshee-ah."},
-            {"english": "I am thirsty.", "georgian": "მწყურია.", "pronunciation": "Mtskoo-ree-ah."},
-            {"english": "Cheers to your health!", "georgian": "გაგიმარჯოს!", "pronunciation": "Gah-gee-mahr-jos!"},
-            {"english": "Bon appetit!", "georgian": "გემრიელად მიირთვით!", "pronunciation": "Gehm-ree-eh-lahd mee-eert-kveet!"},
-            {"english": "I want water.", "georgian": "წყალი მინდა.", "pronunciation": "Tskah-lee meen-dah."},
-        ],
-        "Travel": [
-            {"english": "Where is the hotel?", "georgian": "სად არის სასტუმრო?", "pronunciation": "Sahd ah-rees sahs-toom-roh?"},
-            {"english": "I need a taxi.", "georgian": "ტაქსი მჭირდება.", "pronunciation": "Tahk-see mchkeer-deh-bah."},
-            {"english": "Is it far?", "georgian": "შორს არის?", "pronunciation": "Shor-s ah-rees?"},
-            {"english": "Help me, please.", "georgian": "დამეხმარეთ, გთხოვთ.", "pronunciation": "Dah-mehkh-mah-reht, gthkhovt."},
-            {"english": "I am a tourist.", "georgian": "ტურისტი ვარ.", "pronunciation": "Too-rees-tee vahr."},
-        ],
-        "Love": [
-            {"english": "I love you.", "georgian": "მიყვარხარ.", "pronunciation": "Mee-khvar-khar."},
-            {"english": "You are beautiful.", "georgian": "შენ ლამაზი ხარ.", "pronunciation": "Shen lah-mah-zee khar."},
-            {"english": "My heart is yours.", "georgian": "ჩემი გული შენია.", "pronunciation": "Chkeh-mee goo-lee sheh-nee-ah."},
-            {"english": "I miss you.", "georgian": "მენატრები.", "pronunciation": "Meh-nah-treh-bee."},
-            {"english": "You are my everything.", "georgian": "შენ ჩემი ყველაფერი ხარ.", "pronunciation": "Shen chkeh-mee kvleh-lah-peh-ree khar."},
-        ],
-        "Success": [
-            {"english": "You will succeed.", "georgian": "შენ წარმატებას მიაღწევ.", "pronunciation": "Shen tsahr-mah-teh-bahs mee-agh-tsev."},
-            {"english": "Believe in yourself.", "georgian": "გწამდეს საკუთარი თავის.", "pronunciation": "Gtsahm-des sah-koo-tah-ree tah-vees."},
-            {"english": "Never give up.", "georgian": "არასდროს დანებდე.", "pronunciation": "Ah-rahs-dros dah-nehb-deh."},
-            {"english": "Dream big.", "georgian": "იოცნებე დიდად.", "pronunciation": "Ee-ots-neh-beh dee-dahd."},
-            {"english": "Your future is bright.", "georgian": "შენი მომავალი ნათელია.", "pronunciation": "Shenh-nee moh-mah-vah-lee nah-teh-lee-ah."},
-        ],
-        "Wisdom": [
-            {"english": "Knowledge is power.", "georgian": "ცოდნა ძალაა.", "pronunciation": "Tsohd-nah dzah-lah-ah."},
-            {"english": "Learn every day.", "georgian": "ისწავლე ყოველ დღეს.", "pronunciation": "Eests-vahv-leh kvoh-vel dhghes."},
-            {"english": "Wisdom comes with time.", "georgian": "სიბრძნე დროსთან ერთად მოდის.", "pronunciation": "See-brdz-neh drohs-tahn ehr-tahd moh-dees."},
-            {"english": "Think before you speak.", "georgian": "იფიქრე სანამ იტყვი.", "pronunciation": "Ee-peek-reh sah-nahm eet-khvee."},
-            {"english": "Patience is virtue.", "georgian": "მოთმინება სათნოებაა.", "pronunciation": "Moh-tmee-neh-bah sah-tnoh-eh-bah-ah."},
-        ],
-        "Happiness": [
-            {"english": "I am happy.", "georgian": "ბედნიერი ვარ.", "pronunciation": "Behd-nee-eh-ree vah-r."},
-            {"english": "Life is beautiful.", "georgian": "ცხოვრება ლამაზია.", "pronunciation": "Tskhov-reh-bah lah-mah-zee-ah."},
-            {"english": "Enjoy every moment.", "georgian": "ისიამოვნე ყოველი წამით.", "pronunciation": "Ee-see-ah-mov-neh kvoh-veh-lee tsah-mee-t."},
-            {"english": "Smile more often.", "georgian": "უფრო ხშირად გაიღიმე.", "pronunciation": "Oo-proh khshoo-rahd gah-ee-ghmee-meh."},
-            {"english": "Happiness is within.", "georgian": "ბედნიერება შიგნითაა.", "pronunciation": "Behd-nee-eh-reh-bah shig-nee-tah-ah."},
-        ],
-        "Gratitude": [
-            {"english": "Thank you very much.", "georgian": "დიდი მადლობა.", "pronunciation": "Dee-dee mahd-loh-bah."},
-            {"english": "I am grateful.", "georgian": "მადლიერი ვარ.", "pronunciation": "Mahd-lee-eh-ree vah-r."},
-            {"english": "You helped me.", "georgian": "შენ დამეხმარე.", "pronunciation": "Shen dah-mehkh-mah-reh."},
-            {"english": "I appreciate this.", "georgian": "ვაფასებ ამას.", "pronunciation": "Vah-pah-sehb ah-mahs."},
-            {"english": "Thanks for everything.", "georgian": "მადლობა ყველაფრისთვის.", "pronunciation": "Mahd-loh-bah kvleh-lahp-hreesth-vees."},
-        ],
+        "temperature": 1.0
     }
 
-    fallbacks = all_fallbacks.get(category, all_fallbacks["Greetings"])
-    
-    if exclude_set:
-        fresh_phrases = [p for p in fallbacks if p["english"].lower().strip() not in exclude_set]
-    else:
-        fresh_phrases = [p for p in fallbacks if not is_phrase_used(p["english"])]
-    
-    if not fresh_phrases:
-        fresh_phrases = fallbacks
-        
-    random.shuffle(fresh_phrases)
-    return fresh_phrases[:num_phrases]
+    print(f"[content] Calling AI API (model={AI_MODEL})...")
+    response = requests.post(url, headers=headers, json=payload, timeout=60)
+    if response.status_code != 200:
+        raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
+
+    data = response.json()
+    content = data["choices"][0]["message"]["content"].strip()
+
+    json_content = content
+    if "```json" in content:
+        json_content = content.split("```json")[1].split("```")[0].strip()
+    elif "```" in content:
+        json_content = content.split("```")[1].split("```")[0].strip()
+
+    if not json_content.startswith("[") and "[" in json_content:
+        json_content = json_content[json_content.find("["):]
+    if not json_content.endswith("]") and "]" in json_content:
+        json_content = json_content[:json_content.rfind("]") + 1]
+
+    phrases = json.loads(json_content)
+
+    for phrase in phrases:
+        if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
+            continue
+        if len(phrase["english"].split()) > 15:
+            continue
+        phrase_en = phrase["english"].strip()
+        if phrase_en.lower() not in used_phrases:
+            if not any(p["english"].lower() == phrase_en.lower() for p in collected_unique_phrases):
+                collected_unique_phrases.append(phrase)
+                used_phrases.add(phrase_en.lower())
+        if len(collected_unique_phrases) >= num_phrases:
+            break
+
+    if len(collected_unique_phrases) < num_phrases:
+        raise Exception(
+            f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
+            f"(needed {num_phrases}). Raw response: {content[:300]}"
+        )
+
+    final_phrases = collected_unique_phrases[:num_phrases]
+    add_phrases_to_history(final_phrases, category_english)
+    return final_phrases
 
 
 
@@ -858,7 +812,7 @@ def create_georgian_reel(category: str = None, num_phrases: int = 5):
     """Create complete Georgian learning reel"""
 
     if category is None:
-        category = random.choice(CATEGORIES_ENGLISH)
+        category = get_rotation_category()
 
     print("\n" + "="*80)
     print("🇬🇪 VELOCITY GEORGIAN - LANGUAGE LEARNING REEL 🇬🇪")

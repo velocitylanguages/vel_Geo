@@ -200,7 +200,7 @@ def upload_to_all_platforms(video_path, caption, category):
                     upload_result = upload_func(
                         video_path=video_path,
                         description=caption,
-                        title=f"Spanish: {category}"
+                        title=f"Georgian: {category}"
                     )
                 elif platform_name == "instagram":
                     upload_result = upload_func(
