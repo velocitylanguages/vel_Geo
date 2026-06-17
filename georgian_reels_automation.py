@@ -214,7 +214,7 @@ def get_rotation_category():
 # ============== GEORGIAN CONTENT GENERATION ==============
 
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    """Generate unique English-Georgian phrases using AI. Raises on failure."""
+    """Generate unique English-Georgian phrases via a single AI call."""
 
     used_phrases = get_used_phrases_set()
     collected_unique_phrases = []
@@ -228,53 +228,55 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     if not POLLINATIONS_API_KEY:
         headers.pop("Authorization", None)
 
-    prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Georgian.
+    request_count = max(num_phrases * 4, 20)
+    prompt = f"""Generate {request_count} DIFFERENT {category_english} phrases for learning Georgian.
 
-IMPORTANT RULES:
-1. Keep phrases SHORT (3-10 words max per language)
-2. Add NATURAL PAUSES using commas
-3. Each phrase should be speakable in 3-5 seconds
-4. Use authentic, commonly-spoken Georgian
-5. Include proper Georgian script (Mkhedruli)
-6. DO NOT use very basic phrases like "Hello", "How are you", "Good morning" unless they are essential for the {category_english} category.
+CRITICAL: Each phrase MUST be unique. NEVER repeat the same idea. Be CREATIVE and VARIED.
 
-For each phrase provide:
-1. English phrase (with natural pauses/commas)
-2. Georgian translation in Georgian script (Mkhedruli)
-3. Phonetic pronunciation guide (Latin alphabet for English speakers)
+Rules:
+- Short: 3-10 words per language
+- Natural commas for pauses
+- Authentic Georgian (Mkhedruli script)
+- AVOID: hello, how are you, good morning, good evening, goodbye, thank you, please, sorry, yes, no, my name is, nice to meet you (these are overused)
 
-Return as JSON array:
+Vary the phrase TYPES: some questions, some statements, some exclamations, some commands.
+
+Return JSON array:
 [{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
 
-IMPORTANT: Create FRESH, UNIQUE, and DIVERSE phrases. Use proper Georgian Mkhedruli script."""
+Return ONLY valid JSON."""
 
     payload = {
         "model": AI_MODEL,
         "messages": [
-            {"role": "system", "content": "You are a Georgian language teacher. Create short, natural phrases with proper Georgian script. You MUST return ONLY valid JSON."},
+            {"role": "system", "content": "You are a creative Georgian language teacher. Produce VARIED, UNIQUE phrases. Return ONLY valid JSON."},
             {"role": "user", "content": prompt}
         ],
-        "temperature": 1.0
+        "temperature": 1.2
     }
 
-    print(f"[content] Calling AI API (model={AI_MODEL})...")
+    print(f"[content] Calling AI (model={AI_MODEL}) for {request_count} candidates...")
     response = requests.post(url, headers=headers, json=payload, timeout=60)
     if response.status_code != 200:
         raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
 
     data = response.json()
     content = data["choices"][0]["message"]["content"].strip()
+    print(f"[content] Response ({len(content)} chars): {content[:400]}...")
 
     json_content = content
     if "```json" in content:
         json_content = content.split("```json")[1].split("```")[0].strip()
     elif "```" in content:
         json_content = content.split("```")[1].split("```")[0].strip()
-
-    if not json_content.startswith("[") and "[" in json_content:
-        json_content = json_content[json_content.find("["):]
-    if not json_content.endswith("]") and "]" in json_content:
-        json_content = json_content[:json_content.rfind("]") + 1]
+    if not json_content.startswith("["):
+        idx = json_content.find("[")
+        if idx >= 0:
+            json_content = json_content[idx:]
+    if not json_content.endswith("]"):
+        idx = json_content.rfind("]")
+        if idx >= 0:
+            json_content = json_content[:idx + 1]
 
     phrases = json.loads(json_content)
 
@@ -291,13 +293,18 @@ IMPORTANT: Create FRESH, UNIQUE, and DIVERSE phrases. Use proper Georgian Mkhedr
         if len(collected_unique_phrases) >= num_phrases:
             break
 
-    if len(collected_unique_phrases) < num_phrases:
+    print(f"[content] Got {len(collected_unique_phrases)}/{num_phrases} unique phrases from {len(phrases)} candidates")
+
+    if len(collected_unique_phrases) < min(num_phrases, 3):
         raise Exception(
             f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
-            f"(needed {num_phrases}). Raw response: {content[:300]}"
+            f"(needed at least {min(num_phrases, 3)}). Got {len(phrases)} JSON entries but most "
+            f"were already used in previous videos."
         )
 
     final_phrases = collected_unique_phrases[:num_phrases]
+    if len(final_phrases) < num_phrases:
+        print(f"[content] ⚠️  Only {len(final_phrases)} unique phrases available (requested {num_phrases}), proceeding with {len(final_phrases)}.")
     add_phrases_to_history(final_phrases, category_english)
     return final_phrases
 
