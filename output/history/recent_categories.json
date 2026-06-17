@@ -1,1 +1,11 @@
-{"date": null, "last_3_days": []}
+{
+  "date": "2026-06-17",
+  "last_3_days": [
+    {
+      "date": "2026-06-17",
+      "categories": [
+        "Weather"
+      ]
+    }
+  ]
+}

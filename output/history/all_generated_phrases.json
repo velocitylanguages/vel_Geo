@@ -4049,7 +4049,37 @@
       "georgian": "ხმა საოცარია.",
       "category": "Music",
       "generated_at": "2026-06-11T18:44:07.038794"
+    },
+    {
+      "english": "The sun is shining brightly.",
+      "georgian": "მზე კაშკაშებს.",
+      "category": "Weather",
+      "generated_at": "2026-06-17T03:24:47.688131"
+    },
+    {
+      "english": "It's raining heavily.",
+      "georgian": "წვიმს ძლიერად.",
+      "category": "Weather",
+      "generated_at": "2026-06-17T03:24:47.688143"
+    },
+    {
+      "english": "What's the weather like today?",
+      "georgian": "როგორი ამინდია დღეს?",
+      "category": "Weather",
+      "generated_at": "2026-06-17T03:24:47.688145"
+    },
+    {
+      "english": "It's very windy outside.",
+      "georgian": "გარეთ ძალიან ქარია.",
+      "category": "Weather",
+      "generated_at": "2026-06-17T03:24:47.688146"
+    },
+    {
+      "english": "Snow is falling softly.",
+      "georgian": "თოვლი ფანტელებად მოდის.",
+      "category": "Weather",
+      "generated_at": "2026-06-17T03:24:47.688147"
     }
   ],
-  "last_updated": "2026-06-11T18:44:07.038796"
+  "last_updated": "2026-06-17T03:24:47.688149"
 }
