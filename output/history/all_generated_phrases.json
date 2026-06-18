@@ -4199,7 +4199,37 @@
       "georgian": "რომელია შენი საყვარელი ფერი?",
       "category": "Friendship",
       "generated_at": "2026-06-18T02:51:41.658739"
+    },
+    {
+      "english": "This bread is delicious!",
+      "georgian": "ეს პური გემრიელია!",
+      "category": "Food",
+      "generated_at": "2026-06-18T12:08:03.033383"
+    },
+    {
+      "english": "I want some wine.",
+      "georgian": "ცოტა ღვინო მინდა.",
+      "category": "Food",
+      "generated_at": "2026-06-18T12:08:03.033391"
+    },
+    {
+      "english": "Where is the cheese?",
+      "georgian": "სად არის ყველი?",
+      "category": "Food",
+      "generated_at": "2026-06-18T12:08:03.033393"
+    },
+    {
+      "english": "Cook the khinkali well.",
+      "georgian": "ხინკალი კარგად მოხარშე.",
+      "category": "Food",
+      "generated_at": "2026-06-18T12:08:03.033394"
+    },
+    {
+      "english": "This soup is very hot.",
+      "georgian": "ეს სუპი ძალიან ცხელია.",
+      "category": "Food",
+      "generated_at": "2026-06-18T12:08:03.033395"
     }
   ],
-  "last_updated": "2026-06-18T02:51:41.658741"
+  "last_updated": "2026-06-18T12:08:03.033397"
 }
