@@ -4229,7 +4229,37 @@
       "georgian": "ეს სუპი ძალიან ცხელია.",
       "category": "Food",
       "generated_at": "2026-06-18T12:08:03.033395"
+    },
+    {
+      "english": "Let's begin today's lesson.",
+      "georgian": "დავიწყოთ დღევანდელი გაკვეთილი.",
+      "category": "Education",
+      "generated_at": "2026-06-18T13:10:05.455720"
+    },
+    {
+      "english": "This word is important.",
+      "georgian": "ეს სიტყვა მნიშვნელოვანია.",
+      "category": "Education",
+      "generated_at": "2026-06-18T13:10:05.455729"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "georgian": "გაიმეორეთ ჩემს შემდეგ, გთხოვთ.",
+      "category": "Education",
+      "generated_at": "2026-06-18T13:10:05.455731"
+    },
+    {
+      "english": "Read this sentence aloud.",
+      "georgian": "წაიკითხეთ ეს წინადადება ხმამაღლა.",
+      "category": "Education",
+      "generated_at": "2026-06-18T13:10:05.455732"
+    },
+    {
+      "english": "I am practicing pronunciation.",
+      "georgian": "ვარჯიშობ გამოთქმას.",
+      "category": "Education",
+      "generated_at": "2026-06-18T13:10:05.455733"
     }
   ],
-  "last_updated": "2026-06-18T12:08:03.033397"
+  "last_updated": "2026-06-18T13:10:05.455735"
 }
