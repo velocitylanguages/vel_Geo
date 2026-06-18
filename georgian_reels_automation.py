@@ -216,20 +216,28 @@ def get_rotation_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     """Generate unique English-Georgian phrases via a single AI call."""
 
-    used_phrases = get_used_phrases_set()
-    collected_unique_phrases = []
+    max_attempts = 3
+    for attempt in range(max_attempts):
+        try:
+            used_phrases = get_used_phrases_set()
+            collected_unique_phrases = []
 
-    import requests
-    url = "https://gen.pollinations.ai/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {POLLINATIONS_API_KEY}" if POLLINATIONS_API_KEY else "",
-        "Content-Type": "application/json"
-    }
-    if not POLLINATIONS_API_KEY:
-        headers.pop("Authorization", None)
+            import requests
+            url = "https://gen.pollinations.ai/v1/chat/completions"
 
-    request_count = max(num_phrases * 4, 20)
-    prompt = f"""Generate {request_count} DIFFERENT {category_english} phrases for learning Georgian.
+            # Try both auth methods: Bearer header and query param
+            headers = {
+                "Content-Type": "application/json"
+            }
+            params = {}
+            if POLLINATIONS_API_KEY:
+                if attempt % 2 == 0:
+                    headers["Authorization"] = f"Bearer {POLLINATIONS_API_KEY}"
+                else:
+                    params["key"] = POLLINATIONS_API_KEY
+
+            request_count = max(num_phrases * 4, 20)
+            prompt = f"""Generate {request_count} DIFFERENT {category_english} phrases for learning Georgian.
 
 CRITICAL: Each phrase MUST be unique. NEVER repeat the same idea. Be CREATIVE and VARIED.
 
@@ -246,67 +254,76 @@ Return JSON array:
 
 Return ONLY valid JSON."""
 
-    payload = {
-        "model": AI_MODEL,
-        "messages": [
-            {"role": "system", "content": "You are a creative Georgian language teacher. Produce VARIED, UNIQUE phrases. Return ONLY valid JSON."},
-            {"role": "user", "content": prompt}
-        ],
-        "temperature": 1.2
-    }
+            payload = {
+                "model": AI_MODEL,
+                "messages": [
+                    {"role": "system", "content": "You are a creative Georgian language teacher. Produce VARIED, UNIQUE phrases. Return ONLY valid JSON."},
+                    {"role": "user", "content": prompt}
+                ],
+                "temperature": 1.2
+            }
 
-    print(f"[content] Calling AI (model={AI_MODEL}) for {request_count} candidates...")
-    response = requests.post(url, headers=headers, json=payload, timeout=60)
-    if response.status_code != 200:
-        raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
+            auth_method = "Bearer header" if "Authorization" in headers else "query param"
+            print(f"[content] Calling AI (model={AI_MODEL}, auth={auth_method}) for {request_count} candidates...")
+            response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
+            if response.status_code == 401 and attempt < max_attempts - 1:
+                print(f"[content] Auth failed with {auth_method}, trying alternate method...")
+                raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
+            elif response.status_code != 200:
+                raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
 
-    data = response.json()
-    content = data["choices"][0]["message"]["content"].strip()
-    print(f"[content] Response ({len(content)} chars): {content[:400]}...")
+            data = response.json()
+            content = data["choices"][0]["message"]["content"].strip()
+            print(f"[content] Response ({len(content)} chars): {content[:400]}...")
 
-    json_content = content
-    if "```json" in content:
-        json_content = content.split("```json")[1].split("```")[0].strip()
-    elif "```" in content:
-        json_content = content.split("```")[1].split("```")[0].strip()
-    if not json_content.startswith("["):
-        idx = json_content.find("[")
-        if idx >= 0:
-            json_content = json_content[idx:]
-    if not json_content.endswith("]"):
-        idx = json_content.rfind("]")
-        if idx >= 0:
-            json_content = json_content[:idx + 1]
+            json_content = content
+            if "```json" in content:
+                json_content = content.split("```json")[1].split("```")[0].strip()
+            elif "```" in content:
+                json_content = content.split("```")[1].split("```")[0].strip()
+            if not json_content.startswith("["):
+                idx = json_content.find("[")
+                if idx >= 0:
+                    json_content = json_content[idx:]
+            if not json_content.endswith("]"):
+                idx = json_content.rfind("]")
+                if idx >= 0:
+                    json_content = json_content[:idx + 1]
 
-    phrases = json.loads(json_content)
+            phrases = json.loads(json_content)
 
-    for phrase in phrases:
-        if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
-            continue
-        if len(phrase["english"].split()) > 15:
-            continue
-        phrase_en = phrase["english"].strip()
-        if phrase_en.lower() not in used_phrases:
-            if not any(p["english"].lower() == phrase_en.lower() for p in collected_unique_phrases):
-                collected_unique_phrases.append(phrase)
-                used_phrases.add(phrase_en.lower())
-        if len(collected_unique_phrases) >= num_phrases:
-            break
+            for phrase in phrases:
+                if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
+                    continue
+                if len(phrase["english"].split()) > 15:
+                    continue
+                phrase_en = phrase["english"].strip()
+                if phrase_en.lower() not in used_phrases:
+                    if not any(p["english"].lower() == phrase_en.lower() for p in collected_unique_phrases):
+                        collected_unique_phrases.append(phrase)
+                        used_phrases.add(phrase_en.lower())
+                if len(collected_unique_phrases) >= num_phrases:
+                    break
 
-    print(f"[content] Got {len(collected_unique_phrases)}/{num_phrases} unique phrases from {len(phrases)} candidates")
+            print(f"[content] Got {len(collected_unique_phrases)}/{num_phrases} unique phrases from {len(phrases)} candidates")
 
-    if len(collected_unique_phrases) < min(num_phrases, 3):
-        raise Exception(
-            f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
-            f"(needed at least {min(num_phrases, 3)}). Got {len(phrases)} JSON entries but most "
-            f"were already used in previous videos."
-        )
+            if len(collected_unique_phrases) < min(num_phrases, 3):
+                raise Exception(
+                    f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
+                    f"(needed at least {min(num_phrases, 3)}). Got {len(phrases)} JSON entries but most "
+                    f"were already used in previous videos."
+                )
 
-    final_phrases = collected_unique_phrases[:num_phrases]
-    if len(final_phrases) < num_phrases:
-        print(f"[content] ⚠️  Only {len(final_phrases)} unique phrases available (requested {num_phrases}), proceeding with {len(final_phrases)}.")
-    add_phrases_to_history(final_phrases, category_english)
-    return final_phrases
+            final_phrases = collected_unique_phrases[:num_phrases]
+            if len(final_phrases) < num_phrases:
+                print(f"[content] ⚠️  Only {len(final_phrases)} unique phrases available (requested {num_phrases}), proceeding with {len(final_phrases)}.")
+            add_phrases_to_history(final_phrases, category_english)
+            return final_phrases
+
+        except Exception as e:
+            print(f"[content] Attempt {attempt + 1} failed: {e}")
+
+    raise Exception(f"All {max_attempts} AI attempts failed. Cannot generate phrases.")
 
 
 
