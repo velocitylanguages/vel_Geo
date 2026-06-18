@@ -4169,7 +4169,37 @@
       "georgian": "ბებია საოცარ ამბებს ყვება.",
       "category": "Family",
       "generated_at": "2026-06-17T22:00:57.212511"
+    },
+    {
+      "english": "We are good friends.",
+      "georgian": "ჩვენ კარგი მეგობრები ვართ.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T02:51:41.658725"
+    },
+    {
+      "english": "Let's go for a walk.",
+      "georgian": "სეირნობაზე წავიდეთ.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T02:51:41.658735"
+    },
+    {
+      "english": "Your smile is bright.",
+      "georgian": "შენი ღიმილი ანათებს.",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T02:51:41.658737"
+    },
+    {
+      "english": "This is delicious food!",
+      "georgian": "ეს გემრიელი საჭმელია!",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T02:51:41.658738"
+    },
+    {
+      "english": "What is your favorite color?",
+      "georgian": "რომელია შენი საყვარელი ფერი?",
+      "category": "Friendship",
+      "generated_at": "2026-06-18T02:51:41.658739"
     }
   ],
-  "last_updated": "2026-06-17T22:00:57.212513"
+  "last_updated": "2026-06-18T02:51:41.658741"
 }
