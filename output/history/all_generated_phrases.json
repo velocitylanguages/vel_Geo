@@ -4289,7 +4289,37 @@
       "georgian": "ბოლოს და ბოლოს გავიგე!",
       "category": "Emotions",
       "generated_at": "2026-06-18T17:05:23.770984"
+    },
+    {
+      "english": "What is this object?",
+      "georgian": "ეს რა საგანია?",
+      "category": "Work",
+      "generated_at": "2026-06-18T18:29:15.981897"
+    },
+    {
+      "english": "Let's discuss this topic.",
+      "georgian": "ამ თემაზე ვისაუბროთ.",
+      "category": "Work",
+      "generated_at": "2026-06-18T18:29:15.981906"
+    },
+    {
+      "english": "Could you explain that again?",
+      "georgian": "ისევ გაიმეორეთ, თუ შეიძლება?",
+      "category": "Work",
+      "generated_at": "2026-06-18T18:29:15.981907"
+    },
+    {
+      "english": "I need a different approach.",
+      "georgian": "სხვა მიდგომა მჭირდება.",
+      "category": "Work",
+      "generated_at": "2026-06-18T18:29:15.981908"
+    },
+    {
+      "english": "This task is quite challenging.",
+      "georgian": "ეს დავალება საკმაოდ რთულია.",
+      "category": "Work",
+      "generated_at": "2026-06-18T18:29:15.981909"
     }
   ],
-  "last_updated": "2026-06-18T17:05:23.770986"
+  "last_updated": "2026-06-18T18:29:15.981911"
 }
