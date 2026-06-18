@@ -4319,7 +4319,37 @@
       "georgian": "ეს დავალება საკმაოდ რთულია.",
       "category": "Work",
       "generated_at": "2026-06-18T18:29:15.981909"
+    },
+    {
+      "english": "Let's go play football!",
+      "georgian": "წავიდეთ ფეხბურთზე!",
+      "category": "Sports",
+      "generated_at": "2026-06-18T20:29:03.707427"
+    },
+    {
+      "english": "Who won the match?",
+      "georgian": "ვინ მოიგო თამაში?",
+      "category": "Sports",
+      "generated_at": "2026-06-18T20:29:03.707438"
+    },
+    {
+      "english": "This athlete is very fast.",
+      "georgian": "ეს სპორტსმენი ძალიან სწრაფია.",
+      "category": "Sports",
+      "generated_at": "2026-06-18T20:29:03.707439"
+    },
+    {
+      "english": "Score a goal!",
+      "georgian": "გაიტანე გოლი!",
+      "category": "Sports",
+      "generated_at": "2026-06-18T20:29:03.707440"
+    },
+    {
+      "english": "Basketball is my favorite.",
+      "georgian": "კალათბურთი ჩემი ფავორიტია.",
+      "category": "Sports",
+      "generated_at": "2026-06-18T20:29:03.707441"
     }
   ],
-  "last_updated": "2026-06-18T18:29:15.981911"
+  "last_updated": "2026-06-18T20:29:03.707443"
 }
