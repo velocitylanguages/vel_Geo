@@ -12,6 +12,43 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+def _post_instagram_comment(media_id, caption, access_token):
+    """Post the caption as a comment on the published Instagram media."""
+    import time
+    print(f"[instagram] Posting comment on media...")
+
+    max_retries = 5
+    for attempt in range(max_retries):
+        try:
+            comment_url = f"https://graph.instagram.com/v21.0/{media_id}/comments"
+            comment_data = {
+                'access_token': access_token,
+                'message': caption[:1000]
+            }
+            res_comment = requests.post(comment_url, data=comment_data, timeout=30)
+
+            if res_comment.status_code == 200:
+                resp = res_comment.json()
+                comment_id = resp.get('id')
+                if comment_id:
+                    print(f"[instagram] ✅ Comment posted! ID: {comment_id}")
+                    return
+                else:
+                    print(f"[instagram] Comment response: {resp}")
+            elif res_comment.status_code == 400 and "media not found" in res_comment.text.lower() and attempt < max_retries - 1:
+                wait = (attempt + 1) * 10
+                print(f"[instagram] Media not ready yet, retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"[instagram] Comment post failed: {res_comment.status_code} - {res_comment.text[:200]}")
+                return
+        except Exception as e:
+            print(f"[instagram] Comment post error: {e}")
+            return
+
+    print(f"[instagram] Could not post comment (media may need processing time)")
+
+
 def upload_to_instagram(video_path, caption, is_story=False):
     """
     Upload video to Instagram via temporary public URL.
@@ -121,7 +158,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         if not is_story:
             container_params['caption'] = caption_limited
-            container_params['share_to_feed'] = 'false'
+            container_params['share_to_feed'] = 'true'
             container_params['thumb_offset'] = '5000' # Set thumbnail to 5 seconds in to avoid dark start
         
         container_response = requests.post(container_url, params=container_params, timeout=60)
@@ -224,6 +261,11 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         print(f"[instagram] ✅ SUCCESS! Video published to Instagram!")
         print(f"[instagram] Media ID: {media_id}")
+
+        # Post caption as a comment
+        if not is_story:
+            _post_instagram_comment(media_id, caption_limited, access_token)
+
         print(f"[instagram] Check your Instagram profile to see the post!")
         print("=" * 60)
         
