@@ -4379,7 +4379,37 @@
       "georgian": "შეცდომებს ნუ შეუშინდები, ისინი ასწავლიან.",
       "category": "Wisdom",
       "generated_at": "2026-06-18T22:08:49.161374"
+    },
+    {
+      "english": "Let's learn Georgian now.",
+      "georgian": "მოდი, ახლა ვისწავლოთ ქართული.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:34.865780"
+    },
+    {
+      "english": "When did you start?",
+      "georgian": "როდის დაიწყე?",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:34.865788"
+    },
+    {
+      "english": "I am practicing every day.",
+      "georgian": "ყოველდღე ვვარჯიშობ.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:34.865789"
+    },
+    {
+      "english": "This is a good time to learn.",
+      "georgian": "ეს კარგი დროა სასწავლად.",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:34.865790"
+    },
+    {
+      "english": "What are you doing today?",
+      "georgian": "რას აკეთებ დღეს?",
+      "category": "Time",
+      "generated_at": "2026-06-19T03:37:34.865791"
     }
   ],
-  "last_updated": "2026-06-18T22:08:49.161376"
+  "last_updated": "2026-06-19T03:37:34.865793"
 }
