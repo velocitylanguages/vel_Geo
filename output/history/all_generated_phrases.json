@@ -4439,7 +4439,37 @@
       "georgian": "წაიკითხეთ ქართული ხალხური ზღაპრები.",
       "category": "Directions",
       "generated_at": "2026-06-19T16:32:50.939195"
+    },
+    {
+      "english": "The lion roars loudly.",
+      "georgian": "ლომი ხმამაღლა ღრიალებს.",
+      "category": "Animals",
+      "generated_at": "2026-06-19T17:50:51.857117"
+    },
+    {
+      "english": "A quick fox jumps.",
+      "georgian": "სწრაფი მელა ხტება.",
+      "category": "Animals",
+      "generated_at": "2026-06-19T17:50:51.857126"
+    },
+    {
+      "english": "Where is the elephant?",
+      "georgian": "სად არის სპილო?",
+      "category": "Animals",
+      "generated_at": "2026-06-19T17:50:51.857128"
+    },
+    {
+      "english": "Look, a beautiful butterfly!",
+      "georgian": "ნახე, რა ლამაზი პეპელაა!",
+      "category": "Animals",
+      "generated_at": "2026-06-19T17:50:51.857129"
+    },
+    {
+      "english": "The bear sleeps soundly.",
+      "georgian": "დათვი კარგად იძინებს.",
+      "category": "Animals",
+      "generated_at": "2026-06-19T17:50:51.857130"
     }
   ],
-  "last_updated": "2026-06-19T16:32:50.939197"
+  "last_updated": "2026-06-19T17:50:51.857132"
 }
