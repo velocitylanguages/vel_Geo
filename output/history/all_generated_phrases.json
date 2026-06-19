@@ -4469,7 +4469,37 @@
       "georgian": "დათვი კარგად იძინებს.",
       "category": "Animals",
       "generated_at": "2026-06-19T17:50:51.857130"
+    },
+    {
+      "english": "I want to buy this.",
+      "georgian": "ამას ვიყიდი.",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T19:50:19.162733"
+    },
+    {
+      "english": "Do you have this color?",
+      "georgian": "ეს ფერი გაქვთ?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T19:50:19.162746"
+    },
+    {
+      "english": "This is too expensive.",
+      "georgian": "ძალიან ძვირია.",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T19:50:19.162747"
+    },
+    {
+      "english": "Can I pay by card?",
+      "georgian": "ბარათით გადავიხდი?",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T19:50:19.162749"
+    },
+    {
+      "english": "I'm just looking.",
+      "georgian": "მხოლოდ დავათვალიერებ.",
+      "category": "Shopping",
+      "generated_at": "2026-06-19T19:50:19.162750"
     }
   ],
-  "last_updated": "2026-06-19T17:50:51.857132"
+  "last_updated": "2026-06-19T19:50:19.162752"
 }
