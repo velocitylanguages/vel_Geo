@@ -4529,7 +4529,37 @@
       "georgian": "ვარჯიში პროგრესს მოაქვს.",
       "category": "Success",
       "generated_at": "2026-06-19T21:11:15.964706"
+    },
+    {
+      "english": "This melody makes me dance.",
+      "georgian": "ეს მელოდია, მეც მაცეკვებს.",
+      "category": "Music",
+      "generated_at": "2026-06-20T02:41:15.267740"
+    },
+    {
+      "english": "Play that song again!",
+      "georgian": "ის სიმღერა, ისევ გაიმეორე!",
+      "category": "Music",
+      "generated_at": "2026-06-20T02:41:15.267750"
+    },
+    {
+      "english": "What a beautiful voice!",
+      "georgian": "რა ლამაზი, ხმა აქვს!",
+      "category": "Music",
+      "generated_at": "2026-06-20T02:41:15.267752"
+    },
+    {
+      "english": "Let's sing together.",
+      "georgian": "ერთად, ვიმღეროთ.",
+      "category": "Music",
+      "generated_at": "2026-06-20T02:41:15.267753"
+    },
+    {
+      "english": "The rhythm is infectious.",
+      "georgian": "რიტმი, საოცრად გადამდებია.",
+      "category": "Music",
+      "generated_at": "2026-06-20T02:41:15.267754"
     }
   ],
-  "last_updated": "2026-06-19T21:11:15.964708"
+  "last_updated": "2026-06-20T02:41:15.267756"
 }
