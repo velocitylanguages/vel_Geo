@@ -4649,7 +4649,37 @@
       "georgian": "წვიმის შემდეგ მიწა ყავისფერია.",
       "category": "Colors",
       "generated_at": "2026-06-20T19:27:20.073917"
+    },
+    {
+      "english": "Two cats are sleeping.",
+      "georgian": "ორი კატა იძინებს.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:18:37.565472"
+    },
+    {
+      "english": "I have three books.",
+      "georgian": "მე მაქვს სამი წიგნი.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:18:37.565482"
+    },
+    {
+      "english": "Where are four friends?",
+      "georgian": "სად არიან ოთხი მეგობარი?",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:18:37.565484"
+    },
+    {
+      "english": "Give me five flowers.",
+      "georgian": "მომეცი ხუთი ყვავილი.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:18:37.565485"
+    },
+    {
+      "english": "Six birds are singing.",
+      "georgian": "ექვსი ჩიტი მღერის.",
+      "category": "Numbers",
+      "generated_at": "2026-06-20T21:18:37.565486"
     }
   ],
-  "last_updated": "2026-06-20T19:27:20.073919"
+  "last_updated": "2026-06-20T21:18:37.565488"
 }
