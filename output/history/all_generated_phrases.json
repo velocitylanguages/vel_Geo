@@ -4559,7 +4559,37 @@
       "georgian": "რიტმი, საოცრად გადამდებია.",
       "category": "Music",
       "generated_at": "2026-06-20T02:41:15.267754"
+    },
+    {
+      "english": "Grandfather loves gardening.",
+      "georgian": "პაპას ბაღში მუშაობა მოსწონს.",
+      "category": "Family",
+      "generated_at": "2026-06-20T15:46:41.477512"
+    },
+    {
+      "english": "My aunt bakes sweet cookies.",
+      "georgian": "დეიდა ტკბილ ნამცხვრებს აცხობს.",
+      "category": "Family",
+      "generated_at": "2026-06-20T15:46:41.477523"
+    },
+    {
+      "english": "My uncle is a doctor.",
+      "georgian": "ბიძა ექიმია.",
+      "category": "Family",
+      "generated_at": "2026-06-20T15:46:41.477525"
+    },
+    {
+      "english": "My cousins live abroad.",
+      "georgian": "ჩემი ბიძაშვილები საზღვარგარეთ ცხოვრობენ.",
+      "category": "Family",
+      "generated_at": "2026-06-20T15:46:41.477526"
+    },
+    {
+      "english": "This is our family tree.",
+      "georgian": "ეს ჩვენი საგვარეულო ხეა.",
+      "category": "Family",
+      "generated_at": "2026-06-20T15:46:41.477527"
     }
   ],
-  "last_updated": "2026-06-20T02:41:15.267756"
+  "last_updated": "2026-06-20T15:46:41.477529"
 }
