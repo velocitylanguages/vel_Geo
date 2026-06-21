@@ -4709,7 +4709,37 @@
       "georgian": "მეტი ქართული, გთხოვ!",
       "category": "Greetings",
       "generated_at": "2026-06-21T02:57:32.626920"
+    },
+    {
+      "english": "Add more salt.",
+      "georgian": "მარილი დაამატე.",
+      "category": "Food",
+      "generated_at": "2026-06-21T15:54:01.001293"
+    },
+    {
+      "english": "What is this fruit?",
+      "georgian": "ეს რა ხილია?",
+      "category": "Food",
+      "generated_at": "2026-06-21T15:54:01.001303"
+    },
+    {
+      "english": "I love churchkhela.",
+      "georgian": "ეკლერს ძალიან მიყვარს.",
+      "category": "Food",
+      "generated_at": "2026-06-21T15:54:01.001305"
+    },
+    {
+      "english": "Let's eat pkhali.",
+      "georgian": "ფხალი ვჭამოთ.",
+      "category": "Food",
+      "generated_at": "2026-06-21T15:54:01.001306"
+    },
+    {
+      "english": "This cheese is fresh.",
+      "georgian": "ეს ყველი ნორჩია.",
+      "category": "Food",
+      "generated_at": "2026-06-21T15:54:01.001307"
     }
   ],
-  "last_updated": "2026-06-21T02:57:32.626923"
+  "last_updated": "2026-06-21T15:54:01.001309"
 }
