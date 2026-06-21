@@ -4739,7 +4739,37 @@
       "georgian": "ეს ყველი ნორჩია.",
       "category": "Food",
       "generated_at": "2026-06-21T15:54:01.001307"
+    },
+    {
+      "english": "I want tea.",
+      "georgian": "ჩაი მინდა.",
+      "category": "Home",
+      "generated_at": "2026-06-21T17:23:12.537564"
+    },
+    {
+      "english": "The light is on.",
+      "georgian": "სინათლე ანთია.",
+      "category": "Home",
+      "generated_at": "2026-06-21T17:23:12.537575"
+    },
+    {
+      "english": "Turn off the TV.",
+      "georgian": "ტელევიზორი გამორთე.",
+      "category": "Home",
+      "generated_at": "2026-06-21T17:23:12.537577"
+    },
+    {
+      "english": "I need a towel.",
+      "georgian": "პირსახოცი მჭირდება.",
+      "category": "Home",
+      "generated_at": "2026-06-21T17:23:12.537578"
+    },
+    {
+      "english": "The bed is comfortable.",
+      "georgian": "საწოლი მოხერხებულია.",
+      "category": "Home",
+      "generated_at": "2026-06-21T17:23:12.537579"
     }
   ],
-  "last_updated": "2026-06-21T15:54:01.001309"
+  "last_updated": "2026-06-21T17:23:12.537581"
 }
