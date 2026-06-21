@@ -4799,7 +4799,37 @@
       "georgian": "ეს მუსიკა მშვენიერია.",
       "category": "Friendship",
       "generated_at": "2026-06-21T19:42:16.919219"
+    },
+    {
+      "english": "The race begins now.",
+      "georgian": "რბოლა ახლა იწყება.",
+      "category": "Sports",
+      "generated_at": "2026-06-21T21:14:26.376003"
+    },
+    {
+      "english": "Amazing jump!",
+      "georgian": "საოცარი ხტომა!",
+      "category": "Sports",
+      "generated_at": "2026-06-21T21:14:26.376013"
+    },
+    {
+      "english": "Do you swim well?",
+      "georgian": "კარგად ცურავ?",
+      "category": "Sports",
+      "generated_at": "2026-06-21T21:14:26.376014"
+    },
+    {
+      "english": "The team trained hard.",
+      "georgian": "გუნდმა ივარჯიშა ბევრი.",
+      "category": "Sports",
+      "generated_at": "2026-06-21T21:14:26.376017"
+    },
+    {
+      "english": "What sport do you prefer?",
+      "georgian": "რომელ სპორტს ანიჭებ უპირატესობას?",
+      "category": "Sports",
+      "generated_at": "2026-06-21T21:14:26.376019"
     }
   ],
-  "last_updated": "2026-06-21T19:42:16.919221"
+  "last_updated": "2026-06-21T21:14:26.376020"
 }
