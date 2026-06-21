@@ -4679,7 +4679,37 @@
       "georgian": "ექვსი ჩიტი მღერის.",
       "category": "Numbers",
       "generated_at": "2026-06-20T21:18:37.565486"
+    },
+    {
+      "english": "What's happening?",
+      "georgian": "რა ხდება?",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T02:57:32.626905"
+    },
+    {
+      "english": "Let's learn together!",
+      "georgian": "ვისწავლოთ ერთად!",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T02:57:32.626916"
+    },
+    {
+      "english": "This is fascinating!",
+      "georgian": "ეს ძალიან საინტერესოა!",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T02:57:32.626917"
+    },
+    {
+      "english": "Ready for a new word?",
+      "georgian": "ახალი სიტყვისთვის მზად ხარ?",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T02:57:32.626919"
+    },
+    {
+      "english": "More Georgian, please!",
+      "georgian": "მეტი ქართული, გთხოვ!",
+      "category": "Greetings",
+      "generated_at": "2026-06-21T02:57:32.626920"
     }
   ],
-  "last_updated": "2026-06-20T21:18:37.565488"
+  "last_updated": "2026-06-21T02:57:32.626923"
 }
