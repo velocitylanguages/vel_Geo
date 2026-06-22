@@ -4919,7 +4919,37 @@
       "georgian": "როდის იხსნება?",
       "category": "Travel",
       "generated_at": "2026-06-22T19:21:27.595804"
+    },
+    {
+      "english": "Drink more water.",
+      "georgian": "მეტი წყალი დალიეთ.",
+      "category": "Health",
+      "generated_at": "2026-06-22T20:49:23.664500"
+    },
+    {
+      "english": "Eat fresh fruits.",
+      "georgian": "ახალი ხილი მიირთვით.",
+      "category": "Health",
+      "generated_at": "2026-06-22T20:49:23.664509"
+    },
+    {
+      "english": "Sleep eight hours.",
+      "georgian": "რვა საათი გეძინოთ.",
+      "category": "Health",
+      "generated_at": "2026-06-22T20:49:23.664511"
+    },
+    {
+      "english": "Take a deep breath.",
+      "georgian": "ღრმად ამოისუნთქეთ.",
+      "category": "Health",
+      "generated_at": "2026-06-22T20:49:23.664512"
+    },
+    {
+      "english": "Exercise regularly.",
+      "georgian": "ფიზიკურად ივარჯიშეთ.",
+      "category": "Health",
+      "generated_at": "2026-06-22T20:49:23.664513"
     }
   ],
-  "last_updated": "2026-06-22T19:21:27.595806"
+  "last_updated": "2026-06-22T20:49:23.664515"
 }
