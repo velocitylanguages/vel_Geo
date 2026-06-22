@@ -4859,7 +4859,37 @@
       "georgian": "შეგიძლიათ რჩევის მიცემა?",
       "category": "Work",
       "generated_at": "2026-06-22T03:00:09.755306"
+    },
+    {
+      "english": "The sky is cloudy.",
+      "georgian": "ცაზე ღრუბლებია.",
+      "category": "Weather",
+      "generated_at": "2026-06-22T18:13:05.789662"
+    },
+    {
+      "english": "It feels cold.",
+      "georgian": "სიცივეს ვგრძნობ.",
+      "category": "Weather",
+      "generated_at": "2026-06-22T18:13:05.789674"
+    },
+    {
+      "english": "What a beautiful rainbow!",
+      "georgian": "რა ლამაზი ცისარტყელაა!",
+      "category": "Weather",
+      "generated_at": "2026-06-22T18:13:05.789676"
+    },
+    {
+      "english": "The fog is thick.",
+      "georgian": "ნისლი სქელია.",
+      "category": "Weather",
+      "generated_at": "2026-06-22T18:13:05.789677"
+    },
+    {
+      "english": "It's getting warmer.",
+      "georgian": "თბება ნელ-ნელა.",
+      "category": "Weather",
+      "generated_at": "2026-06-22T18:13:05.789678"
     }
   ],
-  "last_updated": "2026-06-22T03:00:09.755308"
+  "last_updated": "2026-06-22T18:13:05.789680"
 }
