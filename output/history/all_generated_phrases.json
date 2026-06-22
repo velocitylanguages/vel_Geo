@@ -4889,7 +4889,37 @@
       "georgian": "თბება ნელ-ნელა.",
       "category": "Weather",
       "generated_at": "2026-06-22T18:13:05.789678"
+    },
+    {
+      "english": "Where is the train station?",
+      "georgian": "სად არის მატარებლის სადგური?",
+      "category": "Travel",
+      "generated_at": "2026-06-22T19:21:27.595792"
+    },
+    {
+      "english": "How much does this cost?",
+      "georgian": "რამდენი ჯდება ეს?",
+      "category": "Travel",
+      "generated_at": "2026-06-22T19:21:27.595801"
+    },
+    {
+      "english": "Can I have water?",
+      "georgian": "წყალი მინდა, თუ შეიძლება?",
+      "category": "Travel",
+      "generated_at": "2026-06-22T19:21:27.595802"
+    },
+    {
+      "english": "Take me to this address.",
+      "georgian": "ამ მისამართზე წამიყვანე.",
+      "category": "Travel",
+      "generated_at": "2026-06-22T19:21:27.595803"
+    },
+    {
+      "english": "What time does it open?",
+      "georgian": "როდის იხსნება?",
+      "category": "Travel",
+      "generated_at": "2026-06-22T19:21:27.595804"
     }
   ],
-  "last_updated": "2026-06-22T18:13:05.789680"
+  "last_updated": "2026-06-22T19:21:27.595806"
 }
