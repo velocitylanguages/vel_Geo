@@ -1,16 +1,6 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "last_3_days": [
-    {
-      "date": "2026-06-19",
-      "categories": [
-        "Time",
-        "Directions",
-        "Animals",
-        "Shopping",
-        "Success"
-      ]
-    },
     {
       "date": "2026-06-20",
       "categories": [
@@ -29,6 +19,12 @@
         "Home",
         "Friendship",
         "Sports"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "categories": [
+        "Work"
       ]
     }
   ]

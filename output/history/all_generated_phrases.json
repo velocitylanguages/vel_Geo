@@ -4829,7 +4829,37 @@
       "georgian": "რომელ სპორტს ანიჭებ უპირატესობას?",
       "category": "Sports",
       "generated_at": "2026-06-21T21:14:26.376019"
+    },
+    {
+      "english": "Where can I find the document?",
+      "georgian": "სად ვიპოვი ამ დოკუმენტს?",
+      "category": "Work",
+      "generated_at": "2026-06-22T03:00:09.755289"
+    },
+    {
+      "english": "Let's analyze the results.",
+      "georgian": "შედეგებს გავაანალიზოთ.",
+      "category": "Work",
+      "generated_at": "2026-06-22T03:00:09.755302"
+    },
+    {
+      "english": "What are the next steps?",
+      "georgian": "რა არის შემდეგი ნაბიჯები?",
+      "category": "Work",
+      "generated_at": "2026-06-22T03:00:09.755303"
+    },
+    {
+      "english": "I am working on this project.",
+      "georgian": "ამ პროექტზე ვმუშაობ.",
+      "category": "Work",
+      "generated_at": "2026-06-22T03:00:09.755305"
+    },
+    {
+      "english": "Can you provide feedback?",
+      "georgian": "შეგიძლიათ რჩევის მიცემა?",
+      "category": "Work",
+      "generated_at": "2026-06-22T03:00:09.755306"
     }
   ],
-  "last_updated": "2026-06-21T21:14:26.376020"
+  "last_updated": "2026-06-22T03:00:09.755308"
 }
