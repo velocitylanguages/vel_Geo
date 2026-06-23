@@ -5039,7 +5039,37 @@
       "georgian": "უ Tiểu შენ ვერ ვცოცხლობ.",
       "category": "Love",
       "generated_at": "2026-06-23T16:27:58.034508"
+    },
+    {
+      "english": "Birds sing in the trees.",
+      "georgian": "ჩიტები ხეებზე მღერიან.",
+      "category": "Animals",
+      "generated_at": "2026-06-23T17:51:35.546880"
+    },
+    {
+      "english": "The little mouse scurries.",
+      "georgian": "პატარა თაგვი მიიჩქარის.",
+      "category": "Animals",
+      "generated_at": "2026-06-23T17:51:35.546890"
+    },
+    {
+      "english": "Is the dolphin swimming?",
+      "georgian": "დელფინი ცურავს?",
+      "category": "Animals",
+      "generated_at": "2026-06-23T17:51:35.546892"
+    },
+    {
+      "english": "The giraffe has a long neck.",
+      "georgian": "ჟირაფს გრძელი კისერი აქვს.",
+      "category": "Animals",
+      "generated_at": "2026-06-23T17:51:35.546893"
+    },
+    {
+      "english": "Listen to the frog's croak.",
+      "georgian": "მოუსმინე ბაყაყის ყიყინს.",
+      "category": "Animals",
+      "generated_at": "2026-06-23T17:51:35.546894"
     }
   ],
-  "last_updated": "2026-06-23T16:27:58.034510"
+  "last_updated": "2026-06-23T17:51:35.546898"
 }
