@@ -5069,7 +5069,37 @@
       "georgian": "მოუსმინე ბაყაყის ყიყინს.",
       "category": "Animals",
       "generated_at": "2026-06-23T17:51:35.546894"
+    },
+    {
+      "english": "Where is the hidden waterfall?",
+      "georgian": "სად არის დამალული ჩანჩქერი?",
+      "category": "Nature",
+      "generated_at": "2026-06-23T20:06:39.251648"
+    },
+    {
+      "english": "Hear the birds singing?",
+      "georgian": "გესმის ჩიტების ჟღერა?",
+      "category": "Nature",
+      "generated_at": "2026-06-23T20:06:39.251660"
+    },
+    {
+      "english": "That flower smells sweet.",
+      "georgian": "ეს ყვავილი ტკბილად სურნელებს.",
+      "category": "Nature",
+      "generated_at": "2026-06-23T20:06:39.251661"
+    },
+    {
+      "english": "The forest is deep and silent.",
+      "georgian": "ტყე ღრმა და ჩუმია.",
+      "category": "Nature",
+      "generated_at": "2026-06-23T20:06:39.251662"
+    },
+    {
+      "english": "Clouds drift across the sky.",
+      "georgian": "ღრუბლები ცაზე მიცურავენ.",
+      "category": "Nature",
+      "generated_at": "2026-06-23T20:06:39.251664"
     }
   ],
-  "last_updated": "2026-06-23T17:51:35.546898"
+  "last_updated": "2026-06-23T20:06:39.251665"
 }
