@@ -5189,7 +5189,37 @@
       "georgian": "ვარდისფერი ვარდები ლამაზია.",
       "category": "Colors",
       "generated_at": "2026-06-24T16:23:45.452938"
+    },
+    {
+      "english": "Understand the grammar's logic.",
+      "georgian": "გრამატიკის ლოგიკა გაიგე.",
+      "category": "Success",
+      "generated_at": "2026-06-24T17:49:32.968545"
+    },
+    {
+      "english": "Speak Georgian with confidence!",
+      "georgian": "თავდაჯერებით ილაპარაკე ქართულად!",
+      "category": "Success",
+      "generated_at": "2026-06-24T17:49:32.968557"
+    },
+    {
+      "english": "Discover Georgian culture through language.",
+      "georgian": "ენა, კულტურა, აღმოჩენა.",
+      "category": "Success",
+      "generated_at": "2026-06-24T17:49:32.968558"
+    },
+    {
+      "english": "Don't fear mistakes, learn from them.",
+      "georgian": "შეცდომების ნუ შეგეშინდება, ისწავლე.",
+      "category": "Success",
+      "generated_at": "2026-06-24T17:49:32.968559"
+    },
+    {
+      "english": "Every conversation is a lesson.",
+      "georgian": "ყოველი საუბარი გაკვეთილია.",
+      "category": "Success",
+      "generated_at": "2026-06-24T17:49:32.968560"
     }
   ],
-  "last_updated": "2026-06-24T16:23:45.452940"
+  "last_updated": "2026-06-24T17:49:32.968564"
 }
