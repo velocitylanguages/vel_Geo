@@ -5249,7 +5249,37 @@
       "georgian": "ჩემი ძაღლი ძალიან საყვარელია.",
       "category": "Family",
       "generated_at": "2026-06-24T19:46:34.704910"
+    },
+    {
+      "english": "This lesson feels easy.",
+      "georgian": "ეს გაკვეთილი იოლია.",
+      "category": "Emotions",
+      "generated_at": "2026-06-24T21:22:21.520244"
+    },
+    {
+      "english": "I'm so excited to learn more.",
+      "georgian": "ძალიან მინდა კიდევ ვისწავლო.",
+      "category": "Emotions",
+      "generated_at": "2026-06-24T21:22:21.520253"
+    },
+    {
+      "english": "This sounds beautiful.",
+      "georgian": "ეს მშვენივრად ჟღერს.",
+      "category": "Emotions",
+      "generated_at": "2026-06-24T21:22:21.520255"
+    },
+    {
+      "english": "I made a mistake, oops!",
+      "georgian": "შეცდომა დავუშვი, უი!",
+      "category": "Emotions",
+      "generated_at": "2026-06-24T21:22:21.520256"
+    },
+    {
+      "english": "This is surprisingly simple.",
+      "georgian": "ეს გასაკვირად მარტივია.",
+      "category": "Emotions",
+      "generated_at": "2026-06-24T21:22:21.520258"
     }
   ],
-  "last_updated": "2026-06-24T19:46:34.704911"
+  "last_updated": "2026-06-24T21:22:21.520259"
 }
