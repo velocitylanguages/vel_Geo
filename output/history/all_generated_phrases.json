@@ -5219,7 +5219,37 @@
       "georgian": "ყოველი საუბარი გაკვეთილია.",
       "category": "Success",
       "generated_at": "2026-06-24T17:49:32.968560"
+    },
+    {
+      "english": "Let's have dinner together!",
+      "georgian": "ერთად ვისაუზმოთ!",
+      "category": "Family",
+      "generated_at": "2026-06-24T19:46:34.704895"
+    },
+    {
+      "english": "Who is the oldest in your family?",
+      "georgian": "თქვენს ოჯახში ვინ არის ყველაზე უფროსი?",
+      "category": "Family",
+      "generated_at": "2026-06-24T19:46:34.704906"
+    },
+    {
+      "english": "I miss my parents a lot.",
+      "georgian": "ძალიან მომენატრნენ მშობლები.",
+      "category": "Family",
+      "generated_at": "2026-06-24T19:46:34.704907"
+    },
+    {
+      "english": "They are a happy family.",
+      "georgian": "ისინი ბედნიერი ოჯახია.",
+      "category": "Family",
+      "generated_at": "2026-06-24T19:46:34.704909"
+    },
+    {
+      "english": "My pet dog is cute.",
+      "georgian": "ჩემი ძაღლი ძალიან საყვარელია.",
+      "category": "Family",
+      "generated_at": "2026-06-24T19:46:34.704910"
     }
   ],
-  "last_updated": "2026-06-24T17:49:32.968564"
+  "last_updated": "2026-06-24T19:46:34.704911"
 }
