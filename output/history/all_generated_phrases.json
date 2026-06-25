@@ -5309,7 +5309,37 @@
       "georgian": "აქ ცივა.",
       "category": "Home",
       "generated_at": "2026-06-25T02:37:08.590004"
+    },
+    {
+      "english": "Is it seven days?",
+      "georgian": "ეს შვიდი დღეა?",
+      "category": "Numbers",
+      "generated_at": "2026-06-25T16:27:13.855298"
+    },
+    {
+      "english": "Eight cars passed by.",
+      "georgian": "რვა მანქანა გაიარა.",
+      "category": "Numbers",
+      "generated_at": "2026-06-25T16:27:13.855311"
+    },
+    {
+      "english": "She bought nine pears.",
+      "georgian": "მან ცხრა მსხალი იყიდა.",
+      "category": "Numbers",
+      "generated_at": "2026-06-25T16:27:13.855313"
+    },
+    {
+      "english": "He has ten fingers.",
+      "georgian": "მას ათი თითი აქვს.",
+      "category": "Numbers",
+      "generated_at": "2026-06-25T16:27:13.855314"
+    },
+    {
+      "english": "Let's count to eleven.",
+      "georgian": "თერთმეტამდე ვითვალოთ.",
+      "category": "Numbers",
+      "generated_at": "2026-06-25T16:27:13.855315"
     }
   ],
-  "last_updated": "2026-06-25T02:37:08.590005"
+  "last_updated": "2026-06-25T16:27:13.855317"
 }
