@@ -5399,7 +5399,37 @@
       "georgian": "რა ზომაა ეს?",
       "category": "Shopping",
       "generated_at": "2026-06-25T20:01:21.718222"
+    },
+    {
+      "english": "There's a thunderstorm coming.",
+      "georgian": "ჭექა-ქუხილი მოდის.",
+      "category": "Weather",
+      "generated_at": "2026-06-25T21:42:15.886006"
+    },
+    {
+      "english": "The air is fresh.",
+      "georgian": "ჰაერი სუფთაა.",
+      "category": "Weather",
+      "generated_at": "2026-06-25T21:42:15.886016"
+    },
+    {
+      "english": "It's so humid today.",
+      "georgian": "დღეს ძალიან ნოტიოა.",
+      "category": "Weather",
+      "generated_at": "2026-06-25T21:42:15.886018"
+    },
+    {
+      "english": "The weather changed quickly.",
+      "georgian": "ამინდი მალე შეიცვალა.",
+      "category": "Weather",
+      "generated_at": "2026-06-25T21:42:15.886019"
+    },
+    {
+      "english": "Expect hail tomorrow.",
+      "georgian": "ხვალ სეტყვა იქნება.",
+      "category": "Weather",
+      "generated_at": "2026-06-25T21:42:15.886020"
     }
   ],
-  "last_updated": "2026-06-25T20:01:21.718223"
+  "last_updated": "2026-06-25T21:42:15.886022"
 }
