@@ -5369,7 +5369,37 @@
       "georgian": "დააჭირე წონას!",
       "category": "Sports",
       "generated_at": "2026-06-25T18:05:57.758739"
+    },
+    {
+      "english": "I need a bag.",
+      "georgian": "პაკეტი მინდა.",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T20:01:21.718210"
+    },
+    {
+      "english": "Can you wrap it?",
+      "georgian": "შეფუთავთ?",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T20:01:21.718218"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "georgian": "საჩუქარს ვეძებ.",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T20:01:21.718219"
+    },
+    {
+      "english": "This is perfect!",
+      "georgian": "ეს მშვენიერია!",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T20:01:21.718221"
+    },
+    {
+      "english": "What size is this?",
+      "georgian": "რა ზომაა ეს?",
+      "category": "Shopping",
+      "generated_at": "2026-06-25T20:01:21.718222"
     }
   ],
-  "last_updated": "2026-06-25T18:05:57.758742"
+  "last_updated": "2026-06-25T20:01:21.718223"
 }
