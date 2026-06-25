@@ -5339,7 +5339,37 @@
       "georgian": "თერთმეტამდე ვითვალოთ.",
       "category": "Numbers",
       "generated_at": "2026-06-25T16:27:13.855315"
+    },
+    {
+      "english": "He scored the winning point.",
+      "georgian": "მან გაიტანა გამარჯვების ქულა.",
+      "category": "Sports",
+      "generated_at": "2026-06-25T18:05:57.758717"
+    },
+    {
+      "english": "Victory is sweet!",
+      "georgian": "გამარჯვება ტკბილია!",
+      "category": "Sports",
+      "generated_at": "2026-06-25T18:05:57.758732"
+    },
+    {
+      "english": "The stadium is full.",
+      "georgian": "სტადიონი სავსეა.",
+      "category": "Sports",
+      "generated_at": "2026-06-25T18:05:57.758735"
+    },
+    {
+      "english": "He is a great boxer.",
+      "georgian": "ის შესანიშნავი მოკრივეა.",
+      "category": "Sports",
+      "generated_at": "2026-06-25T18:05:57.758737"
+    },
+    {
+      "english": "Push the weight!",
+      "georgian": "დააჭირე წონას!",
+      "category": "Sports",
+      "generated_at": "2026-06-25T18:05:57.758739"
     }
   ],
-  "last_updated": "2026-06-25T16:27:13.855317"
+  "last_updated": "2026-06-25T18:05:57.758742"
 }
