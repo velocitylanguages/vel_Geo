@@ -1,16 +1,6 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "last_3_days": [
-    {
-      "date": "2026-06-22",
-      "categories": [
-        "Work",
-        "Weather",
-        "Travel",
-        "Health",
-        "Directions"
-      ]
-    },
     {
       "date": "2026-06-23",
       "categories": [
@@ -29,6 +19,12 @@
         "Success",
         "Family",
         "Emotions"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "categories": [
+        "Home"
       ]
     }
   ]

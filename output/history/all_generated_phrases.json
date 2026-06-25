@@ -5279,7 +5279,37 @@
       "georgian": "ეს გასაკვირად მარტივია.",
       "category": "Emotions",
       "generated_at": "2026-06-24T21:22:21.520258"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "georgian": "აბაზანა სად არის?",
+      "category": "Home",
+      "generated_at": "2026-06-25T02:37:08.589991"
+    },
+    {
+      "english": "I am hungry.",
+      "georgian": "მშია.",
+      "category": "Home",
+      "generated_at": "2026-06-25T02:37:08.590000"
+    },
+    {
+      "english": "Pass me the salt.",
+      "georgian": "მარილი გადმომაწოდე.",
+      "category": "Home",
+      "generated_at": "2026-06-25T02:37:08.590001"
+    },
+    {
+      "english": "Clean the table.",
+      "georgian": "მაგიდა გაასუფთავე.",
+      "category": "Home",
+      "generated_at": "2026-06-25T02:37:08.590003"
+    },
+    {
+      "english": "It's cold in here.",
+      "georgian": "აქ ცივა.",
+      "category": "Home",
+      "generated_at": "2026-06-25T02:37:08.590004"
     }
   ],
-  "last_updated": "2026-06-24T21:22:21.520259"
+  "last_updated": "2026-06-25T02:37:08.590005"
 }
