@@ -5609,7 +5609,37 @@
       "georgian": "ყურადღებით მოისმინე.",
       "category": "Greetings",
       "generated_at": "2026-06-27T02:32:42.668713"
+    },
+    {
+      "english": "We have a big house.",
+      "georgian": "ჩვენ დიდი სახლი გვაქვს.",
+      "category": "Family",
+      "generated_at": "2026-06-27T15:17:14.446096"
+    },
+    {
+      "english": "Family is everything.",
+      "georgian": "ოჯახი ყველაფერია.",
+      "category": "Family",
+      "generated_at": "2026-06-27T15:17:14.446104"
+    },
+    {
+      "english": "My grandmother's recipe is secret.",
+      "georgian": "ბებიაჩემის რეცეპტი საიდუმლოა.",
+      "category": "Family",
+      "generated_at": "2026-06-27T15:17:14.446106"
+    },
+    {
+      "english": "Do you have siblings?",
+      "georgian": "და-ძმა თუ გყავს?",
+      "category": "Family",
+      "generated_at": "2026-06-27T15:17:14.446107"
+    },
+    {
+      "english": "Let's take a family photo.",
+      "georgian": "ოჯახური ფოტო გადავიღოთ.",
+      "category": "Family",
+      "generated_at": "2026-06-27T15:17:14.446108"
     }
   ],
-  "last_updated": "2026-06-27T02:32:42.668715"
+  "last_updated": "2026-06-27T15:17:14.446110"
 }
