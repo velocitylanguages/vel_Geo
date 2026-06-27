@@ -5699,7 +5699,37 @@
       "georgian": "რა მდიდარი ენაა!",
       "category": "Emotions",
       "generated_at": "2026-06-27T19:21:49.660086"
+    },
+    {
+      "english": "Can you hear the guitar?",
+      "georgian": "გიტარა, თუ გესმის?",
+      "category": "Music",
+      "generated_at": "2026-06-27T21:03:48.006428"
+    },
+    {
+      "english": "This music fills my soul.",
+      "georgian": "ეს მუსიკა, სულს მივსებს.",
+      "category": "Music",
+      "generated_at": "2026-06-27T21:03:48.006437"
+    },
+    {
+      "english": "Listen to this harmony.",
+      "georgian": "ამ ჰარმონიას, დაუგდე ყური.",
+      "category": "Music",
+      "generated_at": "2026-06-27T21:03:48.006439"
+    },
+    {
+      "english": "I love folk songs.",
+      "georgian": "ხალხურ სიმღერებს, ძალიან მიყვარს.",
+      "category": "Music",
+      "generated_at": "2026-06-27T21:03:48.006440"
+    },
+    {
+      "english": "The drummer is very talented.",
+      "georgian": "დრამერი, ძალიან ნიჭიერია.",
+      "category": "Music",
+      "generated_at": "2026-06-27T21:03:48.006441"
     }
   ],
-  "last_updated": "2026-06-27T19:21:49.660088"
+  "last_updated": "2026-06-27T21:03:48.006443"
 }
