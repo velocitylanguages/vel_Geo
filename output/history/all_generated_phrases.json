@@ -5669,7 +5669,37 @@
       "georgian": "ვნახოთ საუბარი.",
       "category": "Education",
       "generated_at": "2026-06-27T17:03:27.407369"
+    },
+    {
+      "english": "My pronunciation is improving.",
+      "georgian": "ჩემი გამოთქმა უმჯობესდება.",
+      "category": "Emotions",
+      "generated_at": "2026-06-27T19:21:49.660071"
+    },
+    {
+      "english": "I'm confused by this sentence.",
+      "georgian": "ეს წინადადება მაბნევს.",
+      "category": "Emotions",
+      "generated_at": "2026-06-27T19:21:49.660083"
+    },
+    {
+      "english": "Learning this feels rewarding.",
+      "georgian": "ამ სწავლას შედეგი მოაქვს.",
+      "category": "Emotions",
+      "generated_at": "2026-06-27T19:21:49.660084"
+    },
+    {
+      "english": "I want to speak fluently.",
+      "georgian": "მინდა თავისუფლად ვსაუბრობდე.",
+      "category": "Emotions",
+      "generated_at": "2026-06-27T19:21:49.660085"
+    },
+    {
+      "english": "What a rich language!",
+      "georgian": "რა მდიდარი ენაა!",
+      "category": "Emotions",
+      "generated_at": "2026-06-27T19:21:49.660086"
     }
   ],
-  "last_updated": "2026-06-27T17:03:27.407371"
+  "last_updated": "2026-06-27T19:21:49.660088"
 }
