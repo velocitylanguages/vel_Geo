@@ -5849,7 +5849,37 @@
       "georgian": "მან რბილი იისფერი აირჩია.",
       "category": "Colors",
       "generated_at": "2026-06-28T19:20:37.769854"
+    },
+    {
+      "english": "A busy bee collects nectar.",
+      "georgian": "საქმიანი ფუტკარი ნექტარს აგროვებს.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T21:00:56.591504"
+    },
+    {
+      "english": "The snake slithers silently.",
+      "georgian": "გველი ჩუმად იხვევა.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T21:00:56.591516"
+    },
+    {
+      "english": "Owls hunt at night.",
+      "georgian": "ბუები ღამით ნადირობენ.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T21:00:56.591518"
+    },
+    {
+      "english": "The strong horse runs fast.",
+      "georgian": "ძალიან ცხენი სწრაფად დარბის.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T21:00:56.591519"
+    },
+    {
+      "english": "A playful monkey swings.",
+      "georgian": "მოხეტიალე მაიმუნი ქანაობს.",
+      "category": "Animals",
+      "generated_at": "2026-06-28T21:00:56.591520"
     }
   ],
-  "last_updated": "2026-06-28T19:20:37.769855"
+  "last_updated": "2026-06-28T21:00:56.591522"
 }
