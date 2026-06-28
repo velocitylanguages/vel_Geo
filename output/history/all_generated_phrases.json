@@ -5759,7 +5759,37 @@
       "georgian": "ქართული ტექსტები ხმამაღლა წაიკითხე.",
       "category": "Success",
       "generated_at": "2026-06-28T02:45:19.632796"
+    },
+    {
+      "english": "Avoid sugary drinks.",
+      "georgian": "ტკბილ სასმელებს მოერიდეთ.",
+      "category": "Health",
+      "generated_at": "2026-06-28T15:19:29.622250"
+    },
+    {
+      "english": "It's good for your health.",
+      "georgian": "ეს თქვენს ჯანმრთელობას წაადგება.",
+      "category": "Health",
+      "generated_at": "2026-06-28T15:19:29.622263"
+    },
+    {
+      "english": "Get some fresh air.",
+      "georgian": "გამოიარეთ სუფთა ჰაერზე.",
+      "category": "Health",
+      "generated_at": "2026-06-28T15:19:29.622265"
+    },
+    {
+      "english": "Rest your eyes.",
+      "georgian": "თვალებს დაასვენეთ.",
+      "category": "Health",
+      "generated_at": "2026-06-28T15:19:29.622266"
+    },
+    {
+      "english": "What is this for?",
+      "georgian": "რაში დაგეხმარებათ ეს?",
+      "category": "Health",
+      "generated_at": "2026-06-28T15:19:29.622267"
     }
   ],
-  "last_updated": "2026-06-28T02:45:19.632798"
+  "last_updated": "2026-06-28T15:19:29.622269"
 }
