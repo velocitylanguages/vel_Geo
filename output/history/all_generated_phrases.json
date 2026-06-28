@@ -5819,7 +5819,37 @@
       "georgian": "ამინდის პროგნოზი კარგია.",
       "category": "Weather",
       "generated_at": "2026-06-28T17:02:49.516120"
+    },
+    {
+      "english": "He wears a black hat.",
+      "georgian": "ის შავ ქუდს ატარებს.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T19:20:37.769841"
+    },
+    {
+      "english": "What a lovely beige scarf!",
+      "georgian": "რა საყვარელი კრემისფერი შარფია!",
+      "category": "Colors",
+      "generated_at": "2026-06-28T19:20:37.769850"
+    },
+    {
+      "english": "The train is turquoise.",
+      "georgian": "მატარებელი ფირუზისფერია.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T19:20:37.769851"
+    },
+    {
+      "english": "Lime green is vibrant.",
+      "georgian": "ლაიმისფერი მწვანე ცოცხალია.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T19:20:37.769853"
+    },
+    {
+      "english": "She chose a soft violet.",
+      "georgian": "მან რბილი იისფერი აირჩია.",
+      "category": "Colors",
+      "generated_at": "2026-06-28T19:20:37.769854"
     }
   ],
-  "last_updated": "2026-06-28T17:02:49.516122"
+  "last_updated": "2026-06-28T19:20:37.769855"
 }
