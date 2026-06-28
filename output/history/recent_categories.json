@@ -1,16 +1,6 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "last_3_days": [
-    {
-      "date": "2026-06-25",
-      "categories": [
-        "Home",
-        "Numbers",
-        "Sports",
-        "Shopping",
-        "Weather"
-      ]
-    },
     {
       "date": "2026-06-26",
       "categories": [
@@ -29,6 +19,12 @@
         "Education",
         "Emotions",
         "Music"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "categories": [
+        "Success"
       ]
     }
   ]

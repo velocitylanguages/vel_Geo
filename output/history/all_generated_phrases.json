@@ -5729,7 +5729,37 @@
       "georgian": "დრამერი, ძალიან ნიჭიერია.",
       "category": "Music",
       "generated_at": "2026-06-27T21:03:48.006441"
+    },
+    {
+      "english": "Unlock Georgian literature.",
+      "georgian": "გააღე ქართული ლიტერატურის კარი.",
+      "category": "Success",
+      "generated_at": "2026-06-28T02:45:19.632782"
+    },
+    {
+      "english": "Your fluency is growing.",
+      "georgian": "შენი თავისუფალი მეტყველება იზრდება.",
+      "category": "Success",
+      "generated_at": "2026-06-28T02:45:19.632792"
+    },
+    {
+      "english": "Embrace the unique sounds.",
+      "georgian": "უჩვეულო ბგერებს შეეგუე.",
+      "category": "Success",
+      "generated_at": "2026-06-28T02:45:19.632794"
+    },
+    {
+      "english": "The journey is rewarding.",
+      "georgian": "მოგზაურობა წარმატებით მიმდინარეობს.",
+      "category": "Success",
+      "generated_at": "2026-06-28T02:45:19.632795"
+    },
+    {
+      "english": "Read Georgian texts aloud.",
+      "georgian": "ქართული ტექსტები ხმამაღლა წაიკითხე.",
+      "category": "Success",
+      "generated_at": "2026-06-28T02:45:19.632796"
     }
   ],
-  "last_updated": "2026-06-27T21:03:48.006443"
+  "last_updated": "2026-06-28T02:45:19.632798"
 }
