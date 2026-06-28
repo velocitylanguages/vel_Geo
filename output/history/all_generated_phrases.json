@@ -5789,7 +5789,37 @@
       "georgian": "რაში დაგეხმარებათ ეს?",
       "category": "Health",
       "generated_at": "2026-06-28T15:19:29.622267"
+    },
+    {
+      "english": "The frost is biting.",
+      "georgian": "ყინვა კბენს.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T17:02:49.516107"
+    },
+    {
+      "english": "Summer heat is unbearable.",
+      "georgian": "ზაფხულის სიცხე აუტანელია.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T17:02:49.516116"
+    },
+    {
+      "english": "Spring breeze is gentle.",
+      "georgian": "გაზაფხულის ნიავი ნაზია.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T17:02:49.516118"
+    },
+    {
+      "english": "Winter is here.",
+      "georgian": "ზამთარი მოვიდა.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T17:02:49.516119"
+    },
+    {
+      "english": "The weather forecast is good.",
+      "georgian": "ამინდის პროგნოზი კარგია.",
+      "category": "Weather",
+      "generated_at": "2026-06-28T17:02:49.516120"
     }
   ],
-  "last_updated": "2026-06-28T15:19:29.622269"
+  "last_updated": "2026-06-28T17:02:49.516122"
 }
