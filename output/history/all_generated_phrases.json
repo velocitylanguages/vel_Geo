@@ -5969,7 +5969,37 @@
       "georgian": "დღევანდელი ძალისხმევა, ხვალინდელი თავისუფლება.",
       "category": "Wisdom",
       "generated_at": "2026-06-29T18:04:57.711103"
+    },
+    {
+      "english": "Water is in the fridge.",
+      "georgian": "წყალი მაცივარშია.",
+      "category": "Home",
+      "generated_at": "2026-06-29T19:58:40.309604"
+    },
+    {
+      "english": "I need to rest.",
+      "georgian": "დასვენება მჭირდება.",
+      "category": "Home",
+      "generated_at": "2026-06-29T19:58:40.309616"
+    },
+    {
+      "english": "Where is the sofa?",
+      "georgian": "დივანი სად არის?",
+      "category": "Home",
+      "generated_at": "2026-06-29T19:58:40.309618"
+    },
+    {
+      "english": "The book is on the shelf.",
+      "georgian": "წიგნი თაროზე დევს.",
+      "category": "Home",
+      "generated_at": "2026-06-29T19:58:40.309619"
+    },
+    {
+      "english": "Good, the room is clean!",
+      "georgian": "კარგი, ოთახი სუფთაა!",
+      "category": "Home",
+      "generated_at": "2026-06-29T19:58:40.309620"
     }
   ],
-  "last_updated": "2026-06-29T18:04:57.711105"
+  "last_updated": "2026-06-29T19:58:40.309622"
 }
