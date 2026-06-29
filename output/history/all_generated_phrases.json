@@ -5879,7 +5879,37 @@
       "georgian": "მოხეტიალე მაიმუნი ქანაობს.",
       "category": "Animals",
       "generated_at": "2026-06-28T21:00:56.591520"
+    },
+    {
+      "english": "I need a taxi.",
+      "georgian": "ტაქსი მჭირდება.",
+      "category": "Travel",
+      "generated_at": "2026-06-29T02:46:13.590759"
+    },
+    {
+      "english": "This view is breathtaking!",
+      "georgian": "ეს ხედი მომხიბლავია!",
+      "category": "Travel",
+      "generated_at": "2026-06-29T02:46:13.590771"
+    },
+    {
+      "english": "Where can I find a map?",
+      "georgian": "სად ვიპოვო რუკა?",
+      "category": "Travel",
+      "generated_at": "2026-06-29T02:46:13.590772"
+    },
+    {
+      "english": "It's a bit expensive.",
+      "georgian": "ცოტა ძვირია.",
+      "category": "Travel",
+      "generated_at": "2026-06-29T02:46:13.590773"
+    },
+    {
+      "english": "Can you recommend a restaurant?",
+      "georgian": "შეგიძლია რესტორანი მირჩიო?",
+      "category": "Travel",
+      "generated_at": "2026-06-29T02:46:13.590774"
     }
   ],
-  "last_updated": "2026-06-28T21:00:56.591522"
+  "last_updated": "2026-06-29T02:46:13.590776"
 }

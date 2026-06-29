@@ -1,16 +1,6 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "last_3_days": [
-    {
-      "date": "2026-06-26",
-      "categories": [
-        "Wisdom",
-        "Gratitude",
-        "Nature",
-        "Love",
-        "Work"
-      ]
-    },
     {
       "date": "2026-06-27",
       "categories": [
@@ -29,6 +19,12 @@
         "Weather",
         "Colors",
         "Animals"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "categories": [
+        "Travel"
       ]
     }
   ]
