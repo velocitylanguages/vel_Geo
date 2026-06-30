@@ -6059,7 +6059,37 @@
       "georgian": "ეს სასწავლო მოგზაურობა სახალისოა.",
       "category": "Happiness",
       "generated_at": "2026-06-30T02:40:14.650410"
+    },
+    {
+      "english": "Build your vocabulary, word by word.",
+      "georgian": "გაზარდეთ თქვენი ლექსიკა, სიტყვა-სიტყვით.",
+      "category": "Directions",
+      "generated_at": "2026-06-30T19:59:11.280001"
+    },
+    {
+      "english": "Ask for clarification.",
+      "georgian": "ითხოვეთ განმარტება.",
+      "category": "Directions",
+      "generated_at": "2026-06-30T19:59:11.280010"
+    },
+    {
+      "english": "Watch Georgian films.",
+      "georgian": "უყურეთ ქართულ ფილმებს.",
+      "category": "Directions",
+      "generated_at": "2026-06-30T19:59:11.280012"
+    },
+    {
+      "english": "Understand noun declensions.",
+      "georgian": "გაიგეთ არსებითი სახელების ბრუნება.",
+      "category": "Directions",
+      "generated_at": "2026-06-30T19:59:11.280013"
+    },
+    {
+      "english": "Travel to Georgia!",
+      "georgian": "იმოგზაურეთ საქართველოში!",
+      "category": "Directions",
+      "generated_at": "2026-06-30T19:59:11.280014"
     }
   ],
-  "last_updated": "2026-06-30T02:40:14.650418"
+  "last_updated": "2026-06-30T19:59:11.280015"
 }
