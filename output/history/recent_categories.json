@@ -1,16 +1,6 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "last_3_days": [
-    {
-      "date": "2026-06-28",
-      "categories": [
-        "Success",
-        "Health",
-        "Weather",
-        "Colors",
-        "Animals"
-      ]
-    },
     {
       "date": "2026-06-29",
       "categories": [
@@ -27,6 +17,12 @@
         "Happiness",
         "Directions",
         "Nature"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "categories": [
+        "Food"
       ]
     }
   ]

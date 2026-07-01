@@ -6119,7 +6119,37 @@
       "georgian": "ბუნების სილამაზე მანცვიფრებს.",
       "category": "Nature",
       "generated_at": "2026-06-30T21:28:13.582633"
+    },
+    {
+      "english": "More water, please.",
+      "georgian": "მეტი წყალი.",
+      "category": "Food",
+      "generated_at": "2026-07-01T02:46:34.440686"
+    },
+    {
+      "english": "This khachapuri is amazing!",
+      "georgian": "ეს ხაჭაპური საოცრებაა!",
+      "category": "Food",
+      "generated_at": "2026-07-01T02:46:34.440699"
+    },
+    {
+      "english": "Are there vegetables?",
+      "georgian": "ბოსტნეული არის?",
+      "category": "Food",
+      "generated_at": "2026-07-01T02:46:34.440700"
+    },
+    {
+      "english": "This honey is sweet.",
+      "georgian": "ეს თაფლი ტკბილია.",
+      "category": "Food",
+      "generated_at": "2026-07-01T02:46:34.440702"
+    },
+    {
+      "english": "Eat the walnuts.",
+      "georgian": "ნიგოზი შეჭამე.",
+      "category": "Food",
+      "generated_at": "2026-07-01T02:46:34.440703"
     }
   ],
-  "last_updated": "2026-06-30T21:28:13.582635"
+  "last_updated": "2026-07-01T02:46:34.440704"
 }
