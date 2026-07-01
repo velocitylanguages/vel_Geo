@@ -6149,7 +6149,37 @@
       "georgian": "ნიგოზი შეჭამე.",
       "category": "Food",
       "generated_at": "2026-07-01T02:46:34.440703"
+    },
+    {
+      "english": "The slow turtle crawls.",
+      "georgian": "ნელი კუ დაცოცავს.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:28:12.047613"
+    },
+    {
+      "english": "What sound does a cow make?",
+      "georgian": "რა ხმას გამოსცემს ძროხა?",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:28:12.047622"
+    },
+    {
+      "english": "The majestic eagle soars.",
+      "georgian": "შესანიშნავი არწივი იფრენს.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:28:12.047624"
+    },
+    {
+      "english": "A tiny ant carries food.",
+      "georgian": "პაწაწუნა ჭიანჭველა საკვებს ატარებს.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:28:12.047625"
+    },
+    {
+      "english": "The zebra has stripes.",
+      "georgian": "ზებრას ზოლები აქვს.",
+      "category": "Animals",
+      "generated_at": "2026-07-01T16:28:12.047626"
     }
   ],
-  "last_updated": "2026-07-01T02:46:34.440704"
+  "last_updated": "2026-07-01T16:28:12.047628"
 }
