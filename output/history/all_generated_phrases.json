@@ -6179,7 +6179,37 @@
       "georgian": "ზებრას ზოლები აქვს.",
       "category": "Animals",
       "generated_at": "2026-07-01T16:28:12.047626"
+    },
+    {
+      "english": "I'll take two.",
+      "georgian": "ორს ავიღებ.",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T19:56:47.405105"
+    },
+    {
+      "english": "Is there a discount?",
+      "georgian": "ფასდაკლება არის?",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T19:56:47.405118"
+    },
+    {
+      "english": "This is beautiful!",
+      "georgian": "რა ლამაზია!",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T19:56:47.405120"
+    },
+    {
+      "english": "Can I try this on?",
+      "georgian": "მოვზომო?",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T19:56:47.405121"
+    },
+    {
+      "english": "Where can I find...",
+      "georgian": "სად ვიპოვო...",
+      "category": "Shopping",
+      "generated_at": "2026-07-01T19:56:47.405122"
     }
   ],
-  "last_updated": "2026-07-01T16:28:12.047628"
+  "last_updated": "2026-07-01T19:56:47.405124"
 }
