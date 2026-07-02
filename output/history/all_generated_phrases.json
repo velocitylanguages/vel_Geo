@@ -6239,7 +6239,25 @@
       "georgian": "ერთი საათი გვაქვს.",
       "category": "Time",
       "generated_at": "2026-07-02T02:36:05.484578"
+    },
+    {
+      "english": "This dialect sounds different.",
+      "georgian": "ეს დიალექტი სხვაგვარად ჟღერს.",
+      "category": "Education",
+      "generated_at": "2026-07-02T17:40:09.415195"
+    },
+    {
+      "english": "I want to read Georgian literature.",
+      "georgian": "მინდა წავიკითხო ქართული ლიტერატურა.",
+      "category": "Education",
+      "generated_at": "2026-07-02T17:40:09.415205"
+    },
+    {
+      "english": "Focus on the verb conjugation.",
+      "georgian": "კონცენტრაცია ზმნისართულ კრებაზე.",
+      "category": "Education",
+      "generated_at": "2026-07-02T17:40:09.415206"
     }
   ],
-  "last_updated": "2026-07-02T02:36:05.484579"
+  "last_updated": "2026-07-02T17:40:09.415208"
 }
