@@ -1,16 +1,6 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "last_3_days": [
-    {
-      "date": "2026-06-29",
-      "categories": [
-        "Travel",
-        "Friendship",
-        "Wisdom",
-        "Home",
-        "Gratitude"
-      ]
-    },
     {
       "date": "2026-06-30",
       "categories": [
@@ -25,6 +15,12 @@
         "Food",
         "Animals",
         "Shopping"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "categories": [
+        "Time"
       ]
     }
   ]

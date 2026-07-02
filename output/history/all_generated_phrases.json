@@ -6209,7 +6209,37 @@
       "georgian": "სად ვიპოვო...",
       "category": "Shopping",
       "generated_at": "2026-07-01T19:56:47.405122"
+    },
+    {
+      "english": "Future learning plans!",
+      "georgian": "მომავალი სასწავლი გეგმები!",
+      "category": "Time",
+      "generated_at": "2026-07-02T02:36:05.484559"
+    },
+    {
+      "english": "Soon I will speak fluently.",
+      "georgian": "მალე თავისუფლად ვილაპარაკებ.",
+      "category": "Time",
+      "generated_at": "2026-07-02T02:36:05.484574"
+    },
+    {
+      "english": "Is it late?",
+      "georgian": "გვიანია?",
+      "category": "Time",
+      "generated_at": "2026-07-02T02:36:05.484575"
+    },
+    {
+      "english": "It's never too late.",
+      "georgian": "არასდროს არის გვიანი.",
+      "category": "Time",
+      "generated_at": "2026-07-02T02:36:05.484577"
+    },
+    {
+      "english": "We have one hour.",
+      "georgian": "ერთი საათი გვაქვს.",
+      "category": "Time",
+      "generated_at": "2026-07-02T02:36:05.484578"
     }
   ],
-  "last_updated": "2026-07-01T19:56:47.405124"
+  "last_updated": "2026-07-02T02:36:05.484579"
 }
