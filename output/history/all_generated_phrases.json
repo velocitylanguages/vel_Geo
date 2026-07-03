@@ -6359,7 +6359,37 @@
       "georgian": "ნამდვილი საგანძური ხარ.",
       "category": "Friendship",
       "generated_at": "2026-07-03T15:54:21.336967"
+    },
+    {
+      "english": "I'm looking for the museum.",
+      "georgian": "მუზეუმს ვეძებ.",
+      "category": "Travel",
+      "generated_at": "2026-07-03T17:18:07.101850"
+    },
+    {
+      "english": "Have a good trip!",
+      "georgian": "კარგად იმგზავრე!",
+      "category": "Travel",
+      "generated_at": "2026-07-03T17:18:07.101858"
+    },
+    {
+      "english": "What is that building?",
+      "georgian": "რა შენობაა ის?",
+      "category": "Travel",
+      "generated_at": "2026-07-03T17:18:07.101860"
+    },
+    {
+      "english": "The weather is lovely today.",
+      "georgian": "ამინდი დღეს მშვენიერია.",
+      "category": "Travel",
+      "generated_at": "2026-07-03T17:18:07.101861"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "georgian": "სად არის უახლოესი ბანკომატი?",
+      "category": "Travel",
+      "generated_at": "2026-07-03T17:18:07.101862"
     }
   ],
-  "last_updated": "2026-07-03T15:54:21.336969"
+  "last_updated": "2026-07-03T17:18:07.101864"
 }
