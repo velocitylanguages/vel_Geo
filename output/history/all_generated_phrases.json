@@ -6419,7 +6419,37 @@
       "georgian": "ქართული კულტურის გემო.",
       "category": "Happiness",
       "generated_at": "2026-07-03T21:06:08.183960"
+    },
+    {
+      "english": "This medicine helps.",
+      "georgian": "ეს წამალი შველის.",
+      "category": "Health",
+      "generated_at": "2026-07-04T15:06:54.858443"
+    },
+    {
+      "english": "Feeling better now.",
+      "georgian": "ახლა თავს უკეთ ვგრძნობ.",
+      "category": "Health",
+      "generated_at": "2026-07-04T15:06:54.858453"
+    },
+    {
+      "english": "How often do you eat?",
+      "georgian": "რამდენად ხშირად ჭამთ?",
+      "category": "Health",
+      "generated_at": "2026-07-04T15:06:54.858455"
+    },
+    {
+      "english": "Maintain a balanced diet.",
+      "georgian": "დაიცავით დაბალანსებული კვება.",
+      "category": "Health",
+      "generated_at": "2026-07-04T15:06:54.858456"
+    },
+    {
+      "english": "Wash your hands often.",
+      "georgian": "ხშირად დაიბანეთ ხელები.",
+      "category": "Health",
+      "generated_at": "2026-07-04T15:06:54.858457"
     }
   ],
-  "last_updated": "2026-07-03T21:06:08.183961"
+  "last_updated": "2026-07-04T15:06:54.858459"
 }
