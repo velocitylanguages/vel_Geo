@@ -6521,7 +6521,37 @@
       "georgian": "შენი პროგრესი აღფრთოვანებას იწვევს!",
       "category": "Success",
       "generated_at": "2026-07-05T15:14:22.099395"
+    },
+    {
+      "english": "This beat makes me move.",
+      "georgian": "ეს ბითი, ფეხებს ამძრაობს.",
+      "category": "Music",
+      "generated_at": "2026-07-05T17:01:39.716967"
+    },
+    {
+      "english": "Who composed this piece?",
+      "georgian": "ვინ დაწერა, ეს ნაწარმოები?",
+      "category": "Music",
+      "generated_at": "2026-07-05T17:01:39.716980"
+    },
+    {
+      "english": "Let the music play.",
+      "georgian": "მუსიკას, უკრავდეს.",
+      "category": "Music",
+      "generated_at": "2026-07-05T17:01:39.716981"
+    },
+    {
+      "english": "The piano sounds wonderful.",
+      "georgian": "სასიამოვნოდ, უკრავს პიანინო.",
+      "category": "Music",
+      "generated_at": "2026-07-05T17:01:39.716983"
+    },
+    {
+      "english": "Such powerful lyrics!",
+      "georgian": "რა ძლიერი, ტექსტია!",
+      "category": "Music",
+      "generated_at": "2026-07-05T17:01:39.716984"
     }
   ],
-  "last_updated": "2026-07-05T15:14:22.099397"
+  "last_updated": "2026-07-05T17:01:39.716986"
 }
