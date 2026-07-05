@@ -1,15 +1,6 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "last_3_days": [
-    {
-      "date": "2026-07-02",
-      "categories": [
-        "Time",
-        "Education",
-        "Wisdom",
-        "Numbers"
-      ]
-    },
     {
       "date": "2026-07-03",
       "categories": [
@@ -24,6 +15,12 @@
       "categories": [
         "Health",
         "Gratitude"
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "categories": [
+        "Shopping"
       ]
     }
   ]

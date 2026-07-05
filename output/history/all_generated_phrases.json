@@ -6479,7 +6479,25 @@
       "georgian": "საქართველოს გული იხსნება.",
       "category": "Gratitude",
       "generated_at": "2026-07-04T19:13:55.113217"
+    },
+    {
+      "english": "This is exactly what I wanted.",
+      "georgian": "ზუსტად ეს მინდოდა.",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T02:25:19.985093"
+    },
+    {
+      "english": "Do you accept returns?",
+      "georgian": "უკან იბრუნებთ?",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T02:25:19.985101"
+    },
+    {
+      "english": "Just show me the cheapest.",
+      "georgian": "ყველაზე იაფი მაჩვენეთ.",
+      "category": "Shopping",
+      "generated_at": "2026-07-05T02:25:19.985103"
     }
   ],
-  "last_updated": "2026-07-04T19:13:55.113221"
+  "last_updated": "2026-07-05T02:25:19.985104"
 }
