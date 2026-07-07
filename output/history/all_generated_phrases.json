@@ -6605,7 +6605,31 @@
       "georgian": "ორმოცი ელფერი ლურჯის.",
       "category": "Numbers",
       "generated_at": "2026-07-07T02:25:46.098760"
+    },
+    {
+      "english": "Make sulguni toast.",
+      "georgian": "სულგუნის ტოსტი გააკეთე.",
+      "category": "Food",
+      "generated_at": "2026-07-07T19:55:28.309229"
+    },
+    {
+      "english": "I need some walnuts.",
+      "georgian": "ცოტა ნიგოზი მჭირდება.",
+      "category": "Food",
+      "generated_at": "2026-07-07T19:55:28.309242"
+    },
+    {
+      "english": "The food is ready.",
+      "georgian": "საჭმელი მზადაა.",
+      "category": "Food",
+      "generated_at": "2026-07-07T19:55:28.309243"
+    },
+    {
+      "english": "This tea is hot.",
+      "georgian": "ეს ჩაი ცხელია.",
+      "category": "Food",
+      "generated_at": "2026-07-07T19:55:28.309244"
     }
   ],
-  "last_updated": "2026-07-07T02:25:46.098762"
+  "last_updated": "2026-07-07T19:55:28.309246"
 }
