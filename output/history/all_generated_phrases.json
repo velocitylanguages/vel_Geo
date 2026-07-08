@@ -6629,7 +6629,37 @@
       "georgian": "ეს ჩაი ცხელია.",
       "category": "Food",
       "generated_at": "2026-07-07T19:55:28.309244"
+    },
+    {
+      "english": "Avoid staying up late.",
+      "georgian": "გვიანობამდე ნუ გაიღვიძებთ.",
+      "category": "Health",
+      "generated_at": "2026-07-08T01:58:58.288233"
+    },
+    {
+      "english": "Your body needs nutrients.",
+      "georgian": "თქვენს სხეულს სჭირდება ნივთიერებები.",
+      "category": "Health",
+      "generated_at": "2026-07-08T01:58:58.288244"
+    },
+    {
+      "english": "Relax and de-stress.",
+      "georgian": "დაისვენეთ და მოიხსენით სტრესი.",
+      "category": "Health",
+      "generated_at": "2026-07-08T01:58:58.288246"
+    },
+    {
+      "english": "Stay active, be healthy!",
+      "georgian": "იყავით აქტიურები, იყავით ჯანმრთელები!",
+      "category": "Health",
+      "generated_at": "2026-07-08T01:58:58.288247"
+    },
+    {
+      "english": "Listen to your body.",
+      "georgian": "თქვენს სხეულს დაუგდეთ ყური.",
+      "category": "Health",
+      "generated_at": "2026-07-08T01:58:58.288248"
     }
   ],
-  "last_updated": "2026-07-07T19:55:28.309246"
+  "last_updated": "2026-07-08T01:58:58.288250"
 }
