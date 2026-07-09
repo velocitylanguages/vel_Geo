@@ -6689,7 +6689,37 @@
       "georgian": "კონცერტი, გასაოცარი იყო!",
       "category": "Music",
       "generated_at": "2026-07-09T02:12:03.983670"
+    },
+    {
+      "english": "What is your professional opinion?",
+      "georgian": "თქვენი პროფესიონალური აზრი რა არის?",
+      "category": "Work",
+      "generated_at": "2026-07-09T16:28:47.179738"
+    },
+    {
+      "english": "Let's review the contract.",
+      "georgian": "ხელშეკრულებას გადავხედოთ.",
+      "category": "Work",
+      "generated_at": "2026-07-09T16:28:47.179764"
+    },
+    {
+      "english": "This strategy seems effective.",
+      "georgian": "ეს სტრატეგია ეფექტური ჩანს.",
+      "category": "Work",
+      "generated_at": "2026-07-09T16:28:47.179766"
+    },
+    {
+      "english": "What are the potential risks?",
+      "georgian": "რა არის პოტენციური რისკები?",
+      "category": "Work",
+      "generated_at": "2026-07-09T16:28:47.179767"
+    },
+    {
+      "english": "We need to innovate.",
+      "georgian": "ჩვენ სიახლე უნდა შემოვიტანოთ.",
+      "category": "Work",
+      "generated_at": "2026-07-09T16:28:47.179771"
     }
   ],
-  "last_updated": "2026-07-09T02:12:03.983671"
+  "last_updated": "2026-07-09T16:28:47.179773"
 }
