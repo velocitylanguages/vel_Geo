@@ -6719,7 +6719,37 @@
       "georgian": "ჩვენ სიახლე უნდა შემოვიტანოთ.",
       "category": "Work",
       "generated_at": "2026-07-09T16:28:47.179771"
+    },
+    {
+      "english": "When do lessons begin?",
+      "georgian": "როდის იწყება გაკვეთილები?",
+      "category": "Time",
+      "generated_at": "2026-07-10T21:05:45.045655"
+    },
+    {
+      "english": "I need more time.",
+      "georgian": "უფრო მეტი დრო მჭირდება.",
+      "category": "Time",
+      "generated_at": "2026-07-10T21:05:45.045663"
+    },
+    {
+      "english": "Let's practice tomorrow.",
+      "georgian": "ხვალ ვივარჯიშოთ.",
+      "category": "Time",
+      "generated_at": "2026-07-10T21:05:45.045665"
+    },
+    {
+      "english": "This moment is perfect.",
+      "georgian": "ეს მომენტი იდეალურია.",
+      "category": "Time",
+      "generated_at": "2026-07-10T21:05:45.045666"
+    },
+    {
+      "english": "Learning takes time.",
+      "georgian": "სწავლას დრო უნდა.",
+      "category": "Time",
+      "generated_at": "2026-07-10T21:05:45.045667"
     }
   ],
-  "last_updated": "2026-07-09T16:28:47.179773"
+  "last_updated": "2026-07-10T21:05:45.045671"
 }
