@@ -6749,7 +6749,37 @@
       "georgian": "სწავლას დრო უნდა.",
       "category": "Time",
       "generated_at": "2026-07-10T21:05:45.045667"
+    },
+    {
+      "english": "This dialect is new to me.",
+      "georgian": "ეს დიალექტი ჩემთვის ახალია.",
+      "category": "Emotions",
+      "generated_at": "2026-07-11T16:48:32.674694"
+    },
+    {
+      "english": "I'm getting the hang of it.",
+      "georgian": "ვხვდები, რაშია საქმე.",
+      "category": "Emotions",
+      "generated_at": "2026-07-11T16:48:32.674706"
+    },
+    {
+      "english": "I miss practicing this.",
+      "georgian": "მაკლია ამის პრაქტიკა.",
+      "category": "Emotions",
+      "generated_at": "2026-07-11T16:48:32.674708"
+    },
+    {
+      "english": "This feels like a puzzle.",
+      "georgian": "ეს თავსატეხს ჰგავს.",
+      "category": "Emotions",
+      "generated_at": "2026-07-11T16:48:32.674709"
+    },
+    {
+      "english": "I'm eager to try.",
+      "georgian": "მზად ვარ, ვცადო.",
+      "category": "Emotions",
+      "generated_at": "2026-07-11T16:48:32.674710"
     }
   ],
-  "last_updated": "2026-07-10T21:05:45.045671"
+  "last_updated": "2026-07-11T16:48:32.674712"
 }
