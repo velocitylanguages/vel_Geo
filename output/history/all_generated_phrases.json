@@ -6779,7 +6779,37 @@
       "georgian": "მზად ვარ, ვცადო.",
       "category": "Emotions",
       "generated_at": "2026-07-11T16:48:32.674710"
+    },
+    {
+      "english": "What's the topic today?",
+      "georgian": "დღეს რა თემაა?",
+      "category": "Greetings",
+      "generated_at": "2026-07-12T02:00:57.614114"
+    },
+    {
+      "english": "Let's dive in!",
+      "georgian": "ჩავუღრმავდეთ!",
+      "category": "Greetings",
+      "generated_at": "2026-07-12T02:00:57.614122"
+    },
+    {
+      "english": "That sounds interesting.",
+      "georgian": "საკმაოდ საინტერესოდ ჟღერს.",
+      "category": "Greetings",
+      "generated_at": "2026-07-12T02:00:57.614124"
+    },
+    {
+      "english": "Write this down.",
+      "georgian": "ეს ჩაიწერე.",
+      "category": "Greetings",
+      "generated_at": "2026-07-12T02:00:57.614125"
+    },
+    {
+      "english": "Do you understand?",
+      "georgian": "გესმის?",
+      "category": "Greetings",
+      "generated_at": "2026-07-12T02:00:57.614126"
     }
   ],
-  "last_updated": "2026-07-11T16:48:32.674712"
+  "last_updated": "2026-07-12T02:00:57.614128"
 }
