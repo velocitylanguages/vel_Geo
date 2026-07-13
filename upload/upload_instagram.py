@@ -204,9 +204,9 @@ def upload_to_instagram(video_path, caption, is_story=False):
             
             status_response = requests.get(status_url, params=status_params, timeout=30)
             
-            # Fallback if status check fails on instagram.com
+            # Fallback if status check fails on facebook.com
             if status_response.status_code != 200:
-                status_url = f"https://graph.facebook.com/v21.0/{container_id}"
+                status_url = f"https://graph.instagram.com/v21.0/{container_id}"
                 status_response = requests.get(status_url, params=status_params, timeout=30)
 
             status_data = status_response.json()
