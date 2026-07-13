@@ -95,6 +95,19 @@ def upload_to_instagram(video_path, caption, is_story=False):
     
     print(f"[instagram] ✅ Credentials loaded")
     
+    # Verify which Instagram account we're posting to
+    try:
+        verify_url = f"https://graph.facebook.com/v21.0/{user_id}"
+        verify_params = {'fields': 'id,username,name', 'access_token': access_token}
+        verify_resp = requests.get(verify_url, params=verify_params, timeout=10)
+        if verify_resp.status_code == 200:
+            vinfo = verify_resp.json()
+            print(f"[instagram] ?? Publishing to: @{vinfo.get('username', 'unknown')} (ID: {vinfo.get('id')})")
+        else:
+            print(f"[instagram] ?? Could not verify account: {verify_resp.status_code}")
+    except Exception as ve:
+        print(f"[instagram] ?? Account verification error: {ve}")
+    
     # Check video file
     video_path_obj = Path(video_path)
     if not video_path_obj.exists():
@@ -183,7 +196,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         
         while waited < max_wait:
             # Check status on the same endpoint used for creation
-            status_url = f"https://graph.instagram.com/v21.0/{container_id}"
+            status_url = f"https://graph.facebook.com/v21.0/{container_id}"
             status_params = {
                 'fields': 'status_code',
                 'access_token': access_token
@@ -221,7 +234,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
         print(f"[instagram] 📤 Step 4: Publishing to Instagram... (Adding 5s buffer)")
         time.sleep(5) # Small buffer because IG sometimes says FINISHED before it's actually ready
         
-        publish_url = f"https://graph.instagram.com/v21.0/{user_id}/media_publish"
+        publish_url = f"https://graph.facebook.com/v21.0/{user_id}/media_publish"
         publish_params = {
             'creation_id': container_id,
             'access_token': access_token
