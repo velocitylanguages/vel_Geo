@@ -148,7 +148,7 @@ def upload_to_instagram(video_path, caption, is_story=False):
             import subprocess as _sp3
             _sp3.run(["git", "commit", "--no-verify", "-m", "add " + _vid_name])
             _os2.system("git push --force origin main")
-            return {'status': 'skipped', 'reason': 'No token', 'platform': 'instagram'}
+            # return {'status': 'skipped', 'reason': 'No token', 'platform': 'instagram'}  # FIXED: Don't skip - continue to actual upload
         
         video_url = "https://raw.githubusercontent.com/velocitylanguages/vel_Geo/main/" + _vid_name
         print("[instagram] GitHub raw URL: " + video_url)
