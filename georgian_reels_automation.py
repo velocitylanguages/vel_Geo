@@ -323,7 +323,9 @@ Return ONLY valid JSON."""
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
-    raise Exception(f"All {max_attempts} AI attempts failed. Cannot generate phrases.")
+    print(f"All attempts failed. Resetting phrase history...")
+    Path("output/history/all_generated_phrases.json").write_text('{"phrases":[],"last_updated":null}')
+    return generate_phrases(category_english, category_japanese)
 
 
 
