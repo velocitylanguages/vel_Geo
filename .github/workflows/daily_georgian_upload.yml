@@ -129,6 +129,8 @@ jobs:
           ls -la output/video/ || echo "No video directory yet"
 
       - name: 📤 Upload to All Social Media Platforms
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "🚀 Starting multi-platform upload..."
           export PYTHONPATH="${{ github.workspace }}:${{ github.workspace }}/upload:$PYTHONPATH"
