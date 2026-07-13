@@ -132,7 +132,8 @@ def upload_to_instagram(video_path, caption, is_story=False):
             import os as _os2
             _os2.system("cp " + str(video_path_obj) + " " + _vid_name)
             _os2.system("git add -f " + _vid_name)
-            _os2.system("git commit --no-verify -m \\"add " + _vid_name + "\\"")
+            import subprocess as _sp3
+            _sp3.run(["git", "commit", "--no-verify", "-m", "add " + _vid_name])
             _os2.system("git push --force origin main")
             return {'status': 'skipped', 'reason': 'No token', 'platform': 'instagram'}
         
