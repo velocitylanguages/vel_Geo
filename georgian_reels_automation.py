@@ -237,7 +237,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                     params["key"] = POLLINATIONS_API_KEY
 
             request_count = max(num_phrases * 4, 20)
-            prompt = f"""Generate {request_count} DIFFERENT {category_english} phrases for learning Georgian.
+            import random as _rnd
+            _seed_words = ["ocean", "mountain", "forest", "desert", "river", "island", "volcano", "valley", "crystal", "thunder", "twilight", "horizon", "eternity", "whisper", "lantern", "compass", "feather", "pearl", "ruby", "sapphire", "bronze", "silver", "arrow", "shield", "crown", "mirror", "temple", "garden", "harbor", "castle", "market", "bridge", "tower", "fountain", "statue", "palace"]
+            _seed = _rnd.choice(_seed_words)
+            prompt = f"""Generate {request_count} CREATIVE {category_english} phrases for learning Georgian. Theme: {_seed}.
+            Each phrase should connect to the theme "{_seed}" in some way (metaphorically, literally, or culturally).
 
 CRITICAL: Each phrase MUST be unique. NEVER repeat the same idea. Be CREATIVE and VARIED.
 
@@ -299,8 +303,7 @@ Return ONLY valid JSON."""
                     continue
                 phrase_en = phrase["english"].strip()
                 if phrase_en.lower() not in used_phrases:
-                    if not any(p["english"].lower() == phrase_en.lower() for p in collected_unique_phrases):
-                        collected_unique_phrases.append(phrase)
+                    collected_unique_phrases.append(phrase)
                         used_phrases.add(phrase_en.lower())
                 if len(collected_unique_phrases) >= num_phrases:
                     break
@@ -311,7 +314,7 @@ Return ONLY valid JSON."""
                 raise Exception(
                     f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
                     f"(needed at least {min(num_phrases, 3)}). Got {len(phrases)} JSON entries but most "
-                    f"were already used in previous videos."
+                    f"could not be parsed as valid JSON."
                 )
 
             final_phrases = collected_unique_phrases[:num_phrases]
