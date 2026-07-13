@@ -1,1 +1,35 @@
-{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Let's go play football!",
+      "georgian": "წავიდეთ ფეხბურთზე!",
+      "category": "Sports",
+      "generated_at": "2026-07-13T04:02:22.918439"
+    },
+    {
+      "english": "Who won the match?",
+      "georgian": "ვინ მოიგო თამაში?",
+      "category": "Sports",
+      "generated_at": "2026-07-13T04:02:22.918449"
+    },
+    {
+      "english": "This athlete is very fast.",
+      "georgian": "ეს სპორტსმენი ძალიან სწრაფია.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T04:02:22.918451"
+    },
+    {
+      "english": "Score a goal!",
+      "georgian": "გაიტანე გოლი!",
+      "category": "Sports",
+      "generated_at": "2026-07-13T04:02:22.918452"
+    },
+    {
+      "english": "Basketball is my favorite.",
+      "georgian": "კალათბურთი ჩემი ფავორიტია.",
+      "category": "Sports",
+      "generated_at": "2026-07-13T04:02:22.918453"
+    }
+  ],
+  "last_updated": "2026-07-13T04:02:22.918455"
+}
