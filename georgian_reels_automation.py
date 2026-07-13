@@ -304,7 +304,7 @@ Return ONLY valid JSON."""
                 phrase_en = phrase["english"].strip()
                 if phrase_en.lower() not in used_phrases:
                     collected_unique_phrases.append(phrase)
-                        used_phrases.add(phrase_en.lower())
+                    used_phrases.add(phrase_en.lower())
                 if len(collected_unique_phrases) >= num_phrases:
                     break
 
