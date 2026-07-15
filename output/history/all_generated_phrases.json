@@ -149,7 +149,37 @@
       "georgian": "ქართულის მწვერვალს მივაღწიოთ!",
       "category": "Greetings",
       "generated_at": "2026-07-15T15:27:26.639613"
+    },
+    {
+      "english": "Each word builds your tower higher.",
+      "georgian": "ყოველი სიტყვა, კოშკს გიმაღლებს.",
+      "category": "Success",
+      "generated_at": "2026-07-15T17:10:20.012666"
+    },
+    {
+      "english": "Your knowledge, a sturdy fortress.",
+      "georgian": "შენი ცოდნა, მყარი ციხე-სიმაგრეა.",
+      "category": "Success",
+      "generated_at": "2026-07-15T17:10:20.012674"
+    },
+    {
+      "english": "Climb the ladder of grammar.",
+      "georgian": "აიხდინე გრამატიკის კიბე.",
+      "category": "Success",
+      "generated_at": "2026-07-15T17:10:20.012675"
+    },
+    {
+      "english": "Soaring like a hawk from the tower.",
+      "georgian": "კოშკიდან არწივივით ავფრინდი.",
+      "category": "Success",
+      "generated_at": "2026-07-15T17:10:20.012676"
+    },
+    {
+      "english": "A new level, a higher floor.",
+      "georgian": "ახალი დონე, უფრო მაღალი სართული.",
+      "category": "Success",
+      "generated_at": "2026-07-15T17:10:20.012677"
     }
   ],
-  "last_updated": "2026-07-15T15:27:26.639614"
+  "last_updated": "2026-07-15T17:10:20.012679"
 }
