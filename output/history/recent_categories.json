@@ -1,14 +1,6 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "last_3_days": [
-    {
-      "date": "2026-07-13",
-      "categories": [
-        "Sports",
-        "Happiness",
-        "Time"
-      ]
-    },
     {
       "date": "2026-07-15",
       "categories": [
@@ -26,6 +18,12 @@
         "Directions",
         "Health",
         "Education"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "categories": [
+        "Food"
       ]
     }
   ]
