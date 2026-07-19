@@ -1,15 +1,6 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "last_3_days": [
-    {
-      "date": "2026-07-16",
-      "categories": [
-        "Emotions",
-        "Directions",
-        "Health",
-        "Education"
-      ]
-    },
     {
       "date": "2026-07-17",
       "categories": [
@@ -27,6 +18,12 @@
         "Numbers",
         "Work",
         "Love"
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "categories": [
+        "Shopping"
       ]
     }
   ]
