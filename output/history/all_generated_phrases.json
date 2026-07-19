@@ -689,7 +689,37 @@
       "georgian": "ელვა ბნელ ნავსადგურს ანათებს.",
       "category": "Weather",
       "generated_at": "2026-07-19T14:58:01.366466"
+    },
+    {
+      "english": "This fruit stall is a treasure chest.",
+      "georgian": "ეს ხილის დახლი, საგანძურია.",
+      "category": "Travel",
+      "generated_at": "2026-07-19T16:51:20.739580"
+    },
+    {
+      "english": "Bargain like a local for spices.",
+      "georgian": "სანელებლებისთვის, ადგილობრივივით ვაჭრობა.",
+      "category": "Travel",
+      "generated_at": "2026-07-19T16:51:20.739591"
+    },
+    {
+      "english": "Every vendor has a story.",
+      "georgian": "თითოეულ გამყიდველს, ისტორია აქვს.",
+      "category": "Travel",
+      "generated_at": "2026-07-19T16:51:20.739592"
+    },
+    {
+      "english": "What is this fragrant herb?",
+      "georgian": "ეს სურნელოვანი მცენარე, რა არის?",
+      "category": "Travel",
+      "generated_at": "2026-07-19T16:51:20.739594"
+    },
+    {
+      "english": "Taste the sunshine in this grape.",
+      "georgian": "ამ ყურძენში, მზის სითბო იგემე.",
+      "category": "Travel",
+      "generated_at": "2026-07-19T16:51:20.739595"
     }
   ],
-  "last_updated": "2026-07-19T14:58:01.366468"
+  "last_updated": "2026-07-19T16:51:20.739596"
 }
