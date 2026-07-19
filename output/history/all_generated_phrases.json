@@ -659,7 +659,37 @@
       "georgian": "მაჩუქე ალმასი, წარმატებისთვის.",
       "category": "Shopping",
       "generated_at": "2026-07-19T01:58:20.194599"
+    },
+    {
+      "english": "The harbor breeze whispers secrets.",
+      "georgian": "ნავსადგურის ნიავი საიდუმლოებს ჩურჩულებს.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T14:58:01.366454"
+    },
+    {
+      "english": "Fog rolls in like a calm tide.",
+      "georgian": "ნისლი მშვიდი მოქცევასავით შემოდის.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T14:58:01.366463"
+    },
+    {
+      "english": "Sunlight dances on the water's surface.",
+      "georgian": "მზის სხივები წყლის ზედაპირზე ცეკვავენ.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T14:58:01.366464"
+    },
+    {
+      "english": "Raindrops patter like gentle anchors.",
+      "georgian": "წვიმის წვეთები ნაზი წამყვანებივით ცვივა.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T14:58:01.366465"
+    },
+    {
+      "english": "Lightning illuminates the dark harbor.",
+      "georgian": "ელვა ბნელ ნავსადგურს ანათებს.",
+      "category": "Weather",
+      "generated_at": "2026-07-19T14:58:01.366466"
     }
   ],
-  "last_updated": "2026-07-19T01:58:20.194603"
+  "last_updated": "2026-07-19T14:58:01.366468"
 }
