@@ -869,7 +869,37 @@
       "georgian": "კარგად ჭამე, დაიცავი შენი კუნძული.",
       "category": "Health",
       "generated_at": "2026-07-20T17:32:21.010395"
+    },
+    {
+      "english": "The ship finds its harbor.",
+      "georgian": "გემი თავის ნავსაყუდელში ჩერდება.",
+      "category": "Music",
+      "generated_at": "2026-07-20T19:44:03.091529"
+    },
+    {
+      "english": "Calm waters, safe harbor.",
+      "georgian": "მშვიდი წყლები, უსაფრთხო ნავსაყუდელი.",
+      "category": "Music",
+      "generated_at": "2026-07-20T19:44:03.091538"
+    },
+    {
+      "english": "Listen to the sea's song.",
+      "georgian": "მოუსმინე ზღვის სიმღერას.",
+      "category": "Music",
+      "generated_at": "2026-07-20T19:44:03.091539"
+    },
+    {
+      "english": "Where does your journey lead?",
+      "georgian": "სად მიგიყვანს შენი მოგზაურობა?",
+      "category": "Music",
+      "generated_at": "2026-07-20T19:44:03.091541"
+    },
+    {
+      "english": "Anchors aweigh, adventure awaits!",
+      "georgian": "აბა, თავგადასავალი გელოდება!",
+      "category": "Music",
+      "generated_at": "2026-07-20T19:44:03.091542"
     }
   ],
-  "last_updated": "2026-07-20T17:32:21.010397"
+  "last_updated": "2026-07-20T19:44:03.091544"
 }
