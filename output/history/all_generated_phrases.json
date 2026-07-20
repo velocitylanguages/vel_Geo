@@ -839,7 +839,37 @@
       "georgian": "ეს ხაჭაპური, ბინდის ოცნება.",
       "category": "Food",
       "generated_at": "2026-07-20T15:52:15.841634"
+    },
+    {
+      "english": "This health is a hidden island.",
+      "georgian": "ეს ჯანმრთელობა, ფარული კუნძულია.",
+      "category": "Health",
+      "generated_at": "2026-07-20T17:32:21.010380"
+    },
+    {
+      "english": "We found the island of wellness.",
+      "georgian": "ვიპოვეთ კეთილდღეობის კუნძული.",
+      "category": "Health",
+      "generated_at": "2026-07-20T17:32:21.010391"
+    },
+    {
+      "english": "Your body, a calm sea.",
+      "georgian": "შენი სხეული, მშვიდი ზღვაა.",
+      "category": "Health",
+      "generated_at": "2026-07-20T17:32:21.010393"
+    },
+    {
+      "english": "Live like an island hermit.",
+      "georgian": "იცხოვრე კუნძულის ბერად.",
+      "category": "Health",
+      "generated_at": "2026-07-20T17:32:21.010394"
+    },
+    {
+      "english": "Eat well, protect your island.",
+      "georgian": "კარგად ჭამე, დაიცავი შენი კუნძული.",
+      "category": "Health",
+      "generated_at": "2026-07-20T17:32:21.010395"
     }
   ],
-  "last_updated": "2026-07-20T15:52:15.841636"
+  "last_updated": "2026-07-20T17:32:21.010397"
 }
