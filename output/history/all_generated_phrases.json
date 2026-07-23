@@ -1379,7 +1379,37 @@
       "georgian": "სპილოს ძვლისფერი კოშკები, ღრუბლებით შეხებილი.",
       "category": "Colors",
       "generated_at": "2026-07-23T17:10:00.355298"
+    },
+    {
+      "english": "My health erupts like a volcano.",
+      "georgian": "ჩემი ჯანმრთელობა ვულკანივით იფეთქებს.",
+      "category": "Health",
+      "generated_at": "2026-07-23T17:13:37.705726"
+    },
+    {
+      "english": "Calm before the storm, like a volcano.",
+      "georgian": "სიჩუმე ქარიშხლამდე, ვულკანის მსგავსად.",
+      "category": "Health",
+      "generated_at": "2026-07-23T17:13:37.705734"
+    },
+    {
+      "english": "Feel the inner fire, unblock the volcano.",
+      "georgian": "იგრძენი შინაგანი ცეცხლი, გახსენი ვულკანი.",
+      "category": "Health",
+      "generated_at": "2026-07-23T17:13:37.705737"
+    },
+    {
+      "english": "Health's lava flows strong.",
+      "georgian": "ჯანმრთელობის ლავა ძლიერად მიედინება.",
+      "category": "Health",
+      "generated_at": "2026-07-23T17:13:37.705739"
+    },
+    {
+      "english": "Awaken the dormant health volcano!",
+      "georgian": "გააღვიძე მიძინებული ჯანმრთელობის ვულკანი!",
+      "category": "Health",
+      "generated_at": "2026-07-23T17:13:37.705740"
     }
   ],
-  "last_updated": "2026-07-23T17:10:00.355300"
+  "last_updated": "2026-07-23T17:13:37.705742"
 }
