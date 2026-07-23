@@ -1439,7 +1439,37 @@
       "georgian": "ყოველი სახლი სასწავლი ტაძარია.",
       "category": "Home",
       "generated_at": "2026-07-23T19:18:02.723595"
+    },
+    {
+      "english": "The river flows like an arrow.",
+      "georgian": "მდინარე ისარივით მიედინება.",
+      "category": "Nature",
+      "generated_at": "2026-07-23T21:04:16.864571"
+    },
+    {
+      "english": "Wind's arrow pierces the leaves.",
+      "georgian": "ქარის ისარი ფოთლებს ხვრეტს.",
+      "category": "Nature",
+      "generated_at": "2026-07-23T21:04:16.864580"
+    },
+    {
+      "english": "Sunbeam: a golden arrow of light.",
+      "georgian": "მზის სხივი: ოქროს სინათლის ისარი.",
+      "category": "Nature",
+      "generated_at": "2026-07-23T21:04:16.864582"
+    },
+    {
+      "english": "Did you see the shooting star's arrow?",
+      "georgian": "დაინახე ვარსკვლავის ისარი?",
+      "category": "Nature",
+      "generated_at": "2026-07-23T21:04:16.864583"
+    },
+    {
+      "english": "The mountain peak, a silent arrow.",
+      "georgian": "მთის მწვერვალი, ჩუმი ისარი.",
+      "category": "Nature",
+      "generated_at": "2026-07-23T21:04:16.864584"
     }
   ],
-  "last_updated": "2026-07-23T19:18:02.723597"
+  "last_updated": "2026-07-23T21:04:16.864586"
 }
