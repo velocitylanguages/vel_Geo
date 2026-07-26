@@ -1799,7 +1799,37 @@
       "georgian": "ატმებზე ვაჭრობა, მზის სხივებით ვაჭრობას ჰგავს.",
       "category": "Nature",
       "generated_at": "2026-07-26T16:53:48.994041"
+    },
+    {
+      "english": "The sky bleeds ruby at sunset.",
+      "georgian": "მზის ჩასვლისას ცა, როგორც დაღვრილი ზურმუხტი.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T19:10:37.136922"
+    },
+    {
+      "english": "A ruby-red storm is brewing.",
+      "georgian": "ზურმუხტისფერი ქარიშხალი მოდის.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T19:10:37.136932"
+    },
+    {
+      "english": "Feel the ruby warmth of the sun.",
+      "georgian": "იგრძენი მზის ზურმუხტისფერი სითბო.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T19:10:37.136934"
+    },
+    {
+      "english": "The rain is falling, like tiny rubies.",
+      "georgian": "წვიმა მოდის, პატარა ზურმუხტებივით.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T19:10:37.136935"
+    },
+    {
+      "english": "A ruby glow in the morning mist.",
+      "georgian": "დილის ნისლში ზურმუხტისფერი ელვა.",
+      "category": "Weather",
+      "generated_at": "2026-07-26T19:10:37.136939"
     }
   ],
-  "last_updated": "2026-07-26T16:53:48.994042"
+  "last_updated": "2026-07-26T19:10:37.136940"
 }
