@@ -1829,7 +1829,37 @@
       "georgian": "დილის ნისლში ზურმუხტისფერი ელვა.",
       "category": "Weather",
       "generated_at": "2026-07-26T19:10:37.136939"
+    },
+    {
+      "english": "Our home, a small palace.",
+      "georgian": "ჩვენი სახლი, პატარა სასახლე.",
+      "category": "Family",
+      "generated_at": "2026-07-26T20:57:29.451895"
+    },
+    {
+      "english": "Father, the king of this palace.",
+      "georgian": "მამა, ამ სასახლის მეფე.",
+      "category": "Family",
+      "generated_at": "2026-07-26T20:57:29.451903"
+    },
+    {
+      "english": "Mother, the queen of our hearts.",
+      "georgian": "დედა, ჩვენი გულების დედოფალი.",
+      "category": "Family",
+      "generated_at": "2026-07-26T20:57:29.451904"
+    },
+    {
+      "english": "Children, jewels of the palace.",
+      "georgian": "შვილები, სასახლის ძვირფასი ქვები.",
+      "category": "Family",
+      "generated_at": "2026-07-26T20:57:29.451905"
+    },
+    {
+      "english": "Let's build our dream palace.",
+      "georgian": "ავაშენოთ ჩვენი ოცნების სასახლე.",
+      "category": "Family",
+      "generated_at": "2026-07-26T20:57:29.451907"
     }
   ],
-  "last_updated": "2026-07-26T19:10:37.136940"
+  "last_updated": "2026-07-26T20:57:29.451908"
 }
