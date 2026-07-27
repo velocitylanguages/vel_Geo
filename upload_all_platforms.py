@@ -111,6 +111,7 @@ LANGUAGE_MAP = {
     "gre": "Greek", "greek": "Greek",
     "finn": "Finnish", "finnish": "Finnish",
     "dan": "Danish", "danish": "Danish",
+    "ger": "German", "german": "German",
     "him": "Hindi", "hindi": "Hindi",
     "pol": "Polish", "polish": "Polish",
     "por": "Portuguese", "portuguese": "Portuguese",
@@ -149,7 +150,7 @@ def get_language_name(phrases, lang_field):
     return lang_field.capitalize()
 
 
-def generate_caption(phrases, category, lang_field="native", words=None, metadata=None):
+def generate_caption(phrases, category, lang_field="native", words=None, metadata=None, platform="facebook"):
     if metadata and metadata.get("story"):
         story = metadata["story"]
         topic = metadata.get("topic", "History")
@@ -179,6 +180,16 @@ def generate_caption(phrases, category, lang_field="native", words=None, metadat
         base.extend([f"#{tag}", f"#{tag}daily", "#vocabulary", "#englishlearning", "#wordroots", "#learnenglish"])
         return "\n".join(base)
     lang_name = get_language_name(phrases, lang_field)
+    lang_tag = lang_name.lower().replace(" ", "")
+    if platform == "instagram":
+        base = [f"Learn {lang_name} with VELOCITY {lang_name.upper()}!", "", f"Category: {category}", ""]
+        for i, p in enumerate(phrases[:3], 1):
+            base.append(f"{i}. {p['english']}")
+            base.append(f"   {p.get(lang_field, '')}")
+            base.append("")
+        base.extend(["Which phrase is your favorite? 👇", f"Follow for daily {lang_name} lessons!", ""])
+        base.extend([f"#learn{lang_tag}", f"#{lang_tag}lessons", "#languagelearning", f"#velocity{lang_tag}", f"#daily{lang_tag}"])
+        return "\n".join(base)
     base = [f"Learn {lang_name} with VELOCITY {lang_name.upper()}!", "", f"Category: {category}", "", f"Master {lang_name} one phrase at a time! Today's {category} lesson:", ""]
     for i, p in enumerate(phrases[:5], 1):
         base.append(f"{i}. {p['english']}")
@@ -186,7 +197,6 @@ def generate_caption(phrases, category, lang_field="native", words=None, metadat
         base.append(f"   [{p.get('transliteration', '')}]")
         base.append("")
     base.extend(["Tip: Repeat each phrase out loud 3 times!", "Like this video if you learned something new!", "Comment your favorite phrase below!", "Follow for daily lessons!", ""])
-    lang_tag = lang_name.lower().replace(" ", "")
     base.extend([f"#learn{lang_tag}", f"#{lang_tag}lessons", f"#{lang_tag}forbeginners", "#languagelearning", f"#{lang_tag}vocabulary", f"#velocity{lang_tag}", f"#daily{lang_tag}", f"#{lang_tag}", "#learnlanguages"])
     return "\n".join(base)
 
@@ -222,7 +232,8 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
                 elif pname == "facebook":
                     r = func(video_path=video_path, description=caption)
                 elif pname == "instagram":
-                    r = func(video_path=video_path, caption=caption, is_story=False)
+                    ig_cap = generate_caption(phrases, category, lang_field, words, metadata, platform="instagram")
+                    r = func(video_path=video_path, caption=ig_cap, is_story=False)
                 t_end = datetime.now()
                 t_sec = round((t_end - t_start).total_seconds())
                 results["timing"][pname] = f"{t_sec}s"
