@@ -1,15 +1,6 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "last_3_days": [
-    {
-      "date": "2026-07-24",
-      "categories": [
-        "Food",
-        "Numbers",
-        "Greetings",
-        "Work"
-      ]
-    },
     {
       "date": "2026-07-25",
       "categories": [
@@ -27,6 +18,12 @@
         "Nature",
         "Weather",
         "Family"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "categories": [
+        "Success"
       ]
     }
   ]
