@@ -1889,7 +1889,37 @@
       "georgian": "უცოდნარობიდან ცოდნამდე, ძლიერი ხიდია.",
       "category": "Success",
       "generated_at": "2026-07-27T02:10:38.700312"
+    },
+    {
+      "english": "In the valley, time flows slowly.",
+      "georgian": "ხეობაში დრო ნელა მიედინება.",
+      "category": "Time",
+      "generated_at": "2026-07-27T16:29:04.567961"
+    },
+    {
+      "english": "How does the valley keep time?",
+      "georgian": "როგორ ინახავს ხეობა დროს?",
+      "category": "Time",
+      "generated_at": "2026-07-27T16:29:04.567969"
+    },
+    {
+      "english": "Wait—time hides in the valley!",
+      "georgian": "დაიცადე, დრო ხეობაში იმალება!",
+      "category": "Time",
+      "generated_at": "2026-07-27T16:29:04.567971"
+    },
+    {
+      "english": "Step forward, the valley counts days.",
+      "georgian": "ნაბიჯი გადადგი, ხეობა დღეებს ითვლის.",
+      "category": "Time",
+      "generated_at": "2026-07-27T16:29:04.567972"
+    },
+    {
+      "english": "When morning fog arrives, time softens.",
+      "georgian": "დილით ნისლი მოვა, დრო დარბილდება.",
+      "category": "Time",
+      "generated_at": "2026-07-27T16:29:04.567973"
     }
   ],
-  "last_updated": "2026-07-27T02:10:38.700313"
+  "last_updated": "2026-07-27T16:29:04.567975"
 }
