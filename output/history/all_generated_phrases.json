@@ -1919,7 +1919,37 @@
       "georgian": "დილით ნისლი მოვა, დრო დარბილდება.",
       "category": "Time",
       "generated_at": "2026-07-27T16:29:04.567973"
+    },
+    {
+      "english": "In the palace, learn language like footsteps.",
+      "georgian": "სასახლეში ენა ნაბიჯებივით ისწავლე.",
+      "category": "Education",
+      "generated_at": "2026-07-27T17:38:23.852433"
+    },
+    {
+      "english": "Which hallway teaches the next lesson?",
+      "georgian": "რომელი დერეფანი ასწავლის შემდეგ გაკვეთილს?",
+      "category": "Education",
+      "generated_at": "2026-07-27T17:38:23.852443"
+    },
+    {
+      "english": "Speak, as if guarding the crown.",
+      "georgian": "ილაპარაკე, თითქოს გვირგვინის მცველო.",
+      "category": "Education",
+      "generated_at": "2026-07-27T17:38:23.852444"
+    },
+    {
+      "english": "Let the words open palace gates.",
+      "georgian": "სიტყვებმა სასახლის კარები გააღოს.",
+      "category": "Education",
+      "generated_at": "2026-07-27T17:38:23.852445"
+    },
+    {
+      "english": "Practice declensions like palace columns.",
+      "georgian": "ბრუნვები ივარჯიშე, როგორც სვეტები სასახლეში.",
+      "category": "Education",
+      "generated_at": "2026-07-27T17:38:23.852446"
     }
   ],
-  "last_updated": "2026-07-27T16:29:04.567975"
+  "last_updated": "2026-07-27T17:38:23.852450"
 }
