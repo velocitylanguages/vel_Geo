@@ -1,6 +1,6 @@
-"""
-Facebook Reels Automation - Bilingual English/French Content Generator
-IMPROVED VERSION: Better backgrounds, English categories, no repeats, Velocity French branding
+﻿"""
+Facebook Reels Automation - Bilingual English/georgian Content Generator
+IMPROVED VERSION: Better backgrounds, English categories, no repeats, VELOCITY GEORGIAN branding
 """
 
 import os
@@ -45,8 +45,8 @@ CATEGORIES_ENGLISH = [
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# French translations for display
-CATEGORIES_FRENCH = {
+# georgian translations for display
+CATEGORIES_georgian = {
     "Motivation": "Motivation",
     "Love": "Amour",
     "Success": "Succès",
@@ -76,7 +76,7 @@ CATEGORIES_FRENCH = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-FRENCH_VOICE = "fr-FR-HenriNeural"
+georgian_VOICE = "fr-FR-HenriNeural"
 
 # AI Model - loaded from environment
 AI_MODEL = os.getenv("AI_MODEL")
@@ -127,7 +127,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "french": phrase["french"],
+            "georgian": phrase["georgian"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -140,7 +140,7 @@ def add_phrases_to_history(phrases, category):
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     """Generate unique bilingual phrases with natural pauses, ensuring no repeats"""
 
-    category_french = CATEGORIES_FRENCH[category_english]
+    category_georgian = CATEGORIES_georgian[category_english]
     
     # Load history once for efficiency
     used_phrases = get_used_phrases_set()
@@ -160,7 +160,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
             if not POLLINATIONS_API_KEY:
                 headers.pop("Authorization", None)
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning French.
+            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning georgian.
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -172,18 +172,18 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. French translation (with commas matching the rhythm)
+2. georgian translation (with commas matching the rhythm)
 3. Pronunciation guide (phonetic for English speakers)
 
 Return as JSON array:
-[{{"english": "...", "french": "...", "pronunciation": "..."}}]
+[{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE, and DIVERSE phrases that haven't been used before."""
 
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a French teacher. Create short, natural phrases with pauses. You MUST return ONLY valid JSON."},
+                    {"role": "system", "content": "You are a georgian teacher. Create short, natural phrases with pauses. You MUST return ONLY valid JSON."},
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 1.0
@@ -214,7 +214,7 @@ IMPORTANT: Create FRESH, UNIQUE, and DIVERSE phrases that haven't been used befo
 
             # Filter and validate
             for phrase in phrases:
-                if not all(k in phrase for k in ["english", "french", "pronunciation"]):
+                if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
                     continue
                     
                 if len(phrase["english"].split()) > 15:
@@ -256,23 +256,23 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int, exclude_set: set
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "french": "Croyez en vous.", "pronunciation": "Kwah-yay ah voo."},
-            {"english": "You are capable of amazing things.", "french": "Vous êtes capable de choses incroyables.", "pronunciation": "Voo zet kah-pahbl duh shohz een-kwah-yahbl."},
-            {"english": "Dream big, start small.", "french": "Rêvez grand, commencez petit.", "pronunciation": "Reh-vay grahn, koh-mahn-say puh-tee."},
-            {"english": "Your future is created by your actions.", "french": "Votre avenir est créé par vos actions.", "pronunciation": "Voh-truh ah-vee-neer eh kray-ay par voh zahk-syohn."},
-            {"english": "Never give up on your dreams.", "french": "N'abandonnez jamais vos rêves.", "pronunciation": "Nah-bahn-doh-nay zhah-may voh rehv."},
-            {"english": "Success is a journey, not a destination.", "french": "Le succès est un voyage, pas une destination.", "pronunciation": "Luh sook-say eh tuhn vwah-yahzh, pah zoon deh-stee-nah-syohn."},
+            {"english": "Believe in yourself.", "georgian": "Croyez en vous.", "pronunciation": "Kwah-yay ah voo."},
+            {"english": "You are capable of amazing things.", "georgian": "Vous êtes capable de choses incroyables.", "pronunciation": "Voo zet kah-pahbl duh shohz een-kwah-yahbl."},
+            {"english": "Dream big, start small.", "georgian": "Rêvez grand, commencez petit.", "pronunciation": "Reh-vay grahn, koh-mahn-say puh-tee."},
+            {"english": "Your future is created by your actions.", "georgian": "Votre avenir est créé par vos actions.", "pronunciation": "Voh-truh ah-vee-neer eh kray-ay par voh zahk-syohn."},
+            {"english": "Never give up on your dreams.", "georgian": "N'abandonnez jamais vos rêves.", "pronunciation": "Nah-bahn-doh-nay zhah-may voh rehv."},
+            {"english": "Success is a journey, not a destination.", "georgian": "Le succès est un voyage, pas une destination.", "pronunciation": "Luh sook-say eh tuhn vwah-yahzh, pah zoon deh-stee-nah-syohn."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "french": "Aimez-vous d'abord.", "pronunciation": "Eh-may voo dah-bor."},
-            {"english": "Love makes everything possible.", "french": "L'amour rend tout possible.", "pronunciation": "Lah-moor rahnd too poh-seebl."},
-            {"english": "To love and be loved is everything.", "french": "Aimer et être aimé, c'est tout.", "pronunciation": "Eh-may ay etruh eh-may, say too."},
-            {"english": "Love is the beauty of the soul.", "french": "L'amour est la beauté de l'âme.", "pronunciation": "Lah-moor eh lah boh-tay duh lahm."},
+            {"english": "Love yourself first.", "georgian": "Aimez-vous d'abord.", "pronunciation": "Eh-may voo dah-bor."},
+            {"english": "Love makes everything possible.", "georgian": "L'amour rend tout possible.", "pronunciation": "Lah-moor rahnd too poh-seebl."},
+            {"english": "To love and be loved is everything.", "georgian": "Aimer et être aimé, c'est tout.", "pronunciation": "Eh-may ay etruh eh-may, say too."},
+            {"english": "Love is the beauty of the soul.", "georgian": "L'amour est la beauté de l'âme.", "pronunciation": "Lah-moor eh lah boh-tay duh lahm."},
         ],
         "Success": [
-            {"english": "Success is the sum of small efforts.", "french": "Le succès est la somme de petits efforts.", "pronunciation": "Luh sook-say eh lah sohm duh puh-tee zeh-for."},
-            {"english": "Work hard in silence.", "french": "Travaillez dur en silence.", "pronunciation": "Trah-vah-yay door ahn see-lahns."},
-            {"english": "The secret of success is consistency.", "french": "Le secret du succès est la constance.", "pronunciation": "Luh suh-kray doo sook-say eh lah kohn-stahns."},
+            {"english": "Success is the sum of small efforts.", "georgian": "Le succès est la somme de petits efforts.", "pronunciation": "Luh sook-say eh lah sohm duh puh-tee zeh-for."},
+            {"english": "Work hard in silence.", "georgian": "Travaillez dur en silence.", "pronunciation": "Trah-vah-yay door ahn see-lahns."},
+            {"english": "The secret of success is consistency.", "georgian": "Le secret du succès est la constance.", "pronunciation": "Luh suh-kray doo sook-say eh lah kohn-stahns."},
         ]
     }
 
@@ -314,12 +314,12 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        french_file = output_dir / f"french_{i}.mp3"
+        georgian_file = output_dir / f"georgian_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         print(f"\n  Phrase {i+1}:")
         print(f"    EN: {phrase['english']}")
-        print(f"    FR: {phrase['french']}")
+        print(f"    FR: {phrase['georgian']}")
 
         # Generate English audio
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
@@ -329,19 +329,19 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate French audio
-        fr_success = asyncio.run(generate_single_audio(phrase["french"], FRENCH_VOICE, str(french_file)))
+        # Generate georgian audio
+        fr_success = asyncio.run(generate_single_audio(phrase["georgian"], georgian_VOICE, str(georgian_file)))
         if fr_success:
-            print(f"    ✓ French: {french_file.name}")
+            print(f"    ✓ georgian: {georgian_file.name}")
         else:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(french_file)]
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(georgian_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        fr_duration = get_audio_duration(str(french_file))
+        fr_duration = get_audio_duration(str(georgian_file))
 
-        # Add pause between English and French
+        # Add pause between English and georgian
         pause_between = 0.5
         total_duration = en_duration + pause_between + fr_duration
 
@@ -351,7 +351,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(french_file),
+            "-i", str(georgian_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -363,7 +363,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{french_file.as_posix()}'\n")
+                f.write(f"file '{georgian_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -382,7 +382,7 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "french": str(french_file),
+            "georgian": str(georgian_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
@@ -537,7 +537,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 52)   # Increased from 40
     
     english = phrase_data.get("english", "")
-    french = phrase_data.get("french", "")
+    georgian = phrase_data.get("georgian", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -599,18 +599,18 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
             stroke_fill=(0, 0, 0)
         )
 
-    # French text
-    french_y = english_y + total_height + 110  # Increased from 100
-    french_lines = wrap_text(french, font_large, VIDEO_WIDTH - 140)
-    total_height = len(french_lines) * 95  # Increased from 75
+    # georgian text
+    georgian_y = english_y + total_height + 110  # Increased from 100
+    georgian_lines = wrap_text(georgian, font_large, VIDEO_WIDTH - 140)
+    total_height = len(georgian_lines) * 95  # Increased from 75
 
     draw.rectangle(
-        [(60, french_y - 55), (VIDEO_WIDTH - 60, french_y + total_height + 15)],
+        [(60, georgian_y - 55), (VIDEO_WIDTH - 60, georgian_y + total_height + 15)],
         fill=(80, 30, 30, 220)
     )
 
-    for i, line in enumerate(french_lines):
-        y_pos = french_y + (i * 95)  # Increased spacing
+    for i, line in enumerate(georgian_lines):
+        y_pos = georgian_y + (i * 95)  # Increased spacing
         draw.text(
             (VIDEO_WIDTH // 2, y_pos),
             line,
@@ -622,7 +622,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         )
 
     # Pronunciation with FILLED BOX
-    pronunciation_y = french_y + total_height + 90  # Increased from 80
+    pronunciation_y = georgian_y + total_height + 90  # Increased from 80
     pronunciation_text = f"[{pronunciation}]"
     pron_lines = wrap_text(pronunciation_text, font_pronunciation, VIDEO_WIDTH - 160)
 
@@ -653,7 +653,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     )
     draw.text(
         (VIDEO_WIDTH // 2, branding_y),
-        "VELOCITY FRENCH",
+        "VELOCITY GEORGIAN",
         fill=(255, 255, 255),
         font=font_branding,
         anchor="mm",
@@ -752,7 +752,7 @@ def generate_reel(category_english: str = None):
         category_english = random.choice(CATEGORIES_ENGLISH)
 
     print(f"\n{'='*80}")
-    print(f"Category: {category_english} ({CATEGORIES_FRENCH[category_english]})")
+    print(f"Category: {category_english} ({CATEGORIES_georgian[category_english]})")
     print(f"{'='*80}\n")
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -764,7 +764,7 @@ def generate_reel(category_english: str = None):
     phrases = generate_phrases(category_english, num_phrases=5)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['french']}")
+        print(f"  {i}. {phrase['english']} → {phrase['georgian']}")
 
     # Step 2: Generate images
     print("\n[2/4] Generating images with impressive backgrounds...")
@@ -774,7 +774,7 @@ def generate_reel(category_english: str = None):
         print(f"  ✓ Image {i+1}: {phrase['english'][:40]}...")
 
     # Step 3: Generate audio
-    print("\n[3/4] Generating audio (English + French with 500ms pause)...")
+    print("\n[3/4] Generating audio (English + georgian with 500ms pause)...")
     audio_files = generate_all_audio(phrases, str(reel_dir))
 
     final_audio = reel_dir / "narration.mp3"
@@ -796,7 +796,7 @@ def generate_reel(category_english: str = None):
     # Save metadata
     metadata = {
         "category_english": category_english,
-        "category_french": CATEGORIES_FRENCH[category_english],
+        "category_georgian": CATEGORIES_georgian[category_english],
         "timestamp": timestamp,
         "phrases": phrases,
         "video": str(output_video),
@@ -810,7 +810,7 @@ def generate_reel(category_english: str = None):
     print(f"✅ REEL COMPLETE!")
     print(f"  📁 {reel_dir}")
     print(f"  🎬 {output_video.name}")
-    print(f"  🏷️  Branding: Velocity French")
+    print(f"  🏷️  Branding: VELOCITY GEORGIAN")
     print(f"{'='*80}\n")
 
     return metadata
@@ -818,18 +818,18 @@ def generate_reel(category_english: str = None):
 
 if __name__ == "__main__":
     print("\n" + "="*80)
-    print("🇫🇷 VELOCITY FRENCH - FACEBOOK REELS AUTOMATION 🇫🇷")
+    print("🇫🇷 VELOCITY GEORGIAN - FACEBOOK REELS AUTOMATION 🇫🇷")
     print("="*80)
     print("\n✨ IMPROVED FEATURES:")
     print("  ✓ Natural pauses with commas (non-robotic TTS)")
     print("  ✓ Perfect audio-video synchronization")
     print("  ✓ Complete audio playback guaranteed")
     print("  ✓ English category names (for American/European learners)")
-    print("  ✓ Velocity French branding at bottom")
+    print("  ✓ VELOCITY GEORGIAN branding at bottom")
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_FRENCH[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_georgian[cat]})")
     print(f"\n📅 DAILY CAPACITY:")
     print(f"  • 4 reels per day = 20 unique phrases daily")
     print(f"  • {len(CATEGORIES_ENGLISH)} categories = Over 6 days before any category repeats")
@@ -848,3 +848,4 @@ if __name__ == "__main__":
     print("\nTo generate a single reel:")
     print("  generate_reel('Love')  # Or any category from the list above")
     print("="*80)
+
