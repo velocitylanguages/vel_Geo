@@ -1,16 +1,6 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "last_3_days": [
-    {
-      "date": "2026-07-26",
-      "categories": [
-        "Gratitude",
-        "Home",
-        "Nature",
-        "Weather",
-        "Family"
-      ]
-    },
     {
       "date": "2026-07-27",
       "categories": [
@@ -23,6 +13,12 @@
       "date": "2026-07-28",
       "categories": [
         "Greetings"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "categories": [
+        "Music"
       ]
     }
   ]

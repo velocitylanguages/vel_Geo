@@ -1979,7 +1979,37 @@
       "georgian": "დღეს რა ბრწყინავს, კრისტალი თუ ვარსკვლავი?",
       "category": "Greetings",
       "generated_at": "2026-07-28T21:06:55.212660"
+    },
+    {
+      "english": "Can you hear dunes singing softly?",
+      "georgian": "გესმის დიუნების ჩურჩული სიმღერა?",
+      "category": "Music",
+      "generated_at": "2026-07-29T01:54:58.600941"
+    },
+    {
+      "english": "The desert keeps time with wind.",
+      "georgian": "უდაბნო ქარს აძლევს დროს.",
+      "category": "Music",
+      "generated_at": "2026-07-29T01:54:58.600951"
+    },
+    {
+      "english": "Drink water like a promise.",
+      "georgian": "დალიე წყალი, როგორც დაპირება.",
+      "category": "Music",
+      "generated_at": "2026-07-29T01:54:58.600952"
+    },
+    {
+      "english": "Walk where sand turns into stories.",
+      "georgian": "იარეთ, სადაც ქვიშა ამბებად იქცევა.",
+      "category": "Music",
+      "generated_at": "2026-07-29T01:54:58.600953"
+    },
+    {
+      "english": "Do camels dream of stars?",
+      "georgian": "კამელები ვარსკვლავებს ოცნებობენ?",
+      "category": "Music",
+      "generated_at": "2026-07-29T01:54:58.600954"
     }
   ],
-  "last_updated": "2026-07-28T21:06:55.212661"
+  "last_updated": "2026-07-29T01:54:58.600956"
 }
