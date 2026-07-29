@@ -2009,7 +2009,37 @@
       "georgian": "კამელები ვარსკვლავებს ოცნებობენ?",
       "category": "Music",
       "generated_at": "2026-07-29T01:54:58.600954"
+    },
+    {
+      "english": "Follow the river’s current, step lightly.",
+      "georgian": "მდინარის დინებას მიჰყევი, ფრთხილად შედი.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T15:50:32.322098"
+    },
+    {
+      "english": "Listen—water speaks in rhymes.",
+      "georgian": "მოუსმინე, წყალი რითმებს ლაპარაკობს!",
+      "category": "Directions",
+      "generated_at": "2026-07-29T15:50:32.322109"
+    },
+    {
+      "english": "Where does the river disappear?",
+      "georgian": "სად ქრება მდინარე?",
+      "category": "Directions",
+      "generated_at": "2026-07-29T15:50:32.322111"
+    },
+    {
+      "english": "Cross the bridge, don’t fear the flow.",
+      "georgian": "გადადი ხიდზე, დინებას ნუ გეშინია.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T15:50:32.322112"
+    },
+    {
+      "english": "Notice the stones, they remember paths.",
+      "georgian": "დააკვირდი ლოდებს, მათ გზა ახსოვთ.",
+      "category": "Directions",
+      "generated_at": "2026-07-29T15:50:32.322113"
     }
   ],
-  "last_updated": "2026-07-29T01:54:58.600956"
+  "last_updated": "2026-07-29T15:50:32.322115"
 }
