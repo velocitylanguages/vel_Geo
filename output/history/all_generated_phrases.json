@@ -2189,7 +2189,37 @@
       "georgian": "შეცდომებიც კი ხიდს აგრძელებს",
       "category": "Success",
       "generated_at": "2026-07-30T15:52:27.337117"
+    },
+    {
+      "english": "Guide me, friend, like a compass.",
+      "georgian": "მომიმართე, მეგობარო, კომპასივით.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:20:01.771540"
+    },
+    {
+      "english": "Where you go, my compass turns.",
+      "georgian": "სადაც მიდიხარ, ჩემი კომპასი ბრუნავს.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:20:01.771551"
+    },
+    {
+      "english": "Our friendship always finds north.",
+      "georgian": "ჩვენი მეგობრობა ყოველთვის პოულობს ჩრდილს.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:20:01.771553"
+    },
+    {
+      "english": "Do you trust my compass, or yours?",
+      "georgian": "გენდობი ჩემს კომპასს, თუ შენს?",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:20:01.771554"
+    },
+    {
+      "english": "When I’m lost, you point home.",
+      "georgian": "როცა ვიკარგები, შენ მიმანიშნებ სახლს.",
+      "category": "Friendship",
+      "generated_at": "2026-07-30T17:20:01.771555"
     }
   ],
-  "last_updated": "2026-07-30T15:52:27.337118"
+  "last_updated": "2026-07-30T17:20:01.771557"
 }
