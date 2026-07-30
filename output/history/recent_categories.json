@@ -1,14 +1,6 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "last_3_days": [
-    {
-      "date": "2026-07-27",
-      "categories": [
-        "Success",
-        "Time",
-        "Education"
-      ]
-    },
     {
       "date": "2026-07-28",
       "categories": [
@@ -23,6 +15,12 @@
         "Food",
         "Love",
         "Wisdom"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "categories": [
+        "Colors"
       ]
     }
   ]
