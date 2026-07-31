@@ -2279,7 +2279,37 @@
       "georgian": "ქანდაკება ყველა თბილ წამს იმახსოვრებს.",
       "category": "Happiness",
       "generated_at": "2026-07-30T21:11:07.200346"
+    },
+    {
+      "english": "Whisper through the pine needles.",
+      "georgian": "ჩურჩულე ფიჭვის ნემსებში.",
+      "category": "Nature",
+      "generated_at": "2026-07-31T02:04:46.876041"
+    },
+    {
+      "english": "Did you hear the stream’s whisper?",
+      "georgian": "გაიგონე ნაკადის ჩურჩული?",
+      "category": "Nature",
+      "generated_at": "2026-07-31T02:04:46.876051"
+    },
+    {
+      "english": "The wind murmurs, like a secret.",
+      "georgian": "ქარი ჩურჩულებს, როგორც საიდუმლო.",
+      "category": "Nature",
+      "generated_at": "2026-07-31T02:04:46.876052"
+    },
+    {
+      "english": "Listen—clouds trade whispers softly.",
+      "georgian": "მოუსმინე, ღრუბლები ჩუმად ჩურჩულობენ.",
+      "category": "Nature",
+      "generated_at": "2026-07-31T02:04:46.876054"
+    },
+    {
+      "english": "Breathe gently, let the meadow answer.",
+      "georgian": "ჩუმად ისუნთქე, მინდორი გიპასუხებს.",
+      "category": "Nature",
+      "generated_at": "2026-07-31T02:04:46.876055"
     }
   ],
-  "last_updated": "2026-07-30T21:11:07.200348"
+  "last_updated": "2026-07-31T02:04:46.876056"
 }
