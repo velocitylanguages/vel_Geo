@@ -2369,7 +2369,37 @@
       "georgian": "დად, შეინახე ოჯახის ქანდაკების ამბავი!",
       "category": "Family",
       "generated_at": "2026-07-31T17:23:07.488582"
+    },
+    {
+      "english": "At dusk, my cart glows softly.",
+      "georgian": "ბინდში ჩემი ჩანთა თბილად ანათებს.",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T19:24:47.759192"
+    },
+    {
+      "english": "Do you sell lanterns for dusk?",
+      "georgian": "ბინდისთვის ხომ არ გაქვთ ლამპიონები?",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T19:24:47.759205"
+    },
+    {
+      "english": "Add one more star-shaped candle.",
+      "georgian": "ვარსკვლავივით ერთი სანთელი დაამატე.",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T19:24:47.759207"
+    },
+    {
+      "english": "I’m shopping by the last light.",
+      "georgian": "ბოლო სხივისას ვყიდულობ ნივთებს.",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T19:24:47.759208"
+    },
+    {
+      "english": "Is this scarf for twilight weather?",
+      "georgian": "ეს შარფი ბინდიან ამინდზეა?",
+      "category": "Shopping",
+      "generated_at": "2026-07-31T19:24:47.759209"
     }
   ],
-  "last_updated": "2026-07-31T17:23:07.488584"
+  "last_updated": "2026-07-31T19:24:47.759211"
 }
