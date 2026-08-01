@@ -2489,7 +2489,37 @@
       "georgian": "პური მოიტანე, ავიდეთ!",
       "category": "Food",
       "generated_at": "2026-08-01T15:02:04.643769"
+    },
+    {
+      "english": "Twilight paints the sky, softly.",
+      "georgian": "ბინდმა ცა ნაზად შეღება.",
+      "category": "Time",
+      "generated_at": "2026-08-01T16:54:08.854937"
+    },
+    {
+      "english": "When dusk arrives, breathe slowly.",
+      "georgian": "როცა ბინდდება, ნელა ისუნთქე.",
+      "category": "Time",
+      "generated_at": "2026-08-01T16:54:08.854948"
+    },
+    {
+      "english": "Do you hear the dusk murmuring?",
+      "georgian": "ბინდივით ჩუმად გესმის?",
+      "category": "Time",
+      "generated_at": "2026-08-01T16:54:08.854950"
+    },
+    {
+      "english": "Turn your thoughts toward the fading light.",
+      "georgian": "მიმართე ფიქრები ჩამქრალ სინათლეს.",
+      "category": "Time",
+      "generated_at": "2026-08-01T16:54:08.854951"
+    },
+    {
+      "english": "Let night begin with quiet steps.",
+      "georgian": "ღამე მშვიდი ნაბიჯებით დაიწყე.",
+      "category": "Time",
+      "generated_at": "2026-08-01T16:54:08.854952"
     }
   ],
-  "last_updated": "2026-08-01T15:02:04.643770"
+  "last_updated": "2026-08-01T16:54:08.854954"
 }
