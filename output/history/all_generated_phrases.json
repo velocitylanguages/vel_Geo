@@ -2459,7 +2459,37 @@
       "georgian": "ნება დართე ოკეანეს გასწავლოს!",
       "category": "Greetings",
       "generated_at": "2026-08-01T02:05:53.395041"
+    },
+    {
+      "english": "The mountain smells like wild thyme.",
+      "georgian": "მთა თივასავით სურნელოვანია.",
+      "category": "Food",
+      "generated_at": "2026-08-01T15:02:04.643756"
+    },
+    {
+      "english": "Do you taste the cool mountain water?",
+      "georgian": "გინდა მთის ცივი წყალი გასინჯო?",
+      "category": "Food",
+      "generated_at": "2026-08-01T15:02:04.643765"
+    },
+    {
+      "english": "I’ll eat by the stone hearth.",
+      "georgian": "ქვის კერის გვერდით ვჭამ.",
+      "category": "Food",
+      "generated_at": "2026-08-01T15:02:04.643766"
+    },
+    {
+      "english": "Mountain cheese ripens in the air!",
+      "georgian": "მთის ყველი ჰაერში მწიფდება!",
+      "category": "Food",
+      "generated_at": "2026-08-01T15:02:04.643767"
+    },
+    {
+      "english": "Bring the bread, let’s climb!",
+      "georgian": "პური მოიტანე, ავიდეთ!",
+      "category": "Food",
+      "generated_at": "2026-08-01T15:02:04.643769"
     }
   ],
-  "last_updated": "2026-08-01T02:05:53.395043"
+  "last_updated": "2026-08-01T15:02:04.643770"
 }
