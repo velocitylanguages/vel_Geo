@@ -2699,7 +2699,37 @@
       "georgian": "არ იჩქარო, ბინდმა მოთმინება გასწავლა.",
       "category": "Directions",
       "generated_at": "2026-08-02T19:10:26.831127"
+    },
+    {
+      "english": "The sea is breathing, softly now.",
+      "georgian": "ზღვა ნაზად სუნთქავს ახლა.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T20:55:39.829759"
+    },
+    {
+      "english": "Why is the ocean so restless?",
+      "georgian": "რატომ არის ოკეანე ასე მოუსვენარი?",
+      "category": "Weather",
+      "generated_at": "2026-08-02T20:55:39.829769"
+    },
+    {
+      "english": "Watch the waves turn into silver!",
+      "georgian": "უყურე, ტალღები ვერცხლად იქცევა!",
+      "category": "Weather",
+      "generated_at": "2026-08-02T20:55:39.829771"
+    },
+    {
+      "english": "Let the sea wind guide you.",
+      "georgian": "გაუშვი ზღვის ქარი, დაგეხმაროს.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T20:55:39.829772"
+    },
+    {
+      "english": "Storm clouds are gathering over the harbor.",
+      "georgian": "სეტყვიანი ღრუბლები ნავსადგურზე იკრიბება.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T20:55:39.829775"
     }
   ],
-  "last_updated": "2026-08-02T19:10:26.831128"
+  "last_updated": "2026-08-02T20:55:39.829778"
 }
