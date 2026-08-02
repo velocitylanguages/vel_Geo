@@ -2669,7 +2669,37 @@
       "georgian": "რამდენ შორს გაგიტარებს ცნობისმოყვარეობა?",
       "category": "Wisdom",
       "generated_at": "2026-08-02T16:52:57.902406"
+    },
+    {
+      "english": "Twilight is pouring like honey into dusk.",
+      "georgian": "ბინდში თაფლივით იღვრება შებინდების ნათელი.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T19:10:26.831114"
+    },
+    {
+      "english": "When will the sky blush again?",
+      "georgian": "როდის ისევ გადაიწითლებს ცა?",
+      "category": "Directions",
+      "generated_at": "2026-08-02T19:10:26.831123"
+    },
+    {
+      "english": "Listen, the night breathes softly now!",
+      "georgian": "გაისმინე, ახლა ღამე ნაზად სუნთქავს!",
+      "category": "Directions",
+      "generated_at": "2026-08-02T19:10:26.831125"
+    },
+    {
+      "english": "Read the words between sunset and stars.",
+      "georgian": "წაიკითხე სიტყვები მზის ჩასვლასა და ვარსკვლავებს შორის.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T19:10:26.831126"
+    },
+    {
+      "english": "Don’t hurry—dusk teaches patience.",
+      "georgian": "არ იჩქარო, ბინდმა მოთმინება გასწავლა.",
+      "category": "Directions",
+      "generated_at": "2026-08-02T19:10:26.831127"
     }
   ],
-  "last_updated": "2026-08-02T16:52:57.902407"
+  "last_updated": "2026-08-02T19:10:26.831128"
 }
