@@ -2819,7 +2819,37 @@
       "georgian": "ყვითელი გზამკვლევის იმედია?",
       "category": "Colors",
       "generated_at": "2026-08-03T17:46:05.275734"
+    },
+    {
+      "english": "Stroll through the valley paths.",
+      "georgian": "დაუყვირე ველზე ველის ბილიკებს.",
+      "category": "Home",
+      "generated_at": "2026-08-03T19:37:33.719599"
+    },
+    {
+      "english": "Is the valley whispering today?",
+      "georgian": "დღეს ხეობის ჩურჩული ისმის?",
+      "category": "Home",
+      "generated_at": "2026-08-03T19:37:33.719608"
+    },
+    {
+      "english": "I follow the river in the valley.",
+      "georgian": "ხეობაში მდინარეს მივყვები.",
+      "category": "Home",
+      "generated_at": "2026-08-03T19:37:33.719609"
+    },
+    {
+      "english": "Listen, the wind loves this valley!",
+      "georgian": "ისმინე, ქარი ამ ხეობას უყვარს!",
+      "category": "Home",
+      "generated_at": "2026-08-03T19:37:33.719610"
+    },
+    {
+      "english": "Let’s find the hidden valley spring.",
+      "georgian": "მოვძებნოთ ხეობის დამალული წყარო.",
+      "category": "Home",
+      "generated_at": "2026-08-03T19:37:33.719611"
     }
   ],
-  "last_updated": "2026-08-03T17:46:05.275736"
+  "last_updated": "2026-08-03T19:37:33.719613"
 }
