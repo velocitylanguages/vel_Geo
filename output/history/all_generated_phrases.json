@@ -2789,7 +2789,37 @@
       "georgian": "ნება მომეცი სარკემ, ტემპი შემინარჩუნოს.",
       "category": "Music",
       "generated_at": "2026-08-03T16:27:24.846955"
+    },
+    {
+      "english": "Which color points north?",
+      "georgian": "რომელი ფერი მიუთითებს ჩრდილს?",
+      "category": "Colors",
+      "generated_at": "2026-08-03T17:46:05.275721"
+    },
+    {
+      "english": "Red is your brave bearing!",
+      "georgian": "წითელი შენი მამაცი მიმართულებაა!",
+      "category": "Colors",
+      "generated_at": "2026-08-03T17:46:05.275730"
+    },
+    {
+      "english": "Turn toward green, follow north!",
+      "georgian": "მწვანესკენ მოუხვიე, ჩრდილი აირჩიე!",
+      "category": "Colors",
+      "generated_at": "2026-08-03T17:46:05.275732"
+    },
+    {
+      "english": "Blue on the compass feels calm.",
+      "georgian": "კომპასზე ლურჯი სიმშვიდეს გრძნობს.",
+      "category": "Colors",
+      "generated_at": "2026-08-03T17:46:05.275733"
+    },
+    {
+      "english": "Is yellow the wayfinder’s hope?",
+      "georgian": "ყვითელი გზამკვლევის იმედია?",
+      "category": "Colors",
+      "generated_at": "2026-08-03T17:46:05.275734"
     }
   ],
-  "last_updated": "2026-08-03T16:27:24.846957"
+  "last_updated": "2026-08-03T17:46:05.275736"
 }
