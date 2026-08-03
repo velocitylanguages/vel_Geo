@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "last_3_days": [
-    {
-      "date": "2026-07-31",
-      "categories": [
-        "Nature",
-        "Animals",
-        "Family",
-        "Shopping",
-        "Emotions"
-      ]
-    },
     {
       "date": "2026-08-01",
       "categories": [
@@ -29,6 +19,12 @@
         "Wisdom",
         "Directions",
         "Weather"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "categories": [
+        "Sports"
       ]
     }
   ]
