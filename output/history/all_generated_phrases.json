@@ -2939,7 +2939,37 @@
       "georgian": "ღრუბლები ხიდზე ეყრდნობიან, ნაზად.",
       "category": "Nature",
       "generated_at": "2026-08-04T16:13:00.388639"
+    },
+    {
+      "english": "How tall is the tower?",
+      "georgian": "რამდენი სიმაღლე აქვს კოშკს?",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T17:39:20.455137"
+    },
+    {
+      "english": "Count the tower’s steps.",
+      "georgian": "დათვალე კოშკის საფეხურები.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T17:39:20.455148"
+    },
+    {
+      "english": "Two bells ring in the tower.",
+      "georgian": "ორი ზარი რეკავს კოშკში.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T17:39:20.455149"
+    },
+    {
+      "english": "Three windows watch the city.",
+      "georgian": "სამი ფანჯარა იცავს ქალაქს.",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T17:39:20.455151"
+    },
+    {
+      "english": "Four bricks, steady like a tower!",
+      "georgian": "ოთხი აგური, კოშკივით მტკიცე!",
+      "category": "Numbers",
+      "generated_at": "2026-08-04T17:39:20.455152"
     }
   ],
-  "last_updated": "2026-08-04T16:13:00.388641"
+  "last_updated": "2026-08-04T17:39:20.455153"
 }
