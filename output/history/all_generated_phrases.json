@@ -2909,7 +2909,37 @@
       "georgian": "ვიშხაპუნოთ, შადრევანი რომ იელვაროს!",
       "category": "Friendship",
       "generated_at": "2026-08-04T01:50:16.791878"
+    },
+    {
+      "english": "Bridge over the river, listen.",
+      "georgian": "ხიდო მდინარეზე, მოუსმინე.",
+      "category": "Nature",
+      "generated_at": "2026-08-04T16:13:00.388625"
+    },
+    {
+      "english": "How does the bridge breathe in mist?",
+      "georgian": "როგორ სუნთქავს ხიდი ნისლში?",
+      "category": "Nature",
+      "generated_at": "2026-08-04T16:13:00.388633"
+    },
+    {
+      "english": "Step carefully, the bridge sings.",
+      "georgian": "ფრთხილად შედი, ხიდი მღერის.",
+      "category": "Nature",
+      "generated_at": "2026-08-04T16:13:00.388635"
+    },
+    {
+      "english": "The forest holds its paths like a bridge.",
+      "georgian": "ტყე ბილიკებს ხიდივით იჭერს.",
+      "category": "Nature",
+      "generated_at": "2026-08-04T16:13:00.388636"
+    },
+    {
+      "english": "Clouds lean on the bridge, softly.",
+      "georgian": "ღრუბლები ხიდზე ეყრდნობიან, ნაზად.",
+      "category": "Nature",
+      "generated_at": "2026-08-04T16:13:00.388639"
     }
   ],
-  "last_updated": "2026-08-04T01:50:16.791879"
+  "last_updated": "2026-08-04T16:13:00.388641"
 }
