@@ -3149,7 +3149,37 @@
       "georgian": "გრამატიკა წინ იბანაოს.",
       "category": "Success",
       "generated_at": "2026-08-05T19:33:58.463465"
+    },
+    {
+      "english": "Mother, the fountain sings softly.",
+      "georgian": "დედა, შადრევანი ნაზად მღერის.",
+      "category": "Family",
+      "generated_at": "2026-08-05T21:07:35.636917"
+    },
+    {
+      "english": "Dad, let's water the garden near it.",
+      "georgian": "მამა, მოდი ბაღს ვრწყავთ მასთან.",
+      "category": "Family",
+      "generated_at": "2026-08-05T21:07:35.636927"
+    },
+    {
+      "english": "Grandma, listen to the flowing stories!",
+      "georgian": "ბებია, მოუსმინე მოედინება ამბებს!",
+      "category": "Family",
+      "generated_at": "2026-08-05T21:07:35.636928"
+    },
+    {
+      "english": "Why does the fountain keep dancing?",
+      "georgian": "რატომ ცეკვავს შადრევანი ასე მუდმივად?",
+      "category": "Family",
+      "generated_at": "2026-08-05T21:07:35.636929"
+    },
+    {
+      "english": "The children chase pearls of water.",
+      "georgian": "ბავშვები მისდევენ წყლის მარგალიტებს.",
+      "category": "Family",
+      "generated_at": "2026-08-05T21:07:35.636930"
     }
   ],
-  "last_updated": "2026-08-05T19:33:58.463466"
+  "last_updated": "2026-08-05T21:07:35.636932"
 }
