@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "last_3_days": [
-    {
-      "date": "2026-08-03",
-      "categories": [
-        "Sports",
-        "Music",
-        "Colors",
-        "Home",
-        "Happiness"
-      ]
-    },
     {
       "date": "2026-08-04",
       "categories": [
@@ -29,6 +19,12 @@
         "Education",
         "Success",
         "Family"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "categories": [
+        "Directions"
       ]
     }
   ]
