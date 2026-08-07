@@ -3209,7 +3209,37 @@
       "georgian": "გახსენი რვეული, საფირონივით ლურჯად!",
       "category": "Directions",
       "generated_at": "2026-08-06T01:53:00.889618"
+    },
+    {
+      "english": "I feel protected, like armor.",
+      "georgian": "დაცულად ვგრძნობ თავს, როგორც ფარი.",
+      "category": "Emotions",
+      "generated_at": "2026-08-06T23:59:28.281672"
+    },
+    {
+      "english": "Are you hiding your fear behind a shield?",
+      "georgian": "შენს შიშს ფარს ამოფარებ?",
+      "category": "Emotions",
+      "generated_at": "2026-08-06T23:59:28.281683"
+    },
+    {
+      "english": "My courage wants a shield now!",
+      "georgian": "ახლა ჩემი გამბედაობა ფარს ითხოვს!",
+      "category": "Emotions",
+      "generated_at": "2026-08-06T23:59:28.281685"
+    },
+    {
+      "english": "I’m bracing, heart behind armor.",
+      "georgian": "გულმა ჯავშანს ამოაფარა ფარი.",
+      "category": "Emotions",
+      "generated_at": "2026-08-06T23:59:28.281686"
+    },
+    {
+      "english": "Don’t drop your shield, stay brave!",
+      "georgian": "ფარი არ ჩამოაგდე, გაბედე!",
+      "category": "Emotions",
+      "generated_at": "2026-08-06T23:59:28.281687"
     }
   ],
-  "last_updated": "2026-08-06T01:53:00.889619"
+  "last_updated": "2026-08-06T23:59:28.281689"
 }
