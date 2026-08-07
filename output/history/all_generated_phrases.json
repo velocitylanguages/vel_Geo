@@ -3389,7 +3389,37 @@
       "georgian": "დაამატე მარილი, მარგალიტმა იბრწყინოს.",
       "category": "Food",
       "generated_at": "2026-08-07T18:57:00.097567"
+    },
+    {
+      "english": "River water, calm the body",
+      "georgian": "მდინარის წყალი ამშვიდებს სხეულს",
+      "category": "Health",
+      "generated_at": "2026-08-07T20:40:23.772288"
+    },
+    {
+      "english": "Have you drank river water today?",
+      "georgian": "დღეს მდინარის წყალი დალიე?",
+      "category": "Health",
+      "generated_at": "2026-08-07T20:40:23.772297"
+    },
+    {
+      "english": "Let your breath flow like a river",
+      "georgian": "სუნთქვა მდინარედ გაატარე",
+      "category": "Health",
+      "generated_at": "2026-08-07T20:40:23.772298"
+    },
+    {
+      "english": "Don't hurry, like water finding depth",
+      "georgian": "ნუ იჩქარებ, როგორც წყალი სიღრმეს",
+      "category": "Health",
+      "generated_at": "2026-08-07T20:40:23.772299"
+    },
+    {
+      "english": "Stretch, feel the river in you",
+      "georgian": "გაიჭიმე, შენში მდინარე იგრძენი",
+      "category": "Health",
+      "generated_at": "2026-08-07T20:40:23.772300"
     }
   ],
-  "last_updated": "2026-08-07T18:57:00.097569"
+  "last_updated": "2026-08-07T20:40:23.772301"
 }
