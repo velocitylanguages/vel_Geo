@@ -3269,7 +3269,37 @@
       "georgian": "კეთილდღეები მოითვალე, არა მხოლოდ მონეტები.",
       "category": "Happiness",
       "generated_at": "2026-08-07T00:52:58.402440"
+    },
+    {
+      "english": "What’s the best deal today?",
+      "georgian": "დღეს რა ჯობს ფასში?",
+      "category": "Home",
+      "generated_at": "2026-08-07T02:15:27.908554"
+    },
+    {
+      "english": "Bring your bag, let's bargain!",
+      "georgian": "ჩანთა მოიტანე, მოილაპარაკე!",
+      "category": "Home",
+      "generated_at": "2026-08-07T02:15:27.908565"
+    },
+    {
+      "english": "Count the coins slowly, please.",
+      "georgian": "მონეტები ნელა დაითვალე.",
+      "category": "Home",
+      "generated_at": "2026-08-07T02:15:27.908567"
+    },
+    {
+      "english": "This market smells like summer.",
+      "georgian": "ეს ბაზარი ზაფხულის სუნია.",
+      "category": "Home",
+      "generated_at": "2026-08-07T02:15:27.908568"
+    },
+    {
+      "english": "Fresh bread, warm and honest.",
+      "georgian": "თბილი პური, გულწრფელი არომატი.",
+      "category": "Home",
+      "generated_at": "2026-08-07T02:15:27.908569"
     }
   ],
-  "last_updated": "2026-08-07T00:52:58.402442"
+  "last_updated": "2026-08-07T02:15:27.908571"
 }
