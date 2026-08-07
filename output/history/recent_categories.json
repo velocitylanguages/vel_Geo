@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "last_3_days": [
-    {
-      "date": "2026-08-04",
-      "categories": [
-        "Friendship",
-        "Nature",
-        "Numbers",
-        "Travel",
-        "Health"
-      ]
-    },
     {
       "date": "2026-08-05",
       "categories": [
@@ -26,6 +16,12 @@
       "categories": [
         "Directions",
         "Emotions"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "categories": [
+        "Happiness"
       ]
     }
   ]
