@@ -3449,7 +3449,37 @@
       "georgian": "რამდენი ჩიტია აქ დამალული?",
       "category": "Nature",
       "generated_at": "2026-08-08T01:03:18.888404"
+    },
+    {
+      "english": "What does the lantern teach at night?",
+      "georgian": "რას გვასწავლის ფარნის შუქი ღამით?",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:33:18.359314"
+    },
+    {
+      "english": "Light your path with a lantern.",
+      "georgian": "ანთე ფარანი, იარე გზაზე.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:33:18.359321"
+    },
+    {
+      "english": "This lantern remembers every step.",
+      "georgian": "ეს ფარნი ახსოვს ყველა ნაბიჯს.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:33:18.359323"
+    },
+    {
+      "english": "How warm is a lantern’s glow?",
+      "georgian": "რამხელა სითბოა ფარნის ნაპერწკალზე?",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:33:18.359324"
+    },
+    {
+      "english": "Let the night listen to your lantern.",
+      "georgian": "ღამემაც მოგვისმინოს ფარნით.",
+      "category": "Time",
+      "generated_at": "2026-08-08T14:33:18.359325"
     }
   ],
-  "last_updated": "2026-08-08T01:03:18.888406"
+  "last_updated": "2026-08-08T14:33:18.359329"
 }
