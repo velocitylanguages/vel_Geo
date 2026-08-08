@@ -3419,7 +3419,37 @@
       "georgian": "გაიჭიმე, შენში მდინარე იგრძენი",
       "category": "Health",
       "generated_at": "2026-08-07T20:40:23.772300"
+    },
+    {
+      "english": "Listen to the forest’s heartbeat.",
+      "georgian": "მოუსმინე ტყის გულისცემას.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T01:03:18.888391"
+    },
+    {
+      "english": "Where does the morning mist go?",
+      "georgian": "სად მიემართება დილის ნისლი?",
+      "category": "Nature",
+      "generated_at": "2026-08-08T01:03:18.888401"
+    },
+    {
+      "english": "The pine needles whisper quietly.",
+      "georgian": "ფიჭვის ნემსები ჩურჩულებენ ჩუმად.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T01:03:18.888402"
+    },
+    {
+      "english": "Follow the path of moss.",
+      "georgian": "მოსის ბილიკს გაჰყევი.",
+      "category": "Nature",
+      "generated_at": "2026-08-08T01:03:18.888403"
+    },
+    {
+      "english": "How many birds are hidden here?",
+      "georgian": "რამდენი ჩიტია აქ დამალული?",
+      "category": "Nature",
+      "generated_at": "2026-08-08T01:03:18.888404"
     }
   ],
-  "last_updated": "2026-08-07T20:40:23.772301"
+  "last_updated": "2026-08-08T01:03:18.888406"
 }
