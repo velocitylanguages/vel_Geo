@@ -3509,7 +3509,37 @@
       "georgian": "მოვილაპარაკოთ ლაჟვარდივით ძვირფასად?",
       "category": "Greetings",
       "generated_at": "2026-08-08T16:25:36.423445"
+    },
+    {
+      "english": "Listen to leaves, learn Georgian!",
+      "georgian": "უსმინე ფოთლებს, ქართულს ისწავლე!",
+      "category": "Education",
+      "generated_at": "2026-08-08T18:37:13.797072"
+    },
+    {
+      "english": "In the forest, every word has roots.",
+      "georgian": "ტყეში თითოეულ სიტყვას ფესვები აქვს.",
+      "category": "Education",
+      "generated_at": "2026-08-08T18:37:13.797082"
+    },
+    {
+      "english": "Can you find the word hidden?",
+      "georgian": "მალულად შენიშნავ სიტყვას?",
+      "category": "Education",
+      "generated_at": "2026-08-08T18:37:13.797083"
+    },
+    {
+      "english": "Say it like birds in branches!",
+      "georgian": "თქვი როგორც ჩიტები ტოტებზე!",
+      "category": "Education",
+      "generated_at": "2026-08-08T18:37:13.797084"
+    },
+    {
+      "english": "Walk slowly, follow the grammar trail.",
+      "georgian": "ნელა იარე, გრამატიკის ბილიკს მიჰყევი.",
+      "category": "Education",
+      "generated_at": "2026-08-08T18:37:13.797086"
     }
   ],
-  "last_updated": "2026-08-08T16:25:36.423448"
+  "last_updated": "2026-08-08T18:37:13.797087"
 }
