@@ -3689,7 +3689,37 @@
       "georgian": "რატომ მტკივა ამ შუქით, ფარნავ?",
       "category": "Emotions",
       "generated_at": "2026-08-09T18:41:19.955275"
+    },
+    {
+      "english": "Weeding makes beds breathe again.",
+      "georgian": "სარეველას მოცილება ბაღს აცოცხლებს.",
+      "category": "Work",
+      "generated_at": "2026-08-09T20:31:29.745561"
+    },
+    {
+      "english": "Which seed will you plant today?",
+      "georgian": "დღეს რომელი თესლი დარგე?",
+      "category": "Work",
+      "generated_at": "2026-08-09T20:31:29.745573"
+    },
+    {
+      "english": "Water the roses, not the weeds!",
+      "georgian": "ვარდებს დაასხი წყალი, არა სარეველას!",
+      "category": "Work",
+      "generated_at": "2026-08-09T20:31:29.745574"
+    },
+    {
+      "english": "I’ll compost the leftovers for soil.",
+      "georgian": "ნარჩენებს კომპოსტად ვაქცევ ნიადაგისთვის.",
+      "category": "Work",
+      "generated_at": "2026-08-09T20:31:29.745575"
+    },
+    {
+      "english": "Keep the gate closed, please—plants listen.",
+      "georgian": "კარიბჭე დახურე, მცენარეები გვესმენენ.",
+      "category": "Work",
+      "generated_at": "2026-08-09T20:31:29.745576"
     }
   ],
-  "last_updated": "2026-08-09T18:41:19.955276"
+  "last_updated": "2026-08-09T20:31:29.745577"
 }
