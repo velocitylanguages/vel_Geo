@@ -1,13 +1,6 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "last_3_days": [
-    {
-      "date": "2026-08-06",
-      "categories": [
-        "Directions",
-        "Emotions"
-      ]
-    },
     {
       "date": "2026-08-07",
       "categories": [
@@ -27,6 +20,12 @@
         "Greetings",
         "Education",
         "Colors"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "categories": [
+        "Gratitude"
       ]
     }
   ]
