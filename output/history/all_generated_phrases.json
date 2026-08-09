@@ -3629,7 +3629,37 @@
       "georgian": "და-კატო, დაითვალე ჭექა-ქუხილის დარტყმები.",
       "category": "Family",
       "generated_at": "2026-08-09T14:36:26.868398"
+    },
+    {
+      "english": "How much is the stone statue?",
+      "georgian": "რამდენად ღირს ქვის ქანდაკება?",
+      "category": "Shopping",
+      "generated_at": "2026-08-09T16:27:33.858093"
+    },
+    {
+      "english": "Do you have a smaller statue?",
+      "georgian": "პატარა ქანდაკება გაქვთ?",
+      "category": "Shopping",
+      "generated_at": "2026-08-09T16:27:33.858106"
+    },
+    {
+      "english": "This statue looks like history.",
+      "georgian": "ეს ქანდაკება ისტორიას ჰგავს.",
+      "category": "Shopping",
+      "generated_at": "2026-08-09T16:27:33.858107"
+    },
+    {
+      "english": "Show me the bronze statue, please.",
+      "georgian": "მაჩვენე ბრინჯაოს ქანდაკება.",
+      "category": "Shopping",
+      "generated_at": "2026-08-09T16:27:33.858110"
+    },
+    {
+      "english": "Is the statue heavy or light?",
+      "georgian": "ქანდაკება მძიმეა, თუ მსუბუქი?",
+      "category": "Shopping",
+      "generated_at": "2026-08-09T16:27:33.858111"
     }
   ],
-  "last_updated": "2026-08-09T14:36:26.868400"
+  "last_updated": "2026-08-09T16:27:33.858113"
 }
