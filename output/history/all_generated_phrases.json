@@ -3599,7 +3599,37 @@
       "georgian": "გმადლობ, ენას სწორად მიჰყავს კომპასი.",
       "category": "Gratitude",
       "generated_at": "2026-08-09T01:07:06.963499"
+    },
+    {
+      "english": "Grandpa says thunder speaks from clouds.",
+      "georgian": "ბაბუა ამბობს, ჭექა-ქუხილი ღრუბლებიდან ლაპარაკობს.",
+      "category": "Family",
+      "generated_at": "2026-08-09T14:36:26.868384"
+    },
+    {
+      "english": "Mom, listen—thunder is coming!",
+      "georgian": "დედა, მოუსმინე, ჭექა-ქუხილი მოდის!",
+      "category": "Family",
+      "generated_at": "2026-08-09T14:36:26.868395"
+    },
+    {
+      "english": "Dad jokes: lightning writes fast messages.",
+      "georgian": "მამა ამბობს, ელვა სწრაფ მესიჯებს წერს.",
+      "category": "Family",
+      "generated_at": "2026-08-09T14:36:26.868396"
+    },
+    {
+      "english": "Why does thunder rumble so loudly?",
+      "georgian": "რატომ ღრიალებს ჭექა-ქუხილი ასე ხმამაღლა?",
+      "category": "Family",
+      "generated_at": "2026-08-09T14:36:26.868397"
+    },
+    {
+      "english": "Sister, count the beats of thunder.",
+      "georgian": "და-კატო, დაითვალე ჭექა-ქუხილის დარტყმები.",
+      "category": "Family",
+      "generated_at": "2026-08-09T14:36:26.868398"
     }
   ],
-  "last_updated": "2026-08-09T01:07:06.963501"
+  "last_updated": "2026-08-09T14:36:26.868400"
 }
