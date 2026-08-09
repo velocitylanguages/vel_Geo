@@ -3659,7 +3659,37 @@
       "georgian": "ქანდაკება მძიმეა, თუ მსუბუქი?",
       "category": "Shopping",
       "generated_at": "2026-08-09T16:27:33.858111"
+    },
+    {
+      "english": "Does the lantern calm your heart?",
+      "georgian": "ფარნა გრძნობებს ამშვიდებს, არა?",
+      "category": "Emotions",
+      "generated_at": "2026-08-09T18:41:19.955260"
+    },
+    {
+      "english": "I feel brave, like a lantern.",
+      "georgian": "გულში ვიგრძენ სიმამაცეს, ფარნასავით.",
+      "category": "Emotions",
+      "generated_at": "2026-08-09T18:41:19.955272"
+    },
+    {
+      "english": "When darkness comes, I hope.",
+      "georgian": "როცა ბნელი მოდის, მე იმედი მაქვს.",
+      "category": "Emotions",
+      "generated_at": "2026-08-09T18:41:19.955273"
+    },
+    {
+      "english": "Let your thoughts glow like lanternlight!",
+      "georgian": "შენი ფიქრები ფარნის შუქივით აინთოს!",
+      "category": "Emotions",
+      "generated_at": "2026-08-09T18:41:19.955274"
+    },
+    {
+      "english": "Why does this light make me ache?",
+      "georgian": "რატომ მტკივა ამ შუქით, ფარნავ?",
+      "category": "Emotions",
+      "generated_at": "2026-08-09T18:41:19.955275"
     }
   ],
-  "last_updated": "2026-08-09T16:27:33.858113"
+  "last_updated": "2026-08-09T18:41:19.955276"
 }
