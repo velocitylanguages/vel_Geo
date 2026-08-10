@@ -1,17 +1,6 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "last_3_days": [
-    {
-      "date": "2026-08-07",
-      "categories": [
-        "Happiness",
-        "Home",
-        "Wisdom",
-        "Sports",
-        "Food",
-        "Health"
-      ]
-    },
     {
       "date": "2026-08-08",
       "categories": [
@@ -30,6 +19,12 @@
         "Shopping",
         "Emotions",
         "Work"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "categories": [
+        "Weather"
       ]
     }
   ]
