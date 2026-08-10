@@ -3809,7 +3809,37 @@
       "georgian": "გამძლეობას ბრინჯაოსებურად ავარჯიშებ?",
       "category": "Health",
       "generated_at": "2026-08-10T16:47:27.514241"
+    },
+    {
+      "english": "Lion guards the silent statue",
+      "georgian": "ლომი დარაჯობს მდუმარე ქანდაკებას",
+      "category": "Animals",
+      "generated_at": "2026-08-10T18:57:34.158775"
+    },
+    {
+      "english": "Eagle watches the statue from above",
+      "georgian": "არწივი ზემოდან უცქერს ქანდაკებას",
+      "category": "Animals",
+      "generated_at": "2026-08-10T18:57:34.158784"
+    },
+    {
+      "english": "Is the cat dreaming inside the statue?",
+      "georgian": "კატა ოცნებობს ქანდაკების შიგნით?",
+      "category": "Animals",
+      "generated_at": "2026-08-10T18:57:34.158785"
+    },
+    {
+      "english": "Horse steps carefully, like a statue",
+      "georgian": "ცხენი ფრთხილად დადის, ქანდაკებასავით",
+      "category": "Animals",
+      "generated_at": "2026-08-10T18:57:34.158786"
+    },
+    {
+      "english": "Beetle writes secrets on stone",
+      "georgian": "ხოჭო ქვის ზედაპირზე საიდუმლოებს წერს",
+      "category": "Animals",
+      "generated_at": "2026-08-10T18:57:34.158787"
     }
   ],
-  "last_updated": "2026-08-10T16:47:27.514243"
+  "last_updated": "2026-08-10T18:57:34.158789"
 }
