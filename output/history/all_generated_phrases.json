@@ -3989,7 +3989,37 @@
       "georgian": "ეს პური საოცრად სურნელოვანია!",
       "category": "Directions",
       "generated_at": "2026-08-11T19:01:53.972760"
+    },
+    {
+      "english": "Which stalls sell the sweetest fruit?",
+      "georgian": "რომელი სადგომი ყველაზე ტკბილ ხილს ყიდის?",
+      "category": "Travel",
+      "generated_at": "2026-08-11T20:42:14.115875"
+    },
+    {
+      "english": "I want to taste seasonal cheese.",
+      "georgian": "სეზონურ ყველს დავაგემოვნებ.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T20:42:14.115885"
+    },
+    {
+      "english": "How much is this bunch of herbs?",
+      "georgian": "ამ მწვანილის კონას რამდენი ღირს?",
+      "category": "Travel",
+      "generated_at": "2026-08-11T20:42:14.115886"
+    },
+    {
+      "english": "Show me the freshest peaches, please.",
+      "georgian": "მაჩვენე ყველაზე ახალი ატამი.",
+      "category": "Travel",
+      "generated_at": "2026-08-11T20:42:14.115887"
+    },
+    {
+      "english": "These spices smell like home!",
+      "georgian": "ეს სანელებლები სახლივით სურნელოვანია!",
+      "category": "Travel",
+      "generated_at": "2026-08-11T20:42:14.115888"
     }
   ],
-  "last_updated": "2026-08-11T19:01:53.972762"
+  "last_updated": "2026-08-11T20:42:14.115890"
 }
