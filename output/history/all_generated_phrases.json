@@ -3959,7 +3959,37 @@
       "georgian": "ყოველი გაკვეთილი, საფირივით მტკიცე გახდება",
       "category": "Success",
       "generated_at": "2026-08-11T16:52:13.479185"
+    },
+    {
+      "english": "Ask for today’s price list",
+      "georgian": "გთხოვ, მოიტანე დღევანდელი ფასები",
+      "category": "Directions",
+      "generated_at": "2026-08-11T19:01:53.972742"
+    },
+    {
+      "english": "Where is the fruit stall?",
+      "georgian": "სად არის ხილის სადგომი?",
+      "category": "Directions",
+      "generated_at": "2026-08-11T19:01:53.972754"
+    },
+    {
+      "english": "Try the seasonal pomegranate",
+      "georgian": "დააგემოვნე სეზონური ბროწეული!",
+      "category": "Directions",
+      "generated_at": "2026-08-11T19:01:53.972758"
+    },
+    {
+      "english": "Count the coins carefully",
+      "georgian": "ფრთხილად დათვალე მონეტები",
+      "category": "Directions",
+      "generated_at": "2026-08-11T19:01:53.972759"
+    },
+    {
+      "english": "This bread smells amazing!",
+      "georgian": "ეს პური საოცრად სურნელოვანია!",
+      "category": "Directions",
+      "generated_at": "2026-08-11T19:01:53.972760"
     }
   ],
-  "last_updated": "2026-08-11T16:52:13.479187"
+  "last_updated": "2026-08-11T19:01:53.972762"
 }
