@@ -4079,7 +4079,37 @@
       "georgian": "ერთად გავიაროთ მაღალი უღელტეხილი!",
       "category": "Friendship",
       "generated_at": "2026-08-12T14:59:31.520141"
+    },
+    {
+      "english": "Feather-light, what’s this scarf made of?",
+      "georgian": "ბუმბულივით მსუბუქი, ეს შარფი რისაა?",
+      "category": "Shopping",
+      "generated_at": "2026-08-12T16:51:37.305651"
+    },
+    {
+      "english": "I want a feather earring, show me!",
+      "georgian": "ბუმბულის საყურე მინდა, მაჩვენე!",
+      "category": "Shopping",
+      "generated_at": "2026-08-12T16:51:37.305661"
+    },
+    {
+      "english": "This jacket feels like a feather.",
+      "georgian": "ეს ქურთუკი ბუმბულივითაა რბილი.",
+      "category": "Shopping",
+      "generated_at": "2026-08-12T16:51:37.305663"
+    },
+    {
+      "english": "How much do feather pillows cost?",
+      "georgian": "ბუმბულის ბალიშები რა ღირს?",
+      "category": "Shopping",
+      "generated_at": "2026-08-12T16:51:37.305664"
+    },
+    {
+      "english": "Don’t pack it, it’s fragile like a feather.",
+      "georgian": "არ ჩაალაგო, ბუმბულივით მყიფეა.",
+      "category": "Shopping",
+      "generated_at": "2026-08-12T16:51:37.305665"
     }
   ],
-  "last_updated": "2026-08-12T14:59:31.520143"
+  "last_updated": "2026-08-12T16:51:37.305667"
 }
