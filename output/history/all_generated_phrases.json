@@ -4139,7 +4139,37 @@
       "georgian": "გავიხარე, თითქოს ლალი ვიპოვე!",
       "category": "Emotions",
       "generated_at": "2026-08-12T19:02:15.429524"
+    },
+    {
+      "english": "How many silvery steps?",
+      "georgian": "რამდენი ვერცხლის ნაბიჯია?",
+      "category": "Numbers",
+      "generated_at": "2026-08-12T20:43:09.660100"
+    },
+    {
+      "english": "At twelve, the moon gleams like silver.",
+      "georgian": "თორმეტზე მთვარე ვერცხლივით ანათებს.",
+      "category": "Numbers",
+      "generated_at": "2026-08-12T20:43:09.660110"
+    },
+    {
+      "english": "Count three coins, shining silver.",
+      "georgian": "დათვალე სამი მონეტა, ვერცხლისფერი.",
+      "category": "Numbers",
+      "generated_at": "2026-08-12T20:43:09.660111"
+    },
+    {
+      "english": "Seven clouds, silver edges tonight!",
+      "georgian": "შვიდი ღრუბელი, დღეს ვერცხლისფერი კიდეებით!",
+      "category": "Numbers",
+      "generated_at": "2026-08-12T20:43:09.660113"
+    },
+    {
+      "english": "Five minutes until the silver bell.",
+      "georgian": "ხუთი წუთი, და ვერცხლის ზარია.",
+      "category": "Numbers",
+      "generated_at": "2026-08-12T20:43:09.660114"
     }
   ],
-  "last_updated": "2026-08-12T19:02:15.429526"
+  "last_updated": "2026-08-12T20:43:09.660115"
 }
