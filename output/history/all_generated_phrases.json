@@ -4019,7 +4019,37 @@
       "georgian": "ეს სანელებლები სახლივით სურნელოვანია!",
       "category": "Travel",
       "generated_at": "2026-08-11T20:42:14.115888"
+    },
+    {
+      "english": "Tower of dawn glows in gold.",
+      "georgian": "კოშკი გამთენიის ოქროთი ანათებს.",
+      "category": "Colors",
+      "generated_at": "2026-08-12T01:15:59.282199"
+    },
+    {
+      "english": "Question: Is the tower blue like sky?",
+      "georgian": "კითხვა: ლურჯია კოშკი, ცასავით?",
+      "category": "Colors",
+      "generated_at": "2026-08-12T01:15:59.282209"
+    },
+    {
+      "english": "Green walls grow like ivy.",
+      "georgian": "მწვანე კედლები სუროივით იზრდება.",
+      "category": "Colors",
+      "generated_at": "2026-08-12T01:15:59.282211"
+    },
+    {
+      "english": "Red banners fly from the tower.",
+      "georgian": "წითელი დროშები კოშკიდან იფრიალებს.",
+      "category": "Colors",
+      "generated_at": "2026-08-12T01:15:59.282212"
+    },
+    {
+      "english": "Black shadows climb the tower stairs.",
+      "georgian": "შავი ჩრდილები კოშკის კიბეებზე ადის.",
+      "category": "Colors",
+      "generated_at": "2026-08-12T01:15:59.282213"
     }
   ],
-  "last_updated": "2026-08-11T20:42:14.115890"
+  "last_updated": "2026-08-12T01:15:59.282215"
 }
