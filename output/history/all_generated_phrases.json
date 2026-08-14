@@ -4379,7 +4379,37 @@
       "georgian": "სასახლე გულიცაა, ხომ?",
       "category": "Happiness",
       "generated_at": "2026-08-14T14:53:40.085316"
+    },
+    {
+      "english": "Sapphire clouds gather over the mountains.",
+      "georgian": "საფირონის ღრუბლები მთებზე იკრიბება.",
+      "category": "Weather",
+      "generated_at": "2026-08-14T16:50:46.654719"
+    },
+    {
+      "english": "Is the sky, like sapphire, turning blue?",
+      "georgian": "ცისფერი საფირივით ხომ არ მძაფრდება?",
+      "category": "Weather",
+      "generated_at": "2026-08-14T16:50:46.654728"
+    },
+    {
+      "english": "A cool breeze kisses the sapphire air.",
+      "georgian": "ცივმა ნიავმა საფირონის ჰაერი დაგვკოცნა.",
+      "category": "Weather",
+      "generated_at": "2026-08-14T16:50:46.654729"
+    },
+    {
+      "english": "Hear the storm, sapphire in fury!",
+      "georgian": "გაისმა ქუხილი, საფირი რისხვით!",
+      "category": "Weather",
+      "generated_at": "2026-08-14T16:50:46.654730"
+    },
+    {
+      "english": "Let the rain sparkle like sapphires.",
+      "georgian": "წვიმას დაანათოს, როგორც საფირონები.",
+      "category": "Weather",
+      "generated_at": "2026-08-14T16:50:46.654732"
     }
   ],
-  "last_updated": "2026-08-14T14:53:40.085318"
+  "last_updated": "2026-08-14T16:50:46.654733"
 }
