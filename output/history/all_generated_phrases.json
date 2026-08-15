@@ -4559,7 +4559,37 @@
       "georgian": "შვიდ ფარანს ვანთებ ბედისთვის!",
       "category": "Numbers",
       "generated_at": "2026-08-15T16:16:29.642012"
+    },
+    {
+      "english": "Point your thoughts north first.",
+      "georgian": "ჯერ ჩაფიქრდი ჩრდილოეთზე, მერე ნაბიჯი.",
+      "category": "Directions",
+      "generated_at": "2026-08-15T18:29:13.845675"
+    },
+    {
+      "english": "Turn the compass, choose direction.",
+      "georgian": "კომპასს დაატრიალე, მიმართულება აირჩიე.",
+      "category": "Directions",
+      "generated_at": "2026-08-15T18:29:13.845687"
+    },
+    {
+      "english": "Why does the needle always point?",
+      "georgian": "რატომ ისარი ყოველთვის ჩრდილს ეძებს?",
+      "category": "Directions",
+      "generated_at": "2026-08-15T18:29:13.845689"
+    },
+    {
+      "english": "Let your words find north.",
+      "georgian": "შენი სიტყვები ჩრდილს იპოვოს.",
+      "category": "Directions",
+      "generated_at": "2026-08-15T18:29:13.845690"
+    },
+    {
+      "english": "Follow the bearings, not the panic!",
+      "georgian": "ბერინგები დაიჭირე, პანიკას გაუშვი!",
+      "category": "Directions",
+      "generated_at": "2026-08-15T18:29:13.845693"
     }
   ],
-  "last_updated": "2026-08-15T16:16:29.642013"
+  "last_updated": "2026-08-15T18:29:13.845695"
 }
