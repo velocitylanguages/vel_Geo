@@ -4529,7 +4529,37 @@
       "georgian": "როგორ იქცევა ბრინჯაო ხელოვნებად?",
       "category": "Wisdom",
       "generated_at": "2026-08-15T14:24:44.171982"
+    },
+    {
+      "english": "How many lanterns are burning?",
+      "georgian": "რამდენი ფარნებია ანთებული?",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T16:16:29.641999"
+    },
+    {
+      "english": "Ten lanterns, one glowing path.",
+      "georgian": "ათი ფარნი, ერთი გაბრწყინებული გზა.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T16:16:29.642009"
+    },
+    {
+      "english": "Count three lanterns, slowly.",
+      "georgian": "დათვალე სამი ფარნი, ნელა.",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T16:16:29.642010"
+    },
+    {
+      "english": "Is this the fourth lantern tonight?",
+      "georgian": "ეს მეოთხე ფარია ამ ღამით?",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T16:16:29.642011"
+    },
+    {
+      "english": "I light seven lanterns for luck!",
+      "georgian": "შვიდ ფარანს ვანთებ ბედისთვის!",
+      "category": "Numbers",
+      "generated_at": "2026-08-15T16:16:29.642012"
     }
   ],
-  "last_updated": "2026-08-15T14:24:44.171986"
+  "last_updated": "2026-08-15T16:16:29.642013"
 }
