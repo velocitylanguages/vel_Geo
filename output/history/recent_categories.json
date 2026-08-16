@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "last_3_days": [
-    {
-      "date": "2026-08-13",
-      "categories": [
-        "Nature",
-        "Animals",
-        "Greetings",
-        "Work",
-        "Health"
-      ]
-    },
     {
       "date": "2026-08-14",
       "categories": [
@@ -29,6 +19,12 @@
         "Numbers",
         "Directions",
         "Colors"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "categories": [
+        "Love"
       ]
     }
   ]
