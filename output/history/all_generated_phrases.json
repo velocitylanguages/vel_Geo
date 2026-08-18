@@ -4919,7 +4919,37 @@
       "georgian": "ყოველ პატარა ნაკადზე ხიდს ავაგებთ.",
       "category": "Friendship",
       "generated_at": "2026-08-17T20:25:53.547188"
+    },
+    {
+      "english": "Make the room feel like a castle.",
+      "georgian": "გააკეთე ოთახი ციხესავით.",
+      "category": "Home",
+      "generated_at": "2026-08-18T01:09:17.610870"
+    },
+    {
+      "english": "Which room guards your dreams?",
+      "georgian": "რომელი ოთახი იცავს შენს ოცნებებს?",
+      "category": "Home",
+      "generated_at": "2026-08-18T01:09:17.610879"
+    },
+    {
+      "english": "Lock the worries in the tower.",
+      "georgian": "ჩაკეტე დარდები კოშკში.",
+      "category": "Home",
+      "generated_at": "2026-08-18T01:09:17.610881"
+    },
+    {
+      "english": "Build a moat with stories.",
+      "georgian": "გამოავლე თხრილი ისტორიებით.",
+      "category": "Home",
+      "generated_at": "2026-08-18T01:09:17.610882"
+    },
+    {
+      "english": "Step softly, like knights at dawn!",
+      "georgian": "ფრთხილად შედი, როგორც რაინდები გამთენიისას!",
+      "category": "Home",
+      "generated_at": "2026-08-18T01:09:17.610883"
     }
   ],
-  "last_updated": "2026-08-17T20:25:53.547190"
+  "last_updated": "2026-08-18T01:09:17.610885"
 }
