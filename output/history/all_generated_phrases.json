@@ -4949,7 +4949,37 @@
       "georgian": "ფრთხილად შედი, როგორც რაინდები გამთენიისას!",
       "category": "Home",
       "generated_at": "2026-08-18T01:09:17.610883"
+    },
+    {
+      "english": "Does thunder wake the lion?",
+      "georgian": "ღრიალებს თუ არა ლომს ჭექა?",
+      "category": "Animals",
+      "generated_at": "2026-08-18T14:35:27.035282"
+    },
+    {
+      "english": "The fox wears lightning like a cloak.",
+      "georgian": "მელამ ელვას ქურქივით მოირგო.",
+      "category": "Animals",
+      "generated_at": "2026-08-18T14:35:27.035294"
+    },
+    {
+      "english": "Eagle rides the storm cloud!",
+      "georgian": "არწივი ქარიშხლის ღრუბელს ამხედრდა!",
+      "category": "Animals",
+      "generated_at": "2026-08-18T14:35:27.035296"
+    },
+    {
+      "english": "The wolf howls when thunder strikes.",
+      "georgian": "მგელი ჭექაზე ყმუის, უცებ.",
+      "category": "Animals",
+      "generated_at": "2026-08-18T14:35:27.035297"
+    },
+    {
+      "english": "Cat listens for thunder in silence.",
+      "georgian": "კატა ჩუმად უსმენს ჭექას.",
+      "category": "Animals",
+      "generated_at": "2026-08-18T14:35:27.035298"
     }
   ],
-  "last_updated": "2026-08-18T01:09:17.610885"
+  "last_updated": "2026-08-18T14:35:27.035300"
 }
