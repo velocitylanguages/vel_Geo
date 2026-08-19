@@ -5189,7 +5189,37 @@
       "georgian": "ყოველი გაკვეთილი ერთ მარგალიტს მატებს.",
       "category": "Wisdom",
       "generated_at": "2026-08-19T18:41:45.558139"
+    },
+    {
+      "english": "Which palace rooms are hidden behind myths?",
+      "georgian": "რომელი სასახლის ოთახები იმალება ლეგენდებს მიღმა?",
+      "category": "Travel",
+      "generated_at": "2026-08-19T20:26:37.666369"
+    },
+    {
+      "english": "Step softly, this palace listens.",
+      "georgian": "ფრთხილად გადადგი ნაბიჯი, ეს სასახლე ისმენს.",
+      "category": "Travel",
+      "generated_at": "2026-08-19T20:26:37.666379"
+    },
+    {
+      "english": "Do the palace walls have echoes?",
+      "georgian": "სასახლის კედლებს ექო აქვს?",
+      "category": "Travel",
+      "generated_at": "2026-08-19T20:26:37.666380"
+    },
+    {
+      "english": "I want to walk the royal corridor.",
+      "georgian": "მინდა სამეფო დერეფანში სიარული.",
+      "category": "Travel",
+      "generated_at": "2026-08-19T20:26:37.666382"
+    },
+    {
+      "english": "Show me the throne room, please.",
+      "georgian": "მაჩვენე ტახტის დარბაზი, მაპატიე.",
+      "category": "Travel",
+      "generated_at": "2026-08-19T20:26:37.666383"
     }
   ],
-  "last_updated": "2026-08-19T18:41:45.558142"
+  "last_updated": "2026-08-19T20:26:37.666384"
 }
