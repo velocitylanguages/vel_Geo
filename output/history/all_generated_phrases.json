@@ -5279,7 +5279,37 @@
       "georgian": "თუ ყოველი სიტყვა ფერდობის ბიჯია?",
       "category": "Gratitude",
       "generated_at": "2026-08-20T14:38:04.687511"
+    },
+    {
+      "english": "Will the storm hit the market lanes?",
+      "georgian": "შეეტყობა ქარიშხალი ბაზრის ხეივნებს?",
+      "category": "Weather",
+      "generated_at": "2026-08-20T16:27:20.847925"
+    },
+    {
+      "english": "Clouds hover over the stalls again!",
+      "georgian": "ღრუბლები ისევ დგას დახლების თავზე!",
+      "category": "Weather",
+      "generated_at": "2026-08-20T16:27:20.847935"
+    },
+    {
+      "english": "The sun peeks through awnings, shoppers.",
+      "georgian": "მზე ქოლგების ქვეშ იპარება, მყიდველებო.",
+      "category": "Weather",
+      "generated_at": "2026-08-20T16:27:20.847937"
+    },
+    {
+      "english": "Rain might wash the price tags clean.",
+      "georgian": "წვიმამ ფასის ნიშნები შეიძლება გაასუფთაოს.",
+      "category": "Weather",
+      "generated_at": "2026-08-20T16:27:20.847938"
+    },
+    {
+      "english": "Is the wind pushing away umbrellas?",
+      "georgian": "ქარი ამოაგდებს ქოლგებს ხალხმრავლობას?",
+      "category": "Weather",
+      "generated_at": "2026-08-20T16:27:20.847941"
     }
   ],
-  "last_updated": "2026-08-20T14:38:04.687512"
+  "last_updated": "2026-08-20T16:27:20.847943"
 }
