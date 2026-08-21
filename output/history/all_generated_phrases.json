@@ -5489,7 +5489,37 @@
       "georgian": "იმედი ააშენე ხის ხიდივით.",
       "category": "Nature",
       "generated_at": "2026-08-21T18:36:16.267314"
+    },
+    {
+      "english": "How much water does the fountain spill?",
+      "georgian": "რამდენ წყალს აფრქვევს შადრევანი?",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:24:45.105161"
+    },
+    {
+      "english": "Count the drops from the fountain!",
+      "georgian": "დათვალე შადრევნის წვეთები!",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:24:45.105176"
+    },
+    {
+      "english": "Two shells sit by the fountain.",
+      "georgian": "ორი ნიჟარა დგას შადრევანთან.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:24:45.105178"
+    },
+    {
+      "english": "Three steps lead to the fountain.",
+      "georgian": "სამი ნაბიჯი მიჰყავს შადრევანთან.",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:24:45.105179"
+    },
+    {
+      "english": "Four streams sing together at noon!",
+      "georgian": "ოთხი ნაკადი შუადღეს ერთად მღერის!",
+      "category": "Numbers",
+      "generated_at": "2026-08-21T20:24:45.105180"
     }
   ],
-  "last_updated": "2026-08-21T18:36:16.267316"
+  "last_updated": "2026-08-21T20:24:45.105182"
 }
