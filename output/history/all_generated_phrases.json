@@ -5429,7 +5429,37 @@
       "georgian": "მოღამების აქლემო, ფეხები ლაჟვარდივით ბრწყინავს.",
       "category": "Animals",
       "generated_at": "2026-08-21T14:37:57.241568"
+    },
+    {
+      "english": "Which castle color is dawn-red?",
+      "georgian": "რომელი ფერი ციხესიმაგრეშია გარიჟრაჟის წითელი?",
+      "category": "Colors",
+      "generated_at": "2026-08-21T16:25:30.707189"
+    },
+    {
+      "english": "Saffron towers glow at sunset.",
+      "georgian": "ზაფრანისფერი კოშკები მზის ჩასვლისას ანათებს.",
+      "category": "Colors",
+      "generated_at": "2026-08-21T16:25:30.707201"
+    },
+    {
+      "english": "Black stone makes you feel brave.",
+      "georgian": "შავი ქვა მამაცობას გაძლევს ციხეში.",
+      "category": "Colors",
+      "generated_at": "2026-08-21T16:25:30.707202"
+    },
+    {
+      "english": "Paint the gate with royal gold!",
+      "georgian": "კარიბჭე მეფურ ოქროსფერში შეღებე!",
+      "category": "Colors",
+      "generated_at": "2026-08-21T16:25:30.707203"
+    },
+    {
+      "english": "Is the moat water emerald-green?",
+      "georgian": "თხრილი ნისლივით ზურმუხტისფერი წყალია?",
+      "category": "Colors",
+      "generated_at": "2026-08-21T16:25:30.707204"
     }
   ],
-  "last_updated": "2026-08-21T14:37:57.241569"
+  "last_updated": "2026-08-21T16:25:30.707206"
 }
