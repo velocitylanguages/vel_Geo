@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "last_3_days": [
-    {
-      "date": "2026-08-19",
-      "categories": [
-        "Happiness",
-        "Food",
-        "Time",
-        "Wisdom",
-        "Travel"
-      ]
-    },
     {
       "date": "2026-08-20",
       "categories": [
@@ -29,6 +19,12 @@
         "Colors",
         "Nature",
         "Numbers"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "categories": [
+        "Home"
       ]
     }
   ]
