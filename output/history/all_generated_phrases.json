@@ -5699,7 +5699,37 @@
       "georgian": "ოცნებები შეინახე მსუბუქად, ბუმბულივით.",
       "category": "Travel",
       "generated_at": "2026-08-23T00:53:10.754727"
+    },
+    {
+      "english": "Follow the fountain’s rhythm, practice aloud.",
+      "georgian": "მიჰყევი შადრევნის რიტმს, ხმამაღლა ივარჯიშე.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T14:24:51.479374"
+    },
+    {
+      "english": "Where does the water start speaking?",
+      "georgian": "საიდან იწყებს წყალი საუბარს?",
+      "category": "Directions",
+      "generated_at": "2026-08-23T14:24:51.479382"
+    },
+    {
+      "english": "Listen closely, words will splash out!",
+      "georgian": "ყურად იღე, სიტყვები იფრქვევა!",
+      "category": "Directions",
+      "generated_at": "2026-08-23T14:24:51.479383"
+    },
+    {
+      "english": "Repeat after the fountain, softly first.",
+      "georgian": "შადრევანს აყევი გამეორებით, ნელა.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T14:24:51.479385"
+    },
+    {
+      "english": "Say it like falling water—smoothly.",
+      "georgian": "თქვი ისე, როგორც წყალი ეშვება—მხოლოდ რბილად.",
+      "category": "Directions",
+      "generated_at": "2026-08-23T14:24:51.479386"
     }
   ],
-  "last_updated": "2026-08-23T00:53:10.754729"
+  "last_updated": "2026-08-23T14:24:51.479387"
 }
