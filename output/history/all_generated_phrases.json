@@ -5729,7 +5729,37 @@
       "georgian": "თქვი ისე, როგორც წყალი ეშვება—მხოლოდ რბილად.",
       "category": "Directions",
       "generated_at": "2026-08-23T14:24:51.479386"
+    },
+    {
+      "english": "Do you feel the horizon stretching with you?",
+      "georgian": "ჰორიზონტი ხომ გითავისუფლებს სუნთქვას?",
+      "category": "Health",
+      "generated_at": "2026-08-23T16:17:23.935893"
+    },
+    {
+      "english": "Drink water, clear the inner horizon.",
+      "georgian": "დალიე წყალი, გაწმინდე შინაგანი ჰორიზონტი.",
+      "category": "Health",
+      "generated_at": "2026-08-23T16:17:23.935903"
+    },
+    {
+      "english": "Walk slowly, and your horizon widens.",
+      "georgian": "ივარჯიშე ნელა, ჰორიზონტი ფართოვდება.",
+      "category": "Health",
+      "generated_at": "2026-08-23T16:17:23.935904"
+    },
+    {
+      "english": "Breathe in peace, exhale worries beyond.",
+      "georgian": "შეისუნთქე მშვიდობა, გარეთ გაუშვი წუხილი.",
+      "category": "Health",
+      "generated_at": "2026-08-23T16:17:23.935906"
+    },
+    {
+      "english": "Move your body, like a calm horizon.",
+      "georgian": "ამოძრავე სხეული, როგორც მშვიდი ჰორიზონტი.",
+      "category": "Health",
+      "generated_at": "2026-08-23T16:17:23.935907"
     }
   ],
-  "last_updated": "2026-08-23T14:24:51.479387"
+  "last_updated": "2026-08-23T16:17:23.935908"
 }
