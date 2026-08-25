@@ -6089,7 +6089,37 @@
       "georgian": "თქვი „ამენ“ ქართული სუნთქვით.",
       "category": "Education",
       "generated_at": "2026-08-25T18:39:23.837040"
+    },
+    {
+      "english": "Which way does your compass point?",
+      "georgian": "სად მიგანიშნებს შენი კომპასი?",
+      "category": "Nature",
+      "generated_at": "2026-08-25T20:29:35.587602"
+    },
+    {
+      "english": "Let the compass lead you home.",
+      "georgian": "კომპასმა მიგიყვანოს შინ.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T20:29:35.587611"
+    },
+    {
+      "english": "My compass breathes with north wind.",
+      "georgian": "ჩემი კომპასი ჩრდილოეთის ქარით სუნთქავს.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T20:29:35.587613"
+    },
+    {
+      "english": "The forest follows its own direction needle.",
+      "georgian": "ტყე თავისი ნემსით პოულობს გზას.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T20:29:35.587614"
+    },
+    {
+      "english": "Don’t trust clouds, trust the bearing.",
+      "georgian": "ღრუბლებს ნუ ენდობი, კურსს ენდე.",
+      "category": "Nature",
+      "generated_at": "2026-08-25T20:29:35.587615"
     }
   ],
-  "last_updated": "2026-08-25T18:39:23.837042"
+  "last_updated": "2026-08-25T20:29:35.587617"
 }
