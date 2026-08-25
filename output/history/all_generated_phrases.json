@@ -6059,7 +6059,37 @@
       "georgian": "მარილი ნელა დაამატე, როგორც ბროლი ყალიბდება.",
       "category": "Food",
       "generated_at": "2026-08-25T16:28:56.537121"
+    },
+    {
+      "english": "Enter the temple of stories, learn.",
+      "georgian": "შედიხარ ზღაპრების ტაძარში, ისწავლე.",
+      "category": "Education",
+      "generated_at": "2026-08-25T18:39:23.837026"
+    },
+    {
+      "english": "Why does the temple whisper words?",
+      "georgian": "რატომ ჩურჩულებს ტაძარი სიტყვებს?",
+      "category": "Education",
+      "generated_at": "2026-08-25T18:39:23.837036"
+    },
+    {
+      "english": "Practice grammar like candlelight.",
+      "georgian": "ივარჯიშე გრამატიკა სანთლის შუქივით.",
+      "category": "Education",
+      "generated_at": "2026-08-25T18:39:23.837038"
+    },
+    {
+      "english": "Listen closely in the temple silence.",
+      "georgian": "მოუსმინე ტაძრის დუმილს ყურადღებით.",
+      "category": "Education",
+      "generated_at": "2026-08-25T18:39:23.837039"
+    },
+    {
+      "english": "Say ‘amen’ with Georgian breath.",
+      "georgian": "თქვი „ამენ“ ქართული სუნთქვით.",
+      "category": "Education",
+      "generated_at": "2026-08-25T18:39:23.837040"
     }
   ],
-  "last_updated": "2026-08-25T16:28:56.537123"
+  "last_updated": "2026-08-25T18:39:23.837042"
 }
