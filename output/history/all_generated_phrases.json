@@ -5999,7 +5999,37 @@
       "georgian": "სატარა ლაჟვარდის გულსაკიდი მინდა.",
       "category": "Shopping",
       "generated_at": "2026-08-25T00:49:58.078310"
+    },
+    {
+      "english": "Castle walls whisper in misty weather.",
+      "georgian": "ციხის კედლები ნისლში ჩურჩულებს.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T14:49:03.668466"
+    },
+    {
+      "english": "Will the storm hit the castle towers?",
+      "georgian": "მოერევა თუ არა ქარიშხალი ციხის კოშკებს?",
+      "category": "Weather",
+      "generated_at": "2026-08-25T14:49:03.668475"
+    },
+    {
+      "english": "Look, the clouds hug the castle ridge!",
+      "georgian": "ხედავ, ღრუბლები ციხის ქედს ეხუტება!",
+      "category": "Weather",
+      "generated_at": "2026-08-25T14:49:03.668477"
+    },
+    {
+      "english": "The moat sparkles after rain.",
+      "georgian": "თხრილი წვიმის შემდეგ ალივით ბრწყინავს.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T14:49:03.668478"
+    },
+    {
+      "english": "Shadows stretch across the drawbridge.",
+      "georgian": "ჩრდილები ასაწევ ხიდზე იჭიმება.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T14:49:03.668479"
     }
   ],
-  "last_updated": "2026-08-25T00:49:58.078312"
+  "last_updated": "2026-08-25T14:49:03.668481"
 }
