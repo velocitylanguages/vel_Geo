@@ -6119,7 +6119,37 @@
       "georgian": "ღრუბლებს ნუ ენდობი, კურსს ენდე.",
       "category": "Nature",
       "generated_at": "2026-08-25T20:29:35.587615"
+    },
+    {
+      "english": "When dawn breaks, listen to birds.",
+      "georgian": "როცა დილა იშლება, მოუსმინე ჩიტებს.",
+      "category": "Time",
+      "generated_at": "2026-08-26T00:52:23.032722"
+    },
+    {
+      "english": "Every hour, the forest breathes softly.",
+      "georgian": "ყოველ საათში ტყე ნაზად სუნთქავს.",
+      "category": "Time",
+      "generated_at": "2026-08-26T00:52:23.032734"
+    },
+    {
+      "english": "At noon, walk under green shadows.",
+      "georgian": "შუადღისას გაიარე მწვანე ჩრდილების ქვეშ.",
+      "category": "Time",
+      "generated_at": "2026-08-26T00:52:23.032736"
+    },
+    {
+      "english": "How late before the wolves stir?",
+      "georgian": "რამდენ ხანს დარჩება მგლების ძილი?",
+      "category": "Time",
+      "generated_at": "2026-08-26T00:52:23.032737"
+    },
+    {
+      "english": "Wait until dusk, then follow the fireflies.",
+      "georgian": "დაბნელებამდე დაელოდე, მერე მიჰყევი კაშკაშებს.",
+      "category": "Time",
+      "generated_at": "2026-08-26T00:52:23.032738"
     }
   ],
-  "last_updated": "2026-08-25T20:29:35.587617"
+  "last_updated": "2026-08-26T00:52:23.032740"
 }
