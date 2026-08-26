@@ -6209,7 +6209,37 @@
       "georgian": "დღეს გული ბუმბულივით მსუბუქია.",
       "category": "Happiness",
       "generated_at": "2026-08-26T16:43:45.365024"
+    },
+    {
+      "english": "Step by step, compass-guided.",
+      "georgian": "ნაბიჯი-ნაბიჯი, კომპასს მიყევი.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:47:36.209591"
+    },
+    {
+      "english": "When lost, ask your compass.",
+      "georgian": "დაიკარგე? კომპასს ჰკითხე.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:47:36.209601"
+    },
+    {
+      "english": "North is a teacher, not a cage.",
+      "georgian": "ჩრდილოეთი მასწავლებელია, გალია არაა.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:47:36.209603"
+    },
+    {
+      "english": "Draw a route on the map!",
+      "georgian": "მარშრუტი რუკაზე დახაზე!",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:47:36.209604"
+    },
+    {
+      "english": "Listen to the compass, breathe.",
+      "georgian": "კომპასს მოუსმინე, ირგვლივ ჩასუნთქე.",
+      "category": "Directions",
+      "generated_at": "2026-08-26T19:47:36.209605"
     }
   ],
-  "last_updated": "2026-08-26T16:43:45.365026"
+  "last_updated": "2026-08-26T19:47:36.209607"
 }
