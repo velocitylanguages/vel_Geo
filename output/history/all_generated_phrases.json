@@ -6269,7 +6269,37 @@
       "georgian": "რატომ არის კოშკი ასე მოწყენილი?",
       "category": "Emotions",
       "generated_at": "2026-08-26T22:45:20.758342"
+    },
+    {
+      "english": "The valley wears morning mist.",
+      "georgian": "ხეობა დილის ნისლს იცვამს.",
+      "category": "Home",
+      "generated_at": "2026-08-27T06:28:29.013613"
+    },
+    {
+      "english": "Which hillside guards the valley?",
+      "georgian": "რომელი ფერდობი იცავს ხეობას?",
+      "category": "Home",
+      "generated_at": "2026-08-27T06:28:29.013625"
+    },
+    {
+      "english": "Don’t lose the valley trail, friend!",
+      "georgian": "ხეობის ბილიკი ნუ დაგეკარგება, მეგობარო!",
+      "category": "Home",
+      "generated_at": "2026-08-27T06:28:29.013626"
+    },
+    {
+      "english": "Clouds rest like sheep in the valley.",
+      "georgian": "ღრუბლები ხეობაში ცხვარებივით ისვენებენ.",
+      "category": "Home",
+      "generated_at": "2026-08-27T06:28:29.013627"
+    },
+    {
+      "english": "This valley remembers old stories.",
+      "georgian": "ამ ხეობას ძველი ამბები ახსოვს.",
+      "category": "Home",
+      "generated_at": "2026-08-27T06:28:29.013628"
     }
   ],
-  "last_updated": "2026-08-26T22:45:20.758344"
+  "last_updated": "2026-08-27T06:28:29.013630"
 }
