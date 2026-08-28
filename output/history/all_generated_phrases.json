@@ -6419,7 +6419,37 @@
       "georgian": "სეტყვა წყალს აკაკუნებს, გაიგონე!",
       "category": "Weather",
       "generated_at": "2026-08-28T04:03:50.525709"
+    },
+    {
+      "english": "Gratitude for seeds you gave me",
+      "georgian": "თესლი მაჩუქე, მადლობელი ვარ",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T08:18:49.979789"
+    },
+    {
+      "english": "Thank you for watering my practice",
+      "georgian": "მორწყე ჩემი სწავლა, მადლობა",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T08:18:49.979814"
+    },
+    {
+      "english": "Which flower taught me today?",
+      "georgian": "დღეს რომელი ყვავილი მასწავლა?",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T08:18:49.979816"
+    },
+    {
+      "english": "I’m thankful for the garden lessons",
+      "georgian": "ბაღის გაკვეთილები გულით მახარებს",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T08:18:49.979817"
+    },
+    {
+      "english": "May your compost enrich my words!",
+      "georgian": "კომპოსტმა სიტყვები გამამდიდროს!",
+      "category": "Gratitude",
+      "generated_at": "2026-08-28T08:18:49.979818"
     }
   ],
-  "last_updated": "2026-08-28T04:03:50.525712"
+  "last_updated": "2026-08-28T08:18:49.979820"
 }
