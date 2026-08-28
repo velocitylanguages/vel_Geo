@@ -6389,7 +6389,37 @@
       "georgian": "აირჩიე ფიჭვის მწვანე ტყისთვის!",
       "category": "Colors",
       "generated_at": "2026-08-28T02:04:00.559141"
+    },
+    {
+      "english": "Is the fountain singing with rain?",
+      "georgian": "შადრევანი წვიმას უმღერის?",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:03:50.525697"
+    },
+    {
+      "english": "The fountain turns clouds to laughter.",
+      "georgian": "შადრევანი ღრუბლებს სიცილად აქცევს.",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:03:50.525707"
+    },
+    {
+      "english": "Hold the umbrella under the fountain!",
+      "georgian": "ქოლგა დააფარე შადრევანს!",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:03:50.525708"
+    },
+    {
+      "english": "Will the fountain freeze this wind?",
+      "georgian": "ამ ქარს შადრევანი გაყინავს?",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:03:50.525709"
+    },
+    {
+      "english": "Listen, hail is tapping the water!",
+      "georgian": "სეტყვა წყალს აკაკუნებს, გაიგონე!",
+      "category": "Weather",
+      "generated_at": "2026-08-28T04:03:50.525709"
     }
   ],
-  "last_updated": "2026-08-28T02:04:00.559142"
+  "last_updated": "2026-08-28T04:03:50.525712"
 }
