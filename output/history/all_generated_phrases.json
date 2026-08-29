@@ -6659,7 +6659,37 @@
       "georgian": "სუნთქვა შეიკავე, დათვალე.",
       "category": "Directions",
       "generated_at": "2026-08-29T19:04:51.563914"
+    },
+    {
+      "english": "Write a short report on the river.",
+      "georgian": "მოკლე მოხსენება მდინარეზე დაწერე.",
+      "category": "Work",
+      "generated_at": "2026-08-29T20:29:59.333887"
+    },
+    {
+      "english": "Can you describe the river’s current?",
+      "georgian": "მდინარის დინებას როგორ აღწერ?",
+      "category": "Work",
+      "generated_at": "2026-08-29T20:29:59.333896"
+    },
+    {
+      "english": "Let’s mark the river on the map.",
+      "georgian": "რუკაზე მდინარე მოვნიშნოთ.",
+      "category": "Work",
+      "generated_at": "2026-08-29T20:29:59.333900"
+    },
+    {
+      "english": "Record sounds near the riverbank.",
+      "georgian": "ნაპირთან მდინარეს ხმა ჩაიწერე.",
+      "category": "Work",
+      "generated_at": "2026-08-29T20:29:59.333901"
+    },
+    {
+      "english": "The river carries stories downstream.",
+      "georgian": "მდინარე ქვემოთ ამბებს ატარებს.",
+      "category": "Work",
+      "generated_at": "2026-08-29T20:29:59.333902"
     }
   ],
-  "last_updated": "2026-08-29T19:04:51.563916"
+  "last_updated": "2026-08-29T20:29:59.333904"
 }
