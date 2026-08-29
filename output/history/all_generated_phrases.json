@@ -6689,7 +6689,37 @@
       "georgian": "მდინარე ქვემოთ ამბებს ატარებს.",
       "category": "Work",
       "generated_at": "2026-08-29T20:29:59.333902"
+    },
+    {
+      "english": "Compass needle seeks true north, always.",
+      "georgian": "კომპასის ისარი ყოველთვის ეძებს ჭეშმარიტ ჩრდილს.",
+      "category": "Time",
+      "generated_at": "2026-08-29T22:23:54.835993"
+    },
+    {
+      "english": "Where is our direction, right now?",
+      "georgian": "ახლა სად არის ჩვენი მიმართულება, კომპასო?",
+      "category": "Time",
+      "generated_at": "2026-08-29T22:23:54.836005"
+    },
+    {
+      "english": "Turn left, follow the compass.",
+      "georgian": "მარცხნივ გადაუხვიე, კომპასს გაჰყევი.",
+      "category": "Time",
+      "generated_at": "2026-08-29T22:23:54.836007"
+    },
+    {
+      "english": "Let the compass guide your steps.",
+      "georgian": "კომპასს მიჰყავხარ ნაბიჯებს, უსმინე.",
+      "category": "Time",
+      "generated_at": "2026-08-29T22:23:54.836008"
+    },
+    {
+      "english": "At dusk, the compass remembers routes.",
+      "georgian": "მოთენთილზე კომპასი მარშრუტებს იმახსოვრებს.",
+      "category": "Time",
+      "generated_at": "2026-08-29T22:23:54.836009"
     }
   ],
-  "last_updated": "2026-08-29T20:29:59.333904"
+  "last_updated": "2026-08-29T22:23:54.836011"
 }
