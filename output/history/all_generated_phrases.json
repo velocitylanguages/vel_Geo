@@ -6629,7 +6629,37 @@
       "georgian": "დღეს ტყე ჩემსავით სუნთქავს.",
       "category": "Happiness",
       "generated_at": "2026-08-29T17:32:41.180335"
+    },
+    {
+      "english": "Listen, thunder is speaking overhead!",
+      "georgian": "მოუსმინე, ჭექა-ქუხილი ზემოდან ლაპარაკობს!",
+      "category": "Directions",
+      "generated_at": "2026-08-29T19:04:51.563899"
+    },
+    {
+      "english": "Clouds gather, and thunder answers.",
+      "georgian": "ღრუბლები იკრიბებიან, და ჭექა-ქუხილი პასუხობს.",
+      "category": "Directions",
+      "generated_at": "2026-08-29T19:04:51.563910"
+    },
+    {
+      "english": "Can you catch the thunder’s rhythm?",
+      "georgian": "შეგიძლია ჭექა-ქუხილის რიტმი დაიჭირო?",
+      "category": "Directions",
+      "generated_at": "2026-08-29T19:04:51.563912"
+    },
+    {
+      "english": "After the lightning, the thunder arrives.",
+      "georgian": "ელვის შემდეგ, ჭექა-ქუხილი მოდის.",
+      "category": "Directions",
+      "generated_at": "2026-08-29T19:04:51.563913"
+    },
+    {
+      "english": "Hold your breath, and count.",
+      "georgian": "სუნთქვა შეიკავე, დათვალე.",
+      "category": "Directions",
+      "generated_at": "2026-08-29T19:04:51.563914"
     }
   ],
-  "last_updated": "2026-08-29T17:32:41.180336"
+  "last_updated": "2026-08-29T19:04:51.563916"
 }
