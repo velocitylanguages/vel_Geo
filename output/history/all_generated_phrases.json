@@ -6809,7 +6809,37 @@
       "georgian": "სიყვარული ბუმბულია, ნაბიჯებს მაჩვენებს",
       "category": "Love",
       "generated_at": "2026-08-30T18:59:14.192944"
+    },
+    {
+      "english": "Does the forest speak at night?",
+      "georgian": "ტყე ღამით ლაპარაკობს?",
+      "category": "Home",
+      "generated_at": "2026-08-30T20:39:58.674004"
+    },
+    {
+      "english": "Home smells like pine and moss.",
+      "georgian": "სახლი ფიჭვს და ხავსს სუნავს.",
+      "category": "Home",
+      "generated_at": "2026-08-30T20:39:58.674013"
+    },
+    {
+      "english": "Listen, branches whisper softly.",
+      "georgian": "მოუსმინე, ტოტები ჩურჩულებენ.",
+      "category": "Home",
+      "generated_at": "2026-08-30T20:39:58.674015"
+    },
+    {
+      "english": "Bring a lantern, find the path.",
+      "georgian": "მოიტანე ფარანი, გზა იპოვე.",
+      "category": "Home",
+      "generated_at": "2026-08-30T20:39:58.674016"
+    },
+    {
+      "english": "Our house is a leaf-shaped nest.",
+      "georgian": "ჩვენი სახლი ფოთლის ბუდეა.",
+      "category": "Home",
+      "generated_at": "2026-08-30T20:39:58.674017"
     }
   ],
-  "last_updated": "2026-08-30T18:59:14.192946"
+  "last_updated": "2026-08-30T20:39:58.674019"
 }
