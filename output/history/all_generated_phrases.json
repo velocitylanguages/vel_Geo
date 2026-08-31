@@ -6869,7 +6869,37 @@
       "georgian": "ერთად შევქმნათ ვულკანის ბაღი.",
       "category": "Family",
       "generated_at": "2026-08-30T22:26:03.887083"
+    },
+    {
+      "english": "How many halls are in the palace?",
+      "georgian": "რამდენი დარბაზია სასახლეში?",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T02:43:12.565027"
+    },
+    {
+      "english": "Count the palace steps, one by one!",
+      "georgian": "დათვალე სასახლის კიბეები, ერთი-თითო!",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T02:43:12.565039"
+    },
+    {
+      "english": "Two guards watch the golden gate.",
+      "georgian": "ორი მცველი იცავს ოქროს კარიბჭეს.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T02:43:12.565040"
+    },
+    {
+      "english": "Three fountains sing in the courtyard.",
+      "georgian": "სამი შადრევანი ეზოში მღერიან.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T02:43:12.565041"
+    },
+    {
+      "english": "Four lamps glow in the banquet hall.",
+      "georgian": "ოთხი სანათი ანათებს ნადიმის დარბაზს.",
+      "category": "Numbers",
+      "generated_at": "2026-08-31T02:43:12.565042"
     }
   ],
-  "last_updated": "2026-08-30T22:26:03.887085"
+  "last_updated": "2026-08-31T02:43:12.565044"
 }

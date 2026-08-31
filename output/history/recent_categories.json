@@ -1,16 +1,6 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "last_3_days": [
-    {
-      "date": "2026-08-28",
-      "categories": [
-        "Greetings",
-        "Colors",
-        "Weather",
-        "Gratitude",
-        "Travel"
-      ]
-    },
     {
       "date": "2026-08-29",
       "categories": [
@@ -32,6 +22,12 @@
         "Love",
         "Home",
         "Family"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "categories": [
+        "Numbers"
       ]
     }
   ]
