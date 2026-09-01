@@ -7049,7 +7049,37 @@
       "georgian": "ბინდზე პარფიუმი გამასინჯე.",
       "category": "Shopping",
       "generated_at": "2026-09-01T02:55:04.723078"
+    },
+    {
+      "english": "I feel courage while crossing the bridge",
+      "georgian": "სიბედე დამაქვს ხიდზე გადასვლისას",
+      "category": "Emotions",
+      "generated_at": "2026-09-01T17:41:05.137519"
+    },
+    {
+      "english": "My heart trembles on the bridge",
+      "georgian": "გულმა კანკალი იცის ხიდზე",
+      "category": "Emotions",
+      "generated_at": "2026-09-01T17:41:05.137529"
+    },
+    {
+      "english": "Are you scared on this bridge?",
+      "georgian": "გეშინია ამ ხიდზე?",
+      "category": "Emotions",
+      "generated_at": "2026-09-01T17:41:05.137530"
+    },
+    {
+      "english": "I’m hopeful, the bridge opens a path",
+      "georgian": "იმედი მაქვს, ხიდი გზას ხსნის",
+      "category": "Emotions",
+      "generated_at": "2026-09-01T17:41:05.137536"
+    },
+    {
+      "english": "Joy spills like footsteps on planks",
+      "georgian": "სიხარული ეყრება ხის ფიცრებს",
+      "category": "Emotions",
+      "generated_at": "2026-09-01T17:41:05.137537"
     }
   ],
-  "last_updated": "2026-09-01T02:55:04.723080"
+  "last_updated": "2026-09-01T17:41:05.137539"
 }
