@@ -7079,7 +7079,37 @@
       "georgian": "სიხარული ეყრება ხის ფიცრებს",
       "category": "Emotions",
       "generated_at": "2026-09-01T17:41:05.137537"
+    },
+    {
+      "english": "Bronze clouds glow at sunset.",
+      "georgian": "ბრინჯაოს ღრუბლები ჩადის მზეს ანათებს.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:08:08.042011"
+    },
+    {
+      "english": "Is the sky bronzed today?",
+      "georgian": "დღეს ცა ბრინჯაოსფრად ხომ არ გეჩვენება?",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:08:08.042021"
+    },
+    {
+      "english": "The wind smells like warm bronze.",
+      "georgian": "ქარი თბილ ბრინჯაოს ჰგავს სუნით.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:08:08.042022"
+    },
+    {
+      "english": "Rain taps, like coins on metal.",
+      "georgian": "წვიმა ლითონს, მონეტებივით აკაკუნებს.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:08:08.042023"
+    },
+    {
+      "english": "Lightning paints the air bronze.",
+      "georgian": "ელვა ჰაერს ბრინჯაოს ფერს ასხამს.",
+      "category": "Weather",
+      "generated_at": "2026-09-01T19:08:08.042024"
     }
   ],
-  "last_updated": "2026-09-01T17:41:05.137539"
+  "last_updated": "2026-09-01T19:08:08.042026"
 }
