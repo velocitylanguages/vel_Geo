@@ -7109,7 +7109,37 @@
       "georgian": "ელვა ჰაერს ბრინჯაოს ფერს ასხამს.",
       "category": "Weather",
       "generated_at": "2026-09-01T19:08:08.042024"
+    },
+    {
+      "english": "When thunder rolls, we listen",
+      "georgian": "როცა ჭექა-ქუხილი მოდის, ვუსმენთ",
+      "category": "Time",
+      "generated_at": "2026-09-01T20:39:37.453000"
+    },
+    {
+      "english": "Thunder teaches the sky to speak",
+      "georgian": "ჭექა-ქუხილი ცას ასწავლის ლაპარაკს",
+      "category": "Time",
+      "generated_at": "2026-09-01T20:39:37.453009"
+    },
+    {
+      "english": "Do you hear the storm's drum?",
+      "georgian": "გესმის ქარიშხლის დოლი?",
+      "category": "Time",
+      "generated_at": "2026-09-01T20:39:37.453011"
+    },
+    {
+      "english": "Make your thoughts quiet, thunder comes",
+      "georgian": "გააჩუმე ფიქრები, ჭექა-ქუხილი მოდის",
+      "category": "Time",
+      "generated_at": "2026-09-01T20:39:37.453012"
+    },
+    {
+      "english": "I count seconds till thunder replies",
+      "georgian": "წამებს ვითვლი, სანამ ჭექა-ქუხილი მიპასუხებს",
+      "category": "Time",
+      "generated_at": "2026-09-01T20:39:37.453013"
     }
   ],
-  "last_updated": "2026-09-01T19:08:08.042026"
+  "last_updated": "2026-09-01T20:39:37.453014"
 }
