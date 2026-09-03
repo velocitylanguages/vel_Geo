@@ -7409,7 +7409,37 @@
       "georgian": "დარდი გადაქრება, ლალი ანათებს",
       "category": "Happiness",
       "generated_at": "2026-09-03T19:01:34.855479"
+    },
+    {
+      "english": "Do you know the mountain trail?",
+      "georgian": "იცით მთის ბილიკი?",
+      "category": "Home",
+      "generated_at": "2026-09-03T20:35:13.171563"
+    },
+    {
+      "english": "Look, the mountain is glowing!",
+      "georgian": "უყურე, მთა ანათებს!",
+      "category": "Home",
+      "generated_at": "2026-09-03T20:35:13.171570"
+    },
+    {
+      "english": "The cloud hugs the peaks.",
+      "georgian": "ღრუბელი მწვერვალს ეხვევა.",
+      "category": "Home",
+      "generated_at": "2026-09-03T20:35:13.171572"
+    },
+    {
+      "english": "Step softly, stones listen here.",
+      "georgian": "ფრთხილად, ქვები გისმენენ.",
+      "category": "Home",
+      "generated_at": "2026-09-03T20:35:13.171573"
+    },
+    {
+      "english": "I climb slowly, like a story.",
+      "georgian": "ნელა ავდივარ, როგორც ზღაპარი.",
+      "category": "Home",
+      "generated_at": "2026-09-03T20:35:13.171574"
     }
   ],
-  "last_updated": "2026-09-03T19:01:34.855480"
+  "last_updated": "2026-09-03T20:35:13.171575"
 }
