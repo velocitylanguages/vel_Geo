@@ -7349,7 +7349,37 @@
       "georgian": "ბრინჯაოს დღეა, დაიწყე სწავლა!",
       "category": "Greetings",
       "generated_at": "2026-09-03T02:22:47.672888"
+    },
+    {
+      "english": "Follow the silver thread to clarity.",
+      "georgian": "ვერცხლის ძაფს გაჰყევი სიწმინდისკენ.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T17:36:44.618426"
+    },
+    {
+      "english": "Can you catch the silver glint?",
+      "georgian": "ვერცხლის ელვარებას დაიჭერ?",
+      "category": "Directions",
+      "generated_at": "2026-09-03T17:36:44.618440"
+    },
+    {
+      "english": "Remember, silver reflects what we learn.",
+      "georgian": "დაიმახსოვრე, ვერცხლი ასახავს სწავლას.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T17:36:44.618442"
+    },
+    {
+      "english": "Swirl the silver rhyme in your mind!",
+      "georgian": "გონებაში ვერცხლის რითმა აათრიე!",
+      "category": "Directions",
+      "generated_at": "2026-09-03T17:36:44.618443"
+    },
+    {
+      "english": "Draw a line like a silver river.",
+      "georgian": "გაავლე ხაზი, როგორც ვერცხლის მდინარე.",
+      "category": "Directions",
+      "generated_at": "2026-09-03T17:36:44.618444"
     }
   ],
-  "last_updated": "2026-09-03T02:22:47.672890"
+  "last_updated": "2026-09-03T17:36:44.618446"
 }
