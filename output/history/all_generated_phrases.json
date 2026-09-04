@@ -7529,7 +7529,37 @@
       "georgian": "სიამაყე წახნაგებად აქციე, საფირივით",
       "category": "Success",
       "generated_at": "2026-09-04T17:25:58.102398"
+    },
+    {
+      "english": "How many bronze coins are in the box?",
+      "georgian": "რამდენი ბრინჯაოს მონეტაა ყუთში?",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T18:45:25.411360"
+    },
+    {
+      "english": "Count the bronze beads, one by one!",
+      "georgian": "დათვალე ბრინჯაოს მძივები, თითო-თითოდ!",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T18:45:25.411371"
+    },
+    {
+      "english": "Three bronzes, and one legend!",
+      "georgian": "სამი ბრინჯაო, და ერთი ლეგენდა!",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T18:45:25.411373"
+    },
+    {
+      "english": "Number the bronze cups carefully.",
+      "georgian": "დაალაგე ბრინჯაოს ჭიქები ფრთხილად, დათვლით.",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T18:45:25.411374"
+    },
+    {
+      "english": "Is this fourteenth bronze tablet?",
+      "georgian": "ეს მეთოთხმეტე ბრინჯაოს ფირფიტაა?",
+      "category": "Numbers",
+      "generated_at": "2026-09-04T18:45:25.411375"
     }
   ],
-  "last_updated": "2026-09-04T17:25:58.102400"
+  "last_updated": "2026-09-04T18:45:25.411379"
 }
