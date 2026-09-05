@@ -7679,7 +7679,37 @@
       "georgian": "ლექსიკა ააშენე, აგურ-აგურ",
       "category": "Education",
       "generated_at": "2026-09-05T16:36:14.043692"
+    },
+    {
+      "english": "On the island, breathe deeper, heal faster.",
+      "georgian": "კუნძულზე ღრმად ჩაისუნთქე, სწრაფად გამოჯანმრთელდი.",
+      "category": "Health",
+      "generated_at": "2026-09-05T17:51:40.007098"
+    },
+    {
+      "english": "Do you feel the sea-wind soothe your chest?",
+      "georgian": "ზღვის ნიავი ხომ გულმკერდს გიმშვიდებს?",
+      "category": "Health",
+      "generated_at": "2026-09-05T17:51:40.007111"
+    },
+    {
+      "english": "Island walks reset your heartbeat.",
+      "georgian": "კუნძულზე სეირნობა გულს გიწესრიგებს.",
+      "category": "Health",
+      "generated_at": "2026-09-05T17:51:40.007112"
+    },
+    {
+      "english": "When you salt-sweat, drink water after.",
+      "georgian": "მარილიან ოფლს მერე წყალი დალიე.",
+      "category": "Health",
+      "generated_at": "2026-09-05T17:51:40.007114"
+    },
+    {
+      "english": "Take a sunbreak, not a burn.",
+      "georgian": "მზის შესვენება, არა დამწვრობა.",
+      "category": "Health",
+      "generated_at": "2026-09-05T17:51:40.007115"
     }
   ],
-  "last_updated": "2026-09-05T16:36:14.043695"
+  "last_updated": "2026-09-05T17:51:40.007117"
 }
