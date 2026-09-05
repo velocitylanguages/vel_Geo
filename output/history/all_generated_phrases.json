@@ -7709,7 +7709,37 @@
       "georgian": "მზის შესვენება, არა დამწვრობა.",
       "category": "Health",
       "generated_at": "2026-09-05T17:51:40.007115"
+    },
+    {
+      "english": "Follow the compass, not the crowds.",
+      "georgian": "მიჰყევი კომპასს, არა ხალხის ნაკადს",
+      "category": "Travel",
+      "generated_at": "2026-09-05T20:00:20.581848"
+    },
+    {
+      "english": "Which direction is the compass pointing?",
+      "georgian": "კომპასს რომელი მიმართულება უჩვენებს?",
+      "category": "Travel",
+      "generated_at": "2026-09-05T20:00:20.581859"
+    },
+    {
+      "english": "My thoughts spin like a compass.",
+      "georgian": "ჩემი ფიქრები კომპასივით ტრიალებს",
+      "category": "Travel",
+      "generated_at": "2026-09-05T20:00:20.581861"
+    },
+    {
+      "english": "Trust the north, even in fog.",
+      "georgian": "ჩრდილოეთს ენდე, ნისლშიც კი",
+      "category": "Travel",
+      "generated_at": "2026-09-05T20:00:20.581862"
+    },
+    {
+      "english": "Hold the compass steady, traveler.",
+      "georgian": "კომპასი დაიჭირე, მოგზაურო",
+      "category": "Travel",
+      "generated_at": "2026-09-05T20:00:20.581863"
     }
   ],
-  "last_updated": "2026-09-05T17:51:40.007117"
+  "last_updated": "2026-09-05T20:00:20.581865"
 }
