@@ -7829,7 +7829,37 @@
       "georgian": "დროა ლალისთვის, ახლავე, ჩქარა!",
       "category": "Time",
       "generated_at": "2026-09-06T16:45:20.578224"
+    },
+    {
+      "english": "Carry your shield inside, always.",
+      "georgian": "შინაგანად, ფარულად ატარე ფარი.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-06T17:56:15.758853"
+    },
+    {
+      "english": "When fear comes, raise your courage.",
+      "georgian": "შიშს რომ მოვა, სიმამაცე ასწიე.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-06T17:56:15.758862"
+    },
+    {
+      "english": "A word can be a shield too.",
+      "georgian": "სიტყვაც ფარია, როცა ფრთხილად ირჩევ.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-06T17:56:15.758864"
+    },
+    {
+      "english": "Learn gently, your future is guarded.",
+      "georgian": "ნაზად ისწავლე, მომავალი გიცავს.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-06T17:56:15.758865"
+    },
+    {
+      "english": "What protects you, protects your dream?",
+      "georgian": "რას იცავ, იმაზე დგას სიზმარი?",
+      "category": "Wisdom",
+      "generated_at": "2026-09-06T17:56:15.758866"
     }
   ],
-  "last_updated": "2026-09-06T16:45:20.578226"
+  "last_updated": "2026-09-06T17:56:15.758867"
 }
