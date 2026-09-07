@@ -7979,7 +7979,37 @@
       "georgian": "ნუ იჩქარებ, ტალღამ გასწავლოს.",
       "category": "Directions",
       "generated_at": "2026-09-07T18:38:15.942511"
+    },
+    {
+      "english": "When snow falls, banners look silver.",
+      "georgian": "თოვლისას დროშები ვერცხლად ეჩვენება.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T19:32:16.994621"
+    },
+    {
+      "english": "Is it windy enough to test the banners?",
+      "georgian": "საკმარისად ქარია დროშების შესამოწმებლად?",
+      "category": "Weather",
+      "generated_at": "2026-09-07T19:32:16.994632"
+    },
+    {
+      "english": "Keep the gate closed during sleet!",
+      "georgian": "ნამქერისას კარიბჭე ჩაკეტე!",
+      "category": "Weather",
+      "generated_at": "2026-09-07T19:32:16.994633"
+    },
+    {
+      "english": "The sun crowns the castle like a myth.",
+      "georgian": "მზე ციხეს მითის გვირგვინად ადგას.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T19:32:16.994634"
+    },
+    {
+      "english": "Fog rolls in, thicker than old stories.",
+      "georgian": "ნისლი შემოდის, ძველ ზღაპრებზე სქელი.",
+      "category": "Weather",
+      "generated_at": "2026-09-07T19:32:16.994635"
     }
   ],
-  "last_updated": "2026-09-07T18:38:15.942512"
+  "last_updated": "2026-09-07T19:32:16.994636"
 }
