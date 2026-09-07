@@ -7949,7 +7949,37 @@
       "georgian": "შენ თვალებში ჩემს თავს ვპოულობ სარკეში.",
       "category": "Friendship",
       "generated_at": "2026-09-07T02:11:20.785198"
+    },
+    {
+      "english": "Follow the dock signs, learn steadily.",
+      "georgian": "დაისცი ნავსადგურის ნიშნებით, იარე მშვიდად.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T18:38:15.942497"
+    },
+    {
+      "english": "What does 'harbor' feel like to you?",
+      "georgian": "როგორ გრძნობ ნავსადგურს, შენ?",
+      "category": "Directions",
+      "generated_at": "2026-09-07T18:38:15.942507"
+    },
+    {
+      "english": "Turn your words into anchors!",
+      "georgian": "გადააქცი სიტყვები ლაგერებად!",
+      "category": "Directions",
+      "generated_at": "2026-09-07T18:38:15.942509"
+    },
+    {
+      "english": "Listen for the lighthouse of meaning.",
+      "georgian": "მოუსმინე აზრის შუქურს.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T18:38:15.942510"
+    },
+    {
+      "english": "Don’t rush—let the tide teach you.",
+      "georgian": "ნუ იჩქარებ, ტალღამ გასწავლოს.",
+      "category": "Directions",
+      "generated_at": "2026-09-07T18:38:15.942511"
     }
   ],
-  "last_updated": "2026-09-07T02:11:20.785199"
+  "last_updated": "2026-09-07T18:38:15.942512"
 }
