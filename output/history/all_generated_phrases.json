@@ -8009,7 +8009,37 @@
       "georgian": "ნისლი შემოდის, ძველ ზღაპრებზე სქელი.",
       "category": "Weather",
       "generated_at": "2026-09-07T19:32:16.994635"
+    },
+    {
+      "english": "Hello sand-dancer, step in!",
+      "georgian": "გამარჯობა ქვიშის მოცეკვავევ, შემოდი!",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T21:11:20.534286"
+    },
+    {
+      "english": "How far is the next oasis?",
+      "georgian": "რამდენად შორსაა შემდეგი ოაზისი?",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T21:11:20.534298"
+    },
+    {
+      "english": "May your thirst turn gentle!",
+      "georgian": "შენს წყურვილს მშვიდობა მოაქვს!",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T21:11:20.534299"
+    },
+    {
+      "english": "Walk like a mirage that learns.",
+      "georgian": "ივლილე მირაჟივით, სწავლობ თან!",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T21:11:20.534300"
+    },
+    {
+      "english": "Don’t chase the mirage—read words.",
+      "georgian": "ნუ მისდევ მირაჟს, წაიკითხე სიტყვები.",
+      "category": "Greetings",
+      "generated_at": "2026-09-07T21:11:20.534301"
     }
   ],
-  "last_updated": "2026-09-07T19:32:16.994636"
+  "last_updated": "2026-09-07T21:11:20.534304"
 }
