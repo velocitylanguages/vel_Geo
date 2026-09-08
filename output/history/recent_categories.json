@@ -1,16 +1,6 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "last_3_days": [
-    {
-      "date": "2026-09-05",
-      "categories": [
-        "Shopping",
-        "Education",
-        "Health",
-        "Travel",
-        "Gratitude"
-      ]
-    },
     {
       "date": "2026-09-06",
       "categories": [
@@ -29,6 +19,12 @@
         "Weather",
         "Greetings",
         "Sports"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "categories": [
+        "Numbers"
       ]
     }
   ]
