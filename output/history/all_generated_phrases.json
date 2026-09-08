@@ -8099,7 +8099,37 @@
       "georgian": "ცხრა ბრინჯაოს ნაჭერის ფასი რამდენია?",
       "category": "Numbers",
       "generated_at": "2026-09-08T02:23:21.636080"
+    },
+    {
+      "english": "What does the fountain teach today?",
+      "georgian": "რას გვასწავლის დღეს შადრევანი?",
+      "category": "Education",
+      "generated_at": "2026-09-08T17:49:24.837647"
+    },
+    {
+      "english": "Follow the water’s path like words.",
+      "georgian": "გაუყევი წყლის გზას, როგორც სიტყვებს.",
+      "category": "Education",
+      "generated_at": "2026-09-08T17:49:24.837658"
+    },
+    {
+      "english": "Listen—each drop has a lesson!",
+      "georgian": "მოუსმინე, თითო წვეთია გაკვეთილი!",
+      "category": "Education",
+      "generated_at": "2026-09-08T17:49:24.837659"
+    },
+    {
+      "english": "Let your questions rise like water.",
+      "georgian": "შენი კითხვები აიმაღლე, როგორც წყალი.",
+      "category": "Education",
+      "generated_at": "2026-09-08T17:49:24.837660"
+    },
+    {
+      "english": "Repeat after the fountain’s rhythm.",
+      "georgian": "იმეორე შადრევნის რიტმს, ნელა.",
+      "category": "Education",
+      "generated_at": "2026-09-08T17:49:24.837660"
     }
   ],
-  "last_updated": "2026-09-08T02:23:21.636082"
+  "last_updated": "2026-09-08T17:49:24.837661"
 }
