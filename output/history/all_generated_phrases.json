@@ -8219,7 +8219,37 @@
       "georgian": "გაიარე უკან, არ იყიდო მოტყუება",
       "category": "Health",
       "generated_at": "2026-09-08T22:23:43.497178"
+    },
+    {
+      "english": "This silver street shines at night!",
+      "georgian": "ეს ვერცხლის ქუჩა ღამით ბრწყინავს!",
+      "category": "Travel",
+      "generated_at": "2026-09-09T02:25:53.152708"
+    },
+    {
+      "english": "Where can I find silver crafts?",
+      "georgian": "სად ვიპოვო ვერცხლის ხელნაკეთობა?",
+      "category": "Travel",
+      "generated_at": "2026-09-09T02:25:53.152717"
+    },
+    {
+      "english": "Follow the silver lanterns, please!",
+      "georgian": "მიჰყევი ვერცხლის ფარნებს, გთხოვ!",
+      "category": "Travel",
+      "generated_at": "2026-09-09T02:25:53.152718"
+    },
+    {
+      "english": "How much does this silver ring cost?",
+      "georgian": "ეს ვერცხლის ბეჭედი რამდენი ღირს?",
+      "category": "Travel",
+      "generated_at": "2026-09-09T02:25:53.152719"
+    },
+    {
+      "english": "I’m chasing the shine of silver. ",
+      "georgian": "ვეძებ ვერცხლის ბრწყინვალებას.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T02:25:53.152720"
     }
   ],
-  "last_updated": "2026-09-08T22:23:43.497183"
+  "last_updated": "2026-09-09T02:25:53.152722"
 }
