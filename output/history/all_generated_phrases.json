@@ -8429,7 +8429,37 @@
       "georgian": "ჩურჩული ჩაწოლასავითაა.",
       "category": "Family",
       "generated_at": "2026-09-10T18:52:57.926407"
+    },
+    {
+      "english": "Welcome to the palace of dreams!",
+      "georgian": "კეთილად მოდი სასახლე-მოგონებებში!",
+      "category": "Greetings",
+      "generated_at": "2026-09-10T20:29:42.617784"
+    },
+    {
+      "english": "Step softly, palace walls listen.",
+      "georgian": "ფრთხილად შედი, სასახლის კედლები უსმენენ.",
+      "category": "Greetings",
+      "generated_at": "2026-09-10T20:29:42.617796"
+    },
+    {
+      "english": "May your path be golden, traveler!",
+      "georgian": "ოქროდ აივსოს გზა, მოგზაურო!",
+      "category": "Greetings",
+      "generated_at": "2026-09-10T20:29:42.617798"
+    },
+    {
+      "english": "Let’s explore the palace halls together.",
+      "georgian": "ერთად შევაბიჯოთ სასახლის დარბაზებში.",
+      "category": "Greetings",
+      "generated_at": "2026-09-10T20:29:42.617799"
+    },
+    {
+      "english": "Which room feels most like home?",
+      "georgian": "რომელი ოთახი ჰგავს სახლს?",
+      "category": "Greetings",
+      "generated_at": "2026-09-10T20:29:42.617800"
     }
   ],
-  "last_updated": "2026-09-10T18:52:57.926410"
+  "last_updated": "2026-09-10T20:29:42.617801"
 }
