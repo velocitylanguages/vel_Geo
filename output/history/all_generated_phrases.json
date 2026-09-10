@@ -8459,7 +8459,37 @@
       "georgian": "რომელი ოთახი ჰგავს სახლს?",
       "category": "Greetings",
       "generated_at": "2026-09-10T20:29:42.617800"
+    },
+    {
+      "english": "The castle drinks mist like a lake.",
+      "georgian": "ციხე ნისლს ტბასავით სვამს.",
+      "category": "Nature",
+      "generated_at": "2026-09-10T22:17:35.086984"
+    },
+    {
+      "english": "Will the forest guard the old walls?",
+      "georgian": "ტყე ძველ კედლებს დაიცავს?",
+      "category": "Nature",
+      "generated_at": "2026-09-10T22:17:35.086997"
+    },
+    {
+      "english": "Listen, ravens circle the battlements!",
+      "georgian": "ისმინე, ყორნები კოშკებს უვლიან!",
+      "category": "Nature",
+      "generated_at": "2026-09-10T22:17:35.086999"
+    },
+    {
+      "english": "Strike the path, follow the river’s whisper.",
+      "georgian": "დასცხე გზა, მდინარის ჩურჩულს მიჰყევი.",
+      "category": "Nature",
+      "generated_at": "2026-09-10T22:17:35.087000"
+    },
+    {
+      "english": "The stone towers breathe with the wind.",
+      "georgian": "ქვის კოშკები ქართან ერთად სუნთქავენ.",
+      "category": "Nature",
+      "generated_at": "2026-09-10T22:17:35.087001"
     }
   ],
-  "last_updated": "2026-09-10T20:29:42.617801"
+  "last_updated": "2026-09-10T22:17:35.087003"
 }
