@@ -8399,7 +8399,37 @@
       "georgian": "არ იჩქარო, ბრინჯაოს გაცივება უნდა.",
       "category": "Time",
       "generated_at": "2026-09-10T17:31:22.826822"
+    },
+    {
+      "english": "Whisper to the evening wind.",
+      "georgian": "ჩუმად უთხარი საღამოს ქარს.",
+      "category": "Family",
+      "generated_at": "2026-09-10T18:52:57.926390"
+    },
+    {
+      "english": "Mom whispers, love listens.",
+      "georgian": "დედა ჩურჩულებს, სიყვარული უსმენს.",
+      "category": "Family",
+      "generated_at": "2026-09-10T18:52:57.926403"
+    },
+    {
+      "english": "Father, speak softly tonight.",
+      "georgian": "მამა, დღეს ღამით დაბლა ისაუბრე.",
+      "category": "Family",
+      "generated_at": "2026-09-10T18:52:57.926404"
+    },
+    {
+      "english": "Sibling, let the secret glow.",
+      "georgian": "ძმაო, საიდუმლო ჩუმად ანათებს.",
+      "category": "Family",
+      "generated_at": "2026-09-10T18:52:57.926406"
+    },
+    {
+      "english": "A whisper can be a lullaby.",
+      "georgian": "ჩურჩული ჩაწოლასავითაა.",
+      "category": "Family",
+      "generated_at": "2026-09-10T18:52:57.926407"
     }
   ],
-  "last_updated": "2026-09-10T17:31:22.826824"
+  "last_updated": "2026-09-10T18:52:57.926410"
 }
