@@ -8639,7 +8639,37 @@
       "georgian": "იცნობ გვირგვინის ბრწყინვალებას?",
       "category": "Directions",
       "generated_at": "2026-09-11T22:17:34.733787"
+    },
+    {
+      "english": "Taste the mountain air in soup!",
+      "georgian": "დააგემოვნე მთის ჰაერი წვნიანში!",
+      "category": "Food",
+      "generated_at": "2026-09-12T02:28:07.989977"
+    },
+    {
+      "english": "Will this cheese climb higher than you?",
+      "georgian": "ეს ყველი შენზე მაღლა ხომ არ ადის?",
+      "category": "Food",
+      "generated_at": "2026-09-12T02:28:07.989985"
+    },
+    {
+      "english": "Sip slowly, like a mountain spring.",
+      "georgian": "დალიე ნელა, როგორც მთის წყარო.",
+      "category": "Food",
+      "generated_at": "2026-09-12T02:28:07.989986"
+    },
+    {
+      "english": "Add herbs, and let the peaks sing!",
+      "georgian": "დაამატე მწვანილი, და მწვერვალები იმღერებენ!",
+      "category": "Food",
+      "generated_at": "2026-09-12T02:28:07.989987"
+    },
+    {
+      "english": "Mountain bread, warm as sunrise.",
+      "georgian": "მთის პური, მზის ამოსვლისივით თბილი.",
+      "category": "Food",
+      "generated_at": "2026-09-12T02:28:07.989988"
     }
   ],
-  "last_updated": "2026-09-11T22:17:34.733790"
+  "last_updated": "2026-09-12T02:28:07.989990"
 }
