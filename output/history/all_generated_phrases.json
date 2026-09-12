@@ -8669,7 +8669,37 @@
       "georgian": "მთის პური, მზის ამოსვლისივით თბილი.",
       "category": "Food",
       "generated_at": "2026-09-12T02:28:07.989988"
+    },
+    {
+      "english": "Is the volcano breathing again?",
+      "georgian": "ვულკანი ისევ სუნთქავს?",
+      "category": "Work",
+      "generated_at": "2026-09-12T16:49:10.099657"
+    },
+    {
+      "english": "Feel the ash on your shoes.",
+      "georgian": "ფერფლი იგრძენი ფეხსაცმელზე.",
+      "category": "Work",
+      "generated_at": "2026-09-12T16:49:10.099666"
+    },
+    {
+      "english": "Listen, the crater is singing!",
+      "georgian": "მოსმინე, კრატერი მღერის!",
+      "category": "Work",
+      "generated_at": "2026-09-12T16:49:10.099668"
+    },
+    {
+      "english": "Don’t stand where lava speaks.",
+      "georgian": "არ დადგე იქ, სადაც ლავა ლაპარაკობს.",
+      "category": "Work",
+      "generated_at": "2026-09-12T16:49:10.099669"
+    },
+    {
+      "english": "The mountain turns into fire.",
+      "georgian": "მთა ცეცხლად იქცევა.",
+      "category": "Work",
+      "generated_at": "2026-09-12T16:49:10.099670"
     }
   ],
-  "last_updated": "2026-09-12T02:28:07.989990"
+  "last_updated": "2026-09-12T16:49:10.099672"
 }
