@@ -8729,7 +8729,37 @@
       "georgian": "გულდასმით გააპრიალე ბრინჯაოს ჩარჩო.",
       "category": "Home",
       "generated_at": "2026-09-12T18:01:24.306587"
+    },
+    {
+      "english": "Where does this lantern glow?",
+      "georgian": "სად ანათებს ეს ფარნის შუქი?",
+      "category": "Travel",
+      "generated_at": "2026-09-12T20:15:30.743278"
+    },
+    {
+      "english": "Let the lantern guide your steps!",
+      "georgian": "ფარნამ გაგიძღვეს ნაბიჯები!",
+      "category": "Travel",
+      "generated_at": "2026-09-12T20:15:30.743287"
+    },
+    {
+      "english": "I followed the street’s lantern-light.",
+      "georgian": "ქუჩის ფარნის შუქს გავყევი.",
+      "category": "Travel",
+      "generated_at": "2026-09-12T20:15:30.743288"
+    },
+    {
+      "english": "Is this lantern part of a festival?",
+      "georgian": "ეს ფარნობა ფესტივალის ნაწილია?",
+      "category": "Travel",
+      "generated_at": "2026-09-12T20:15:30.743289"
+    },
+    {
+      "english": "Tonight, the lantern sings softly.",
+      "georgian": "დღეს ღამით ფარანი ჩუმად მღერის.",
+      "category": "Travel",
+      "generated_at": "2026-09-12T20:15:30.743291"
     }
   ],
-  "last_updated": "2026-09-12T18:01:24.306589"
+  "last_updated": "2026-09-12T20:15:30.743292"
 }
