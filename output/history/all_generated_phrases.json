@@ -8879,7 +8879,37 @@
       "georgian": "თუთიყუშო, ნაზად გაიმეორე ლაჟვარდის სიტყვა.",
       "category": "Animals",
       "generated_at": "2026-09-13T18:28:13.710150"
+    },
+    {
+      "english": "Hope shoots like an arrow",
+      "georgian": "იმედი ისარსავით იფრენს",
+      "category": "Emotions",
+      "generated_at": "2026-09-13T20:25:07.545964"
+    },
+    {
+      "english": "Fear dodges the arrow",
+      "georgian": "შიში ისარს თავს არიდებს",
+      "category": "Emotions",
+      "generated_at": "2026-09-13T20:25:07.545972"
+    },
+    {
+      "english": "Anger pins me in place",
+      "georgian": "სიბრაზე მიგაჭედავს ისარივით",
+      "category": "Emotions",
+      "generated_at": "2026-09-13T20:25:07.545974"
+    },
+    {
+      "english": "Joy follows the arrow’s path",
+      "georgian": "სიხარული ისრის გზას მიჰყვება",
+      "category": "Emotions",
+      "generated_at": "2026-09-13T20:25:07.545975"
+    },
+    {
+      "english": "Worry bends the arrow",
+      "georgian": "ნერვიულობა ისარს ახვევს",
+      "category": "Emotions",
+      "generated_at": "2026-09-13T20:25:07.545976"
     }
   ],
-  "last_updated": "2026-09-13T18:28:13.710152"
+  "last_updated": "2026-09-13T20:25:07.545978"
 }
