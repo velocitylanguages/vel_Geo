@@ -8939,7 +8939,37 @@
       "georgian": "დედიდას, ერთად გავყვეთ ხეობის ბილიკს!",
       "category": "Family",
       "generated_at": "2026-09-13T22:08:38.064014"
+    },
+    {
+      "english": "The desert wind is singing softly.",
+      "georgian": "უდაბნოს ქარი ჩუმად მღერის.",
+      "category": "Weather",
+      "generated_at": "2026-09-14T02:42:58.916766"
+    },
+    {
+      "english": "Will the dunes shift tonight?",
+      "georgian": "ხვალ ღამით დიუნები შეიცვლება?",
+      "category": "Weather",
+      "generated_at": "2026-09-14T02:42:58.916775"
+    },
+    {
+      "english": "Heat ripples over the sand.",
+      "georgian": "ქვიშაზე სიცხის ტალღები ჩნდება.",
+      "category": "Weather",
+      "generated_at": "2026-09-14T02:42:58.916777"
+    },
+    {
+      "english": "Watch the mirage, it lies beautifully!",
+      "georgian": "მიაქციე ყურადღება მირაჟს, ლამაზად ატყუებს!",
+      "category": "Weather",
+      "generated_at": "2026-09-14T02:42:58.916778"
+    },
+    {
+      "english": "Bring water before the sun climbs.",
+      "georgian": "წყალი მოიტანე, სანამ მზე აიწევს.",
+      "category": "Weather",
+      "generated_at": "2026-09-14T02:42:58.916779"
     }
   ],
-  "last_updated": "2026-09-13T22:08:38.064016"
+  "last_updated": "2026-09-14T02:42:58.916781"
 }
