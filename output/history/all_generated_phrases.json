@@ -9029,7 +9029,37 @@
       "georgian": "შუაღამის გემო ლალისფერია?",
       "category": "Time",
       "generated_at": "2026-09-14T20:07:17.278540"
+    },
+    {
+      "english": "Can a tower sing to dawn?",
+      "georgian": "შეუძლია კოშკს გარიჟრაჟს ემღეროს?",
+      "category": "Music",
+      "generated_at": "2026-09-14T21:35:08.600549"
+    },
+    {
+      "english": "Tower, steady your rhythm!",
+      "georgian": "კოშკო, შეინარჩუნე რიტმი!",
+      "category": "Music",
+      "generated_at": "2026-09-14T21:35:08.600559"
+    },
+    {
+      "english": "Your voice climbs the tower.",
+      "georgian": "შენი ხმა კოშკამდე ადის.",
+      "category": "Music",
+      "generated_at": "2026-09-14T21:35:08.600560"
+    },
+    {
+      "english": "Listen, the bells circle the tower.",
+      "georgian": "მოუსმინე, ზარები კოშკს შემოჰკრავს.",
+      "category": "Music",
+      "generated_at": "2026-09-14T21:35:08.600562"
+    },
+    {
+      "english": "I beat like a drum in stone.",
+      "georgian": "ქვაში დოლიანივით ვცემ.",
+      "category": "Music",
+      "generated_at": "2026-09-14T21:35:08.600563"
     }
   ],
-  "last_updated": "2026-09-14T20:07:17.278541"
+  "last_updated": "2026-09-14T21:35:08.600564"
 }
