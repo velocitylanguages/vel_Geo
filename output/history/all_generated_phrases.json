@@ -9149,7 +9149,37 @@
       "georgian": "შეეფარე შაქარს, როგორც ფარი.",
       "category": "Health",
       "generated_at": "2026-09-15T17:59:52.586583"
+    },
+    {
+      "english": "Climb the tower, slowly and safely.",
+      "georgian": "აიარე კოშკზე, ნელა და უსაფრთხოდ.",
+      "category": "Home",
+      "generated_at": "2026-09-15T19:25:57.631121"
+    },
+    {
+      "english": "Is the tower watching our footsteps?",
+      "georgian": "კოშკი გვიყურებს ჩვენს ნაბიჯებს?",
+      "category": "Home",
+      "generated_at": "2026-09-15T19:25:57.631131"
+    },
+    {
+      "english": "My home has a tall, silent tower.",
+      "georgian": "ჩემს სახლში მაღალი, მშვიდი კოშკია.",
+      "category": "Home",
+      "generated_at": "2026-09-15T19:25:57.631133"
+    },
+    {
+      "english": "Turn the key, like a sentinel.",
+      "georgian": "ჩაკეტე გასაღებით, როგორც დარაჯა.",
+      "category": "Home",
+      "generated_at": "2026-09-15T19:25:57.631134"
+    },
+    {
+      "english": "Where does the tower’s shadow fall?",
+      "georgian": "სად ეცემა კოშკის ჩრდილი?",
+      "category": "Home",
+      "generated_at": "2026-09-15T19:25:57.631135"
     }
   ],
-  "last_updated": "2026-09-15T17:59:52.586585"
+  "last_updated": "2026-09-15T19:25:57.631137"
 }
