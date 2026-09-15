@@ -9209,7 +9209,37 @@
       "georgian": "ეს ყველი ვერცხლის მონეტასავით ბრწყინავს.",
       "category": "Food",
       "generated_at": "2026-09-15T20:56:08.169180"
+    },
+    {
+      "english": "Your welcome is a royal smile.",
+      "georgian": "შენი მისალმება სამეფო ღიმილია.",
+      "category": "Greetings",
+      "generated_at": "2026-09-15T22:44:04.613538"
+    },
+    {
+      "english": "Follow me to the secret stairway!",
+      "georgian": "გამომყევი ფარულ კიბეზე!",
+      "category": "Greetings",
+      "generated_at": "2026-09-15T22:44:04.613552"
+    },
+    {
+      "english": "Is the throne awake today?",
+      "georgian": "ტახტი დღეს ფხიზლადაა?",
+      "category": "Greetings",
+      "generated_at": "2026-09-15T22:44:04.613553"
+    },
+    {
+      "english": "May fortune open palace doors.",
+      "georgian": "იღბალმა გაგიღოს სასახლის კარები.",
+      "category": "Greetings",
+      "generated_at": "2026-09-15T22:44:04.613554"
+    },
+    {
+      "english": "Speak gently, even marble listens.",
+      "georgian": "მშვიდად ილაპარაკე, მარმარილოც უსმენს.",
+      "category": "Greetings",
+      "generated_at": "2026-09-15T22:44:04.613555"
     }
   ],
-  "last_updated": "2026-09-15T20:56:08.169182"
+  "last_updated": "2026-09-15T22:44:04.613557"
 }
