@@ -9119,7 +9119,37 @@
       "georgian": "მუხის ფოთლები მეფურ გვირგვინად იკრებს.",
       "category": "Nature",
       "generated_at": "2026-09-15T02:46:38.108496"
+    },
+    {
+      "english": "Let your health be your shield.",
+      "georgian": "ჯანმრთელობა გქონდეს ფარად.",
+      "category": "Health",
+      "generated_at": "2026-09-15T17:59:52.586569"
+    },
+    {
+      "english": "With water, build your shield.",
+      "georgian": "წყლით ფარს ავაგებ ჯანმრთელობისთვის.",
+      "category": "Health",
+      "generated_at": "2026-09-15T17:59:52.586579"
+    },
+    {
+      "english": "Does rest strengthen your shield?",
+      "georgian": "დასვენება ფარს გაგიმაგრებს?",
+      "category": "Health",
+      "generated_at": "2026-09-15T17:59:52.586581"
+    },
+    {
+      "english": "Sleep is a protective shield.",
+      "georgian": "ძილი დამცავი ფარია.",
+      "category": "Health",
+      "generated_at": "2026-09-15T17:59:52.586582"
+    },
+    {
+      "english": "Shield yourself from sugar.",
+      "georgian": "შეეფარე შაქარს, როგორც ფარი.",
+      "category": "Health",
+      "generated_at": "2026-09-15T17:59:52.586583"
     }
   ],
-  "last_updated": "2026-09-15T02:46:38.108497"
+  "last_updated": "2026-09-15T17:59:52.586585"
 }
