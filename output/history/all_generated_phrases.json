@@ -9659,7 +9659,37 @@
       "georgian": "ქვები დაათვალე, სათითაოდ.",
       "category": "Directions",
       "generated_at": "2026-09-18T20:30:24.948335"
+    },
+    {
+      "english": "Hi, let’s grow in the garden!",
+      "georgian": "გამარჯობა, მოდი, ბაღში მოვიმატოთ!",
+      "category": "Greetings",
+      "generated_at": "2026-09-18T22:20:10.333998"
+    },
+    {
+      "english": "Have you visited the garden today?",
+      "georgian": "დღეს ბაღში იყავი?",
+      "category": "Greetings",
+      "generated_at": "2026-09-18T22:20:10.334007"
+    },
+    {
+      "english": "Welcome to the garden’s calm!",
+      "georgian": "ბაღის სიმშვიდეში მოგესალმებით!",
+      "category": "Greetings",
+      "generated_at": "2026-09-18T22:20:10.334009"
+    },
+    {
+      "english": "Listen, the roses are calling you!",
+      "georgian": "ისმინე, ვარდები გიძახიან!",
+      "category": "Greetings",
+      "generated_at": "2026-09-18T22:20:10.334010"
+    },
+    {
+      "english": "Let’s water the seedlings together!",
+      "georgian": "ერთად მოვრწყოთ ნერგები!",
+      "category": "Greetings",
+      "generated_at": "2026-09-18T22:20:10.334011"
     }
   ],
-  "last_updated": "2026-09-18T20:30:24.948336"
+  "last_updated": "2026-09-18T22:20:10.334012"
 }
