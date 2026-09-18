@@ -9629,7 +9629,37 @@
       "georgian": "სულში რა ფასი აქვს გვირგვინს?",
       "category": "Time",
       "generated_at": "2026-09-18T18:48:07.048202"
+    },
+    {
+      "english": "Walk through the castle gate slowly.",
+      "georgian": "კარიბჭესთან მშვიდად გაიარე.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T20:30:24.948318"
+    },
+    {
+      "english": "Listen for echoes in the towers!",
+      "georgian": "კოშკებში ექოს მოუსმინე!",
+      "category": "Directions",
+      "generated_at": "2026-09-18T20:30:24.948331"
+    },
+    {
+      "english": "Describe the castle walls you see.",
+      "georgian": "რას ხედავ ციხის კედლებში?",
+      "category": "Directions",
+      "generated_at": "2026-09-18T20:30:24.948332"
+    },
+    {
+      "english": "Find the hidden passage in the ruins.",
+      "georgian": "ნანგრევებში დამალული გასასვლელი იპოვე.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T20:30:24.948334"
+    },
+    {
+      "english": "Count the stones, one by one.",
+      "georgian": "ქვები დაათვალე, სათითაოდ.",
+      "category": "Directions",
+      "generated_at": "2026-09-18T20:30:24.948335"
     }
   ],
-  "last_updated": "2026-09-18T18:48:07.048204"
+  "last_updated": "2026-09-18T20:30:24.948336"
 }
