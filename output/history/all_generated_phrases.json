@@ -9869,7 +9869,37 @@
       "georgian": "ქუხილი დროის ბოლო არ არის!",
       "category": "Weather",
       "generated_at": "2026-09-20T02:42:47.703573"
+    },
+    {
+      "english": "You’re my lantern in fog.",
+      "georgian": "შენ ჩემი ფარნი ხარ ნისლში.",
+      "category": "Friendship",
+      "generated_at": "2026-09-20T17:20:07.823892"
+    },
+    {
+      "english": "Let’s trade stories by lanternlight.",
+      "georgian": "ჩავანაცვლოთ ისტორიები ფარნის შუქზე.",
+      "category": "Friendship",
+      "generated_at": "2026-09-20T17:20:07.823903"
+    },
+    {
+      "english": "Does your smile light my road?",
+      "georgian": "შენი ღიმილი ანათებს ჩემს გზას?",
+      "category": "Friendship",
+      "generated_at": "2026-09-20T17:20:07.823904"
+    },
+    {
+      "english": "Hold this lantern, friend.",
+      "georgian": "მეგობარო, ჩასჭიდე ეს ფარანი.",
+      "category": "Friendship",
+      "generated_at": "2026-09-20T17:20:07.823905"
+    },
+    {
+      "english": "Our friendship keeps one flame.",
+      "georgian": "ჩვენი მეგობრობა ერთ ალია.",
+      "category": "Friendship",
+      "generated_at": "2026-09-20T17:20:07.823907"
     }
   ],
-  "last_updated": "2026-09-20T02:42:47.703575"
+  "last_updated": "2026-09-20T17:20:07.823908"
 }
