@@ -1,16 +1,6 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "last_3_days": [
-    {
-      "date": "2026-09-18",
-      "categories": [
-        "Family",
-        "Nature",
-        "Time",
-        "Directions",
-        "Greetings"
-      ]
-    },
     {
       "date": "2026-09-19",
       "categories": [
@@ -29,6 +19,12 @@
         "Colors",
         "Wisdom",
         "Travel"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "categories": [
+        "Numbers"
       ]
     }
   ]
