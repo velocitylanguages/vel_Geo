@@ -10019,7 +10019,37 @@
       "georgian": "სამი ზარი, ერთი დაუსრულებელი გარიჟრაჟი.",
       "category": "Numbers",
       "generated_at": "2026-09-21T02:40:49.034644"
+    },
+    {
+      "english": "Can you hear distant thunder tonight?",
+      "georgian": "შორეულ ჭექა-ქუხილს დღეს ღამით გაიგონებ?",
+      "category": "Home",
+      "generated_at": "2026-09-21T19:07:51.864414"
+    },
+    {
+      "english": "The house creaks when thunder rolls.",
+      "georgian": "ჭექა-ქუხილისას სახლი ჭრიალს იწყებს.",
+      "category": "Home",
+      "generated_at": "2026-09-21T19:07:51.864422"
+    },
+    {
+      "english": "Light the candle, thunder is coming.",
+      "georgian": "სანთელი აანთე, ჭექა-ქუხილი მოდის.",
+      "category": "Home",
+      "generated_at": "2026-09-21T19:07:51.864424"
+    },
+    {
+      "english": "Close the windows, the storm speaks.",
+      "georgian": "ფანჯრები დახურე, ქარიშხალი ლაპარაკობს.",
+      "category": "Home",
+      "generated_at": "2026-09-21T19:07:51.864425"
+    },
+    {
+      "english": "Thunder writes rhythms on the roof.",
+      "georgian": "ჭექა-ქუხილი სახურავზე რიტმს წერს.",
+      "category": "Home",
+      "generated_at": "2026-09-21T19:07:51.864426"
     }
   ],
-  "last_updated": "2026-09-21T02:40:49.034645"
+  "last_updated": "2026-09-21T19:07:51.864428"
 }
