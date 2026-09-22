@@ -10229,7 +10229,37 @@
       "georgian": "დღეს შენს ხმაში ლაჟვარდია!",
       "category": "Greetings",
       "generated_at": "2026-09-22T20:57:35.797997"
+    },
+    {
+      "english": "Aim true, like an arrow flies.",
+      "georgian": "მიზანს მიაწექი, როგორც ისარი დაფრინავს.",
+      "category": "Success",
+      "generated_at": "2026-09-22T22:45:40.341396"
+    },
+    {
+      "english": "Trust the arrow, find your way.",
+      "georgian": "დაიჯერე ისარი, იპოვე გზა.",
+      "category": "Success",
+      "generated_at": "2026-09-22T22:45:40.341405"
+    },
+    {
+      "english": "Step forward, keep drawing the bow.",
+      "georgian": "ნაბიჯი წინ, განაგრძე ბოძის დაჭიმვა.",
+      "category": "Success",
+      "generated_at": "2026-09-22T22:45:40.341407"
+    },
+    {
+      "english": "Let every word be your arrow.",
+      "georgian": "ყველა სიტყვა ისრად აქციე.",
+      "category": "Success",
+      "generated_at": "2026-09-22T22:45:40.341408"
+    },
+    {
+      "english": "Which Georgian word will you shoot?",
+      "georgian": "რომელი ქართული სიტყვა გაისვრება?",
+      "category": "Success",
+      "generated_at": "2026-09-22T22:45:40.341409"
     }
   ],
-  "last_updated": "2026-09-22T20:57:35.797999"
+  "last_updated": "2026-09-22T22:45:40.341410"
 }
