@@ -10109,7 +10109,37 @@
       "georgian": "შეცდომებს მარგალიტად აქციე.",
       "category": "Time",
       "generated_at": "2026-09-21T23:02:33.574441"
+    },
+    {
+      "english": "Owl circles the tower at dusk.",
+      "georgian": "ბუ კოშკს დაჰქრის სიბნელეში.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T02:41:51.027031"
+    },
+    {
+      "english": "Cat, climb the tower slowly!",
+      "georgian": "კატო, კოშკს ნელა ადი!",
+      "category": "Animals",
+      "generated_at": "2026-09-22T02:41:51.027040"
+    },
+    {
+      "english": "Is the falcon watching the tower?",
+      "georgian": "მეჩხრე არწივი კოშკს უყურებს?",
+      "category": "Animals",
+      "generated_at": "2026-09-22T02:41:51.027042"
+    },
+    {
+      "english": "Fox drags ribbons on the tower.",
+      "georgian": "მელა კოშკზე ლენტებს ათრევს.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T02:41:51.027043"
+    },
+    {
+      "english": "The lion guards the tower gate.",
+      "georgian": "ლომი კოშკის კარიბჭეს იცავს.",
+      "category": "Animals",
+      "generated_at": "2026-09-22T02:41:51.027044"
     }
   ],
-  "last_updated": "2026-09-21T23:02:33.574442"
+  "last_updated": "2026-09-22T02:41:51.027046"
 }
