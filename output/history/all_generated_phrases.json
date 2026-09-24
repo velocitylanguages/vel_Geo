@@ -10409,7 +10409,37 @@
       "georgian": "სიხარული შუქურაა შენს გულში",
       "category": "Happiness",
       "generated_at": "2026-09-23T22:43:09.573925"
+    },
+    {
+      "english": "Follow the arrow, like a compass.",
+      "georgian": "მიჰყევით ისარს, როგორც კომპასს.",
+      "category": "Travel",
+      "generated_at": "2026-09-24T02:31:15.542088"
+    },
+    {
+      "english": "Which way does this arrow point?",
+      "georgian": "რომელი მხარეს მიუთითებს ეს ისარი?",
+      "category": "Travel",
+      "generated_at": "2026-09-24T02:31:15.542098"
+    },
+    {
+      "english": "The arrow guards my route!",
+      "georgian": "ისარი იცავს ჩემს გზას!",
+      "category": "Travel",
+      "generated_at": "2026-09-24T02:31:15.542099"
+    },
+    {
+      "english": "Look for the arrow on the wall.",
+      "georgian": "ეძებეთ კედელზე ისარი.",
+      "category": "Travel",
+      "generated_at": "2026-09-24T02:31:15.542101"
+    },
+    {
+      "english": "I’m traveling by arrow-signs today.",
+      "georgian": "დღეს ისრის ნიშნებით მივემგზავრები.",
+      "category": "Travel",
+      "generated_at": "2026-09-24T02:31:15.542102"
     }
   ],
-  "last_updated": "2026-09-23T22:43:09.573926"
+  "last_updated": "2026-09-24T02:31:15.542103"
 }
