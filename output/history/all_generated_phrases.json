@@ -10679,7 +10679,37 @@
       "georgian": "ცხენები ტაძარში ლოცვასავით მიდიან.",
       "category": "Animals",
       "generated_at": "2026-09-25T21:10:25.152278"
+    },
+    {
+      "english": "Is the mountain breathing clouds today?",
+      "georgian": "მთამ ხომ არ ამოისუნთქა ღრუბლებმა?",
+      "category": "Weather",
+      "generated_at": "2026-09-25T23:07:04.405640"
+    },
+    {
+      "english": "The ridge is wrapped in mist.",
+      "georgian": "მწვერვალი ნისლით არის შემოსილი.",
+      "category": "Weather",
+      "generated_at": "2026-09-25T23:07:04.405650"
+    },
+    {
+      "english": "Why is the wind climbing the peak?",
+      "georgian": "რატომ ადის ქარი მწვერვალზე?",
+      "category": "Weather",
+      "generated_at": "2026-09-25T23:07:04.405651"
+    },
+    {
+      "english": "Look at the storm over the mountain!",
+      "georgian": "შეხედე მთაზე ამძვინვარებულ ქარიშხალს!",
+      "category": "Weather",
+      "generated_at": "2026-09-25T23:07:04.405653"
+    },
+    {
+      "english": "Pack warm clothes, the mountain is cold!",
+      "georgian": "ჩაალაგე თბილი ტანსაცმელი, მთას სიცივე აქვს!",
+      "category": "Weather",
+      "generated_at": "2026-09-25T23:07:04.405654"
     }
   ],
-  "last_updated": "2026-09-25T21:10:25.152280"
+  "last_updated": "2026-09-25T23:07:04.405655"
 }
