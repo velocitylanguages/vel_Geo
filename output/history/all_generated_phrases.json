@@ -10949,7 +10949,37 @@
       "georgian": "ნახე, ღრუბლები იისფერს ეხვევიან.",
       "category": "Time",
       "generated_at": "2026-09-27T19:27:17.827820"
+    },
+    {
+      "english": "In the palace market, what’s your favorite?",
+      "georgian": "სასახლეში, ბაზარში, რას არჩევ?",
+      "category": "Shopping",
+      "generated_at": "2026-09-27T20:59:01.372984"
+    },
+    {
+      "english": "Tell me, which banner shines brightest?",
+      "georgian": "მითხარი, რომელი დროშა ანათებს?",
+      "category": "Shopping",
+      "generated_at": "2026-09-27T20:59:01.372993"
+    },
+    {
+      "english": "Buy fabric worthy of royal stairs!",
+      "georgian": "იყიდე ქსოვილი, სასახლისთვის ღირსი!",
+      "category": "Shopping",
+      "generated_at": "2026-09-27T20:59:01.372995"
+    },
+    {
+      "english": "This ring belongs to palace legends.",
+      "georgian": "ეს ბეჭედი სასახლის ლეგენდებს ეკუთვნის.",
+      "category": "Shopping",
+      "generated_at": "2026-09-27T20:59:01.372996"
+    },
+    {
+      "english": "Look—how the jewels sparkle like thrones!",
+      "georgian": "შეხედე, სამკაულები ტახტივით ბრწყინავს!",
+      "category": "Shopping",
+      "generated_at": "2026-09-27T20:59:01.372997"
     }
   ],
-  "last_updated": "2026-09-27T19:27:17.827822"
+  "last_updated": "2026-09-27T20:59:01.372999"
 }
