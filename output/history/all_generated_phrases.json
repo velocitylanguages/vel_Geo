@@ -11099,7 +11099,37 @@
       "georgian": "გრძნობ ქარის სუნთქვას მაღალ ხეებში!",
       "category": "Weather",
       "generated_at": "2026-09-28T21:31:37.090031"
+    },
+    {
+      "english": "Hold this lantern, feel the warmth.",
+      "georgian": "ეს ფარანი დაიჭირე, სითბო იგრძენი.",
+      "category": "Travel",
+      "generated_at": "2026-09-28T22:59:12.984092"
+    },
+    {
+      "english": "My thoughts look like lanterns.",
+      "georgian": "ჩემი ფიქრები ფარნებივით ანათებს.",
+      "category": "Travel",
+      "generated_at": "2026-09-28T22:59:12.984103"
+    },
+    {
+      "english": "Which alley hides the lantern?",
+      "georgian": "რომელი ჩიხი მალავს ფარანს?",
+      "category": "Travel",
+      "generated_at": "2026-09-28T22:59:12.984104"
+    },
+    {
+      "english": "At dawn, the lantern fades away.",
+      "georgian": "გათენებისას ფარანი ქრება.",
+      "category": "Travel",
+      "generated_at": "2026-09-28T22:59:12.984105"
+    },
+    {
+      "english": "Watch the lantern’s shadow dance!",
+      "georgian": "შეხედე ფარნის ჩრდილს, ცეკვავს!",
+      "category": "Travel",
+      "generated_at": "2026-09-28T22:59:12.984105"
     }
   ],
-  "last_updated": "2026-09-28T21:31:37.090034"
+  "last_updated": "2026-09-28T22:59:12.984107"
 }
