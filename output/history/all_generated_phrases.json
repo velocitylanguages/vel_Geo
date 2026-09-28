@@ -11069,7 +11069,37 @@
       "georgian": "მთის სიჩუმე საფირონივით ღრმაა.",
       "category": "Nature",
       "generated_at": "2026-09-28T20:25:35.848490"
+    },
+    {
+      "english": "Is the forest rain listening?",
+      "georgian": "ტყე წვიმას ისმენს?",
+      "category": "Weather",
+      "generated_at": "2026-09-28T21:31:37.090013"
+    },
+    {
+      "english": "Mist curls like moss tonight!",
+      "georgian": "ნამი ხავსივით ეხვევა დღესაღამით!",
+      "category": "Weather",
+      "generated_at": "2026-09-28T21:31:37.090024"
+    },
+    {
+      "english": "Clouds move slow, like deer.",
+      "georgian": "ღრუბლები ნელა მიდიან, ირემივით.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T21:31:37.090026"
+    },
+    {
+      "english": "Storm clouds gather over the pines.",
+      "georgian": "ქარიშხლის ღრუბლები ფიჭვებზე იკრიბება.",
+      "category": "Weather",
+      "generated_at": "2026-09-28T21:31:37.090027"
+    },
+    {
+      "english": "Feel the wind through tall trees!",
+      "georgian": "გრძნობ ქარის სუნთქვას მაღალ ხეებში!",
+      "category": "Weather",
+      "generated_at": "2026-09-28T21:31:37.090031"
     }
   ],
-  "last_updated": "2026-09-28T20:25:35.848492"
+  "last_updated": "2026-09-28T21:31:37.090034"
 }
