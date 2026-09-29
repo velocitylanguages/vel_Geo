@@ -11129,7 +11129,37 @@
       "georgian": "შეხედე ფარნის ჩრდილს, ცეკვავს!",
       "category": "Travel",
       "generated_at": "2026-09-28T22:59:12.984105"
+    },
+    {
+      "english": "Follow the tide to the island gate.",
+      "georgian": "მიჰყევი ტალღას, კუნძულის კართან.",
+      "category": "Directions",
+      "generated_at": "2026-09-29T03:34:01.746439"
+    },
+    {
+      "english": "Learn the word, like sea-mist.",
+      "georgian": "ისწავლე სიტყვა, როგორც ზღვის ნისლი.",
+      "category": "Directions",
+      "generated_at": "2026-09-29T03:34:01.746446"
+    },
+    {
+      "english": "Don’t fear waves, practice sounds.",
+      "georgian": "ტალღებს ნუ შეგეშინდება, ივარჯიშე ბგერებში.",
+      "category": "Directions",
+      "generated_at": "2026-09-29T03:34:01.746449"
+    },
+    {
+      "english": "Speak slowly, like oars in fog.",
+      "georgian": "ნელა ილაპარაკე, ნაოსნობასავით ნისლში.",
+      "category": "Directions",
+      "generated_at": "2026-09-29T03:34:01.746451"
+    },
+    {
+      "english": "Which Georgian word anchors your mind?",
+      "georgian": "რომელი ქართული სიტყვა ჩაგაგდებს ლარტყად?",
+      "category": "Directions",
+      "generated_at": "2026-09-29T03:34:01.746452"
     }
   ],
-  "last_updated": "2026-09-28T22:59:12.984107"
+  "last_updated": "2026-09-29T03:34:01.746453"
 }
