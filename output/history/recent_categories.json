@@ -1,15 +1,6 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "last_3_days": [
-    {
-      "date": "2026-09-28",
-      "categories": [
-        "Success",
-        "Nature",
-        "Weather",
-        "Travel"
-      ]
-    },
     {
       "date": "2026-09-29",
       "categories": [
@@ -28,6 +19,12 @@
         "Home",
         "Emotions",
         "Animals"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "categories": [
+        "Music"
       ]
     }
   ]
