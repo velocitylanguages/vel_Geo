@@ -11549,7 +11549,37 @@
       "georgian": "სადგომთან სიტყვები დააგემოვნე",
       "category": "Education",
       "generated_at": "2026-10-01T22:24:42.240575"
+    },
+    {
+      "english": "Temple keeper, welcome to learn.",
+      "georgian": "მეუფეორებო, ტაძარში შემოგვიერთდით.",
+      "category": "Greetings",
+      "generated_at": "2026-10-01T23:42:42.402661"
+    },
+    {
+      "english": "What does a temple whisper today?",
+      "georgian": "რას ამბობს ტაძარი დღეს ჩუმად?",
+      "category": "Greetings",
+      "generated_at": "2026-10-01T23:42:42.402673"
+    },
+    {
+      "english": "Enter quietly, like prayer steps.",
+      "georgian": "ჩუმად შედი, როგორც ლოცვის ნაბიჯი.",
+      "category": "Greetings",
+      "generated_at": "2026-10-01T23:42:42.402676"
+    },
+    {
+      "english": "May your path find the altar.",
+      "georgian": "გზამ მიგიყვანოს საკურთხეველამდე.",
+      "category": "Greetings",
+      "generated_at": "2026-10-01T23:42:42.402678"
+    },
+    {
+      "english": "Let the bells guide your words.",
+      "georgian": "ზარებმა ატარონ შენი სიტყვები.",
+      "category": "Greetings",
+      "generated_at": "2026-10-01T23:42:42.402680"
     }
   ],
-  "last_updated": "2026-10-01T22:24:42.240576"
+  "last_updated": "2026-10-01T23:42:42.402683"
 }
