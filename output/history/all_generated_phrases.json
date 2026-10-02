@@ -11669,7 +11669,37 @@
       "georgian": "რატომ არის ლავანდა ასე იისფერი და მშვიდი?",
       "category": "Colors",
       "generated_at": "2026-10-02T20:17:32.376733"
+    },
+    {
+      "english": "Snow is whispering on the slopes.",
+      "georgian": "თოვლი ფერდობებზე ჩურჩულებს.",
+      "category": "Weather",
+      "generated_at": "2026-10-02T21:53:28.901390"
+    },
+    {
+      "english": "The mountain clouds look like sheep.",
+      "georgian": "მთის ღრუბლები ცხვრებს ჰგავს.",
+      "category": "Weather",
+      "generated_at": "2026-10-02T21:53:28.901399"
+    },
+    {
+      "english": "Can you hear thunder behind the peaks?",
+      "georgian": "გესმის ჭექა-ქუხილი მწვერვალებს უკან?",
+      "category": "Weather",
+      "generated_at": "2026-10-02T21:53:28.901401"
+    },
+    {
+      "english": "Keep the trail—fog is swallowing paths.",
+      "georgian": "გეზი დაიცავი, ნისლი ბილიკებს შთანთქავს.",
+      "category": "Weather",
+      "generated_at": "2026-10-02T21:53:28.901402"
+    },
+    {
+      "english": "The sun broke through the mountain clouds.",
+      "georgian": "მზემ მთის ღრუბლები გაარღვია.",
+      "category": "Weather",
+      "generated_at": "2026-10-02T21:53:28.901403"
     }
   ],
-  "last_updated": "2026-10-02T20:17:32.376735"
+  "last_updated": "2026-10-02T21:53:28.901405"
 }
