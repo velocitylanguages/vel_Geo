@@ -11849,7 +11849,37 @@
       "georgian": "ხუთი სოკო იფურჩქნება წვიმის მერე!",
       "category": "Numbers",
       "generated_at": "2026-10-03T20:40:32.454255"
+    },
+    {
+      "english": "Looking for forest berries, which stall?",
+      "georgian": "სად იყიდება ტყის კენკრა?",
+      "category": "Shopping",
+      "generated_at": "2026-10-03T22:42:47.803887"
+    },
+    {
+      "english": "This store smells like pine forest!",
+      "georgian": "ეს მაღაზია ფიჭვის ტყეს ჰგავს!",
+      "category": "Shopping",
+      "generated_at": "2026-10-03T22:42:47.803898"
+    },
+    {
+      "english": "I want a leaf-pattern scarf.",
+      "georgian": "ფოთლების შაბლონიანი შარფი მინდა.",
+      "category": "Shopping",
+      "generated_at": "2026-10-03T22:42:47.803900"
+    },
+    {
+      "english": "Do you sell mushroom bags?",
+      "georgian": "გაქვთ სოკოს ჩანთები?",
+      "category": "Shopping",
+      "generated_at": "2026-10-03T22:42:47.803901"
+    },
+    {
+      "english": "Show me the forest honey jars.",
+      "georgian": "მაჩვენე ტყის თაფლის ქილები.",
+      "category": "Shopping",
+      "generated_at": "2026-10-03T22:42:47.803902"
     }
   ],
-  "last_updated": "2026-10-03T20:40:32.454256"
+  "last_updated": "2026-10-03T22:42:47.803904"
 }
