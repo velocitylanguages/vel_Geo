@@ -11879,7 +11879,37 @@
       "georgian": "მაჩვენე ტყის თაფლის ქილები.",
       "category": "Shopping",
       "generated_at": "2026-10-03T22:42:47.803902"
+    },
+    {
+      "english": "Is that tower ancient or new?",
+      "georgian": "ეს კოშკი ძველია, ახალია?",
+      "category": "Travel",
+      "generated_at": "2026-10-04T03:39:15.688899"
+    },
+    {
+      "english": "From the tower, what’s the view?",
+      "georgian": "კოშკიდან რა ჩანს, გვითხარით?",
+      "category": "Travel",
+      "generated_at": "2026-10-04T03:39:15.688907"
+    },
+    {
+      "english": "Climb the tower, breathe slowly.",
+      "georgian": "კოშკს ადი, ნელა ჩაისუნთქე.",
+      "category": "Travel",
+      "generated_at": "2026-10-04T03:39:15.688909"
+    },
+    {
+      "english": "That tower whispers history.",
+      "georgian": "იმ კოშკს ისტორია ჩურჩულებს.",
+      "category": "Travel",
+      "generated_at": "2026-10-04T03:39:15.688910"
+    },
+    {
+      "english": "Does the tower toll at night?",
+      "georgian": "კოშკი ღამით რეკავს, ხომ?",
+      "category": "Travel",
+      "generated_at": "2026-10-04T03:39:15.688911"
     }
   ],
-  "last_updated": "2026-10-03T22:42:47.803904"
+  "last_updated": "2026-10-04T03:39:15.688913"
 }
