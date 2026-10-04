@@ -11999,7 +11999,37 @@
       "georgian": "ქარს ფარანი გაუძლებს?",
       "category": "Home",
       "generated_at": "2026-10-04T20:56:28.411840"
+    },
+    {
+      "english": "Follow the river through the valley.",
+      "georgian": "გაყევ მდინარეს ხეობაში.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T22:47:19.316582"
+    },
+    {
+      "english": "Does the valley whisper secrets?",
+      "georgian": "ხეობა საიდუმლოს ხომ არ ჩურჩულებს?",
+      "category": "Directions",
+      "generated_at": "2026-10-04T22:47:19.316592"
+    },
+    {
+      "english": "Step lightly, like mist in a valley!",
+      "georgian": "ფრთხილად იარე, ნისლივით ხეობაში!",
+      "category": "Directions",
+      "generated_at": "2026-10-04T22:47:19.316595"
+    },
+    {
+      "english": "Learn words, as if crossing ridges.",
+      "georgian": "სიტყვები ისწავლე, როგორც ქედებს გადახვალ.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T22:47:19.316596"
+    },
+    {
+      "english": "Turn left where the valley opens.",
+      "georgian": "მარცხნივ მოუხვიე, სადაც ხეობა იშლება.",
+      "category": "Directions",
+      "generated_at": "2026-10-04T22:47:19.316597"
     }
   ],
-  "last_updated": "2026-10-04T20:56:28.411844"
+  "last_updated": "2026-10-04T22:47:19.316599"
 }
