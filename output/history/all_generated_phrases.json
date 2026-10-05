@@ -12089,7 +12089,37 @@
       "georgian": "ლურჯი შეინახე, როგორც საფირონის თესლი.",
       "category": "Nature",
       "generated_at": "2026-10-05T21:29:32.619274"
+    },
+    {
+      "english": "Valley mist curls around the pines.",
+      "georgian": "ხეობის ნისლი ფიჭვებს ეხვევა.",
+      "category": "Weather",
+      "generated_at": "2026-10-05T22:17:36.519086"
+    },
+    {
+      "english": "Is the valley waking with morning fog?",
+      "georgian": "ხეობა დილის ნისლით ხომ არ იღვიძებს?",
+      "category": "Weather",
+      "generated_at": "2026-10-05T22:17:36.519098"
+    },
+    {
+      "english": "Bring your coat, the valley is chilly.",
+      "georgian": "ქურთუკი მოიტანე, ხეობა ცივია.",
+      "category": "Weather",
+      "generated_at": "2026-10-05T22:17:36.519100"
+    },
+    {
+      "english": "The valley drinks rain like a lullaby.",
+      "georgian": "ხეობა წვიმას ჩუმად სვამს.",
+      "category": "Weather",
+      "generated_at": "2026-10-05T22:17:36.519102"
+    },
+    {
+      "english": "Look how the wind slides through the valley!",
+      "georgian": "ხედავ, ქარი ხეობას როგორ სრიალებს!",
+      "category": "Weather",
+      "generated_at": "2026-10-05T22:17:36.519103"
     }
   ],
-  "last_updated": "2026-10-05T21:29:32.619276"
+  "last_updated": "2026-10-05T22:17:36.519105"
 }
