@@ -12119,7 +12119,37 @@
       "georgian": "ხედავ, ქარი ხეობას როგორ სრიალებს!",
       "category": "Weather",
       "generated_at": "2026-10-05T22:17:36.519103"
+    },
+    {
+      "english": "Pride rises like a crown.",
+      "georgian": "ამაყობა გვირგვინივით მაღლდება.",
+      "category": "Emotions",
+      "generated_at": "2026-10-05T23:49:02.610815"
+    },
+    {
+      "english": "Joy wears a golden crown.",
+      "georgian": "სიხარული ოქროს გვირგვინს ირგებს.",
+      "category": "Emotions",
+      "generated_at": "2026-10-05T23:49:02.610825"
+    },
+    {
+      "english": "Grief tightens the crown.",
+      "georgian": "მწუხარება გვირგვინს მიჭერს.",
+      "category": "Emotions",
+      "generated_at": "2026-10-05T23:49:02.610826"
+    },
+    {
+      "english": "Doubt shakes my crown.",
+      "georgian": "ეჭვი გვირგვინს მიძრავს.",
+      "category": "Emotions",
+      "generated_at": "2026-10-05T23:49:02.610827"
+    },
+    {
+      "english": "I fear losing my crown.",
+      "georgian": "მეშინია გვირგვინის დაკარგვის.",
+      "category": "Emotions",
+      "generated_at": "2026-10-05T23:49:02.610829"
     }
   ],
-  "last_updated": "2026-10-05T22:17:36.519105"
+  "last_updated": "2026-10-05T23:49:02.610830"
 }
