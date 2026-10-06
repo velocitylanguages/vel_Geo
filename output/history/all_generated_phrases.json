@@ -12299,7 +12299,37 @@
       "georgian": "ხედავ, სასახლის ნათება გიძღვება!",
       "category": "Greetings",
       "generated_at": "2026-10-06T22:24:35.231497"
+    },
+    {
+      "english": "Don’t chase the target blindly.",
+      "georgian": "მიზანს უსინათლოდ არ გაჰყევი.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-06T23:35:47.473208"
+    },
+    {
+      "english": "Will your arrow find its home?",
+      "georgian": "შენი ისარი საკუთარ მხარეს პოულობს?",
+      "category": "Wisdom",
+      "generated_at": "2026-10-06T23:35:47.473223"
+    },
+    {
+      "english": "Calm hands make straight arrows.",
+      "georgian": "მშვიდი ხელი სწორ ისარს აყენებს.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-06T23:35:47.473225"
+    },
+    {
+      "english": "Aim at progress, not applause.",
+      "georgian": "კრიტიკას კი არა, წინს ისროლე.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-06T23:35:47.473226"
+    },
+    {
+      "english": "The past is a bowstring.",
+      "georgian": "წარსული მშვილდის ძგიდეა.",
+      "category": "Wisdom",
+      "generated_at": "2026-10-06T23:35:47.473227"
     }
   ],
-  "last_updated": "2026-10-06T22:24:35.231498"
+  "last_updated": "2026-10-06T23:35:47.473228"
 }
