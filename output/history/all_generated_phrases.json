@@ -12239,7 +12239,37 @@
       "georgian": "შენ არ მაძლევ, სიტყვები გაქრეს, უდაბნო",
       "category": "Gratitude",
       "generated_at": "2026-10-06T19:21:02.850283"
+    },
+    {
+      "english": "How many ships shelter at the harbor?",
+      "georgian": "რამდენი გემი ისვენებს ნავსადგურში?",
+      "category": "Numbers",
+      "generated_at": "2026-10-06T20:44:07.992912"
+    },
+    {
+      "english": "Count the waves in the harbor!",
+      "georgian": "დათვალე ტალღები ნავსადგურში!",
+      "category": "Numbers",
+      "generated_at": "2026-10-06T20:44:07.992922"
+    },
+    {
+      "english": "The harbor has three gates.",
+      "georgian": "ნავსადგურს სამი შესასვლელი აქვს.",
+      "category": "Numbers",
+      "generated_at": "2026-10-06T20:44:07.992924"
+    },
+    {
+      "english": "Four cranes lift cargo to ships.",
+      "georgian": "ოთხი ამწე ტვირთს გემებს აწევს.",
+      "category": "Numbers",
+      "generated_at": "2026-10-06T20:44:07.992925"
+    },
+    {
+      "english": "Five lanterns glow on the pier.",
+      "georgian": "ხუთი ფარნები ანათებს ნავსადგურში.",
+      "category": "Numbers",
+      "generated_at": "2026-10-06T20:44:07.992926"
     }
   ],
-  "last_updated": "2026-10-06T19:21:02.850284"
+  "last_updated": "2026-10-06T20:44:07.992928"
 }
