@@ -12749,7 +12749,37 @@
       "georgian": "ამინდი ხელს გვიწყობს გარიგებისთვის?",
       "category": "Weather",
       "generated_at": "2026-10-09T22:21:50.283062"
+    },
+    {
+      "english": "Open the garden gate slowly, please",
+      "georgian": "ნელა გააღე ბაღის ჭიშკარი",
+      "category": "Home",
+      "generated_at": "2026-10-09T23:50:09.219198"
+    },
+    {
+      "english": "Do you water the flowers every morning?",
+      "georgian": "ყოველ დილით რწყავ ყვავილებს?",
+      "category": "Home",
+      "generated_at": "2026-10-09T23:50:09.219210"
+    },
+    {
+      "english": "Plant basil near the window!",
+      "georgian": "ფანჯარასთან დარგე რეჰანი!",
+      "category": "Home",
+      "generated_at": "2026-10-09T23:50:09.219212"
+    },
+    {
+      "english": "The roses breathe quietly tonight",
+      "georgian": "დღეს ღამით ვარდები ჩუმად სუნთქავენ",
+      "category": "Home",
+      "generated_at": "2026-10-09T23:50:09.219213"
+    },
+    {
+      "english": "Where is the watering can?",
+      "georgian": "სად არის სარწყავი?",
+      "category": "Home",
+      "generated_at": "2026-10-09T23:50:09.219215"
     }
   ],
-  "last_updated": "2026-10-09T22:21:50.283064"
+  "last_updated": "2026-10-09T23:50:09.219218"
 }
