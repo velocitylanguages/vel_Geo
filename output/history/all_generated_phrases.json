@@ -12689,7 +12689,37 @@
       "georgian": "მარგალიტი არ გაუშვა, ნელა მიდი.",
       "category": "Work",
       "generated_at": "2026-10-09T19:19:11.195459"
+    },
+    {
+      "english": "Will this lantern guide you home?",
+      "georgian": "ეს ლამპარი მიგიგდებს გზაზე?",
+      "category": "Time",
+      "generated_at": "2026-10-09T20:27:37.228313"
+    },
+    {
+      "english": "Turn the lantern toward the wind.",
+      "georgian": "მიმმართე ლამპარი ქარისკენ.",
+      "category": "Time",
+      "generated_at": "2026-10-09T20:27:37.228323"
+    },
+    {
+      "english": "Let the lantern keep your courage warm.",
+      "georgian": "ლამპარმა გაგითბოს სიმამაცე.",
+      "category": "Time",
+      "generated_at": "2026-10-09T20:27:37.228325"
+    },
+    {
+      "english": "Why does my lantern flicker tonight?",
+      "georgian": "რატომ ციმციმებს ჩემი ლამპარი დღეს?",
+      "category": "Time",
+      "generated_at": "2026-10-09T20:27:37.228326"
+    },
+    {
+      "english": "I carry hope like a lantern.",
+      "georgian": "იმედს ლამპარივით ვატარებ.",
+      "category": "Time",
+      "generated_at": "2026-10-09T20:27:37.228327"
     }
   ],
-  "last_updated": "2026-10-09T19:19:11.195461"
+  "last_updated": "2026-10-09T20:27:37.228329"
 }
