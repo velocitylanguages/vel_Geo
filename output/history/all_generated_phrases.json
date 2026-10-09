@@ -12719,7 +12719,37 @@
       "georgian": "იმედს ლამპარივით ვატარებ.",
       "category": "Time",
       "generated_at": "2026-10-09T20:27:37.228327"
+    },
+    {
+      "english": "Will the clouds rain on our market?",
+      "georgian": "ღრუბლები ბაზარში წვიმას მოიტანენ?",
+      "category": "Weather",
+      "generated_at": "2026-10-09T22:21:50.283048"
+    },
+    {
+      "english": "The sky is trading sunshine today!",
+      "georgian": "ცაზე მზის ვაჭრობა დღეს მიდის!",
+      "category": "Weather",
+      "generated_at": "2026-10-09T22:21:50.283059"
+    },
+    {
+      "english": "Keep the awning ready, wind comes.",
+      "georgian": "ჩარდახი მზად გქონდეს, ქარი მოდის.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T22:21:50.283060"
+    },
+    {
+      "english": "Look, the fog makes prices softer.",
+      "georgian": "ნისლი ფასებს უფრო რბილს ხდის.",
+      "category": "Weather",
+      "generated_at": "2026-10-09T22:21:50.283061"
+    },
+    {
+      "english": "Is the forecast good for bargains?",
+      "georgian": "ამინდი ხელს გვიწყობს გარიგებისთვის?",
+      "category": "Weather",
+      "generated_at": "2026-10-09T22:21:50.283062"
     }
   ],
-  "last_updated": "2026-10-09T20:27:37.228329"
+  "last_updated": "2026-10-09T22:21:50.283064"
 }
