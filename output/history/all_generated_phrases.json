@@ -12809,7 +12809,37 @@
       "georgian": "აანთე ლამპიონი, გაჰქრე სიბნელე!",
       "category": "Emotions",
       "generated_at": "2026-10-10T03:40:48.025545"
+    },
+    {
+      "english": "Hello from the island path!",
+      "georgian": "კუნძულიდან მოგესალმებით, ბილიკო!",
+      "category": "Greetings",
+      "generated_at": "2026-10-10T18:16:20.280588"
+    },
+    {
+      "english": "Are you ready for island winds?",
+      "georgian": "კუნძულის ქარები მზად გაქვთ?",
+      "category": "Greetings",
+      "generated_at": "2026-10-10T18:16:20.280597"
+    },
+    {
+      "english": "Walk like a sailor on sand.",
+      "georgian": "ქვიშაზე მეზღვაურივით იარე.",
+      "category": "Greetings",
+      "generated_at": "2026-10-10T18:16:20.280599"
+    },
+    {
+      "english": "May your words be lighthouse-bright!",
+      "georgian": "შენი სიტყვები შუქურასავით გიბრწყინდეს!",
+      "category": "Greetings",
+      "generated_at": "2026-10-10T18:16:20.280600"
+    },
+    {
+      "english": "What island story will you tell?",
+      "georgian": "რომელი კუნძულის ამბავი გინდა?",
+      "category": "Greetings",
+      "generated_at": "2026-10-10T18:16:20.280601"
     }
   ],
-  "last_updated": "2026-10-10T03:40:48.025546"
+  "last_updated": "2026-10-10T18:16:20.280605"
 }
