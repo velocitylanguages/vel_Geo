@@ -12869,7 +12869,37 @@
       "georgian": "ჩურჩული გულს ამსუბუქებს.",
       "category": "Happiness",
       "generated_at": "2026-10-10T19:40:52.018741"
+    },
+    {
+      "english": "Mirror shows colors backward",
+      "georgian": "სარკე ფერებს უკან ასახავს,",
+      "category": "Colors",
+      "generated_at": "2026-10-10T21:14:56.347390"
+    },
+    {
+      "english": "Do you see your shadow’s blue?",
+      "georgian": "ხედავ ცისფერს შენი ჩრდილისას?",
+      "category": "Colors",
+      "generated_at": "2026-10-10T21:14:56.347400"
+    },
+    {
+      "english": "Hold the green light to the mirror!",
+      "georgian": "მწვანე შუქი სარკესთან მიიტანე!",
+      "category": "Colors",
+      "generated_at": "2026-10-10T21:14:56.347401"
+    },
+    {
+      "english": "Red returns like a mirrored heartbeat",
+      "georgian": "წითელი ბრუნდება, როგორც სარკის გულისცემა,",
+      "category": "Colors",
+      "generated_at": "2026-10-10T21:14:56.347402"
+    },
+    {
+      "english": "White glass turns thoughts into pale gold",
+      "georgian": "თეთრი მინა ფიქრებს ნაღებად აქცევს,",
+      "category": "Colors",
+      "generated_at": "2026-10-10T21:14:56.347403"
     }
   ],
-  "last_updated": "2026-10-10T19:40:52.018742"
+  "last_updated": "2026-10-10T21:14:56.347404"
 }
