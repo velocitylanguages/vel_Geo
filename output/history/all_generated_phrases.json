@@ -12839,7 +12839,37 @@
       "georgian": "რომელი კუნძულის ამბავი გინდა?",
       "category": "Greetings",
       "generated_at": "2026-10-10T18:16:20.280601"
+    },
+    {
+      "english": "Whisper me a smile, please.",
+      "georgian": "ჩამჩურჩულე ღიმილი, გთხოვ.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T19:40:52.018728"
+    },
+    {
+      "english": "Can a whisper carry joy?",
+      "georgian": "ჩურჩული ხომ ატარებს სიხარულს?",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T19:40:52.018738"
+    },
+    {
+      "english": "Let your joy be a quiet chime.",
+      "georgian": "შენი სიხარული ჩუმ ჩახმიანს დაემსგავსოს.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T19:40:52.018739"
+    },
+    {
+      "english": "I’ll follow the whisper of hope.",
+      "georgian": "იმედის ჩურჩულს მივყვები.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T19:40:52.018740"
+    },
+    {
+      "english": "The whisper makes my heart light.",
+      "georgian": "ჩურჩული გულს ამსუბუქებს.",
+      "category": "Happiness",
+      "generated_at": "2026-10-10T19:40:52.018741"
     }
   ],
-  "last_updated": "2026-10-10T18:16:20.280605"
+  "last_updated": "2026-10-10T19:40:52.018742"
 }
