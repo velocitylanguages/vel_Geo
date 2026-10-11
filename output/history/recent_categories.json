@@ -1,16 +1,6 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "last_3_days": [
-    {
-      "date": "2026-10-08",
-      "categories": [
-        "Love",
-        "Sports",
-        "Nature",
-        "Animals",
-        "Music"
-      ]
-    },
     {
       "date": "2026-10-09",
       "categories": [
@@ -30,6 +20,12 @@
         "Happiness",
         "Colors",
         "Numbers"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "categories": [
+        "Food"
       ]
     }
   ]

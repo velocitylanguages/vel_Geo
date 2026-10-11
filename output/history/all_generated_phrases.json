@@ -12929,7 +12929,37 @@
       "georgian": "ხუთ წუთში, დახლი შენია!",
       "category": "Numbers",
       "generated_at": "2026-10-10T23:16:38.949062"
+    },
+    {
+      "english": "Bread, my shield against hunger!",
+      "georgian": "პური, ჩემი ფარი შიმშილის წინააღმდეგ!",
+      "category": "Food",
+      "generated_at": "2026-10-11T03:13:40.239546"
+    },
+    {
+      "english": "Can you plate like a warrior’s shield?",
+      "georgian": "შეგიძლიათ, ფარივით დააწყოთ თეფშზე?",
+      "category": "Food",
+      "generated_at": "2026-10-11T03:13:40.239555"
+    },
+    {
+      "english": "Strong soup, like iron armor.",
+      "georgian": "ძლიერი სუპი, როგორც რკინის ჯავშანი.",
+      "category": "Food",
+      "generated_at": "2026-10-11T03:13:40.239556"
+    },
+    {
+      "english": "Spread cheese, a soft shield.",
+      "georgian": "გაანაწილე ყველი, რბილი ფარი.",
+      "category": "Food",
+      "generated_at": "2026-10-11T03:13:40.239558"
+    },
+    {
+      "english": "What dish protects your heart?",
+      "georgian": "რომელი კერძი იცავს გულს?",
+      "category": "Food",
+      "generated_at": "2026-10-11T03:13:40.239559"
     }
   ],
-  "last_updated": "2026-10-10T23:16:38.949064"
+  "last_updated": "2026-10-11T03:13:40.239560"
 }
