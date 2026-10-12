@@ -13109,7 +13109,37 @@
       "georgian": "და, მამაცი ფარი მაღლა ასწიე!",
       "category": "Family",
       "generated_at": "2026-10-12T03:36:48.262977"
+    },
+    {
+      "english": "Ruby counts the minutes at work.",
+      "georgian": "ბროლიანი რუბი ითვლის წუთებს.",
+      "category": "Work",
+      "generated_at": "2026-10-12T22:00:32.681501"
+    },
+    {
+      "english": "Can you log tasks, ruby-style?",
+      "georgian": "ჩაწერ ამოცანებს, რუბის მსგავსად?",
+      "category": "Work",
+      "generated_at": "2026-10-12T22:00:32.681511"
+    },
+    {
+      "english": "Draft the report, like red ember.",
+      "georgian": "შეადგინე ანგარიში, როგორც წითელი ნაფერფალი.",
+      "category": "Work",
+      "generated_at": "2026-10-12T22:00:32.681511"
+    },
+    {
+      "english": "Ruby-approved notes, no shortcuts.",
+      "georgian": "რუბიამტკიცებული ჩანაწერები, უგზოობის გარეშე.",
+      "category": "Work",
+      "generated_at": "2026-10-12T22:00:32.681512"
+    },
+    {
+      "english": "Pick the ruby priority, start now!",
+      "georgian": "აირჩიე რუბის პრიორიტეტი, დაიწყე ახლა!",
+      "category": "Work",
+      "generated_at": "2026-10-12T22:00:32.681513"
     }
   ],
-  "last_updated": "2026-10-12T03:36:48.262978"
+  "last_updated": "2026-10-12T22:00:32.681514"
 }
