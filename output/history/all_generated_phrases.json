@@ -13139,7 +13139,37 @@
       "georgian": "აირჩიე რუბის პრიორიტეტი, დაიწყე ახლა!",
       "category": "Work",
       "generated_at": "2026-10-12T22:00:32.681513"
+    },
+    {
+      "english": "The mountain lion watches the dawn.",
+      "georgian": "მთის ლომი დილისთვალს ადევნებს.",
+      "category": "Animals",
+      "generated_at": "2026-10-12T22:41:55.182343"
+    },
+    {
+      "english": "Are you a goat on the ridge?",
+      "georgian": "ბორცვზე თხა ხარ?",
+      "category": "Animals",
+      "generated_at": "2026-10-12T22:41:55.182356"
+    },
+    {
+      "english": "Eagle, circle the summit!",
+      "georgian": "არწივო, მწვერვალზე შემოუფრინე!",
+      "category": "Animals",
+      "generated_at": "2026-10-12T22:41:55.182357"
+    },
+    {
+      "english": "The marmot whistles under the rocks.",
+      "georgian": "მარმოტი კლდეებში სტვენს.",
+      "category": "Animals",
+      "generated_at": "2026-10-12T22:41:55.182358"
+    },
+    {
+      "english": "Bear, climb carefully, mountain friend!",
+      "georgian": "დათვო, ფრთხილად ამოდი, მთის მეგობარო!",
+      "category": "Animals",
+      "generated_at": "2026-10-12T22:41:55.182360"
     }
   ],
-  "last_updated": "2026-10-12T22:00:32.681514"
+  "last_updated": "2026-10-12T22:41:55.182361"
 }
