@@ -13349,7 +13349,37 @@
       "georgian": "მობრძანდი ფოთლების გზაზე!",
       "category": "Greetings",
       "generated_at": "2026-10-13T22:21:14.800627"
+    },
+    {
+      "english": "Touch the language, sail onward!",
+      "georgian": "ენა შეეხე, წინ გაცურე!",
+      "category": "Directions",
+      "generated_at": "2026-10-13T23:37:30.123730"
+    },
+    {
+      "english": "Practice cases, as islands keep shapes.",
+      "georgian": "მიმართვები ივარჯიშე, კუნძულები ინარჩუნებენ ფორმას.",
+      "category": "Directions",
+      "generated_at": "2026-10-13T23:37:30.123744"
+    },
+    {
+      "english": "Listen for gulls, catch the rhythm.",
+      "georgian": "მოუსმინე თოლიებს, დაიჭირე რიტმი.",
+      "category": "Directions",
+      "generated_at": "2026-10-13T23:37:30.123745"
+    },
+    {
+      "english": "Repeat after waves, one phrase each time.",
+      "georgian": "იმეორე ტალღებთან, ერთი ფრაზა ყოველ ჯერზე.",
+      "category": "Directions",
+      "generated_at": "2026-10-13T23:37:30.123746"
+    },
+    {
+      "english": "Write letters, build a tiny pier.",
+      "georgian": "ასოები დაწერე, პატარა ნავმისადგომი ააშენე.",
+      "category": "Directions",
+      "generated_at": "2026-10-13T23:37:30.123747"
     }
   ],
-  "last_updated": "2026-10-13T22:21:14.800629"
+  "last_updated": "2026-10-13T23:37:30.123750"
 }
