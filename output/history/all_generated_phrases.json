@@ -13259,7 +13259,37 @@
       "georgian": "თესლი კეთილ ხელებს არასდროს ივიწყებს.",
       "category": "Friendship",
       "generated_at": "2026-10-13T04:50:36.056746"
+    },
+    {
+      "english": "Is the statue breathing like clouds?",
+      "georgian": "ქანდაკება ღრუბელივით სუნთქავს?",
+      "category": "Weather",
+      "generated_at": "2026-10-13T20:07:22.006756"
+    },
+    {
+      "english": "The statue wears sunlight, today!",
+      "georgian": "დღეს ქანდაკება მზეს იკიდებს!",
+      "category": "Weather",
+      "generated_at": "2026-10-13T20:07:22.006765"
+    },
+    {
+      "english": "Wind combs the statue’s stone hair.",
+      "georgian": "ქარმა ქანდაკების ქვის თმა შეივარცხნა.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T20:07:22.006767"
+    },
+    {
+      "english": "Rain is writing new stories on stone.",
+      "georgian": "წვიმა ქვის კვალზე ახალ ისტორიებს წერს.",
+      "category": "Weather",
+      "generated_at": "2026-10-13T20:07:22.006768"
+    },
+    {
+      "english": "Will the statue stay dry in drizzle?",
+      "georgian": "ნამქარში ქანდაკება ხომ გაშრება?",
+      "category": "Weather",
+      "generated_at": "2026-10-13T20:07:22.006769"
     }
   ],
-  "last_updated": "2026-10-13T04:50:36.056748"
+  "last_updated": "2026-10-13T20:07:22.006771"
 }
