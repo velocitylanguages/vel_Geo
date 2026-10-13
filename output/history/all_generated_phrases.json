@@ -13319,7 +13319,37 @@
       "georgian": "ღიმილი აგინათებს, ლალივით კაშკაშა.",
       "category": "Health",
       "generated_at": "2026-10-13T20:56:52.806004"
+    },
+    {
+      "english": "Hello from the forest path!",
+      "georgian": "გამარჯობა ტყის ბილიკიდან!",
+      "category": "Greetings",
+      "generated_at": "2026-10-13T22:21:14.800612"
+    },
+    {
+      "english": "What whispers among the pines?",
+      "georgian": "ფიჭვებს შორის რას ჩურჩულებს?",
+      "category": "Greetings",
+      "generated_at": "2026-10-13T22:21:14.800623"
+    },
+    {
+      "english": "May your steps be moss-soft.",
+      "georgian": "შენს ნაბიჯებს ხავსი რბილად გქონდეს.",
+      "category": "Greetings",
+      "generated_at": "2026-10-13T22:21:14.800625"
+    },
+    {
+      "english": "Speak like the wind in the canopy!",
+      "georgian": "ილაპარაკე ტილოში, როგორც ქარი!",
+      "category": "Greetings",
+      "generated_at": "2026-10-13T22:21:14.800626"
+    },
+    {
+      "english": "Welcome, traveler of the leaf-road!",
+      "georgian": "მობრძანდი ფოთლების გზაზე!",
+      "category": "Greetings",
+      "generated_at": "2026-10-13T22:21:14.800627"
     }
   ],
-  "last_updated": "2026-10-13T20:56:52.806006"
+  "last_updated": "2026-10-13T22:21:14.800629"
 }
