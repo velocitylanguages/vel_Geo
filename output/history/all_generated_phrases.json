@@ -13559,7 +13559,37 @@
       "georgian": "ივარჯიშე, სანამ დუმილი ლოცვად იქცევა.",
       "category": "Wisdom",
       "generated_at": "2026-10-15T02:37:32.230808"
+    },
+    {
+      "english": "Don’t miss the turn, trust the arrow.",
+      "georgian": "არ გამოტოვოთ მოხვევა, ენდეთ ისარს.",
+      "category": "Travel",
+      "generated_at": "2026-10-15T18:04:59.868307"
+    },
+    {
+      "english": "Is this the arrow to the old town?",
+      "georgian": "ეს ისარია ძველ ქალაქამდე?",
+      "category": "Travel",
+      "generated_at": "2026-10-15T18:04:59.868317"
+    },
+    {
+      "english": "My plan flies ahead, like an arrow.",
+      "georgian": "ჩემი გეგმა დაფრინავს, როგორც ისარი.",
+      "category": "Travel",
+      "generated_at": "2026-10-15T18:04:59.868319"
+    },
+    {
+      "english": "Where can I find this arrow route?",
+      "georgian": "სად ვიპოვო ეს ისრის გზა?",
+      "category": "Travel",
+      "generated_at": "2026-10-15T18:04:59.868320"
+    },
+    {
+      "english": "Point me the arrow, to the museum!",
+      "georgian": "მაჩვენეთ ისარი მუზეუმისკენ!",
+      "category": "Travel",
+      "generated_at": "2026-10-15T18:04:59.868321"
     }
   ],
-  "last_updated": "2026-10-15T02:37:32.230810"
+  "last_updated": "2026-10-15T18:04:59.868322"
 }
