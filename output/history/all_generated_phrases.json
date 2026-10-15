@@ -13649,7 +13649,37 @@
       "georgian": "კატა მზეს მისდევს, ჰორიზონს გადაღმა.",
       "category": "Animals",
       "generated_at": "2026-10-15T21:00:31.842686"
+    },
+    {
+      "english": "I feel guarded inside my shield.",
+      "georgian": "ვგრძნობ, ფარს მიმაგრებს გულს.",
+      "category": "Emotions",
+      "generated_at": "2026-10-15T22:54:54.671327"
+    },
+    {
+      "english": "Does your shield hide fear too?",
+      "georgian": "შენს ფარს შიში მალავს, ხომ?",
+      "category": "Emotions",
+      "generated_at": "2026-10-15T22:54:54.671336"
+    },
+    {
+      "english": "My heart is brave, shield-first!",
+      "georgian": "გული მამაცი მეყრდნობა ფარზე!",
+      "category": "Emotions",
+      "generated_at": "2026-10-15T22:54:54.671338"
+    },
+    {
+      "english": "I’m angry, but my shield steadies me.",
+      "georgian": "ვბრაზობ, ფარი კი მიკრავს სიმშვიდეს.",
+      "category": "Emotions",
+      "generated_at": "2026-10-15T22:54:54.671339"
+    },
+    {
+      "english": "I feel safe when the shield sings.",
+      "georgian": "ფარი რომ მღერის, ვმშვიდდები.",
+      "category": "Emotions",
+      "generated_at": "2026-10-15T22:54:54.671343"
     }
   ],
-  "last_updated": "2026-10-15T21:00:31.842688"
+  "last_updated": "2026-10-15T22:54:54.671345"
 }
