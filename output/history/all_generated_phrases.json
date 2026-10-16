@@ -13679,7 +13679,37 @@
       "georgian": "ფარი რომ მღერის, ვმშვიდდები.",
       "category": "Emotions",
       "generated_at": "2026-10-15T22:54:54.671343"
+    },
+    {
+      "english": "How many years has this statue watched?",
+      "georgian": "რამდენი წელია, ეს ქანდაკება აკვირდება?",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T02:32:54.943622"
+    },
+    {
+      "english": "Count seven steps to the statue.",
+      "georgian": "შვიდი ნაბიჯი დაითვალე ქანდაკებამდე.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T02:32:54.943631"
+    },
+    {
+      "english": "The statue stands like ten silent years.",
+      "georgian": "ქანდაკება დგას ათ უხმო წელივით.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T02:32:54.943632"
+    },
+    {
+      "english": "Look, three statues guard the fountain!",
+      "georgian": "ხედავ, სამი ქანდაკება იცავს შადრევანს!",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T02:32:54.943634"
+    },
+    {
+      "english": "Two hands carved the statue’s story.",
+      "georgian": "ორი ხელი ამოკვეთავს ქანდაკების ამბავს.",
+      "category": "Numbers",
+      "generated_at": "2026-10-16T02:32:54.943635"
     }
   ],
-  "last_updated": "2026-10-15T22:54:54.671345"
+  "last_updated": "2026-10-16T02:32:54.943637"
 }
