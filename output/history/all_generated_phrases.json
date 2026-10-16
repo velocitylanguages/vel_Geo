@@ -13709,7 +13709,37 @@
       "georgian": "ორი ხელი ამოკვეთავს ქანდაკების ამბავს.",
       "category": "Numbers",
       "generated_at": "2026-10-16T02:32:54.943635"
+    },
+    {
+      "english": "Will the palace skies brighten today?",
+      "georgian": "დღეს სასახლის ცა გაანათებს?",
+      "category": "Weather",
+      "generated_at": "2026-10-16T17:50:49.474357"
+    },
+    {
+      "english": "Clouds veil the palace towers.",
+      "georgian": "ღრუბლები სასახლის კოშკებს ფარავს.",
+      "category": "Weather",
+      "generated_at": "2026-10-16T17:50:49.474366"
+    },
+    {
+      "english": "Storm bells ring beyond the palace walls!",
+      "georgian": "ელვა-ქუხილი სასახლის კედლებს მიღმა ისმის!",
+      "category": "Weather",
+      "generated_at": "2026-10-16T17:50:49.474367"
+    },
+    {
+      "english": "Look at the palace windows, stars are falling.",
+      "georgian": "სასახლის ფანჯრებიდან ვარსკვლავები ცვივა.",
+      "category": "Weather",
+      "generated_at": "2026-10-16T17:50:49.474371"
+    },
+    {
+      "english": "Bring a cloak, rain gathers by the palace gate.",
+      "georgian": "კაბა წაიღე, წვიმა სასახლის ჭიშკართან მოდის.",
+      "category": "Weather",
+      "generated_at": "2026-10-16T17:50:49.474372"
     }
   ],
-  "last_updated": "2026-10-16T02:32:54.943637"
+  "last_updated": "2026-10-16T17:50:49.474374"
 }
