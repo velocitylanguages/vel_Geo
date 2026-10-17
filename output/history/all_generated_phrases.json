@@ -13919,7 +13919,37 @@
       "georgian": "დღეს გადმოხვალ ხიდზე?",
       "category": "Success",
       "generated_at": "2026-10-17T18:06:03.037856"
+    },
+    {
+      "english": "Aim for the tower’s shadow",
+      "georgian": "დაიმიზნე კოშკის ჩრდილისკენ",
+      "category": "Directions",
+      "generated_at": "2026-10-17T20:13:37.246890"
+    },
+    {
+      "english": "Climb slowly, step by step, up",
+      "georgian": "ნელა ადი, ნაბიჯ-ნაბიჯ ზემოთ",
+      "category": "Directions",
+      "generated_at": "2026-10-17T20:13:37.246899"
+    },
+    {
+      "english": "Which window glows highest?",
+      "georgian": "რომელი სარკმელი უფრო ანათებს?",
+      "category": "Directions",
+      "generated_at": "2026-10-17T20:13:37.246900"
+    },
+    {
+      "english": "Count stones, not worries",
+      "georgian": "დათვალე ქვები, არა დარდები",
+      "category": "Directions",
+      "generated_at": "2026-10-17T20:13:37.246901"
+    },
+    {
+      "english": "Let your voice ring like bells",
+      "georgian": "შენი ხმა ზარივით ახმიანდეს კოშკში",
+      "category": "Directions",
+      "generated_at": "2026-10-17T20:13:37.246901"
     }
   ],
-  "last_updated": "2026-10-17T18:06:03.037858"
+  "last_updated": "2026-10-17T20:13:37.246903"
 }
