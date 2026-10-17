@@ -1,16 +1,6 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "last_3_days": [
-    {
-      "date": "2026-10-14",
-      "categories": [
-        "Home",
-        "Colors",
-        "Food",
-        "Happiness",
-        "Sports"
-      ]
-    },
     {
       "date": "2026-10-15",
       "categories": [
@@ -29,6 +19,12 @@
         "Gratitude",
         "Health",
         "Nature"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "categories": [
+        "Family"
       ]
     }
   ]
