@@ -14099,7 +14099,37 @@
       "georgian": "ვიბილიკობ, ნაბიჯ-ნაბიჯ, ბილიკივით.",
       "category": "Time",
       "generated_at": "2026-10-18T20:11:25.324191"
+    },
+    {
+      "english": "Is that street paved with silver?",
+      "georgian": "ვერცხლის ქუჩას ხომ არ ჰგავს?",
+      "category": "Travel",
+      "generated_at": "2026-10-18T22:14:37.798219"
+    },
+    {
+      "english": "My backpack jingles like silver coins.",
+      "georgian": "ჩემი ჩანთა ვერცხლის მონეტებს ჰგავს.",
+      "category": "Travel",
+      "generated_at": "2026-10-18T22:14:37.798229"
+    },
+    {
+      "english": "Touch the silver ornament, gently.",
+      "georgian": "ვერცხლის ორნამენტს ნაზად შეეხე.",
+      "category": "Travel",
+      "generated_at": "2026-10-18T22:14:37.798230"
+    },
+    {
+      "english": "This river looks moonlit, silver-bright.",
+      "georgian": "ეს მდინარე მთვარით ვერცხლისფრად ანათებს.",
+      "category": "Travel",
+      "generated_at": "2026-10-18T22:14:37.798231"
+    },
+    {
+      "english": "Guide me to the silver bazaar.",
+      "georgian": "ვერცხლის ბაზარში მიმასწავლე, სად არის?",
+      "category": "Travel",
+      "generated_at": "2026-10-18T22:14:37.798232"
     }
   ],
-  "last_updated": "2026-10-18T20:11:25.324193"
+  "last_updated": "2026-10-18T22:14:37.798234"
 }
