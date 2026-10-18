@@ -14069,7 +14069,37 @@
       "georgian": "მოუსმინე, ისტორიებში ფარულ მარგალიტებს.",
       "category": "Education",
       "generated_at": "2026-10-18T18:24:47.274486"
+    },
+    {
+      "english": "At the mountain, I learn patience.",
+      "georgian": "მთასთან მოთმინებას ვსწავლობ.",
+      "category": "Time",
+      "generated_at": "2026-10-18T20:11:25.324178"
+    },
+    {
+      "english": "How high is the mountain today?",
+      "georgian": "დღეს მთა რამდენად მაღალია?",
+      "category": "Time",
+      "generated_at": "2026-10-18T20:11:25.324187"
+    },
+    {
+      "english": "Climb slowly, mountain wind will help.",
+      "georgian": "ნელა ადი, მთის ქარი დაგეხმარება.",
+      "category": "Time",
+      "generated_at": "2026-10-18T20:11:25.324188"
+    },
+    {
+      "english": "Listen, the mountain speaks quietly.",
+      "georgian": "გაიგონე, მთა წყნარად ლაპარაკობს.",
+      "category": "Time",
+      "generated_at": "2026-10-18T20:11:25.324189"
+    },
+    {
+      "english": "I hike, step by step, like a path.",
+      "georgian": "ვიბილიკობ, ნაბიჯ-ნაბიჯ, ბილიკივით.",
+      "category": "Time",
+      "generated_at": "2026-10-18T20:11:25.324191"
     }
   ],
-  "last_updated": "2026-10-18T18:24:47.274488"
+  "last_updated": "2026-10-18T20:11:25.324193"
 }
