@@ -14009,7 +14009,37 @@
       "georgian": "დარჩი, ხავსმა ჩვენი საიდუმლო შეინახოს.",
       "category": "Love",
       "generated_at": "2026-10-18T02:25:43.651036"
+    },
+    {
+      "english": "I’ll set the lantern by the doorway.",
+      "georgian": "კარზე ფარანს დავაყენებ.",
+      "category": "Home",
+      "generated_at": "2026-10-18T17:07:48.211887"
+    },
+    {
+      "english": "Make the room glow like a lantern.",
+      "georgian": "ოთახი ფარნივით გაანათე.",
+      "category": "Home",
+      "generated_at": "2026-10-18T17:07:48.211896"
+    },
+    {
+      "english": "Don’t let the flame forget you.",
+      "georgian": "ალი არ დაგივიწყოს.",
+      "category": "Home",
+      "generated_at": "2026-10-18T17:07:48.211898"
+    },
+    {
+      "english": "The lantern sings without words.",
+      "georgian": "ფარანი სიტყვების გარეშე მღერის.",
+      "category": "Home",
+      "generated_at": "2026-10-18T17:07:48.211899"
+    },
+    {
+      "english": "Turn the lantern toward the window.",
+      "georgian": "ფარანი ფანჯრისკენ შემოაბრუნე.",
+      "category": "Home",
+      "generated_at": "2026-10-18T17:07:48.211900"
     }
   ],
-  "last_updated": "2026-10-18T02:25:43.651038"
+  "last_updated": "2026-10-18T17:07:48.211902"
 }
