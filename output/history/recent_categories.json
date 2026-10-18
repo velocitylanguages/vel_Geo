@@ -1,16 +1,6 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "last_3_days": [
-    {
-      "date": "2026-10-15",
-      "categories": [
-        "Wisdom",
-        "Travel",
-        "Shopping",
-        "Animals",
-        "Emotions"
-      ]
-    },
     {
       "date": "2026-10-16",
       "categories": [
@@ -29,6 +19,12 @@
         "Success",
         "Directions",
         "Colors"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "categories": [
+        "Love"
       ]
     }
   ]
