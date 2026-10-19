@@ -1,16 +1,6 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "last_3_days": [
-    {
-      "date": "2026-10-16",
-      "categories": [
-        "Numbers",
-        "Weather",
-        "Gratitude",
-        "Health",
-        "Nature"
-      ]
-    },
     {
       "date": "2026-10-17",
       "categories": [
@@ -29,6 +19,12 @@
         "Education",
         "Time",
         "Travel"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "categories": [
+        "Emotions"
       ]
     }
   ]
