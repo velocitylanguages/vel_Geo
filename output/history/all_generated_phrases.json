@@ -14399,7 +14399,37 @@
       "georgian": "გორაკებს შორის საზრისს იპოვი?",
       "category": "Success",
       "generated_at": "2026-10-20T21:19:28.690703"
+    },
+    {
+      "english": "Feel the lava—listen to echoes.",
+      "georgian": "იგრძენი ლავა, მოუსმინე ექოს.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T22:56:58.168045"
+    },
+    {
+      "english": "What does ash teach you today?",
+      "georgian": "რას გასწავლით ფერფლი დღეს?",
+      "category": "Directions",
+      "generated_at": "2026-10-20T22:56:58.168055"
+    },
+    {
+      "english": "Keep your breath steady, like magma.",
+      "georgian": "ამოისუნთქე მშვიდად, როგორც მაგმა.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T22:56:58.168056"
+    },
+    {
+      "english": "Watch the crater, don’t rush.",
+      "georgian": "დააკვირდი კრატერს, ნუ იჩქარებ.",
+      "category": "Directions",
+      "generated_at": "2026-10-20T22:56:58.168057"
+    },
+    {
+      "english": "Try the word for volcano power!",
+      "georgian": "სცადე სიტყვა ვულკანის ძალისთვის!",
+      "category": "Directions",
+      "generated_at": "2026-10-20T22:56:58.168058"
     }
   ],
-  "last_updated": "2026-10-20T21:19:28.690705"
+  "last_updated": "2026-10-20T22:56:58.168059"
 }
