@@ -14339,7 +14339,37 @@
       "georgian": "რატომ იძენს ბრინჯაო მწვანეს?",
       "category": "Work",
       "generated_at": "2026-10-20T18:23:12.917283"
+    },
+    {
+      "english": "Whose statue watches our balcony?",
+      "georgian": "ვისი ქანდაკება გვიყურებს აივანზე?",
+      "category": "Family",
+      "generated_at": "2026-10-20T19:48:00.919590"
+    },
+    {
+      "english": "Our family stands like a statue.",
+      "georgian": "ჩვენი ოჯახი ქანდაკებასავით დგას.",
+      "category": "Family",
+      "generated_at": "2026-10-20T19:48:00.919600"
+    },
+    {
+      "english": "Mom, make the statue smile!",
+      "georgian": "დედა, გაუღიმე ქანდაკებას!",
+      "category": "Family",
+      "generated_at": "2026-10-20T19:48:00.919602"
+    },
+    {
+      "english": "Father says the statue tells stories.",
+      "georgian": "მამა ამბობს, ქანდაკება ისტორიებს ჰყვება.",
+      "category": "Family",
+      "generated_at": "2026-10-20T19:48:00.919603"
+    },
+    {
+      "english": "Can we visit the old statue today?",
+      "georgian": "დღეს ძველ ქანდაკებას ვეწვევით?",
+      "category": "Family",
+      "generated_at": "2026-10-20T19:48:00.919604"
     }
   ],
-  "last_updated": "2026-10-20T18:23:12.917285"
+  "last_updated": "2026-10-20T19:48:00.919605"
 }
