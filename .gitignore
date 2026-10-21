@@ -64,3 +64,5 @@ test_output/
 concat_*.txt
 temp_*.mp4
 narration_list.txt
+
+*.pyc

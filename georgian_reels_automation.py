@@ -79,7 +79,7 @@ ENGLISH_VOICE = "en-US-GuyNeural"
 GEORGIAN_VOICE = "ka-GE-GiorgiNeural"  # Native Georgian male voice
 
 # AI Model - loaded from environment
-AI_MODEL = os.getenv("AI_MODEL")
+AI_MODEL = os.getenv("AI_MODEL", "gemini-fast")
 
 def mask_key(k):
     return f"{k[:6]}...{k[-4:]}" if k and len(k) > 10 else ("MISSING" if not k else k)
@@ -213,78 +213,108 @@ def get_rotation_category():
 
 # ============== GEORGIAN CONTENT GENERATION ==============
 
+THEME_ANGLES = [
+    "morning light and first thoughts", "quiet moments before dawn", "evening reflections",
+    "strolling through quiet streets", "rain falling on windows", "fresh scent of morning breeze",
+    "hidden mountain paths", "listening to ocean waves", "gentle silence of the forest",
+    "stars across an open sky", "a warm cup of tea", "artisan craftsmanship and detail",
+    "turning the page of a book", "curiosity and quiet wonder", "unfolding pathways in life",
+    "patience and steady progress", "carrying kindness forward", "stepping into unfamiliar places",
+    "listening closely to others", "the rhythm of walking", "rediscovering simple daily joys",
+    "memories that bring a smile", "unspoken bonds between friends", "sharing laughter with family",
+    "observing city lights from afar", "watching clouds slowly shift", "a sudden burst of courage",
+    "trusting your own rhythm", "finding calm in a busy room", "small daily acts of devotion",
+    "sunlight through autumn leaves", "spring flowers pushing through stone", "winter hearth and warmth",
+    "deep breaths before beginning", "letting go of yesterday's noise", "clarity found in stillness",
+    "the steady tick of the clock", "a compass pointing true north", "crossing an ancient stone bridge",
+    "whispers of the night wind", "ripples across a calm lake", "the courage to try once more",
+    "honest words spoken softly", "discovering beauty in imperfections", "savoring an unhurried morning",
+    "gentle advice for a tired mind", "a friendly face in the crowd", "noticing color in mundane things",
+    "the peaceful silence after dusk", "asking genuine questions", "finding shelter from the storm"
+]
+
+
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
-    """Generate unique English-Georgian phrases via a single AI call."""
+    """Generate 100% unique, fresh Georgian phrases via AI with cumulative retries and no hardcoded fallbacks."""
+    import time
+    import requests
+    import random
 
-    max_attempts = 3
+    category_native = CATEGORIES_GEORGIAN.get(category_english, category_english)
+    used_phrases = get_used_phrases_set()
+    collected_unique_phrases = []
+
+    url = "https://gen.pollinations.ai/v1/chat/completions"
+    max_attempts = 5
+
     for attempt in range(max_attempts):
+        needed = num_phrases - len(collected_unique_phrases)
+        if needed <= 0:
+            break
+
+        if attempt > 0:
+            backoff = min(2 * attempt, 10)
+            print(f"[content] Retry attempt {attempt + 1}/{max_attempts} (waiting {backoff}s, need {needed} more)...")
+            time.sleep(backoff)
+
+        # Vary thematic seed on each attempt to ensure novel concepts and vocabulary
+        seed_theme = random.choice(THEME_ANGLES)
+        request_count = max(needed * 5, 25)
+
+        headers = {"Content-Type": "application/json"}
+        params = {}
+        if POLLINATIONS_API_KEY:
+            if attempt % 2 == 0:
+                headers["Authorization"] = f"Bearer {POLLINATIONS_API_KEY}"
+            else:
+                params["key"] = POLLINATIONS_API_KEY
+
+        prompt = f"""Generate {request_count} SHORT, CREATIVE, UNIQUE {category_english} phrases for English speakers learning Georgian.
+Inspiration theme: "{seed_theme}". Connect each phrase to this theme (metaphorically, literally, or in daily life).
+
+CRITICAL RULES:
+1. Each phrase MUST be COMPLETELY UNIQUE and NEVER repeat common cliché phrases.
+2. Short: 3 to 10 words per language.
+3. Natural pauses: use commas for breathing room in text-to-speech (e.g. "Wake early, plan one small step").
+4. Authentic Georgian: natural, everyday phrasing (Mkhedruli script with natural commas).
+5. AVOID clichés: Do NOT output basic greetings (hello, thank you, goodbye) or cliché slogans ("believe in yourself", "dream big", "never give up", "small steps").
+6. Vary phrase types: reflections, gentle observations, questions, quiet advice.
+
+Return as a JSON array of objects:
+[{"english": "...", "georgian": "...", "pronunciation": "..."}]
+
+Return ONLY valid JSON array."""
+
+        payload = {
+            "model": AI_MODEL or "gemini-fast",
+            "messages": [
+                {"role": "system", "content": "You are a master Georgian language teacher. Produce creative, diverse, natural phrases. Return ONLY valid JSON."},
+                {"role": "user", "content": prompt}
+            ],
+            "temperature": round(random.uniform(1.1, 1.25), 2),
+            "seed": random.randint(1, 999999)
+        }
+
         try:
-            used_phrases = get_used_phrases_set()
-            collected_unique_phrases = []
-
-            import requests
-            url = "https://gen.pollinations.ai/v1/chat/completions"
-
-            # Try both auth methods: Bearer header and query param
-            headers = {
-                "Content-Type": "application/json"
-            }
-            params = {}
-            if POLLINATIONS_API_KEY:
-                if attempt % 2 == 0:
-                    headers["Authorization"] = f"Bearer {POLLINATIONS_API_KEY}"
-                else:
-                    params["key"] = POLLINATIONS_API_KEY
-
-            request_count = max(num_phrases * 4, 20)
-            import random as _rnd
-            _seed_words = ["ocean", "mountain", "forest", "desert", "river", "island", "volcano", "valley", "crystal", "thunder", "twilight", "horizon", "eternity", "whisper", "lantern", "compass", "feather", "pearl", "ruby", "sapphire", "bronze", "silver", "arrow", "shield", "crown", "mirror", "temple", "garden", "harbor", "castle", "market", "bridge", "tower", "fountain", "statue", "palace"]
-            _seed = _rnd.choice(_seed_words)
-            prompt = f"""Generate {request_count} CREATIVE {category_english} phrases for learning Georgian. Theme: {_seed}.
-            Each phrase should connect to the theme "{_seed}" in some way (metaphorically, literally, or culturally).
-
-CRITICAL: Each phrase MUST be unique. NEVER repeat the same idea. Be CREATIVE and VARIED.
-
-Rules:
-- Short: 3-10 words per language
-- Natural commas for pauses
-- Authentic Georgian (Mkhedruli script)
-- AVOID: hello, how are you, good morning, good evening, goodbye, thank you, please, sorry, yes, no, my name is, nice to meet you (these are overused)
-
-Vary the phrase TYPES: some questions, some statements, some exclamations, some commands.
-
-Return JSON array:
-[{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
-
-Return ONLY valid JSON."""
-
-            payload = {
-                "model": AI_MODEL,
-                "messages": [
-                    {"role": "system", "content": "You are a creative Georgian language teacher. Produce VARIED, UNIQUE phrases. Return ONLY valid JSON."},
-                    {"role": "user", "content": prompt}
-                ],
-                "temperature": 1.2
-            }
-
-            auth_method = "Bearer header" if "Authorization" in headers else "query param"
-            print(f"[content] Calling AI (model={AI_MODEL}, auth={auth_method}) for {request_count} candidates...")
+            auth_info = "Bearer" if "Authorization" in headers else "query_param"
+            print(f"[content] Calling AI (model={AI_MODEL or 'gemini-fast'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
             response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
+            
             if response.status_code == 401 and attempt < max_attempts - 1:
-                print(f"[content] Auth failed with {auth_method}, trying alternate method...")
-                raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
-            elif response.status_code != 200:
-                raise Exception(f"AI API returned {response.status_code}: {response.text[:500]}")
+                print(f"[content] Auth failed with {auth_info}, will alternate on next attempt...")
+                continue
+            response.raise_for_status()
 
             data = response.json()
             content = data["choices"][0]["message"]["content"].strip()
-            print(f"[content] Response ({len(content)} chars): {content[:400]}...")
 
+            # Clean markdown code blocks
             json_content = content
-            if "```json" in content:
-                json_content = content.split("```json")[1].split("```")[0].strip()
-            elif "```" in content:
-                json_content = content.split("```")[1].split("```")[0].strip()
+            if "```json" in json_content:
+                json_content = json_content.split("```json")[1].split("```")[0].strip()
+            elif "```" in json_content:
+                json_content = json_content.split("```")[1].split("```")[0].strip()
+
             if not json_content.startswith("["):
                 idx = json_content.find("[")
                 if idx >= 0:
@@ -294,42 +324,49 @@ Return ONLY valid JSON."""
                 if idx >= 0:
                     json_content = json_content[:idx + 1]
 
+            # Remove any trailing commas before closing brackets
+            json_content = re.sub(r',\s*([\]\}])', r'\1', json_content)
+
             phrases = json.loads(json_content)
+            print(f"[content] Parsed {len(phrases)} candidate phrases from AI")
 
             for phrase in phrases:
+                if not isinstance(phrase, dict):
+                    continue
                 if not all(k in phrase for k in ["english", "georgian", "pronunciation"]):
                     continue
-                if len(phrase["english"].split()) > 15:
+                en_text = phrase["english"].strip()
+                if not en_text:
                     continue
-                phrase_en = phrase["english"].strip()
-                if phrase_en.lower() not in used_phrases:
+                if len(en_text.split()) > 15:
+                    continue
+                
+                clean_key = en_text.lower().rstrip(".!?,")
+                if clean_key not in used_phrases:
                     collected_unique_phrases.append(phrase)
-                    used_phrases.add(phrase_en.lower())
+                    used_phrases.add(clean_key)
+                    print(f"  + Added fresh phrase: {en_text}")
+
                 if len(collected_unique_phrases) >= num_phrases:
                     break
 
-            print(f"[content] Got {len(collected_unique_phrases)}/{num_phrases} unique phrases from {len(phrases)} candidates")
-
-            if len(collected_unique_phrases) < min(num_phrases, 3):
-                raise Exception(
-                    f"AI returned only {len(collected_unique_phrases)} valid unique phrases "
-                    f"(needed at least {min(num_phrases, 3)}). Got {len(phrases)} JSON entries but most "
-                    f"could not be parsed as valid JSON."
-                )
-
-            final_phrases = collected_unique_phrases[:num_phrases]
-            if len(final_phrases) < num_phrases:
-                print(f"[content] ⚠️  Only {len(final_phrases)} unique phrases available (requested {num_phrases}), proceeding with {len(final_phrases)}.")
-            add_phrases_to_history(final_phrases, category_english)
-            return final_phrases
+            print(f"[content] Total unique phrases gathered so far: {len(collected_unique_phrases)}/{num_phrases}")
 
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
-    print(f"All attempts failed. Resetting phrase history...")
-    Path("output/history/all_generated_phrases.json").write_text('{"phrases":[],"last_updated":null}')
-    return generate_phrases(category_english, category_japanese)
+    if len(collected_unique_phrases) < min(num_phrases, 3):
+        raise RuntimeError(
+            f"AI generation failed to retrieve enough unique phrases (gathered {len(collected_unique_phrases)}/{num_phrases}). "
+            f"Phrase history preserved; no hardcoded fallbacks used."
+        )
 
+    final_phrases = collected_unique_phrases[:num_phrases]
+    if len(final_phrases) < num_phrases:
+        print(f"[content] ⚠️ Proceeding with {len(final_phrases)} unique fresh phrases (requested {num_phrases}).")
+
+    add_phrases_to_history(final_phrases, category_english)
+    return final_phrases
 
 
 # ============== AUDIO GENERATION ==============
