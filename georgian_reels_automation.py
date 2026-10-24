@@ -4,6 +4,7 @@ Creates engaging video content for learning Georgian language
 """
 
 import os
+import re
 import sys
 import json
 import random
@@ -281,7 +282,7 @@ CRITICAL RULES:
 6. Vary phrase types: reflections, gentle observations, questions, quiet advice.
 
 Return as a JSON array of objects:
-[{"english": "...", "georgian": "...", "pronunciation": "..."}]
+[{{"english": "...", "georgian": "...", "pronunciation": "..."}}]
 
 Return ONLY valid JSON array."""
 
@@ -327,7 +328,19 @@ Return ONLY valid JSON array."""
             # Remove any trailing commas before closing brackets
             json_content = re.sub(r',\s*([\]\}])', r'\1', json_content)
 
-            phrases = json.loads(json_content)
+            phrases = []
+            try:
+                parsed = json.loads(json_content, strict=False)
+                if isinstance(parsed, list):
+                    phrases = parsed
+            except Exception:
+                for m in re.finditer(r'\{[^{}]*\}', json_content):
+                    try:
+                        obj = json.loads(m.group(0), strict=False)
+                        if isinstance(obj, dict):
+                            phrases.append(obj)
+                    except Exception:
+                        pass
             print(f"[content] Parsed {len(phrases)} candidate phrases from AI")
 
             for phrase in phrases:
