@@ -1,12 +1,6 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "last_3_days": [
-    {
-      "date": "2026-10-21",
-      "categories": [
-        "Animals"
-      ]
-    },
     {
       "date": "2026-10-24",
       "categories": [
@@ -24,6 +18,12 @@
         "Work",
         "Travel",
         "Health"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "categories": [
+        "Nature"
       ]
     }
   ]
