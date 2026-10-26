@@ -14849,7 +14849,37 @@
       "georgian": "როცა იკარგები, ჩუმად ჰკითხე.",
       "category": "Time",
       "generated_at": "2026-10-26T21:34:29.234243"
+    },
+    {
+      "english": "Clouds part, her smile finds you",
+      "georgian": "ღრუბლები იშლება, მისი ღიმილი გიპოვის",
+      "category": "Weather",
+      "generated_at": "2026-10-26T23:43:16.891829"
+    },
+    {
+      "english": "Rain taps, like a friendly nod",
+      "georgian": "წვიმა აკაკუნებს, როგორც მეგობრული დაქნევა",
+      "category": "Weather",
+      "generated_at": "2026-10-26T23:43:16.891840"
+    },
+    {
+      "english": "Wind whistles softly, don’t hide",
+      "georgian": "ქარი ჩუმად სტვენს, ნუ იმალები",
+      "category": "Weather",
+      "generated_at": "2026-10-26T23:43:16.891842"
+    },
+    {
+      "english": "Sun breaks through, a familiar warmth",
+      "georgian": "მზე იჭრება, ნაცნობი სითბო ჩნდება",
+      "category": "Weather",
+      "generated_at": "2026-10-26T23:43:16.891843"
+    },
+    {
+      "english": "Storm passes, and her face returns",
+      "georgian": "ქარიშხალი გადაივლის, მისი სახე ბრუნდება",
+      "category": "Weather",
+      "generated_at": "2026-10-26T23:43:16.891843"
     }
   ],
-  "last_updated": "2026-10-26T21:34:29.234244"
+  "last_updated": "2026-10-26T23:43:16.891845"
 }
