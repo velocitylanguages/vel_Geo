@@ -14879,7 +14879,37 @@
       "georgian": "ქარიშხალი გადაივლის, მისი სახე ბრუნდება",
       "category": "Weather",
       "generated_at": "2026-10-26T23:43:16.891843"
+    },
+    {
+      "english": "A cat listens, storms pass overhead.",
+      "georgian": "კატა უსმენს, ჭექა-ქუხილი გადის.",
+      "category": "Animals",
+      "generated_at": "2026-10-27T10:58:31.903626"
+    },
+    {
+      "english": "Pigeons tuck in, roofs become homes.",
+      "georgian": "მტრედები იკეცებიან, სახურავი თავშესაფარია.",
+      "category": "Animals",
+      "generated_at": "2026-10-27T10:58:31.903637"
+    },
+    {
+      "english": "The dog waits, rain can’t hurry him.",
+      "georgian": "ძაღლი ელოდება, წვიმა ვერ აჩქარებს.",
+      "category": "Animals",
+      "generated_at": "2026-10-27T10:58:31.903639"
+    },
+    {
+      "english": "A fox slips under leaves, safe enough.",
+      "georgian": "მელა ფოთლებში ეფარება, საკმარისია.",
+      "category": "Animals",
+      "generated_at": "2026-10-27T10:58:31.903640"
+    },
+    {
+      "english": "Hedgehog curls up, the wind softens.",
+      "georgian": "ზღარბი იხვევა, ქარი თბება.",
+      "category": "Animals",
+      "generated_at": "2026-10-27T10:58:31.903641"
     }
   ],
-  "last_updated": "2026-10-26T23:43:16.891845"
+  "last_updated": "2026-10-27T10:58:31.903643"
 }
