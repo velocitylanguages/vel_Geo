@@ -15239,7 +15239,37 @@
       "georgian": "გრძნობ, როგორ დრო იწელება, თბილად?",
       "category": "Time",
       "generated_at": "2026-10-29T16:09:02.707928"
+    },
+    {
+      "english": "Before dawn, even birds seem to listen.",
+      "georgian": "გათენებამდე, ჩიტებიც კი უსმენენ.",
+      "category": "Nature",
+      "generated_at": "2026-10-29T18:42:48.481834"
+    },
+    {
+      "english": "The sky holds its breath, softly, tonight.",
+      "georgian": "ცას სუნთქვა ეკავება, ნაზად, ღამით.",
+      "category": "Nature",
+      "generated_at": "2026-10-29T18:42:48.481842"
+    },
+    {
+      "english": "I water the plants, while silence warms.",
+      "georgian": "ყვავილებს ვრწყავ, სანამ სიჩუმე თბება.",
+      "category": "Nature",
+      "generated_at": "2026-10-29T18:42:48.481844"
+    },
+    {
+      "english": "What whispers the river, at this hour?",
+      "georgian": "რას ჩურჩულებს მდინარე, ამ დროს?",
+      "category": "Nature",
+      "generated_at": "2026-10-29T18:42:48.481845"
+    },
+    {
+      "english": "Streetlights fade, and thoughts slow down.",
+      "georgian": "ქუჩის ნათურები ქრება, ფიქრები ნელდება.",
+      "category": "Nature",
+      "generated_at": "2026-10-29T18:42:48.481846"
     }
   ],
-  "last_updated": "2026-10-29T16:09:02.707930"
+  "last_updated": "2026-10-29T18:42:48.481848"
 }
