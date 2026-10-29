@@ -15209,7 +15209,37 @@
       "georgian": "ჩაწერე სურვილები, როგორც შუქი შორს მიდის.",
       "category": "Directions",
       "generated_at": "2026-10-29T11:45:47.364817"
+    },
+    {
+      "english": "Let the kettle hum, no rush.",
+      "georgian": "ქვაბი ჩუმად დუღს, არ ჩქარო.",
+      "category": "Time",
+      "generated_at": "2026-10-29T16:09:02.707913"
+    },
+    {
+      "english": "Coffee lingers, like morning light.",
+      "georgian": "ყავა იგემებს, დილის შუქივით ჩერდება.",
+      "category": "Time",
+      "generated_at": "2026-10-29T16:09:02.707924"
+    },
+    {
+      "english": "Bread tears slowly, breakfast breathes.",
+      "georgian": "პური ნელა იშლება, დილა სუნთქავს.",
+      "category": "Time",
+      "generated_at": "2026-10-29T16:09:02.707925"
+    },
+    {
+      "english": "Spoon pauses, thoughts soften.",
+      "georgian": "კოვზი ჩერდება, ფიქრები რბილდება.",
+      "category": "Time",
+      "generated_at": "2026-10-29T16:09:02.707927"
+    },
+    {
+      "english": "Do you feel time stretch, warmly?",
+      "georgian": "გრძნობ, როგორ დრო იწელება, თბილად?",
+      "category": "Time",
+      "generated_at": "2026-10-29T16:09:02.707928"
     }
   ],
-  "last_updated": "2026-10-29T11:45:47.364819"
+  "last_updated": "2026-10-29T16:09:02.707930"
 }
