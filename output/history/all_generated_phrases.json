@@ -15479,7 +15479,37 @@
       "georgian": "ერთზე გაჩერდი, დანარჩენს შეუძლია დალოდება.",
       "category": "Numbers",
       "generated_at": "2026-10-30T23:07:02.555512"
+    },
+    {
+      "english": "Moss-green, trail whispers under my boots.",
+      "georgian": "ხავსივით მწვანე, ბილიკი ჩურჩულებს ჩექმებთან.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T11:15:05.082485"
+    },
+    {
+      "english": "Stone-gray, maps fade, path remains.",
+      "georgian": "ქვათანა ნაცრისფერი, რუკა ქრება, გზა რჩება.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T11:15:05.082493"
+    },
+    {
+      "english": "Pine-dark green, hidden stairs appear.",
+      "georgian": "ფიჭვის მუქი მწვანე, ფარული კიბეები ჩნდება.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T11:15:05.082495"
+    },
+    {
+      "english": "Cloud-blue, silence guides my detour.",
+      "georgian": "ღრუბლის ლურჯი, დუმილი მიგითითებს გადახვევას.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T11:15:05.082496"
+    },
+    {
+      "english": "Sage-green, I follow faint footsteps.",
+      "georgian": "ჭალების მწვანე, სუსტ ნაბიჯებს ვყვები.",
+      "category": "Colors",
+      "generated_at": "2026-10-31T11:15:05.082497"
     }
   ],
-  "last_updated": "2026-10-30T23:07:02.555513"
+  "last_updated": "2026-10-31T11:15:05.082499"
 }
