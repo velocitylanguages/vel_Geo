@@ -15569,7 +15569,37 @@
       "georgian": "შენ ხარ, როგორც თბილი პური.",
       "category": "Food",
       "generated_at": "2026-10-31T17:24:17.083948"
+    },
+    {
+      "english": "Clouds pass, we laugh together at home.",
+      "georgian": "ღრუბლები გადის, ჩვენ სახლში ერთად ვიცინით.",
+      "category": "Weather",
+      "generated_at": "2026-10-31T20:02:00.871135"
+    },
+    {
+      "english": "Rain taps, family jokes warm the room.",
+      "georgian": "წვიმა აკაკუნებს, ოჯახის ხუმრობები ათბობს ოთახს.",
+      "category": "Weather",
+      "generated_at": "2026-10-31T20:02:00.871144"
+    },
+    {
+      "english": "Wind hums, we trade smiles at breakfast.",
+      "georgian": "ქარი ჩურჩულებს, საუზმეზე ღიმილებს ვუზიარებთ.",
+      "category": "Weather",
+      "generated_at": "2026-10-31T20:02:00.871146"
+    },
+    {
+      "english": "Sunlight pours in, our laughter spills too.",
+      "georgian": "მზის შუქი შემოდის, ჩვენი სიცილიც იღვრება.",
+      "category": "Weather",
+      "generated_at": "2026-10-31T20:02:00.871147"
+    },
+    {
+      "english": "Snow falls softly, we cuddle closer, joking.",
+      "georgian": "თოვლი ნაზად მოდის, უფრო ახლოს ვიკრებით, ვხუმრობთ.",
+      "category": "Weather",
+      "generated_at": "2026-10-31T20:02:00.871148"
     }
   ],
-  "last_updated": "2026-10-31T17:24:17.083950"
+  "last_updated": "2026-10-31T20:02:00.871150"
 }
