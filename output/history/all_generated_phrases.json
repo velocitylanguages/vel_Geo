@@ -15659,7 +15659,37 @@
       "georgian": "ჩემს აივნიდან, ქალაქის ხაზი ნელა ისუნთქავს.",
       "category": "Travel",
       "generated_at": "2026-11-01T12:01:39.771052"
+    },
+    {
+      "english": "Walk to the beat, keep it steady.",
+      "georgian": "იარეთ რითმში, შეინარჩუნეთ ტემპი.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T16:03:07.980934"
+    },
+    {
+      "english": "Count heel, then breathe, then move.",
+      "georgian": "დაითვალეთ ქუსლი, ჩაისუნთქეთ, მერე იმოძრავეთ.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T16:03:07.980961"
+    },
+    {
+      "english": "Let your steps answer the street.",
+      "georgian": "თქვენს ნაბიჯებს მიეცით გზა, ქუჩა უპასუხებს.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T16:03:07.980963"
+    },
+    {
+      "english": "Pause, feel rhythm, start again gently.",
+      "georgian": "შეჩერდით, იგრძნეთ რიტმი, მერე ნაზად.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T16:03:07.980964"
+    },
+    {
+      "english": "When pace speeds, soften your shoulders.",
+      "georgian": "როცა ტემპი ჩქარდება, მხრები შეარბილეთ.",
+      "category": "Directions",
+      "generated_at": "2026-11-01T16:03:07.980966"
     }
   ],
-  "last_updated": "2026-11-01T12:01:39.771054"
+  "last_updated": "2026-11-01T16:03:07.980967"
 }
