@@ -1,16 +1,6 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "last_3_days": [
-    {
-      "date": "2026-10-29",
-      "categories": [
-        "Directions",
-        "Time",
-        "Nature",
-        "Music",
-        "Love"
-      ]
-    },
     {
       "date": "2026-10-30",
       "categories": [
@@ -29,6 +19,12 @@
         "Food",
         "Weather",
         "Home"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "categories": [
+        "Travel"
       ]
     }
   ]
