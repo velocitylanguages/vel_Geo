@@ -3,10 +3,6 @@ name: Velocity Georgian - Daily 5x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '40 5 * * *'   # 9:40 AM GET / 1:40 AM EDT
-    - cron: '15 9 * * *'   # 1:15 PM GET / 5:15 AM EDT
-    - cron: '45 12 * * *'  # 4:45 PM GET / 8:45 AM EDT
-    - cron: '15 16 * * *'  # 8:15 PM GET / 12:15 PM EDT
     - cron: '30 19 * * *'  # 11:30 PM GET / 3:30 PM EDT
 
   # Allow manual trigger for testing
