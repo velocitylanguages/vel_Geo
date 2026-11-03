@@ -80,7 +80,7 @@ ENGLISH_VOICE = "en-US-GuyNeural"
 GEORGIAN_VOICE = "ka-GE-GiorgiNeural"  # Native Georgian male voice
 
 # AI Model - loaded from environment
-AI_MODEL = os.getenv("AI_MODEL", "gemini-fast")
+AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-5.4-nano")
 
 def mask_key(k):
     return f"{k[:6]}...{k[-4:]}" if k and len(k) > 10 else ("MISSING" if not k else k)
@@ -287,7 +287,7 @@ Return as a JSON array of objects:
 Return ONLY valid JSON array."""
 
         payload = {
-            "model": AI_MODEL or "gemini-fast",
+            "model": AI_MODEL or "openai/gpt-5.4-nano",
             "messages": [
                 {"role": "system", "content": "You are a master Georgian language teacher. Produce creative, diverse, natural phrases. Return ONLY valid JSON."},
                 {"role": "user", "content": prompt}
@@ -298,7 +298,7 @@ Return ONLY valid JSON array."""
 
         try:
             auth_info = "Bearer" if "Authorization" in headers else "query_param"
-            print(f"[content] Calling AI (model={AI_MODEL or 'gemini-fast'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
+            print(f"[content] Calling AI (model={AI_MODEL or 'openai/gpt-5.4-nano'}, auth={auth_info}, theme='{seed_theme}') requesting {request_count} candidates...")
             response = requests.post(url, headers=headers, params=params, json=payload, timeout=60)
             
             if response.status_code == 401 and attempt < max_attempts - 1:
