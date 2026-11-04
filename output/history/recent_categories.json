@@ -1,16 +1,6 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "last_3_days": [
-    {
-      "date": "2026-11-01",
-      "categories": [
-        "Travel",
-        "Directions",
-        "Family",
-        "Work",
-        "Success"
-      ]
-    },
     {
       "date": "2026-11-02",
       "categories": [
@@ -22,6 +12,12 @@
       "date": "2026-11-03",
       "categories": [
         "Numbers"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "categories": [
+        "Shopping"
       ]
     }
   ]
