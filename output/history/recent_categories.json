@@ -1,12 +1,6 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "last_3_days": [
-    {
-      "date": "2026-11-03",
-      "categories": [
-        "Numbers"
-      ]
-    },
     {
       "date": "2026-11-04",
       "categories": [
@@ -17,6 +11,12 @@
       "date": "2026-11-05",
       "categories": [
         "Work"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "categories": [
+        "Education"
       ]
     }
   ]
