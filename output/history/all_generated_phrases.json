@@ -16114,7 +16114,42 @@
       "transliteration": "Sagamo modis, cota visaubrot.",
       "category": "Time",
       "generated_at": "2026-11-10T09:23:30.058237"
+    },
+    {
+      "english": "I ate one apple today.",
+      "georgian": "მე ერთი ვაშლი დღეს ვჭამე.",
+      "transliteration": "me erti vashli dghes vchame.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:27:18.318567"
+    },
+    {
+      "english": "Give me two cups of tea.",
+      "georgian": "მომეცი ორი ჭიქა ჩაი.",
+      "transliteration": "mometsi ori chip’a chai.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:27:18.318584"
+    },
+    {
+      "english": "I need three more minutes.",
+      "georgian": "მჭირდება კიდევ სამი წუთი.",
+      "transliteration": "mchirdeba kidev sami ts’ut’i.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:27:18.318586"
+    },
+    {
+      "english": "We bought four oranges yesterday.",
+      "georgian": "გუშინ ოთხი ფორთოხალი ვიყიდეთ.",
+      "transliteration": "ghushin otkhi p’ortokhali viyidet.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:27:18.318589"
+    },
+    {
+      "english": "Take five steps back, please.",
+      "georgian": "ხუთი ნაბიჯი უკან დაიხიე, გთხოვ.",
+      "transliteration": "khuti nabiji ukun daik’ie gtshov.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T19:27:18.318591"
     }
   ],
-  "last_updated": "2026-11-10T09:23:30.058239"
+  "last_updated": "2026-11-10T19:27:18.318593"
 }
