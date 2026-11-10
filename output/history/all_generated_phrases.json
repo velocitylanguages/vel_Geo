@@ -16079,7 +16079,42 @@
       "georgian": "კიბის ნათურა, ჩვენი ოჯახის შუქურა.",
       "category": "Family",
       "generated_at": "2026-11-10T02:24:15.958730"
+    },
+    {
+      "english": "Morning arrives, I open the window.",
+      "georgian": "დილა მოდის, ფანჯარას ვაღებ.",
+      "transliteration": "Dila modis, panjaras vageb.",
+      "category": "Time",
+      "generated_at": "2026-11-10T09:23:30.058219"
+    },
+    {
+      "english": "At sunrise, my tea tastes new.",
+      "georgian": "ამომავალ მზეზე ჩაი ახალი გემო აქვს.",
+      "transliteration": "Amomaval mzesze chai axali gemo aqvs.",
+      "category": "Time",
+      "generated_at": "2026-11-10T09:23:30.058231"
+    },
+    {
+      "english": "By noon, I’m already thinking ahead.",
+      "georgian": "შუადღემდე უკვე წინასწარ ვფიქრობ.",
+      "transliteration": "Shuaddemde ukve winaswar vfikrob.",
+      "category": "Time",
+      "generated_at": "2026-11-10T09:23:30.058234"
+    },
+    {
+      "english": "Afternoon drifts slowly, no rush.",
+      "georgian": "საღამომდე ნელა მიედინება, არ ჩქარობს.",
+      "transliteration": "Sagamomde nela mideineba, ar chqarobs.",
+      "category": "Time",
+      "generated_at": "2026-11-10T09:23:30.058235"
+    },
+    {
+      "english": "Evening comes, let’s talk a little.",
+      "georgian": "საღამო მოდის, ცოტა ვისაუბროთ.",
+      "transliteration": "Sagamo modis, cota visaubrot.",
+      "category": "Time",
+      "generated_at": "2026-11-10T09:23:30.058237"
     }
   ],
-  "last_updated": "2026-11-10T02:24:15.958732"
+  "last_updated": "2026-11-10T09:23:30.058239"
 }
