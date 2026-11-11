@@ -16219,7 +16219,42 @@
       "transliteration": "roch aitsin i, chemi sazrunavi qreba",
       "category": "Love",
       "generated_at": "2026-11-10T22:06:00.894114"
+    },
+    {
+      "english": "Hi there, how are you today?",
+      "georgian": "გამარჯობა, როგორ ხარ დღეს?",
+      "transliteration": "gamajroba, rogora xar dghes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T00:18:17.247748"
+    },
+    {
+      "english": "Hello! Are you learning Georgian now?",
+      "georgian": "გამარჯობა! ახლა ხომ სწავლობ ქართულს?",
+      "transliteration": "gamajroba! axla khom swavlob kartuls?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T00:18:17.247761"
+    },
+    {
+      "english": "Welcome! Let’s talk a bit today.",
+      "georgian": "კეთილი იყოს შენი მობრძანება! ცოტას ვილაპარაკოთ.",
+      "transliteration": "k’etili ikos sheni mobrdzaneba! tsotas vilaparako’t",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T00:18:17.247762"
+    },
+    {
+      "english": "Hi, nice to meet you!",
+      "georgian": "გამარჯობა, სასიამოვნოა შენი გაცნობა!",
+      "transliteration": "gamajroba, sasiaqvneloa sheni gacnoba!",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T00:18:17.247764"
+    },
+    {
+      "english": "Good morning! Did you sleep well?",
+      "georgian": "დილა მშვიდობისა! კარგად გეძინა?",
+      "transliteration": "dila mshvidobisа! kargad gezhina?",
+      "category": "Greetings",
+      "generated_at": "2026-11-11T00:18:17.247765"
     }
   ],
-  "last_updated": "2026-11-10T22:06:00.894116"
+  "last_updated": "2026-11-11T00:18:17.247769"
 }
