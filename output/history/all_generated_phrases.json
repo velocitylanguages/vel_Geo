@@ -16254,7 +16254,42 @@
       "transliteration": "dila mshvidobisа! kargad gezhina?",
       "category": "Greetings",
       "generated_at": "2026-11-11T00:18:17.247765"
+    },
+    {
+      "english": "Please write the answer, neatly.",
+      "georgian": "გთხოვ, დაწერე პასუხი, მოწესრიგებულად.",
+      "transliteration": "gvtxov, datsere pasuxi, motsesrigebulad.",
+      "category": "Education",
+      "generated_at": "2026-11-11T04:26:57.096509"
+    },
+    {
+      "english": "Repeat it slowly, and feel it.",
+      "georgian": "გაიმეორე ნელა, და იგრძენი.",
+      "transliteration": "gaimeore nela, da igdzəni.",
+      "category": "Education",
+      "generated_at": "2026-11-11T04:26:57.096522"
+    },
+    {
+      "english": "Listen again, then answer your question.",
+      "georgian": "მოუსმინე თავიდან, მერე უპასუხე.",
+      "transliteration": "mousmine tadavidan, mere upasuxe.",
+      "category": "Education",
+      "generated_at": "2026-11-11T04:26:57.096523"
+    },
+    {
+      "english": "Don’t worry, make small mistakes.",
+      "georgian": "არ ინერვიულო, დაუშვი მცირე შეცდომები.",
+      "transliteration": "ar inerivjulo, daushi mcire shecdomebi.",
+      "category": "Education",
+      "generated_at": "2026-11-11T04:26:57.096524"
+    },
+    {
+      "english": "Try one new word today.",
+      "georgian": "დღეს სცადე ერთი ახალი სიტყვა.",
+      "transliteration": "dges scade ert’i axali sit’qva.",
+      "category": "Education",
+      "generated_at": "2026-11-11T04:26:57.096526"
     }
   ],
-  "last_updated": "2026-11-11T00:18:17.247769"
+  "last_updated": "2026-11-11T04:26:57.096527"
 }
