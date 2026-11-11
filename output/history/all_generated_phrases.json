@@ -16324,7 +16324,42 @@
       "transliteration": "dshed'e das ghRma iisfer sharfs",
       "category": "Colors",
       "generated_at": "2026-11-11T19:22:19.050651"
+    },
+    {
+      "english": "I’m hungry, let’s eat something now.",
+      "georgian": "მშია, ახლა რამე ვჭამოთ.",
+      "transliteration": "mshi-a, akhla rame vchamot",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:03.028912"
+    },
+    {
+      "english": "This bread is warm, smell it!",
+      "georgian": "ეს პური თბილია, გაიყნოსე!",
+      "transliteration": "es puri tbili-a, gaiknose!",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:03.028923"
+    },
+    {
+      "english": "Please pass the bread to me.",
+      "georgian": "მომაწოდე პური, გთხოვ.",
+      "transliteration": "momap’ode puri, gtxov",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:03.028925"
+    },
+    {
+      "english": "Add more cheese, it’s perfect.",
+      "georgian": "მეტი ყველი დაამატე, იდეალურია.",
+      "transliteration": "meti qveli daamate, idealuria",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:03.028927"
+    },
+    {
+      "english": "Can I have another bite, please?",
+      "georgian": "კიდევ ერთი ლუკმა მომეცი, გთხოვ.",
+      "transliteration": "kidev erthi lukma mometsi, gtxov",
+      "category": "Food",
+      "generated_at": "2026-11-11T20:59:03.028929"
     }
   ],
-  "last_updated": "2026-11-11T19:22:19.050652"
+  "last_updated": "2026-11-11T20:59:03.028931"
 }
