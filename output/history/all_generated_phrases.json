@@ -16499,7 +16499,42 @@
       "transliteration": "Mogismen, sitkvioebi rom gagvetishos.",
       "category": "Friendship",
       "generated_at": "2026-11-12T19:40:27.361865"
+    },
+    {
+      "english": "Thank you for teaching me today.",
+      "georgian": "გმადლობთ, რომ დღეს მასწავლეთ.",
+      "transliteration": "Gmadlobt, rom dghes maswavlet.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:13:31.452450"
+    },
+    {
+      "english": "I appreciate your patience with me.",
+      "georgian": "მადლობელი ვარ თქვენი მოთმინებისთვის.",
+      "transliteration": "Mada. lobeli var tkveni motminebistvis.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:13:31.452462"
+    },
+    {
+      "english": "Thanks for correcting my mistakes kindly.",
+      "georgian": "გმადლობთ, რომ ჩემს შეცდომებს ნაზად მაკორექტირებთ.",
+      "transliteration": "Gmadlobt, rom chems shecdomebs nazad makoreqtirebts.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:13:31.452464"
+    },
+    {
+      "english": "Your words make learning feel easier.",
+      "georgian": "თქვენი სიტყვები სწავლას უფრო მარტივს ხდის.",
+      "transliteration": "Tqveni sitqvebi swavlas ufro martivs khdis.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:13:31.452466"
+    },
+    {
+      "english": "I’m grateful for your clear examples.",
+      "georgian": "მადლობელი ვარ თქვენი ნათელი მაგალითებისთვის.",
+      "transliteration": "Mada. lobeli var tkveni nateli magaliTebistvis.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-12T21:13:31.452467"
     }
   ],
-  "last_updated": "2026-11-12T19:40:27.361866"
+  "last_updated": "2026-11-12T21:13:31.452469"
 }
