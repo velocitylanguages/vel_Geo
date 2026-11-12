@@ -16534,7 +16534,42 @@
       "transliteration": "Mada. lobeli var tkveni nateli magaliTebistvis.",
       "category": "Gratitude",
       "generated_at": "2026-11-12T21:13:31.452467"
+    },
+    {
+      "english": "How do I get to the station?",
+      "georgian": "როგორ მივიდე სადგურამდე?",
+      "transliteration": "rogor mividе sadguremde?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:31:24.546559"
+    },
+    {
+      "english": "Is this the right bus for downtown?",
+      "georgian": "ეს სწორი ავტობუსია ქალაქის ცენტრისთვის?",
+      "transliteration": "es swori avtobusia qalaqis centreshtvis?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:31:24.546570"
+    },
+    {
+      "english": "Where can I buy a metro card?",
+      "georgian": "სად ვიყიდო მეტროს ბარათი?",
+      "transliteration": "sad viyido metro's barati?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:31:24.546572"
+    },
+    {
+      "english": "Please show me on the map.",
+      "georgian": "მაჩვენეთ, რუკაზე, გთხოვთ.",
+      "transliteration": "machvenet, rukaze, gtzhovt?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:31:24.546574"
+    },
+    {
+      "english": "What time does the next train leave?",
+      "georgian": "რამდენზე მიდის შემდეგი მატარებელი?",
+      "transliteration": "ramdenze mdis shemdegi matarabeli?",
+      "category": "Travel",
+      "generated_at": "2026-11-12T22:31:24.546575"
     }
   ],
-  "last_updated": "2026-11-12T21:13:31.452469"
+  "last_updated": "2026-11-12T22:31:24.546577"
 }
