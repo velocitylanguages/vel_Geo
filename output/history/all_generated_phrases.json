@@ -16394,7 +16394,42 @@
       "transliteration": "dasvi erti Cheshmariti kiTxva, da isuntqe.",
       "category": "Wisdom",
       "generated_at": "2026-11-11T23:15:30.879084"
+    },
+    {
+      "english": "Family dinner is waiting, come in.",
+      "georgian": "ოჯახის სადილი გელოდება, შემოდი.",
+      "transliteration": "ojaxis sadili gelodeba, shemodi",
+      "category": "Family",
+      "generated_at": "2026-11-12T01:43:15.763693"
+    },
+    {
+      "english": "Mom, where are my socks?",
+      "georgian": "დედა, სად არის ჩემი წინდები?",
+      "transliteration": "deda, sad aris chemi tsindebi",
+      "category": "Family",
+      "generated_at": "2026-11-12T01:43:15.763706"
+    },
+    {
+      "english": "Dad, can we help with dishes?",
+      "georgian": "მამა, შეგვიძლია ჭურჭლის რეცხვა?",
+      "transliteration": "mama, shegvidzlia churtslis recxva",
+      "category": "Family",
+      "generated_at": "2026-11-12T01:43:15.763707"
+    },
+    {
+      "english": "Grandpa, tell me about today.",
+      "georgian": "ბაბუ, მიყვები დღეს რა მოხდა?",
+      "transliteration": "babuo, miwyebi dges ra mkhdeba",
+      "category": "Family",
+      "generated_at": "2026-11-12T01:43:15.763708"
+    },
+    {
+      "english": "Grandma, I brought your tea.",
+      "georgian": "ბებია, ჩაი მოგიტანე.",
+      "transliteration": "bebia, chai mogitane",
+      "category": "Family",
+      "generated_at": "2026-11-12T01:43:15.763709"
     }
   ],
-  "last_updated": "2026-11-11T23:15:30.879086"
+  "last_updated": "2026-11-12T01:43:15.763711"
 }
