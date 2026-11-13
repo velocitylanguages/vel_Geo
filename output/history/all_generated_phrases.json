@@ -16604,7 +16604,42 @@
       "transliteration": "yoveli patara kargi momenti mnisvnelovania.",
       "category": "Happiness",
       "generated_at": "2026-11-13T00:45:58.872844"
+    },
+    {
+      "english": "I’m starting work now, quietly.",
+      "georgian": "ახლა ვიწყებ მუშაობას, მშვიდად.",
+      "transliteration": "akhla vitsqeb mushaobas, mshvidad.",
+      "category": "Work",
+      "generated_at": "2026-11-13T04:50:13.704607"
+    },
+    {
+      "english": "Let’s open the documents, please.",
+      "georgian": "გთხოვთ, გავხსნათ დოკუმენტები.",
+      "transliteration": "gtxovt, gavkhsnat dokumentebi.",
+      "category": "Work",
+      "generated_at": "2026-11-13T04:50:13.704625"
+    },
+    {
+      "english": "Please update the status for me.",
+      "georgian": "გთხოვთ, მომწერეთ სტატუსი.",
+      "transliteration": "gtxovt, momts'eret statusi.",
+      "category": "Work",
+      "generated_at": "2026-11-13T04:50:13.704627"
+    },
+    {
+      "english": "I’ll review the file, in minutes.",
+      "georgian": "ფაილს გადავხედავ, წუთებში.",
+      "transliteration": "fayls gadavkhedav, ts'ut'ebshi.",
+      "category": "Work",
+      "generated_at": "2026-11-13T04:50:13.704628"
+    },
+    {
+      "english": "Send it again, I didn’t get it.",
+      "georgian": "გადამიგზავნეთ, ვერ მივიღე.",
+      "transliteration": "gada migzavnეთ, ver mivighe.",
+      "category": "Work",
+      "generated_at": "2026-11-13T04:50:13.704630"
     }
   ],
-  "last_updated": "2026-11-13T00:45:58.872846"
+  "last_updated": "2026-11-13T04:50:13.704632"
 }
