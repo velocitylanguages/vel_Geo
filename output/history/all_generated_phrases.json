@@ -16709,7 +16709,42 @@
       "transliteration": "mesmis, kurdgheli ikhit khatunavs.",
       "category": "Animals",
       "generated_at": "2026-11-13T20:42:30.657909"
+    },
+    {
+      "english": "I feel calm, like warm sunlight.",
+      "georgian": "მშვიდად ვარ, როგორც თბილი მზის სხივი.",
+      "transliteration": "mshvidad var, rogorc tbili mzis sxivi",
+      "category": "Emotions",
+      "generated_at": "2026-11-13T22:18:45.789059"
+    },
+    {
+      "english": "My face blushes, I feel embarrassed.",
+      "georgian": "გავწითლდი, თავს უხერხულად ვგრძნობ.",
+      "transliteration": "gavtsitqldi, tavs uxerxulad vgrdzob",
+      "category": "Emotions",
+      "generated_at": "2026-11-13T22:18:45.789073"
+    },
+    {
+      "english": "I’m nervous before speaking, then steady.",
+      "georgian": "ვნერვიულობ სანამ ვილაპარაკებ, მერე ვმშვიდდები.",
+      "transliteration": "vnerviulob sanam vilaparakeb, mer vmsubddebi",
+      "category": "Emotions",
+      "generated_at": "2026-11-13T22:18:45.789075"
+    },
+    {
+      "english": "I feel relieved, the worry is gone.",
+      "georgian": "გამომეშვა, ნერვიულობა გაქრა.",
+      "transliteration": "gamotmshva, nerviuloba gaqra",
+      "category": "Emotions",
+      "generated_at": "2026-11-13T22:18:45.789076"
+    },
+    {
+      "english": "I’m excited, I can’t wait today.",
+      "georgian": "აღფრთოვანებული ვარ, დღეს ვერ ვითმენ.",
+      "transliteration": "aghp’rtovanebuli var, dghes ver vitmen",
+      "category": "Emotions",
+      "generated_at": "2026-11-13T22:18:45.789077"
     }
   ],
-  "last_updated": "2026-11-13T20:42:30.657911"
+  "last_updated": "2026-11-13T22:18:45.789079"
 }
