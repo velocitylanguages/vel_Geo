@@ -16674,7 +16674,42 @@
       "transliteration": "modit, ertad gavatsqot supra.",
       "category": "Home",
       "generated_at": "2026-11-13T19:21:48.453778"
+    },
+    {
+      "english": "The cat walks softly, toward the kitchen.",
+      "georgian": "კატა ნაზად მიდის, სამზარეულოსკენ.",
+      "transliteration": "kata nazad midis, samzareulosken.",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:42:30.657892"
+    },
+    {
+      "english": "My dog sleeps, but his tail moves.",
+      "georgian": "ჩემი ძაღლი სძინავს, მაგრამ კუდი მოძრაობს.",
+      "transliteration": "chemi dzaghli dzinavs, magram kudi modzraobs.",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:42:30.657904"
+    },
+    {
+      "english": "A bird lands near us, chirping.",
+      "georgian": "ჩიტი ჩვენთან ახლოს ეშვება, ჭიკჭიკებს.",
+      "transliteration": "chiti chventan halos eshveba, chikchikebs.",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:42:30.657906"
+    },
+    {
+      "english": "The squirrel grabs a nut, fast.",
+      "georgian": "ციყვისკენ ნიგოზს იჭერს, სწრაფად.",
+      "transliteration": "tsykvisken nigozs ichers, tsprapad.",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:42:30.657908"
+    },
+    {
+      "english": "I see a rabbit hop, over there.",
+      "georgian": "მესმის, კურდღელი იქით ხტუნავს.",
+      "transliteration": "mesmis, kurdgheli ikhit khatunavs.",
+      "category": "Animals",
+      "generated_at": "2026-11-13T20:42:30.657909"
     }
   ],
-  "last_updated": "2026-11-13T19:21:48.453780"
+  "last_updated": "2026-11-13T20:42:30.657911"
 }
