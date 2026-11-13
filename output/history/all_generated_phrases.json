@@ -16639,7 +16639,42 @@
       "transliteration": "gada migzavnეთ, ver mivighe.",
       "category": "Work",
       "generated_at": "2026-11-13T04:50:13.704630"
+    },
+    {
+      "english": "Welcome home, come in and rest.",
+      "georgian": "მოგესალმებით სახლში, შემოდით და დაისვენეთ.",
+      "transliteration": "mogesalmebit saglishi, shemodit da daisvenet.",
+      "category": "Home",
+      "generated_at": "2026-11-13T19:21:48.453760"
+    },
+    {
+      "english": "Please turn off the kitchen light.",
+      "georgian": "გთხოვ, გამორთე სამზარეულოს შუქი.",
+      "transliteration": "gtxov, gamorte samzareulos shuki.",
+      "category": "Home",
+      "generated_at": "2026-11-13T19:21:48.453773"
+    },
+    {
+      "english": "Where is the kettle, please?",
+      "georgian": "სად არის ქვაბურა, გთხოვ?",
+      "transliteration": "sad aris kvabura, gtxyov?",
+      "category": "Home",
+      "generated_at": "2026-11-13T19:21:48.453775"
+    },
+    {
+      "english": "I’ll open the window for fresh air.",
+      "georgian": "ფანჯარას გავაღებ, რომ სუფთა ჰაერი შემოვიდეს.",
+      "transliteration": "panjaras gavageb, rom supra aeri shemovides.",
+      "category": "Home",
+      "generated_at": "2026-11-13T19:21:48.453777"
+    },
+    {
+      "english": "Let’s set the table, together now.",
+      "georgian": "მოდით, ერთად გავაწყოთ სუფრა.",
+      "transliteration": "modit, ertad gavatsqot supra.",
+      "category": "Home",
+      "generated_at": "2026-11-13T19:21:48.453778"
     }
   ],
-  "last_updated": "2026-11-13T04:50:13.704632"
+  "last_updated": "2026-11-13T19:21:48.453780"
 }
