@@ -16744,7 +16744,42 @@
       "transliteration": "aghp’rtovanebuli var, dghes ver vitmen",
       "category": "Emotions",
       "generated_at": "2026-11-13T22:18:45.789077"
+    },
+    {
+      "english": "Go straight, then stop at the gate.",
+      "georgian": "წადი პირდაპირ, მერე გაჩერდი ჭიშკართან.",
+      "transliteration": "tsadi pirdapir, mere gach'erde cheshkartan.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T00:31:04.703595"
+    },
+    {
+      "english": "Turn right at the next corner, please.",
+      "georgian": "მობრუნდი მარჯვნივ, შემდეგ კუთხეში, გთხოვ.",
+      "transliteration": "mobrundi marjvniv, shemdeg k'utkhesh i, gt hovy.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T00:31:04.703607"
+    },
+    {
+      "english": "Cross the street carefully, look both ways.",
+      "georgian": "გადაიარე ქუჩა ფრთხილად, ორივე მხარეს შეხედე.",
+      "transliteration": "gadaiare kucha p'rtk h ilad, orive mkhares shedede.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T00:31:04.703609"
+    },
+    {
+      "english": "Walk past the bakery, it’s right there.",
+      "georgian": "გაიარე საცხობთან, იქვეა.",
+      "transliteration": "gaiare sakhcobt an, iqvea.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T00:31:04.703610"
+    },
+    {
+      "english": "Take the stairs up, not the elevator.",
+      "georgian": "აიღე კიბეები ზემოთ, ლიფტი არა.",
+      "transliteration": "aighe kibee bi zemot, lift i ara.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T00:31:04.703611"
     }
   ],
-  "last_updated": "2026-11-13T22:18:45.789079"
+  "last_updated": "2026-11-14T00:31:04.703613"
 }
