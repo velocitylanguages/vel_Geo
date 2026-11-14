@@ -16814,7 +16814,42 @@
       "transliteration": "tsvima shetsyda, kuti ghebrqvinavs.",
       "category": "Weather",
       "generated_at": "2026-11-14T04:43:15.737872"
+    },
+    {
+      "english": "How much is this mirror?",
+      "georgian": "ეს სარკე რამდენი ღირს?",
+      "transliteration": "es sarke ramdeni ghirs",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T17:45:58.553576"
+    },
+    {
+      "english": "Do you have this in another size?",
+      "georgian": "ამას სხვა ზომაც გაქვთ?",
+      "transliteration": "amas sxva zoma c g aqvt",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T17:45:58.553592"
+    },
+    {
+      "english": "I’d like to try it on.",
+      "georgian": "შემიძლია, გავიზომო?",
+      "transliteration": "shemdzlia, gavi zomo",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T17:45:58.553594"
+    },
+    {
+      "english": "Where is the fitting room?",
+      "georgian": "სად არის გასახდელი ოთახი?",
+      "transliteration": "sad aris gasakhdeli otaxi",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T17:45:58.553596"
+    },
+    {
+      "english": "Is there a discount today?",
+      "georgian": "დღეს ფასდაკლება გაქვთ?",
+      "transliteration": "dges fase dakleba g aqvt",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T17:45:58.553597"
     }
   ],
-  "last_updated": "2026-11-14T04:43:15.737874"
+  "last_updated": "2026-11-14T17:45:58.553599"
 }
