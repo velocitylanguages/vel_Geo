@@ -16919,7 +16919,42 @@
       "transliteration": "dghes airch'ie bostneuli, ganckoba gagighimebs.",
       "category": "Health",
       "generated_at": "2026-11-14T21:01:31.063247"
+    },
+    {
+      "english": "The sun warms my morning path.",
+      "georgian": "მზე ათბობს ჩემს დილის გზას.",
+      "transliteration": "mze atbobs chems dilis gzas",
+      "category": "Nature",
+      "generated_at": "2026-11-14T23:27:59.680275"
+    },
+    {
+      "english": "Fresh air makes me feel better.",
+      "georgian": "სუფთა ჰაერი უკეთესად მცემს.",
+      "transliteration": "suphta haeri uteresad mcems",
+      "category": "Nature",
+      "generated_at": "2026-11-14T23:27:59.680288"
+    },
+    {
+      "english": "A light breeze cools the street.",
+      "georgian": "მსუბუქი ნიავი აცივებს ქუჩას.",
+      "transliteration": "msubuki niavi acivebs k'uchas",
+      "category": "Nature",
+      "generated_at": "2026-11-14T23:27:59.680290"
+    },
+    {
+      "english": "Leaves rustle when I walk.",
+      "georgian": "ფოთლები შრიალებს, როცა მივდივარ.",
+      "transliteration": "poteulebi shrialebs, rotsa midivaar",
+      "category": "Nature",
+      "generated_at": "2026-11-14T23:27:59.680291"
+    },
+    {
+      "english": "I hear birds calling from nearby.",
+      "georgian": "ვიღებ ჩიტების ხმას ახლოდან.",
+      "transliteration": "vigheb titsis xmas akhlodan",
+      "category": "Nature",
+      "generated_at": "2026-11-14T23:27:59.680292"
     }
   ],
-  "last_updated": "2026-11-14T21:01:31.063249"
+  "last_updated": "2026-11-14T23:27:59.680294"
 }
