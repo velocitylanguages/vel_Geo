@@ -16779,7 +16779,42 @@
       "transliteration": "aighe kibee bi zemot, lift i ara.",
       "category": "Directions",
       "generated_at": "2026-11-14T00:31:04.703611"
+    },
+    {
+      "english": "It’s raining again, bring your umbrella.",
+      "georgian": "ისევ წვიმს, ქოლგა მოიტანე.",
+      "transliteration": "isev tsvims, q'olga moitanae.",
+      "category": "Weather",
+      "generated_at": "2026-11-14T04:43:15.737855"
+    },
+    {
+      "english": "The sun is out, finally.",
+      "georgian": "მზე გამოვიდა, ბოლოს და ბოლოს.",
+      "transliteration": "mze gamoavida, bolos da bolos.",
+      "category": "Weather",
+      "generated_at": "2026-11-14T04:43:15.737868"
+    },
+    {
+      "english": "The wind is strong today, be careful.",
+      "georgian": "დღეს ქარი ძლიერია, ფრთხილად.",
+      "transliteration": "dghes qari dzlieria, prtkhilad.",
+      "category": "Weather",
+      "generated_at": "2026-11-14T04:43:15.737870"
+    },
+    {
+      "english": "Clouds are gathering, I can feel it.",
+      "georgian": "ღრუბლები იკრიბება, ვგრძნობ.",
+      "transliteration": "ghrublebi ikribeba, vgrdznob.",
+      "category": "Weather",
+      "generated_at": "2026-11-14T04:43:15.737871"
+    },
+    {
+      "english": "The rain stopped, streets look shiny.",
+      "georgian": "წვიმა შეწყდა, ქუჩები ბრწყინავს.",
+      "transliteration": "tsvima shetsyda, kuti ghebrqvinavs.",
+      "category": "Weather",
+      "generated_at": "2026-11-14T04:43:15.737872"
     }
   ],
-  "last_updated": "2026-11-14T00:31:04.703613"
+  "last_updated": "2026-11-14T04:43:15.737874"
 }
