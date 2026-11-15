@@ -17024,7 +17024,42 @@
       "transliteration": "otx nabijs gadaadgi, nela, gtxyov",
       "category": "Numbers",
       "generated_at": "2026-11-15T18:36:58.428211"
+    },
+    {
+      "english": "Hello! How’s your day going?",
+      "georgian": "გამარჯობა! როგორ მიდის შენი დღე?",
+      "transliteration": "gamajoba! rogor midis sheni dge?",
+      "category": "Greetings",
+      "generated_at": "2026-11-15T19:30:58.571316"
+    },
+    {
+      "english": "Hi there, what are you learning today?",
+      "georgian": "გამარჯობა! რას სწავლობ დღეს?",
+      "transliteration": "gamajoba! ras swavlob dghes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-15T19:30:58.571326"
+    },
+    {
+      "english": "Welcome, I’m happy you’re here.",
+      "georgian": "კეთილი იყოს შენი მოსვლა, მიხარია.",
+      "transliteration": "ketili ikos sheni mosvla, mixaria.",
+      "category": "Greetings",
+      "generated_at": "2026-11-15T19:30:58.571328"
+    },
+    {
+      "english": "Nice to meet you, please say hello.",
+      "georgian": "მოხარული ვარ, გთხოვ, გამარჯობა.",
+      "transliteration": "moxaruli var, gvtxov, gamajoba.",
+      "category": "Greetings",
+      "generated_at": "2026-11-15T19:30:58.571330"
+    },
+    {
+      "english": "Good evening! How was your day?",
+      "georgian": "საღამო მშვიდობისა! როგორ ჩაიარა დღემ?",
+      "transliteration": "saghamos mshvidobisa! rogor chaila dgem?",
+      "category": "Greetings",
+      "generated_at": "2026-11-15T19:30:58.571331"
     }
   ],
-  "last_updated": "2026-11-15T18:36:58.428213"
+  "last_updated": "2026-11-15T19:30:58.571333"
 }
