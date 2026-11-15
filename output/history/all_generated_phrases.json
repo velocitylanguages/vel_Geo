@@ -17059,7 +17059,42 @@
       "transliteration": "saghamos mshvidobisa! rogor chaila dgem?",
       "category": "Greetings",
       "generated_at": "2026-11-15T19:30:58.571331"
+    },
+    {
+      "english": "I feel proud of myself today.",
+      "georgian": "დღეს საკუთარ თავს ვამაყობ.",
+      "transliteration": "dghes saku tar tavs vamaqob",
+      "category": "Emotions",
+      "generated_at": "2026-11-15T21:26:08.854432"
+    },
+    {
+      "english": "I’m happy, my heart feels light.",
+      "georgian": "ბედნიერი ვარ, გულს მსუბუქად ვგრძნობ.",
+      "transliteration": "bednieri var, guls msubuqhad vgrdzno",
+      "category": "Emotions",
+      "generated_at": "2026-11-15T21:26:08.854444"
+    },
+    {
+      "english": "I miss them, and it hurts.",
+      "georgian": "მათი მონატრება მტკივა.",
+      "transliteration": "mati monatreba mtkiva",
+      "category": "Emotions",
+      "generated_at": "2026-11-15T21:26:08.854446"
+    },
+    {
+      "english": "I feel uncertain about what comes next.",
+      "georgian": "ვგრძნობ, რომ შემდეგი ნაბიჯი არ ვიცი.",
+      "transliteration": "vgrdznob, rom shemdegi nabiji ar icni",
+      "category": "Emotions",
+      "generated_at": "2026-11-15T21:26:08.854447"
+    },
+    {
+      "english": "I’m scared, but I’ll try anyway.",
+      "georgian": "მეშინია, მაგრამ მაინც ვეცდები.",
+      "transliteration": "mesinia, magram mainc vecdebi",
+      "category": "Emotions",
+      "generated_at": "2026-11-15T21:26:08.854448"
     }
   ],
-  "last_updated": "2026-11-15T19:30:58.571333"
+  "last_updated": "2026-11-15T21:26:08.854450"
 }
