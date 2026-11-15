@@ -16989,7 +16989,42 @@
       "transliteration": "es avtobus’i midis dzvel qalaqshi?",
       "category": "Travel",
       "generated_at": "2026-11-15T04:34:26.585000"
+    },
+    {
+      "english": "I have one question for you.",
+      "georgian": "ერთი კითხვა მაქვს შენთვის.",
+      "transliteration": "erti kitxva maqvs shentvis",
+      "category": "Numbers",
+      "generated_at": "2026-11-15T18:36:58.428195"
+    },
+    {
+      "english": "Please give me two tickets.",
+      "georgian": "გთხოვ, მომეცი ორი ბილეთი.",
+      "transliteration": "gtxov, momeci ori bileti",
+      "category": "Numbers",
+      "generated_at": "2026-11-15T18:36:58.428206"
+    },
+    {
+      "english": "Can you count to ten?",
+      "georgian": "შეგიძლია ათამდე დათვლა?",
+      "transliteration": "shegidzlia ati-demde datvla",
+      "category": "Numbers",
+      "generated_at": "2026-11-15T18:36:58.428208"
+    },
+    {
+      "english": "I want three apples, not more.",
+      "georgian": "სამი ვაშლი მინდა, არა მეტი.",
+      "transliteration": "sami vashli minda, ara meti",
+      "category": "Numbers",
+      "generated_at": "2026-11-15T18:36:58.428209"
+    },
+    {
+      "english": "Take four steps, slowly, please.",
+      "georgian": "ოთხ ნაბიჯს გადადგი, ნელა, გთხოვ.",
+      "transliteration": "otx nabijs gadaadgi, nela, gtxyov",
+      "category": "Numbers",
+      "generated_at": "2026-11-15T18:36:58.428211"
     }
   ],
-  "last_updated": "2026-11-15T04:34:26.585001"
+  "last_updated": "2026-11-15T18:36:58.428213"
 }
