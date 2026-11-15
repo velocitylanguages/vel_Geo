@@ -16954,7 +16954,42 @@
       "transliteration": "vigheb titsis xmas akhlodan",
       "category": "Nature",
       "generated_at": "2026-11-14T23:27:59.680292"
+    },
+    {
+      "english": "Hello, I’m lost, can you help?",
+      "georgian": "გამარჯობა, დამიკარგავს, შეგიძლიათ დამეხმაროთ?",
+      "transliteration": "gamardjoba, damikargavs, sheidzlebat damekhmarot?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T04:34:26.584981"
+    },
+    {
+      "english": "Is there a pharmacy nearby, please?",
+      "georgian": "არის აფთიაქი ახლოს, გთხოვთ?",
+      "transliteration": "aris apteq’i akhlos, gt’khovt?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T04:34:26.584995"
+    },
+    {
+      "english": "Where is the nearest ATM, friend?",
+      "georgian": "სად არის უახლოესი ბანკომატი, მეგობარო?",
+      "transliteration": "sad aris uakhl’oesi bankomati, megobaro?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T04:34:26.584997"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "georgian": "რამდენია ეს ბილეთი, გთხოვთ?",
+      "transliteration": "ramdenia es bileti, gt’khovt?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T04:34:26.584998"
+    },
+    {
+      "english": "Does this bus go to Old Town?",
+      "georgian": "ეს ავტობუსი მიდის ძველ ქალაქში?",
+      "transliteration": "es avtobus’i midis dzvel qalaqshi?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T04:34:26.585000"
     }
   ],
-  "last_updated": "2026-11-14T23:27:59.680294"
+  "last_updated": "2026-11-15T04:34:26.585001"
 }
