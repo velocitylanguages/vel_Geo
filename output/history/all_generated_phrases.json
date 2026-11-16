@@ -17129,7 +17129,42 @@
       "transliteration": "daghlilobis as da-īsven e, mera gadats’qvet’se",
       "category": "Wisdom",
       "generated_at": "2026-11-15T23:37:58.760203"
+    },
+    {
+      "english": "Go left at the next intersection, please.",
+      "georgian": "მარცხნივ მოუხვიეთ შემდეგ გზაჯვარედინზე, გთხოვთ.",
+      "transliteration": "marckhnav moukhviet shemdeg gzajvaredinze, gt hovt",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:30:54.058069"
+    },
+    {
+      "english": "Turn around slowly, then continue on.",
+      "georgian": "გადაიქეცით ნელა, მერე გააგრძელეთ.",
+      "transliteration": "gadaitsetset nela, mere gaagrdzelet",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:30:54.058086"
+    },
+    {
+      "english": "Stop here for a moment, please.",
+      "georgian": "აქ გაჩერდით ერთი წუთით, გთხოვთ.",
+      "transliteration": "aq gacherdidt erti tsutsit, gt hovt",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:30:54.058087"
+    },
+    {
+      "english": "Follow me, we’ll get there soon.",
+      "georgian": "მომყევით, მალე მივალთ.",
+      "transliteration": "momqevit, mal e miv alt",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:30:54.058088"
+    },
+    {
+      "english": "Keep going straight, don’t turn yet.",
+      "georgian": "მუდამ პირდაპირ იარეთ, ჯერ არ მოუხვიოთ.",
+      "transliteration": "mudam pirdapir iaret, jer ar moukhviot",
+      "category": "Directions",
+      "generated_at": "2026-11-16T04:30:54.058090"
     }
   ],
-  "last_updated": "2026-11-15T23:37:58.760205"
+  "last_updated": "2026-11-16T04:30:54.058092"
 }
