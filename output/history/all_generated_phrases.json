@@ -17199,7 +17199,42 @@
       "transliteration": "madli'eri guli, neli met'q'veleba, st'abiluri progresi",
       "category": "Gratitude",
       "generated_at": "2026-11-16T21:45:05.728668"
+    },
+    {
+      "english": "I’m craving something warm for dinner.",
+      "georgian": "ვინმე უნდა, რომ თბილი სადილი ვჭამო.",
+      "transliteration": "Vinme unda, rom tbili sadili vchamo.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:06:48.538607"
+    },
+    {
+      "english": "Please pass me the plate, thanks.",
+      "georgian": "მომაწოდე თეფში, გთხოვ.",
+      "transliteration": "Momapod...e tepshi, gtxov.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:06:48.538619"
+    },
+    {
+      "english": "That bread smells amazing, I love it.",
+      "georgian": "ეს პური საოცრად სურნელოვანია, მიყვარს.",
+      "transliteration": "Es puri saotsrad surnelovania, miqvars.",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:06:48.538621"
+    },
+    {
+      "english": "How spicy is this soup, really?",
+      "georgian": "რამდენად ცხარეა ეს წვნიანი, მართლა?",
+      "transliteration": "Ramd...enad tsxarea es tsvniani, martla?",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:06:48.538623"
+    },
+    {
+      "english": "Could I try a little more?",
+      "georgian": "შეიძლება კიდევ ცოტათი ვცადო?",
+      "transliteration": "Sheidzleba kidev cotati vtsado?",
+      "category": "Food",
+      "generated_at": "2026-11-16T23:06:48.538624"
     }
   ],
-  "last_updated": "2026-11-16T21:45:05.728670"
+  "last_updated": "2026-11-16T23:06:48.538626"
 }
