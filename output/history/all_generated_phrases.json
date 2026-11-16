@@ -17164,7 +17164,42 @@
       "transliteration": "mudam pirdapir iaret, jer ar moukhviot",
       "category": "Directions",
       "generated_at": "2026-11-16T04:30:54.058090"
+    },
+    {
+      "english": "Thank you, today I feel brave.",
+      "georgian": "მადლობა, დღეს თავს გაბედულად ვგრძნობ.",
+      "transliteration": "madloba, dghes tavs gabedulad vgrdzob",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T21:45:05.728647"
+    },
+    {
+      "english": "I’m thankful, you repeat until I get it.",
+      "georgian": "მადლობელი ვარ, იმეორებ, სანამ გავიგებ.",
+      "transliteration": "madlobeli var, imeoreb, vidre gavige",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T21:45:05.728664"
+    },
+    {
+      "english": "Thanks for your kind, clear guidance.",
+      "georgian": "გმადლობთ, თქვენი კეთილი და მკაფიო ხელმძღვანელობისთვის.",
+      "transliteration": "gmadlobt, tkveni k'et'ili da mkafio xelmzgvanelsobis tvis",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T21:45:05.728666"
+    },
+    {
+      "english": "I appreciate your smile, it helps me.",
+      "georgian": "მადლობას გიხდით, თქვენი ღიმილი მეხმარება.",
+      "transliteration": "madlobas gikhdit, tkveni ghimili mekhmareba",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T21:45:05.728667"
+    },
+    {
+      "english": "Grateful heart, slow speech, steady progress.",
+      "georgian": "მადლიერი გული, ნელი მეტყველება, სტაბილური პროგრესი.",
+      "transliteration": "madli'eri guli, neli met'q'veleba, st'abiluri progresi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-16T21:45:05.728668"
     }
   ],
-  "last_updated": "2026-11-16T04:30:54.058092"
+  "last_updated": "2026-11-16T21:45:05.728670"
 }
