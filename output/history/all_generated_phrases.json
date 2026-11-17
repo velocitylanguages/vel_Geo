@@ -17339,7 +17339,42 @@
       "transliteration": "qviteli shuki maghimbs",
       "category": "Colors",
       "generated_at": "2026-11-17T06:16:26.343683"
+    },
+    {
+      "english": "You’re learning, keep showing up.",
+      "georgian": "სწავლობ, მოდი ისევ და ისევ.",
+      "transliteration": "swavlob, modi isev da isev",
+      "category": "Success",
+      "generated_at": "2026-11-17T20:35:24.630566"
+    },
+    {
+      "english": "Mistakes happen, keep going anyway.",
+      "georgian": "შეცდომები ხდება, მაინც განაგრძე.",
+      "transliteration": "tscdomebi khdeba, mainc ganagrdze",
+      "category": "Success",
+      "generated_at": "2026-11-17T20:35:24.630579"
+    },
+    {
+      "english": "Say it slowly, then speed up.",
+      "georgian": "ნელა თქვი, მერე დააჩქარე.",
+      "transliteration": "nel-a tqvi, mere daachqare",
+      "category": "Success",
+      "generated_at": "2026-11-17T20:35:24.630580"
+    },
+    {
+      "english": "Small talk builds real confidence.",
+      "georgian": "მცირე საუბარი ნამდვილ თავდაჯერებას ქმნის.",
+      "transliteration": "mcire saubari natsshil tawdaje-rebas qmnis",
+      "category": "Success",
+      "generated_at": "2026-11-17T20:35:24.630581"
+    },
+    {
+      "english": "Today counts, one sentence at a time.",
+      "georgian": "დღესაც ითვლის, ერთი წინადადება ერთდროულად.",
+      "transliteration": "dgesatz itvlis, ert-i tsinadadeba ertdroulad",
+      "category": "Success",
+      "generated_at": "2026-11-17T20:35:24.630582"
     }
   ],
-  "last_updated": "2026-11-17T06:16:26.343685"
+  "last_updated": "2026-11-17T20:35:24.630584"
 }
