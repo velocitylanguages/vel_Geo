@@ -17234,7 +17234,42 @@
       "transliteration": "Sheidzleba kidev cotati vtsado?",
       "category": "Food",
       "generated_at": "2026-11-16T23:06:48.538624"
+    },
+    {
+      "english": "My dog wags, then begs for treats.",
+      "georgian": "ჩემი ძაღლი აქნევს კუდს, მერე გთხოვს ტკბილეულს.",
+      "transliteration": "chemi dzaghli aknevs kuds, mere gthovns tkbil-euls",
+      "category": "Animals",
+      "generated_at": "2026-11-17T00:36:24.057958"
+    },
+    {
+      "english": "A cat naps, warm in the window.",
+      "georgian": "კატა ჭარმაგად იძინებს, თბილად ფანჯარაში.",
+      "transliteration": "kata charmagad izdinebs, thbilad phanjarashi",
+      "category": "Animals",
+      "generated_at": "2026-11-17T00:36:24.057971"
+    },
+    {
+      "english": "The dog runs back, excited every time.",
+      "georgian": "ძაღლი უკან მირბის, ყოველთვის აღელვებული.",
+      "transliteration": "dzaghli uk an mirbis, yoveltvis aRelvebuli",
+      "category": "Animals",
+      "generated_at": "2026-11-17T00:36:24.057972"
+    },
+    {
+      "english": "A bird sings outside, right after morning.",
+      "georgian": "ჩიტი გარეთ მღერის, დილითვე თითქმის.",
+      "transliteration": "chiti garet mgher is, dilitve khemosth",
+      "category": "Animals",
+      "generated_at": "2026-11-17T00:36:24.057974"
+    },
+    {
+      "english": "The rabbit freezes, then darts into grass.",
+      "georgian": "კურდღელი ჩერდება, მერე ბალახში მიეჭრება.",
+      "transliteration": "kur dgheli cherdeba, mere balakhshi miech'reba",
+      "category": "Animals",
+      "generated_at": "2026-11-17T00:36:24.057975"
     }
   ],
-  "last_updated": "2026-11-16T23:06:48.538626"
+  "last_updated": "2026-11-17T00:36:24.057977"
 }
