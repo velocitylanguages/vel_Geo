@@ -17304,7 +17304,42 @@
       "transliteration": "imRere chemtan, sul erTi w'ut'it.",
       "category": "Music",
       "generated_at": "2026-11-17T02:41:06.027565"
+    },
+    {
+      "english": "I like this green sweater a lot.",
+      "georgian": "მე ეს მწვანე სვიტერი ძალიან მომწონს.",
+      "transliteration": "me es mtsvane sveri dzalian momtsons",
+      "category": "Colors",
+      "generated_at": "2026-11-17T06:16:26.343664"
+    },
+    {
+      "english": "Your eyes look blue today, wow.",
+      "georgian": "შენი თვალები დღეს ლურჯად გეჩვენება, ვაიმე.",
+      "transliteration": "sheni tqvalebi dghes lurtjad ghechveneba, vaime",
+      "category": "Colors",
+      "generated_at": "2026-11-17T06:16:26.343679"
+    },
+    {
+      "english": "This shirt is red, not pink.",
+      "georgian": "ეს მაისური წითელია, არა ვარდისფერი.",
+      "transliteration": "es maisuri tsithelia, ara vardisferi",
+      "category": "Colors",
+      "generated_at": "2026-11-17T06:16:26.343680"
+    },
+    {
+      "english": "That orange wall feels warm inside.",
+      "georgian": "ეს ნარინჯისფერი კედელი შიგნიდან თბილია.",
+      "transliteration": "es naringijisferi kedeli shignidan tbilia",
+      "category": "Colors",
+      "generated_at": "2026-11-17T06:16:26.343682"
+    },
+    {
+      "english": "The yellow light makes me smile.",
+      "georgian": "ყვითელი შუქი მაღიმებს.",
+      "transliteration": "qviteli shuki maghimbs",
+      "category": "Colors",
+      "generated_at": "2026-11-17T06:16:26.343683"
     }
   ],
-  "last_updated": "2026-11-17T02:41:06.027569"
+  "last_updated": "2026-11-17T06:16:26.343685"
 }
