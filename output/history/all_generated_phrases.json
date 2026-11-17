@@ -17409,7 +17409,42 @@
       "transliteration": "sheni siqete chemtan rcheba",
       "category": "Friendship",
       "generated_at": "2026-11-17T21:57:39.792718"
+    },
+    {
+      "english": "Open the textbook, find the lesson.",
+      "georgian": "გახსენით სახელმძღვანელო, იპოვეთ გაკვეთილი.",
+      "transliteration": "ga-ik-sen-it shel-ga-mts-vi-lo, i-po-vet ga-kve-ti-li",
+      "category": "Education",
+      "generated_at": "2026-11-17T23:42:41.744716"
+    },
+    {
+      "english": "Read slowly, then explain it back.",
+      "georgian": "წაიკითხეთ ნელა, მერე აუხსენით ისევ.",
+      "transliteration": "tsai-ki-txet ne-la, me-re a-ukh-sen-it e-sev",
+      "category": "Education",
+      "generated_at": "2026-11-17T23:42:41.744728"
+    },
+    {
+      "english": "Underline key words in your notes.",
+      "georgian": "გადაავლეთ ხაზი საკვანძო სიტყვებს ჩანაწერებში.",
+      "transliteration": "ga-da-a-vlet kha-zi sa-kvan-zo si-tkvem tsan-a-tse-reb-shi",
+      "category": "Education",
+      "generated_at": "2026-11-17T23:42:41.744730"
+    },
+    {
+      "english": "Write one sentence, use new words.",
+      "georgian": "ჩაწერეთ ერთი წინადადება, გამოიყენეთ ახალი სიტყვები.",
+      "transliteration": "cha-wer-et er-ti ts-i-na-da-de-ba, ga-mo-i-za-ne-t a-kha-li si-tkv oebi",
+      "category": "Education",
+      "generated_at": "2026-11-17T23:42:41.744731"
+    },
+    {
+      "english": "Check your homework, be careful today.",
+      "georgian": "შეამოწმეთ საშინაო დავალება, ფრთხილად დღეს.",
+      "transliteration": "she-am-o-mts-met sa-shi-na-o da-va-le-ba, pchra-kh-i-lad dghes",
+      "category": "Education",
+      "generated_at": "2026-11-17T23:42:41.744732"
     }
   ],
-  "last_updated": "2026-11-17T21:57:39.792720"
+  "last_updated": "2026-11-17T23:42:41.744734"
 }
