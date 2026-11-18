@@ -17479,7 +17479,42 @@
       "transliteration": "neli suntqvit ufro msubuqad vgrdznob",
       "category": "Happiness",
       "generated_at": "2026-11-18T01:56:07.660630"
+    },
+    {
+      "english": "Come in, the house is warm.",
+      "georgian": "შემოდი, სახლი თბილია.",
+      "transliteration": "she-modi, sakhli tbi-li-a.",
+      "category": "Home",
+      "generated_at": "2026-11-18T05:43:55.202069"
+    },
+    {
+      "english": "I’m home, please don’t worry.",
+      "georgian": "მე სახლში ვარ, ნუ ინერვიულებ.",
+      "transliteration": "me sakhshi var, nu iner-vi-u-leb.",
+      "category": "Home",
+      "generated_at": "2026-11-18T05:43:55.202084"
+    },
+    {
+      "english": "Can you close the door softly?",
+      "georgian": "კარს ნელა მოკეტავ, გთხოვ?",
+      "transliteration": "kars ne-la mo-ket-av, gtxov?",
+      "category": "Home",
+      "generated_at": "2026-11-18T05:43:55.202088"
+    },
+    {
+      "english": "Where should I put the keys?",
+      "georgian": "სად დავდე გასაღებები?",
+      "transliteration": "sad dav-de gas-a-reb-i?",
+      "category": "Home",
+      "generated_at": "2026-11-18T05:43:55.202089"
+    },
+    {
+      "english": "Please wash your hands first.",
+      "georgian": "ჯერ ხელები დაიბანე, გთხოვ.",
+      "transliteration": "jer xelebi dai-ban-e, gtxov.",
+      "category": "Home",
+      "generated_at": "2026-11-18T05:43:55.202090"
     }
   ],
-  "last_updated": "2026-11-18T01:56:07.660634"
+  "last_updated": "2026-11-18T05:43:55.202092"
 }
