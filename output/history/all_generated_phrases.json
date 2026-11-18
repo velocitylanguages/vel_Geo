@@ -17549,7 +17549,42 @@
       "transliteration": "mat'arebeli shvidze zak'... zustom modis",
       "category": "Time",
       "generated_at": "2026-11-18T20:07:57.551053"
+    },
+    {
+      "english": "I love you more than words can.",
+      "georgian": "მიყვარხარ უფრო, ვიდრე სიტყვებს შეუძლიათ.",
+      "transliteration": "miyvarkhar ufro, vidre sitqvebs sheudzliat",
+      "category": "Love",
+      "generated_at": "2026-11-18T21:40:10.794589"
+    },
+    {
+      "english": "Let’s hold hands, just like usual.",
+      "georgian": "ხელები მოვკიდოთ, როგორც ყოველთვის.",
+      "transliteration": "kheleb i movukidot, rogorc atsqilad",
+      "category": "Love",
+      "generated_at": "2026-11-18T21:40:10.794603"
+    },
+    {
+      "english": "Your name feels like home to me.",
+      "georgian": "შენი სახელი ჩემთვის სახლია.",
+      "transliteration": "sheni sakheli chemtvis saxlia",
+      "category": "Love",
+      "generated_at": "2026-11-18T21:40:10.794605"
+    },
+    {
+      "english": "When you’re near, I feel safe.",
+      "georgian": "როცა ახლოს ხარ, უსაფრთხოდ ვგრძნობ თავს.",
+      "transliteration": "roca akhlos khar, usaprtxod vgrdznob tavs",
+      "category": "Love",
+      "generated_at": "2026-11-18T21:40:10.794621"
+    },
+    {
+      "english": "I want you, here and now.",
+      "georgian": "მინდა შენ, აქ და ახლა.",
+      "transliteration": "mind a shen, akh da aka",
+      "category": "Love",
+      "generated_at": "2026-11-18T21:40:10.794623"
     }
   ],
-  "last_updated": "2026-11-18T20:07:57.551055"
+  "last_updated": "2026-11-18T21:40:10.794625"
 }
