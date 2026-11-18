@@ -17584,7 +17584,42 @@
       "transliteration": "mind a shen, akh da aka",
       "category": "Love",
       "generated_at": "2026-11-18T21:40:10.794623"
+    },
+    {
+      "english": "I’m ready to start work today.",
+      "georgian": "მზად ვარ დღეს დავიწყო მუშაობა.",
+      "transliteration": "mzad var dghes davitsq’o muşhaoba",
+      "category": "Work",
+      "generated_at": "2026-11-18T23:14:52.080875"
+    },
+    {
+      "english": "Let’s get this done, step by step.",
+      "georgian": "მოდით, ეს გავაკეთოთ, ნაბიჯ-ნაბიჯ.",
+      "transliteration": "modit es gavaaketot nabij-nabij",
+      "category": "Work",
+      "generated_at": "2026-11-18T23:14:52.080888"
+    },
+    {
+      "english": "Please send the updated document.",
+      "georgian": "გთხოვთ, გაგზავნეთ განახლებული დოკუმენტი.",
+      "transliteration": "gtxovt, gagzavnet ganakhlebuli dokumenti",
+      "category": "Work",
+      "generated_at": "2026-11-18T23:14:52.080890"
+    },
+    {
+      "english": "I’ll reply to your message now.",
+      "georgian": "ახლა გიპასუხებთ თქვენს შეტყობინებას.",
+      "transliteration": "akhla gipasukh’bet tkvens shetq’obinebas",
+      "category": "Work",
+      "generated_at": "2026-11-18T23:14:52.080891"
+    },
+    {
+      "english": "Could you review this section, please?",
+      "georgian": "გთხოვთ, გადახედოთ ამ ნაწილს?",
+      "transliteration": "gtxovt, gadakhedot am nawilts",
+      "category": "Work",
+      "generated_at": "2026-11-18T23:14:52.080894"
     }
   ],
-  "last_updated": "2026-11-18T21:40:10.794625"
+  "last_updated": "2026-11-18T23:14:52.080896"
 }
