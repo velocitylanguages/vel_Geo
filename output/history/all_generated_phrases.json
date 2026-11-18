@@ -17514,7 +17514,42 @@
       "transliteration": "jer xelebi dai-ban-e, gtxov.",
       "category": "Home",
       "generated_at": "2026-11-18T05:43:55.202090"
+    },
+    {
+      "english": "What time do we meet today?",
+      "georgian": "ახლა რომელი საათზე ვხვდებით დღეს?",
+      "transliteration": "akhla romeli saatisze vkhvedrbet dzes?",
+      "category": "Time",
+      "generated_at": "2026-11-18T20:07:57.551036"
+    },
+    {
+      "english": "I’ll call you after work.",
+      "georgian": "დაგირეკავ სამსახურის შემდეგ.",
+      "transliteration": "dagirek'av samsakhuris shemdeg",
+      "category": "Time",
+      "generated_at": "2026-11-18T20:07:57.551050"
+    },
+    {
+      "english": "Can we talk later this evening?",
+      "georgian": "შეგვიძლია, ამ საღამოს მოგვიანებით ვილაპარაკოთ?",
+      "transliteration": "shegidzlia, am samgamos mogvianebit vilaparako't?",
+      "category": "Time",
+      "generated_at": "2026-11-18T20:07:57.551051"
+    },
+    {
+      "english": "Let’s leave in ten minutes.",
+      "georgian": "წავიდეთ ათ წუთში.",
+      "transliteration": "tsavidet at tsutshi",
+      "category": "Time",
+      "generated_at": "2026-11-18T20:07:57.551052"
+    },
+    {
+      "english": "The train arrives at seven sharp.",
+      "georgian": "მატარებელი შვიდზე ზუსტად მოდის.",
+      "transliteration": "mat'arebeli shvidze zak'... zustom modis",
+      "category": "Time",
+      "generated_at": "2026-11-18T20:07:57.551053"
     }
   ],
-  "last_updated": "2026-11-18T05:43:55.202092"
+  "last_updated": "2026-11-18T20:07:57.551055"
 }
