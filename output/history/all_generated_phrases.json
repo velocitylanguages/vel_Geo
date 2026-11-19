@@ -17654,7 +17654,42 @@
       "transliteration": "bebv u, dzalian moenatre.",
       "category": "Family",
       "generated_at": "2026-11-19T01:33:26.574385"
+    },
+    {
+      "english": "I’m starving, let’s grab something to eat.",
+      "georgian": "მე ძალიან მშია, მოდი ვჭამოთ რამე.",
+      "transliteration": "me dzalian mishia, modi vchamot rame",
+      "category": "Food",
+      "generated_at": "2026-11-19T05:43:45.221968"
+    },
+    {
+      "english": "What’s for lunch today, honestly?",
+      "georgian": "რას ვჭამთ დღეს ლანჩზე, მართლა?",
+      "transliteration": "ras vchamt dghes lanchze, martla",
+      "category": "Food",
+      "generated_at": "2026-11-19T05:43:45.221980"
+    },
+    {
+      "english": "This bread looks fresh and soft.",
+      "georgian": "ეს პური ახალი და რბილია.",
+      "transliteration": "es puri axali da rbilaa",
+      "category": "Food",
+      "generated_at": "2026-11-19T05:43:45.221981"
+    },
+    {
+      "english": "Please hand me the bread, quick.",
+      "georgian": "მომაწოდე პური, გთხოვ, მალე.",
+      "transliteration": "momap’ode puri, gtchov, male",
+      "category": "Food",
+      "generated_at": "2026-11-19T05:43:45.221982"
+    },
+    {
+      "english": "Could I have some cheese, please?",
+      "georgian": "შემიძლი ა მივიღო ყველი, გთხოვ?",
+      "transliteration": "shemdzlia viq’k’o yveli, gtchov",
+      "category": "Food",
+      "generated_at": "2026-11-19T05:43:45.221983"
     }
   ],
-  "last_updated": "2026-11-19T01:33:26.574387"
+  "last_updated": "2026-11-19T05:43:45.221984"
 }
