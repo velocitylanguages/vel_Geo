@@ -17689,7 +17689,42 @@
       "transliteration": "shemdzlia viq’k’o yveli, gtchov",
       "category": "Food",
       "generated_at": "2026-11-19T05:43:45.221983"
+    },
+    {
+      "english": "Listen, the birds are starting again.",
+      "georgian": "მოისმინე, ჩიტები ისევ იწყებენ.",
+      "transliteration": "moismine, chit'ebi isev itsk'eben",
+      "category": "Nature",
+      "generated_at": "2026-11-19T20:08:01.364532"
+    },
+    {
+      "english": "The morning mist feels cool on skin.",
+      "georgian": "დილით ნისლი კანს მაგრად გრძნობს.",
+      "transliteration": "dilit nisli k'ans magrad grznobs",
+      "category": "Nature",
+      "generated_at": "2026-11-19T20:08:01.364543"
+    },
+    {
+      "english": "Sunlight warms my face, quietly.",
+      "georgian": "მზის შუქი მშვიდად ათბობს სახეს.",
+      "transliteration": "mzis sh'uki mshvidad atbobs saxes",
+      "category": "Nature",
+      "generated_at": "2026-11-19T20:08:01.364545"
+    },
+    {
+      "english": "I walk outside, and breathe slower.",
+      "georgian": "გარეთ გავდივარ და ნელა ვსუნთქავ.",
+      "transliteration": "gareT gavadivar da nela vsunt'q'av",
+      "category": "Nature",
+      "generated_at": "2026-11-19T20:08:01.364547"
+    },
+    {
+      "english": "Clouds pass by, no hurry today.",
+      "georgian": "ღრუბლები გადის, დღეს ჩქარობა არ არის.",
+      "transliteration": "ghrublebi gdis, dghes chqaroba ar aris",
+      "category": "Nature",
+      "generated_at": "2026-11-19T20:08:01.364548"
     }
   ],
-  "last_updated": "2026-11-19T05:43:45.221984"
+  "last_updated": "2026-11-19T20:08:01.364550"
 }
