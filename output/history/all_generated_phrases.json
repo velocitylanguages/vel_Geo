@@ -17724,7 +17724,42 @@
       "transliteration": "ghrublebi gdis, dghes chqaroba ar aris",
       "category": "Nature",
       "generated_at": "2026-11-19T20:08:01.364548"
+    },
+    {
+      "english": "Hi there, welcome to Georgian today.",
+      "georgian": "გამარჯობა, კეთილი იყოს თქვენი მობრძანება ქართულში.",
+      "transliteration": "gamardjoba, k'etili ik'os tkvengis mobrdzaneba kartulshi",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T21:54:58.322306"
+    },
+    {
+      "english": "Hello! How are you feeling today?",
+      "georgian": "გამარჯობა! როგორ ხარ დღეს?",
+      "transliteration": "gamardjoba! rogor xar dghes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T21:54:58.322317"
+    },
+    {
+      "english": "Nice to meet you, please say hi.",
+      "georgian": "სასიამოვნოა თქვენი გაცნობა, გთხოვთ გამარჯობა.",
+      "transliteration": "sasiamovnoa tkventan gacnoba, gtxovt gamardjoba",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T21:54:58.322319"
+    },
+    {
+      "english": "Good morning! Let’s start with one word.",
+      "georgian": "დილა მშვიდობისა! დავიწყოთ ერთი სიტყვით.",
+      "transliteration": "dila mshvidobisа! davits'ot' ert'i sit'qvit",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T21:54:58.322321"
+    },
+    {
+      "english": "Good evening! Did you have a nice day?",
+      "georgian": "საღამო მშვიდობისა! დღე კარგად გქონდათ?",
+      "transliteration": "saghamo mshvidobisа! dghē k'argad gk'ondaт?",
+      "category": "Greetings",
+      "generated_at": "2026-11-19T21:54:58.322325"
     }
   ],
-  "last_updated": "2026-11-19T20:08:01.364550"
+  "last_updated": "2026-11-19T21:54:58.322327"
 }
