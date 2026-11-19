@@ -17619,7 +17619,42 @@
       "transliteration": "gtxovt, gadakhedot am nawilts",
       "category": "Work",
       "generated_at": "2026-11-18T23:14:52.080894"
+    },
+    {
+      "english": "Mom, what’s for dinner tonight?",
+      "georgian": "მამა, რა იქნება ვახშამზე დღეს?",
+      "transliteration": "mama, ra iqneba vaxshamze dghes?",
+      "category": "Family",
+      "generated_at": "2026-11-19T01:33:26.574367"
+    },
+    {
+      "english": "Dad, can you help me, please?",
+      "georgian": "მამა, შეგიძლია დამეხმარო, გთხოვ?",
+      "transliteration": "mama, shegidzlia damekhmaro, gtxov?",
+      "category": "Family",
+      "generated_at": "2026-11-19T01:33:26.574381"
+    },
+    {
+      "english": "Sister, come sit with me.",
+      "georgian": "და, მოდი, დამიჯექი გვერდით.",
+      "transliteration": "da, modi, damidjek'i gverdith.",
+      "category": "Family",
+      "generated_at": "2026-11-19T01:33:26.574382"
+    },
+    {
+      "english": "Brother, pass me the water.",
+      "georgian": "ძმა, მომაწოდე წყალი, გთხოვ.",
+      "transliteration": "dzma, momavode ts'qali, gtxov.",
+      "category": "Family",
+      "generated_at": "2026-11-19T01:33:26.574384"
+    },
+    {
+      "english": "Grandma, I miss you so much.",
+      "georgian": "ბებუ, ძალიან მომენატრე.",
+      "transliteration": "bebv u, dzalian moenatre.",
+      "category": "Family",
+      "generated_at": "2026-11-19T01:33:26.574385"
     }
   ],
-  "last_updated": "2026-11-18T23:14:52.080896"
+  "last_updated": "2026-11-19T01:33:26.574387"
 }
