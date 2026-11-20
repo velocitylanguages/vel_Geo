@@ -17829,7 +17829,42 @@
       "transliteration": "shekhvedrebze nervioulob, mera sunq'vas vigheb",
       "category": "Emotions",
       "generated_at": "2026-11-20T01:38:19.650653"
+    },
+    {
+      "english": "Can you recommend a good song?",
+      "georgian": "შეგიძლიათ კარგი სიმღერა მირჩიოთ?",
+      "transliteration": "shegidzliaT kargi simRera mirochot?",
+      "category": "Music",
+      "generated_at": "2026-11-20T05:30:28.054711"
+    },
+    {
+      "english": "I like this melody a lot.",
+      "georgian": "ძალიან მომწონს ეს მელოდია.",
+      "transliteration": "dzalian momwons es melod ia",
+      "category": "Music",
+      "generated_at": "2026-11-20T05:30:28.054724"
+    },
+    {
+      "english": "Play it softly, please, just now.",
+      "georgian": "ახლა ნაზად დაუკარი, გთხოვ.",
+      "transliteration": "akhla nazad daukari, gtxov",
+      "category": "Music",
+      "generated_at": "2026-11-20T05:30:28.054726"
+    },
+    {
+      "english": "That bass is amazing, right?",
+      "georgian": "ბასი საოცარია, არა?",
+      "transliteration": "basi saocari a, ara?",
+      "category": "Music",
+      "generated_at": "2026-11-20T05:30:28.054727"
+    },
+    {
+      "english": "This song makes me smile.",
+      "georgian": "ამ სიმღერას ღიმილი მოაქვს.",
+      "transliteration": "am simReras gimi li moaqvs",
+      "category": "Music",
+      "generated_at": "2026-11-20T05:30:28.054728"
     }
   ],
-  "last_updated": "2026-11-20T01:38:19.650655"
+  "last_updated": "2026-11-20T05:30:28.054730"
 }
