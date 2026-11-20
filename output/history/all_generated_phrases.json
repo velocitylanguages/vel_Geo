@@ -17899,7 +17899,42 @@
       "transliteration": "dgesa iTxchie erTi sitqva da tqvi",
       "category": "Success",
       "generated_at": "2026-11-20T19:44:00.230214"
+    },
+    {
+      "english": "Let’s start with today’s lesson, calmly.",
+      "georgian": "მოდით დავიწყოთ დღევანდელი გაკვეთილი, მშვიდად.",
+      "transliteration": "modit davitsqot dghevandeli gakvetili, mshvidad",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:37:06.064759"
+    },
+    {
+      "english": "Repeat the phrase, then write it.",
+      "georgian": "გაიმეორე ფრაზა, მერე ჩაწერე.",
+      "transliteration": "gaimeore fraza, mere chatsere",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:37:06.064777"
+    },
+    {
+      "english": "Ask for help, if you’re unsure.",
+      "georgian": "დამეხმარე გთხოვ, თუ არ ხარ დარწმუნებული.",
+      "transliteration": "damexmare gtxov, tu ar xar darwmunebuli",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:37:06.064779"
+    },
+    {
+      "english": "Take it step by step, okay?",
+      "georgian": "ნელ-ნელა, ნაბიჯ-ნაბიჯ, ხომ?",
+      "transliteration": "nel-nela, nabij-nabij, khom",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:37:06.064781"
+    },
+    {
+      "english": "Read it once, then again.",
+      "georgian": "ერთხელ წაიკითხე, მერე კიდევ ერთხელ.",
+      "transliteration": "erTxel tsaitkhiTxe, mere kidev ertxel",
+      "category": "Education",
+      "generated_at": "2026-11-20T21:37:06.064783"
     }
   ],
-  "last_updated": "2026-11-20T19:44:00.230216"
+  "last_updated": "2026-11-20T21:37:06.064784"
 }
