@@ -17864,7 +17864,42 @@
       "transliteration": "am simReras gimi li moaqvs",
       "category": "Music",
       "generated_at": "2026-11-20T05:30:28.054728"
+    },
+    {
+      "english": "You can do it, one more try.",
+      "georgian": "შენ შეგიძლია, კიდევ ერთხელ სცადე.",
+      "transliteration": "shen shegzlia, kvla-erTxjer scade",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:00.230192"
+    },
+    {
+      "english": "Say it softly, then say it clearly.",
+      "georgian": "თქვი ნაზად, მერე თქვი გარკვევით.",
+      "transliteration": "tqvi nazad, mere tqvi garkvevit",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:00.230210"
+    },
+    {
+      "english": "Keep going, even when it feels hard.",
+      "georgian": "გააგრძელე, როცა რთულად გეჩვენება.",
+      "transliteration": "gaagrdztele, rodesac rtulad gecheveneba",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:00.230211"
+    },
+    {
+      "english": "Let mistakes teach you, not stop you.",
+      "georgian": "შეცდომებმა გასწავლოს, ნუ შეგაჩერებს.",
+      "transliteration": "cdomenebma gascavlos, nu shegacherbs",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:00.230213"
+    },
+    {
+      "english": "Today, choose one word and use it.",
+      "georgian": "დღეს აირჩიე ერთი სიტყვა და თქვი.",
+      "transliteration": "dgesa iTxchie erTi sitqva da tqvi",
+      "category": "Success",
+      "generated_at": "2026-11-20T19:44:00.230214"
     }
   ],
-  "last_updated": "2026-11-20T05:30:28.054730"
+  "last_updated": "2026-11-20T19:44:00.230216"
 }
