@@ -17794,7 +17794,42 @@
       "transliteration": "aichie simartle, ufro msubuqia",
       "category": "Wisdom",
       "generated_at": "2026-11-19T23:22:32.756080"
+    },
+    {
+      "english": "I’m thrilled, I can’t stop smiling.",
+      "georgian": "გულწრფელად მახარებს, ღიმილი არ შემიძლია.",
+      "transliteration": "gulcrpc'elad makharis, ghimili ar shemidzlia",
+      "category": "Emotions",
+      "generated_at": "2026-11-20T01:38:19.650632"
+    },
+    {
+      "english": "I feel calm, my thoughts slow down.",
+      "georgian": "მშვიდად ვარ, ფიქრები ნელდება.",
+      "transliteration": "mshvidad var, p'ik'rebi neldzdeba",
+      "category": "Emotions",
+      "generated_at": "2026-11-20T01:38:19.650649"
+    },
+    {
+      "english": "I feel worried, something might go wrong.",
+      "georgian": "ვნერვიულობ, შეიძლება რაღაც არ გამოვიდეს.",
+      "transliteration": "vnervioulob, sheidzleba raRac ar gamovides",
+      "category": "Emotions",
+      "generated_at": "2026-11-20T01:38:19.650651"
+    },
+    {
+      "english": "I’m relieved, that’s over now.",
+      "georgian": "დამშვიდდა, ეს უკვე დასრულდა.",
+      "transliteration": "damshvidda, es ukve dasrulda",
+      "category": "Emotions",
+      "generated_at": "2026-11-20T01:38:19.650652"
+    },
+    {
+      "english": "I’m nervous before meetings, then I breathe.",
+      "georgian": "შეხვედრებზე ნერვიულობ, მერე სუნთქვას ვიღებ.",
+      "transliteration": "shekhvedrebze nervioulob, mera sunq'vas vigheb",
+      "category": "Emotions",
+      "generated_at": "2026-11-20T01:38:19.650653"
     }
   ],
-  "last_updated": "2026-11-19T23:22:32.756082"
+  "last_updated": "2026-11-20T01:38:19.650655"
 }
