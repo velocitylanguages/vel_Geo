@@ -17969,7 +17969,42 @@
       "transliteration": "madloba, rom nazad gamiumgjobsé zantskoba",
       "category": "Happiness",
       "generated_at": "2026-11-20T22:53:18.757772"
+    },
+    {
+      "english": "Where can I find fresh bread?",
+      "georgian": "სად შეიძლება ახალი პურის პოვნა?",
+      "transliteration": "sad sheidzleba axali puris povna?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T00:59:11.024068"
+    },
+    {
+      "english": "Do you have this in white?",
+      "georgian": "ეს თეთრად გაქვთ?",
+      "transliteration": "es tetrad gakvts?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T00:59:11.024080"
+    },
+    {
+      "english": "How much is one of these?",
+      "georgian": "ერთი ეს რამდენია?",
+      "transliteration": "erti es ramenia?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T00:59:11.024082"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "georgian": "აქ ბარათით გადახდა შეიძლება?",
+      "transliteration": "aq barat'it gadaxd a sheidzleba?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T00:59:11.024084"
+    },
+    {
+      "english": "Is there a bag for this?",
+      "georgian": "ამისთვის ჩანთა გაქვთ?",
+      "transliteration": "amisthvis chantha gakvth?",
+      "category": "Shopping",
+      "generated_at": "2026-11-21T00:59:11.024086"
     }
   ],
-  "last_updated": "2026-11-20T22:53:18.757774"
+  "last_updated": "2026-11-21T00:59:11.024088"
 }
