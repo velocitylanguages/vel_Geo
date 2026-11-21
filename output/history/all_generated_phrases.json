@@ -18074,7 +18074,42 @@
       "transliteration": "gmadlob, rom gverdzit dgakh ar",
       "category": "Friendship",
       "generated_at": "2026-11-21T18:50:18.049347"
+    },
+    {
+      "english": "I’m ready for the next match.",
+      "georgian": "მზად ვარ, შემდეგი მატჩისთვის.",
+      "transliteration": "mzad var, shemtse peri matchis-tvis",
+      "category": "Sports",
+      "generated_at": "2026-11-21T20:18:25.624015"
+    },
+    {
+      "english": "Let’s warm up, then we play.",
+      "georgian": "გავათბოთ, მერე ვითამაშოთ.",
+      "transliteration": "gavatsbot, mere vitamashot",
+      "category": "Sports",
+      "generated_at": "2026-11-21T20:18:25.624032"
+    },
+    {
+      "english": "Pass it to me, please.",
+      "georgian": "მომაწოდე, გთხოვ.",
+      "transliteration": "momavode, gt hov",
+      "category": "Sports",
+      "generated_at": "2026-11-21T20:18:25.624033"
+    },
+    {
+      "english": "Great defense, you stopped them!",
+      "georgian": "კარგი დაცვა, გააჩერე ისინი!",
+      "transliteration": "kargi dacva, gaachere isini!",
+      "category": "Sports",
+      "generated_at": "2026-11-21T20:18:25.624034"
+    },
+    {
+      "english": "I can’t catch up today.",
+      "georgian": "დღეს ვერ ვეწევი.",
+      "transliteration": "dghes ver ve-dhevi",
+      "category": "Sports",
+      "generated_at": "2026-11-21T20:18:25.624035"
     }
   ],
-  "last_updated": "2026-11-21T18:50:18.049349"
+  "last_updated": "2026-11-21T20:18:25.624036"
 }
