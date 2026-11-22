@@ -18214,7 +18214,42 @@
       "transliteration": "ghrublebi dghes tsrapad modzraoben",
       "category": "Weather",
       "generated_at": "2026-11-22T04:49:30.763452"
+    },
+    {
+      "english": "I ate two bananas today.",
+      "georgian": "დღეს ორი ბანანი ვჭამე.",
+      "transliteration": "dghes ori banani vchame",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T19:12:21.678074"
+    },
+    {
+      "english": "Give me one more spoon, please.",
+      "georgian": "მომეცი ერთი კოვზი კიდევ, გთხოვ.",
+      "transliteration": "mometsi erti kovzi kidev, gt shower?",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T19:12:21.678093"
+    },
+    {
+      "english": "We have three friends coming over.",
+      "georgian": "ჩვენ სამი მეგობარი გველოდება.",
+      "transliteration": "chven sami megobari gvelodeba",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T19:12:21.678095"
+    },
+    {
+      "english": "Can you bring four bottles of water?",
+      "georgian": "მომიტან ოთხ ბოთლ წყალს, გთხოვ.",
+      "transliteration": "momitan otkh botl wqals, gt shower",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T19:12:21.678096"
+    },
+    {
+      "english": "I’m reading five pages right now.",
+      "georgian": "ახლა ხუთ გვერდს ვკითხულობ.",
+      "transliteration": "akhla khut p’erdzs vkitxulob",
+      "category": "Numbers",
+      "generated_at": "2026-11-22T19:12:21.678098"
     }
   ],
-  "last_updated": "2026-11-22T04:49:30.763454"
+  "last_updated": "2026-11-22T19:12:21.678101"
 }
