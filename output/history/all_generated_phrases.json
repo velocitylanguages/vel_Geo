@@ -18179,7 +18179,42 @@
       "transliteration": "mTlian pirdapir iare, sanam magazinas naxav.",
       "category": "Directions",
       "generated_at": "2026-11-21T23:59:29.765661"
+    },
+    {
+      "english": "It’s sunny, so bring sunglasses.",
+      "georgian": "მზიანი დღეა, თან წაიღე მზის სათვალე.",
+      "transliteration": "mziiani dgea, tan tsaiğe znŕis satvale",
+      "category": "Weather",
+      "generated_at": "2026-11-22T04:49:30.763429"
+    },
+    {
+      "english": "The sky looks gray, expect rain.",
+      "georgian": "ცაზე ნაცრისფერი მოჩანს, წვიმას ელოდე.",
+      "transliteration": "tsaze natsrisperi mochans, tsvimas elode",
+      "category": "Weather",
+      "generated_at": "2026-11-22T04:49:30.763446"
+    },
+    {
+      "english": "Light rain is coming, maybe soon.",
+      "georgian": "მსუბუქი წვიმა მოდის, შეიძლება მალე.",
+      "transliteration": "msubuqi tsvima modis, sheidzleba mal'e",
+      "category": "Weather",
+      "generated_at": "2026-11-22T04:49:30.763448"
+    },
+    {
+      "english": "The wind is picking up, hold on.",
+      "georgian": "ქარი იმატებს, კარგად დაიჭირე.",
+      "transliteration": "qari imatebs, kargad daichire",
+      "category": "Weather",
+      "generated_at": "2026-11-22T04:49:30.763450"
+    },
+    {
+      "english": "The clouds are moving fast today.",
+      "georgian": "ღრუბლები დღეს სწრაფად მოძრაობენ.",
+      "transliteration": "ghrublebi dghes tsrapad modzraoben",
+      "category": "Weather",
+      "generated_at": "2026-11-22T04:49:30.763452"
     }
   ],
-  "last_updated": "2026-11-21T23:59:29.765662"
+  "last_updated": "2026-11-22T04:49:30.763454"
 }
