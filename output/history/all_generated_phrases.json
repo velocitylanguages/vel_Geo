@@ -18144,7 +18144,42 @@
       "transliteration": "dghes miirts'vi dabalans'ebuli kerdži",
       "category": "Health",
       "generated_at": "2026-11-21T21:58:44.320729"
+    },
+    {
+      "english": "Turn right here, then keep walking.",
+      "georgian": "მარჯვნივ მოაბრუნე აქ, მერე განაგრძე სიარული.",
+      "transliteration": "marjvniv moabrune aq, mere ganagrdze siaruli.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T23:59:29.765642"
+    },
+    {
+      "english": "Turn left, and go two blocks.",
+      "georgian": "მარცხნივ გადაუხვიე, და ორი ბლოკი იარე.",
+      "transliteration": "marjvniv gadaxuīe, da ori bloki iare.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T23:59:29.765657"
+    },
+    {
+      "english": "Cross carefully, watch cars closely.",
+      "georgian": "ფრთხილად გადადი, მანქანებს ყურადღებით უყურე.",
+      "transliteration": "prxqilad gadadi, manqanebs diqqedebit uqure.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T23:59:29.765658"
+    },
+    {
+      "english": "Stop at the corner, please.",
+      "georgian": "კუთხეში გაჩერდი, გთხოვ.",
+      "transliteration": "kuTxeshi gaCHerdi, gt̄xov.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T23:59:29.765660"
+    },
+    {
+      "english": "Go straight until you see a shop.",
+      "georgian": "მთლად პირდაპირ იარე, სანამ მაღაზიას ნახავ.",
+      "transliteration": "mTlian pirdapir iare, sanam magazinas naxav.",
+      "category": "Directions",
+      "generated_at": "2026-11-21T23:59:29.765661"
     }
   ],
-  "last_updated": "2026-11-21T21:58:44.320731"
+  "last_updated": "2026-11-21T23:59:29.765662"
 }
