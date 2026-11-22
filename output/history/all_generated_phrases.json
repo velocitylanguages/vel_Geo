@@ -18249,7 +18249,42 @@
       "transliteration": "akhla khut p’erdzs vkitxulob",
       "category": "Numbers",
       "generated_at": "2026-11-22T19:12:21.678098"
+    },
+    {
+      "english": "Where is the exit, please?",
+      "georgian": "სად არის გამოსასვლელი, გთხოვთ?",
+      "transliteration": "sad aris gamosasvleli, gt̄hovt̄?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T20:31:02.103843"
+    },
+    {
+      "english": "How much time to the airport?",
+      "georgian": "რამდენი დროა აეროპორტამდე?",
+      "transliteration": "ramdeni droa aeropʼortʼamde?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T20:31:02.103865"
+    },
+    {
+      "english": "Is there a late-night café nearby?",
+      "georgian": "არის ახლოს ღამის კაფე?",
+      "transliteration": "aris k̄alos ghamis kafe?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T20:31:02.103867"
+    },
+    {
+      "english": "I need a towel, please.",
+      "georgian": "პირსახოცი მინდა, გთხოვთ.",
+      "transliteration": "pʼirsakhotsi minda, gt̄hovt̄.",
+      "category": "Travel",
+      "generated_at": "2026-11-22T20:31:02.103868"
+    },
+    {
+      "english": "Do you have Wi‑Fi in the room?",
+      "georgian": "ოთახში Wi‑Fi არის?",
+      "transliteration": "otakhshi Wi‑Fi aris?",
+      "category": "Travel",
+      "generated_at": "2026-11-22T20:31:02.103869"
     }
   ],
-  "last_updated": "2026-11-22T19:12:21.678101"
+  "last_updated": "2026-11-22T20:31:02.103871"
 }
