@@ -18284,7 +18284,42 @@
       "transliteration": "otakhshi Wi‑Fi aris?",
       "category": "Travel",
       "generated_at": "2026-11-22T20:31:02.103869"
+    },
+    {
+      "english": "Thank you for speaking slowly, please.",
+      "georgian": "მადლობა, რომ ნელა საუბრობ.",
+      "transliteration": "madloba, rom nēla saubro",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:15:54.081698"
+    },
+    {
+      "english": "I appreciate your warm encouragement.",
+      "georgian": "მიყვარხარ მადლობა თქვენი თბილი წახალისებისთვის.",
+      "transliteration": "miyvarkhar madloba tkveni tbili tsakhakhalisebistvis",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:15:54.081717"
+    },
+    {
+      "english": "Thank you for explaining step by step.",
+      "georgian": "მადლობა, ნაბიჯ-ნაბიჯ რომ ამიხსენი.",
+      "transliteration": "madloba, nabij-nabij rom amikhseni",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:15:54.081718"
+    },
+    {
+      "english": "I’m grateful for your friendly feedback.",
+      "georgian": "მადლობელი ვარ თქვენი მეგობრული უკუკავშირის.",
+      "transliteration": "madlobeli var tkveni megobruli ukukavshiris",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:15:54.081720"
+    },
+    {
+      "english": "Thank you for correcting my answers.",
+      "georgian": "მადლობა, რომ ჩემს პასუხებს ასწორებ.",
+      "transliteration": "madloba, rom chems pasukhts asworeb",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T22:15:54.081721"
     }
   ],
-  "last_updated": "2026-11-22T20:31:02.103871"
+  "last_updated": "2026-11-22T22:15:54.081723"
 }
