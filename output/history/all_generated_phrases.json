@@ -18354,7 +18354,42 @@
       "transliteration": "ku nela itsveba, mzeshi",
       "category": "Animals",
       "generated_at": "2026-11-23T00:31:47.936864"
+    },
+    {
+      "english": "Which team are you cheering for?",
+      "georgian": "რომელი გუნდისთვის ქომაგობ?",
+      "transliteration": "romeli gundis tvis qomagob?",
+      "category": "Sports",
+      "generated_at": "2026-11-23T05:29:09.874045"
+    },
+    {
+      "english": "I’m warming up, then I’ll serve.",
+      "georgian": "ვერ ვთბები ჯერ, მერე დავარტყამ სერვის.",
+      "transliteration": "ver tvbebi jer, mersa davartqam servīs.",
+      "category": "Sports",
+      "generated_at": "2026-11-23T05:29:09.874058"
+    },
+    {
+      "english": "Great goal, that was pure skill!",
+      "georgian": "მშვენიერი გოლი, ეს ნამდვილი ოსტატობაა!",
+      "transliteration": "mshvenieri goli, es namdვილი ostatobaa!",
+      "category": "Sports",
+      "generated_at": "2026-11-23T05:29:09.874060"
+    },
+    {
+      "english": "Stay calm, your shot will come.",
+      "georgian": "მშვიდად იყავი, შენი დარტყმა მოვა.",
+      "transliteration": "mshvidad iqavi, sheni dartqma mova.",
+      "category": "Sports",
+      "generated_at": "2026-11-23T05:29:09.874061"
+    },
+    {
+      "english": "Don’t foul, play clean defense.",
+      "georgian": "ნუ ჩაიდენ შეურაცხყოფას, სუფთა დაცვა ითამაშე.",
+      "transliteration": "nu chaiden sheuracyofas, supta dacva itamashe.",
+      "category": "Sports",
+      "generated_at": "2026-11-23T05:29:09.874062"
     }
   ],
-  "last_updated": "2026-11-23T00:31:47.936866"
+  "last_updated": "2026-11-23T05:29:09.874064"
 }
