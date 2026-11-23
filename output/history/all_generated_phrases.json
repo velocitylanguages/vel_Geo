@@ -18389,7 +18389,42 @@
       "transliteration": "nu chaiden sheuracyofas, supta dacva itamashe.",
       "category": "Sports",
       "generated_at": "2026-11-23T05:29:09.874062"
+    },
+    {
+      "english": "What time is it right now?",
+      "georgian": "ახლა რამდენი საათია?",
+      "transliteration": "akhlA ramdeni saatiA?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:32:00.858477"
+    },
+    {
+      "english": "Tell me the time, please.",
+      "georgian": "მითხარი, რამდენია დრო, გთხოვ.",
+      "transliteration": "mitchari, ramdenia dro, gt hocv.",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:32:00.858489"
+    },
+    {
+      "english": "I’m late, I’m sorry.",
+      "georgian": "დაგვიანდა, ბოდიში.",
+      "transliteration": "dagvianeda, bodishi.",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:32:00.858490"
+    },
+    {
+      "english": "I’ll be there in an hour.",
+      "georgian": "ერთ საათში მოვალ.",
+      "transliteration": "ert saatshi moval.",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:32:00.858491"
+    },
+    {
+      "english": "We have five minutes, okay?",
+      "georgian": "ხუთი წუთი გვაქვს, კარგი?",
+      "transliteration": "khuti ptuti gvaqvs, kargi?",
+      "category": "Time",
+      "generated_at": "2026-11-23T23:32:00.858491"
     }
   ],
-  "last_updated": "2026-11-23T05:29:09.874064"
+  "last_updated": "2026-11-23T23:32:00.858493"
 }
