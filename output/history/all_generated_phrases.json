@@ -18319,7 +18319,42 @@
       "transliteration": "madloba, rom chems pasukhts asworeb",
       "category": "Gratitude",
       "generated_at": "2026-11-22T22:15:54.081721"
+    },
+    {
+      "english": "A dog trots beside me, happily.",
+      "georgian": "ძაღლი მიყვება, მხიარულად მირბის.",
+      "transliteration": "dzaghli miuyveba, mkhiarulad mirbis",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:31:47.936841"
+    },
+    {
+      "english": "The cat jumps down, then pauses.",
+      "georgian": "კატა ხტება დაბლა, მერე ჩერდება.",
+      "transliteration": "kata hteba dabla, mere cherdeba",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:31:47.936860"
+    },
+    {
+      "english": "A bird flutters near the window, quiet.",
+      "georgian": "ჩიტი ფრთხილად ფარფატებს ფანჯარასთან, ჩუმად.",
+      "transliteration": "chiti pchkhilad partvatsebs phanjarastan, chumad",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:31:47.936861"
+    },
+    {
+      "english": "I hear a frog, at night.",
+      "georgian": "ღამით ბაყაყს ვისმენ.",
+      "transliteration": "ghamith bayakhs vismen",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:31:47.936863"
+    },
+    {
+      "english": "A turtle stretches, slowly, in the sun.",
+      "georgian": "კუ ნელა იწელება, მზეში.",
+      "transliteration": "ku nela itsveba, mzeshi",
+      "category": "Animals",
+      "generated_at": "2026-11-23T00:31:47.936864"
     }
   ],
-  "last_updated": "2026-11-22T22:15:54.081723"
+  "last_updated": "2026-11-23T00:31:47.936866"
 }
