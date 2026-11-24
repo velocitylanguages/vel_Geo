@@ -18494,7 +18494,42 @@
       "transliteration": "shens tavs vandob chems guls",
       "category": "Friendship",
       "generated_at": "2026-11-24T03:11:31.366187"
+    },
+    {
+      "english": "The breeze cools my cheeks right now.",
+      "georgian": "ქარი პირდაპირ ახლა მიყინავს ლოყებს.",
+      "transliteration": "kari pirdapir axla miyinavs loqebs",
+      "category": "Nature",
+      "generated_at": "2026-11-24T04:50:21.620382"
+    },
+    {
+      "english": "I hear wind in the trees.",
+      "georgian": "ხეებს შორის ქარის ხმა მესმის.",
+      "transliteration": "xeebs shoris qaris xma mesmis",
+      "category": "Nature",
+      "generated_at": "2026-11-24T04:50:21.620398"
+    },
+    {
+      "english": "Today, the sky looks wonderfully open.",
+      "georgian": "დღეს ცა საოცრად ღიაა.",
+      "transliteration": "dges ca saocrad ghiaa",
+      "category": "Nature",
+      "generated_at": "2026-11-24T04:50:21.620400"
+    },
+    {
+      "english": "The clouds gather, then move on.",
+      "georgian": "ღრუბლები გროვდება, მერე გადის.",
+      "transliteration": "ghrublebi grovdeba, mere gdis",
+      "category": "Nature",
+      "generated_at": "2026-11-24T04:50:21.620401"
+    },
+    {
+      "english": "Raindrops tap softly on the window.",
+      "georgian": "წვიმის წვეთები ნაზად აკაკუნებს ფანჯარაზე.",
+      "transliteration": "tsvimis tsvetebi nazad akakunebs panjaraze",
+      "category": "Nature",
+      "generated_at": "2026-11-24T04:50:21.620402"
     }
   ],
-  "last_updated": "2026-11-24T03:11:31.366189"
+  "last_updated": "2026-11-24T04:50:21.620404"
 }
