@@ -18564,7 +18564,42 @@
       "transliteration": "gtxov, karada ar gaijaxuno",
       "category": "Home",
       "generated_at": "2026-11-24T08:07:11.234180"
+    },
+    {
+      "english": "This turquoise shirt looks great on you.",
+      "georgian": "ეს თირქისფერი პერანგი შენზე მშვენივრად გამოიყურება.",
+      "transliteration": "es ti'rqisiperi perangi shenze mshvenivrad gamoiyureba",
+      "category": "Colors",
+      "generated_at": "2026-11-24T22:01:35.848978"
+    },
+    {
+      "english": "I love your teal jacket, it suits you.",
+      "georgian": "მიყვარს შენი ტილფერის ქურთუკი, გიხდება.",
+      "transliteration": "mikravs sheni tilperis qurTuki, gikhdeba",
+      "category": "Colors",
+      "generated_at": "2026-11-24T22:01:35.848990"
+    },
+    {
+      "english": "The room feels cool, light blue walls.",
+      "georgian": "ოთახი ცივდება, ღია ლურჯი კედლებია.",
+      "transliteration": "otakhi tsivdeba, ghia lurji kedlebia",
+      "category": "Colors",
+      "generated_at": "2026-11-24T22:01:35.848993"
+    },
+    {
+      "english": "That navy sweater looks so stylish today.",
+      "georgian": "ეს ნევსი სვიტერი დღეს ძალიან სტილიურია.",
+      "transliteration": "es nevisi siviteri dRes dzalian stiluria",
+      "category": "Colors",
+      "generated_at": "2026-11-24T22:01:35.848994"
+    },
+    {
+      "english": "Your black shoes match everything so well.",
+      "georgian": "შენი შავი ფეხსაცმელები ყველაფერს ძალიან უხდება.",
+      "transliteration": "sheni shavi pexsatsmelebi yvelafers dzalian ukhdeba",
+      "category": "Colors",
+      "generated_at": "2026-11-24T22:01:35.848996"
     }
   ],
-  "last_updated": "2026-11-24T08:07:11.234183"
+  "last_updated": "2026-11-24T22:01:35.848997"
 }
