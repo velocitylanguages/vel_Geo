@@ -18529,7 +18529,42 @@
       "transliteration": "tsvimis tsvetebi nazad akakunebs panjaraze",
       "category": "Nature",
       "generated_at": "2026-11-24T04:50:21.620402"
+    },
+    {
+      "english": "Please bring the towels inside.",
+      "georgian": "გთხოვ, შემოიტანე პირსახოცები.",
+      "transliteration": "gtxov, shemoitana pirsaxocebi",
+      "category": "Home",
+      "generated_at": "2026-11-24T08:07:11.234158"
+    },
+    {
+      "english": "I’ll hang the coat by the hook.",
+      "georgian": "მე მოვკიდებ ქურთუკს კაუჭთან.",
+      "transliteration": "me movikideb qurtuks kauxtan",
+      "category": "Home",
+      "generated_at": "2026-11-24T08:07:11.234176"
+    },
+    {
+      "english": "Can you turn off the fan now?",
+      "georgian": "ახლა გამორთავ ვენტილატორს, გთხოვ?",
+      "transliteration": "akhla gamortav ventilators, gtxyov",
+      "category": "Home",
+      "generated_at": "2026-11-24T08:07:11.234177"
+    },
+    {
+      "english": "The floor feels cold near the door.",
+      "georgian": "იატაკი ცივია კართან ახლოს.",
+      "transliteration": "iataki tsivia kartan axlos",
+      "category": "Home",
+      "generated_at": "2026-11-24T08:07:11.234179"
+    },
+    {
+      "english": "Don’t slam the cupboard door, please.",
+      "georgian": "გთხოვ, კარადა არ გაიჯახუნო.",
+      "transliteration": "gtxov, karada ar gaijaxuno",
+      "category": "Home",
+      "generated_at": "2026-11-24T08:07:11.234180"
     }
   ],
-  "last_updated": "2026-11-24T04:50:21.620404"
+  "last_updated": "2026-11-24T08:07:11.234183"
 }
