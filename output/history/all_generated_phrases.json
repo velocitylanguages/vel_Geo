@@ -18424,7 +18424,42 @@
       "transliteration": "khuti ptuti gvaqvs, kargi?",
       "category": "Time",
       "generated_at": "2026-11-23T23:32:00.858491"
+    },
+    {
+      "english": "Go straight, then turn at the light.",
+      "georgian": "გადით პირდაპირ, შემდეგ შუქნიშანზე მოუხვიეთ.",
+      "transliteration": "ga-diit pirdapir, shemdgeb shukhnishanze moukhuviet",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:20:22.133688"
+    },
+    {
+      "english": "Walk to the end, then look right.",
+      "georgian": "იარეთ ბოლომდე, შემდეგ მარჯვნივ შეხედეთ.",
+      "transliteration": "ia-rat bo-lomde, shemdgeb marjvniv she-ikhet-et",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:20:22.133705"
+    },
+    {
+      "english": "Take the first street on your left.",
+      "georgian": "აიღეთ პირველი ქუჩა მარცხნივ.",
+      "transliteration": "aigh-et pirveli qu-cha marjvniv",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:20:22.133707"
+    },
+    {
+      "english": "Keep walking, don’t stop in the middle.",
+      "georgian": "იარეთ, შუაში ნუ გაჩერდებით.",
+      "transliteration": "ia-rat, shua-shi nu gach-er-det",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:20:22.133709"
+    },
+    {
+      "english": "Slow down here, it’s a busy area.",
+      "georgian": "შენელდით აქ, დატვირთული ადგილია.",
+      "transliteration": "shene-lid-det ak, datvir-tuli ad-gil-a",
+      "category": "Directions",
+      "generated_at": "2026-11-24T01:20:22.133711"
     }
   ],
-  "last_updated": "2026-11-23T23:32:00.858493"
+  "last_updated": "2026-11-24T01:20:22.133713"
 }
