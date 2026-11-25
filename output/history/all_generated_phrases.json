@@ -18704,7 +18704,42 @@
       "transliteration": "sagḣamo mshvidobisa! mat̃a xar ts̈raḟi gakvetilisatvis",
       "category": "Greetings",
       "generated_at": "2026-11-25T03:13:49.787622"
+    },
+    {
+      "english": "You’re closer than you think, keep learning.",
+      "georgian": "უფრო ახლოს ხარ, ვიდრე ფიქრობ, გააგრძელე სწავლა.",
+      "transliteration": "up'ro aclos xar, vidre p'ikrob, gaagrdzelie swavla",
+      "category": "Success",
+      "generated_at": "2026-11-25T06:45:02.978542"
+    },
+    {
+      "english": "Ask one question, then try again.",
+      "georgian": "ერთი კითხვა დასვი, მერე ისევ სცადე.",
+      "transliteration": "erti kitxva dasvi, mere isev scade",
+      "category": "Success",
+      "generated_at": "2026-11-25T06:45:02.978557"
+    },
+    {
+      "english": "Speak with kindness, toward yourself first.",
+      "georgian": "თავად შენ მიმართ კეთილად ისაუბრე.",
+      "transliteration": "tavad shen mimart ket'ilad isaubre",
+      "category": "Success",
+      "generated_at": "2026-11-25T06:45:02.978559"
+    },
+    {
+      "english": "Listen carefully, even slow speech helps.",
+      "georgian": "ყურადღებით მოუსმინე, ნელ საუბარსაც კი აქვს შანსი.",
+      "transliteration": "yuradgbebit moussmino, nel saubarsac ki aqvs sansi",
+      "category": "Success",
+      "generated_at": "2026-11-25T06:45:02.978561"
+    },
+    {
+      "english": "Start small, and make it normal.",
+      "georgian": "დაიწყე პატარა ნაბიჯით, და გააკეთე ჩვეულებად.",
+      "transliteration": "daidzye pat'ara nabijiT, da gaaket'e chveulebad",
+      "category": "Success",
+      "generated_at": "2026-11-25T06:45:02.978562"
     }
   ],
-  "last_updated": "2026-11-25T03:13:49.787627"
+  "last_updated": "2026-11-25T06:45:02.978564"
 }
