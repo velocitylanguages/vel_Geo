@@ -18634,7 +18634,42 @@
       "transliteration": "vighighineb, dzalian sasia-movnoa.",
       "category": "Music",
       "generated_at": "2026-11-24T23:19:16.584487"
+    },
+    {
+      "english": "Family, let's eat together now, please.",
+      "georgian": "ოჯახო, ახლა ერთად ვჭამოთ, გთხოვთ.",
+      "transliteration": "ojakho, atslaertad vchamots, gtxovt",
+      "category": "Family",
+      "generated_at": "2026-11-25T01:13:13.827206"
+    },
+    {
+      "english": "Mom, can I help with laundry today?",
+      "georgian": "დედა, შემიძლია დღეს დავეხმარო რეცხვაში?",
+      "transliteration": "dea, shemidzlia dges davexmaro recxvashi",
+      "category": "Family",
+      "generated_at": "2026-11-25T01:13:13.827221"
+    },
+    {
+      "english": "Dad, pass me your mug, please.",
+      "georgian": "მამა, მომეცი შენი ჭიქა, გთხოვ.",
+      "transliteration": "mama, mometsi sheni chiq'a, gtxov",
+      "category": "Family",
+      "generated_at": "2026-11-25T01:13:13.827223"
+    },
+    {
+      "english": "Grandma, tell me something funny today.",
+      "georgian": "ბებია, მითხარი დღეს რაღაც სასაცილო.",
+      "transliteration": "bebia, mitxari dges rasaghac sasacilo",
+      "category": "Family",
+      "generated_at": "2026-11-25T01:13:13.827224"
+    },
+    {
+      "english": "Grandpa, your stories make me smile.",
+      "georgian": "ბაბუ, შენი ისტორიები მიღიმის.",
+      "transliteration": "babuo, sheni istoriebi migimis",
+      "category": "Family",
+      "generated_at": "2026-11-25T01:13:13.827226"
     }
   ],
-  "last_updated": "2026-11-24T23:19:16.584489"
+  "last_updated": "2026-11-25T01:13:13.827228"
 }
