@@ -18669,7 +18669,42 @@
       "transliteration": "babuo, sheni istoriebi migimis",
       "category": "Family",
       "generated_at": "2026-11-25T01:13:13.827226"
+    },
+    {
+      "english": "Hi! Good to see you today.",
+      "georgian": "გამარჯობა! მიხარია, რომ გხედავ დღეს.",
+      "transliteration": "gamaj̧oba! mixaria, rom gxedav dghes",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:13:49.787605"
+    },
+    {
+      "english": "Hello, how’s your Georgian going?",
+      "georgian": "გამარჯობა, როგორ მიდის შენი ქართული?",
+      "transliteration": "gamaj̧oba, rogor midis sheni kartuli",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:13:49.787617"
+    },
+    {
+      "english": "Welcome! Let’s practice a little together.",
+      "georgian": "კეთილი იყოს თქვენი მობრძანება! ცოტას ერთად ვივარჯიშოთ.",
+      "transliteration": "ketili iyos tkveni mobrdzaneba! cotsa ertad vivarjishot",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:13:49.787619"
+    },
+    {
+      "english": "Good morning! How are you doing?",
+      "georgian": "დილა მშვიდობისა! როგორ ხარ?",
+      "transliteration": "dila mshvidobisa! rogor xar",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:13:49.787620"
+    },
+    {
+      "english": "Good evening! Ready for a quick lesson?",
+      "georgian": "საღამო მშვიდობისა! მზად ხარ სწრაფი გაკვეთილისთვის?",
+      "transliteration": "sagḣamo mshvidobisa! mat̃a xar ts̈raḟi gakvetilisatvis",
+      "category": "Greetings",
+      "generated_at": "2026-11-25T03:13:49.787622"
     }
   ],
-  "last_updated": "2026-11-25T01:13:13.827228"
+  "last_updated": "2026-11-25T03:13:49.787627"
 }
