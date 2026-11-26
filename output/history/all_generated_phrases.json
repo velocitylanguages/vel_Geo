@@ -18879,7 +18879,42 @@
       "transliteration": "KiTxva da-svi, tu dag-schirdeba.",
       "category": "Education",
       "generated_at": "2026-11-26T02:31:41.971130"
+    },
+    {
+      "english": "I feel sad today, quietly, inside.",
+      "georgian": "დღეს მოწყენილი ვარ, ჩუმად, შიგნით.",
+      "transliteration": "dghes mokhsenili var, chumad, shignit.",
+      "category": "Emotions",
+      "generated_at": "2026-11-26T06:36:35.046923"
+    },
+    {
+      "english": "My chest feels tight with worry.",
+      "georgian": "გული მეჭიმება, ნაღველით სავსე.",
+      "transliteration": "guli meqimeba, naghvelit savse.",
+      "category": "Emotions",
+      "generated_at": "2026-11-26T06:36:35.046940"
+    },
+    {
+      "english": "I feel hopeful, like something good.",
+      "georgian": "იმედი მაქვს, თითქოს რაღაც კარგი მოდის.",
+      "transliteration": "imedi makvs, titqos raRac kargi modis.",
+      "category": "Emotions",
+      "generated_at": "2026-11-26T06:36:35.046941"
+    },
+    {
+      "english": "I’m excited, I want to start now.",
+      "georgian": "ძალიან აღფრთოვანებული ვარ, ახლა მინდა დავიწყო.",
+      "transliteration": "dzalian aghp’rtovanebuli var, axla minda davitskho.",
+      "category": "Emotions",
+      "generated_at": "2026-11-26T06:36:35.046943"
+    },
+    {
+      "english": "I feel grateful, for your help today.",
+      "georgian": "გმადლობ, დღეს რომ დამეხმარე.",
+      "transliteration": "gmadlob, dghes rom damekhmare.",
+      "category": "Emotions",
+      "generated_at": "2026-11-26T06:36:35.046944"
     }
   ],
-  "last_updated": "2026-11-26T02:31:41.971132"
+  "last_updated": "2026-11-26T06:36:35.046946"
 }
