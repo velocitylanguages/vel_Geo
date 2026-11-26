@@ -18844,7 +18844,42 @@
       "transliteration": "aq vegetarianuli kerzhebi gaqvt?",
       "category": "Food",
       "generated_at": "2026-11-26T00:47:57.436569"
+    },
+    {
+      "english": "Let’s read the text aloud, slowly.",
+      "georgian": "წაიკითხე ტექსტი ხმამაღლა, ნელა.",
+      "transliteration": "Tsai-kit-khe teks-ti khma-magh-la, ne-la.",
+      "category": "Education",
+      "generated_at": "2026-11-26T02:31:41.971108"
+    },
+    {
+      "english": "Write the date first, then continue.",
+      "georgian": "ჯერ ჩაწერე თარიღი, მერე გააგრძელე.",
+      "transliteration": "Jer chaatsere taarighi, mere gaa-agrdzele.",
+      "category": "Education",
+      "generated_at": "2026-11-26T02:31:41.971124"
+    },
+    {
+      "english": "Underline this word, it’s important.",
+      "georgian": "ამ სიტყვას ხაზი გაუსვი, მნიშვნელოვანია.",
+      "transliteration": "Am sitkvam khazi g-ausvi, mnishvnelovania.",
+      "category": "Education",
+      "generated_at": "2026-11-26T02:31:41.971127"
+    },
+    {
+      "english": "Please spell it carefully for me.",
+      "georgian": "მომწერე, გთხოვ, ძალიან ფრთხილად.",
+      "transliteration": "Mom-tsere, gthov, dzalian pkhri-khklad.",
+      "category": "Education",
+      "generated_at": "2026-11-26T02:31:41.971128"
+    },
+    {
+      "english": "Ask a question, if you need.",
+      "georgian": "კითხვა დასვი, თუ დაგჭირდება.",
+      "transliteration": "KiTxva da-svi, tu dag-schirdeba.",
+      "category": "Education",
+      "generated_at": "2026-11-26T02:31:41.971130"
     }
   ],
-  "last_updated": "2026-11-26T00:47:57.436570"
+  "last_updated": "2026-11-26T02:31:41.971132"
 }
