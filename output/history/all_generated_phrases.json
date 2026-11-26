@@ -18809,7 +18809,42 @@
       "transliteration": "modit, gaviaziroot thbili, martivi ghimili",
       "category": "Happiness",
       "generated_at": "2026-11-25T22:52:37.788852"
+    },
+    {
+      "english": "I’m thirsty, can I get water?",
+      "georgian": "მწყურვალი ვარ, წყალი მომიტანეთ?",
+      "transliteration": "mtsqurviali var, tsqali momitanet?",
+      "category": "Food",
+      "generated_at": "2026-11-26T00:47:57.436551"
+    },
+    {
+      "english": "This tea tastes sweet, wow.",
+      "georgian": "ეს ჩაი ტკბილია, ვაიმე.",
+      "transliteration": "es chai tkbilia, vaime",
+      "category": "Food",
+      "generated_at": "2026-11-26T00:47:57.436566"
+    },
+    {
+      "english": "How fresh is this bread today?",
+      "georgian": "დღეს ეს პური რამდენად ახალია?",
+      "transliteration": "dges es puri ramenad axalia?",
+      "category": "Food",
+      "generated_at": "2026-11-26T00:47:57.436567"
+    },
+    {
+      "english": "I’ll take a sandwich, please.",
+      "georgian": "მე სენდვიჩს ავიღებ, გთხოვთ.",
+      "transliteration": "me sendvichs avigeb, gtshot",
+      "category": "Food",
+      "generated_at": "2026-11-26T00:47:57.436568"
+    },
+    {
+      "english": "Do you have vegetarian options here?",
+      "georgian": "აქ ვეგეტარიანული კერძები გაქვთ?",
+      "transliteration": "aq vegetarianuli kerzhebi gaqvt?",
+      "category": "Food",
+      "generated_at": "2026-11-26T00:47:57.436569"
     }
   ],
-  "last_updated": "2026-11-25T22:52:37.788854"
+  "last_updated": "2026-11-26T00:47:57.436570"
 }
