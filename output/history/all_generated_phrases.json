@@ -18949,7 +18949,42 @@
       "transliteration": "minda sheni ghimili chems gverdith",
       "category": "Love",
       "generated_at": "2026-11-26T21:04:43.118047"
+    },
+    {
+      "english": "Where’s the nearest market entrance?",
+      "georgian": "სად არის უახლოესი ბაზრის შესასვლელი?",
+      "transliteration": "sad aris uaxloesi bazris shesasvleli?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T22:41:10.897824"
+    },
+    {
+      "english": "I’m just looking, no rush.",
+      "georgian": "უბრალოდ ვათვალიერებ, ჩქარობა არ მაქვს.",
+      "transliteration": "ubrალოდ vաթvaliereb, charoba ar mkacx",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T22:41:10.897844"
+    },
+    {
+      "english": "Do you have this item today?",
+      "georgian": "ეს ნივთი დღეს გაქვთ?",
+      "transliteration": "es nivti dges gkavt?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T22:41:10.897847"
+    },
+    {
+      "english": "Show me the price, please.",
+      "georgian": "მიჩვენეთ ფასი, გთხოვთ.",
+      "transliteration": "miits’ineT fasi, gt’hovt?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T22:41:10.897849"
+    },
+    {
+      "english": "Is it fresh, or already old?",
+      "georgian": "ახალია, თუ უკვე ძველი?",
+      "transliteration": "axalia, tu ukve dzveli?",
+      "category": "Shopping",
+      "generated_at": "2026-11-26T22:41:10.897852"
     }
   ],
-  "last_updated": "2026-11-26T21:04:43.118049"
+  "last_updated": "2026-11-26T22:41:10.897855"
 }
