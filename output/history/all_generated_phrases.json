@@ -19005,7 +19005,28 @@
       "transliteration": "Amas shevamotsmeb da malе dagikavshirdebi",
       "category": "Work",
       "generated_at": "2026-11-27T11:51:53.686276"
+    },
+    {
+      "english": "Drink water, right now, please.",
+      "georgian": "დალიე წყალი, ახლა, გთხოვ.",
+      "transliteration": "Daliе ts'qali, akla, gtxov.",
+      "category": "Health",
+      "generated_at": "2026-11-27T19:22:01.196759"
+    },
+    {
+      "english": "Slow down, breathe in through your nose.",
+      "georgian": "შეანელე, ჩაისუნთქე ცხვირით.",
+      "transliteration": "Sheaniele, chaisuntq'e tsxvrit.",
+      "category": "Health",
+      "generated_at": "2026-11-27T19:22:01.196773"
+    },
+    {
+      "english": "Exhale slowly, and let tension go.",
+      "georgian": "ამოისუნთქე ნელა და გაუშვი დაძაბულობა.",
+      "transliteration": "Amoisuntq'e nela da gausevi dzazabuloba.",
+      "category": "Health",
+      "generated_at": "2026-11-27T19:22:01.196774"
     }
   ],
-  "last_updated": "2026-11-27T11:51:53.686278"
+  "last_updated": "2026-11-27T19:22:01.196776"
 }
