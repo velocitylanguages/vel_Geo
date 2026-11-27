@@ -18984,7 +18984,28 @@
       "transliteration": "axalia, tu ukve dzveli?",
       "category": "Shopping",
       "generated_at": "2026-11-26T22:41:10.897852"
+    },
+    {
+      "english": "I’m heading to my desk now.",
+      "georgian": "ახლა ჩემს მაგიდასთან მივდივარ.",
+      "transliteration": "Akhla chems magidastan mivdivar",
+      "category": "Work",
+      "generated_at": "2026-11-27T11:51:53.686261"
+    },
+    {
+      "english": "Please share the document with me.",
+      "georgian": "გთხოვ, გამომიგზავნე ეს დოკუმენტი.",
+      "transliteration": "Gtxov, gamomigzavne es dokumenti",
+      "category": "Work",
+      "generated_at": "2026-11-27T11:51:53.686275"
+    },
+    {
+      "english": "I’ll check this and get back soon.",
+      "georgian": "ამას შევამოწმებ და მალე დაგიკავშირდები.",
+      "transliteration": "Amas shevamotsmeb da malе dagikavshirdebi",
+      "category": "Work",
+      "generated_at": "2026-11-27T11:51:53.686276"
     }
   ],
-  "last_updated": "2026-11-26T22:41:10.897855"
+  "last_updated": "2026-11-27T11:51:53.686278"
 }
