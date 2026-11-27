@@ -2,9 +2,9 @@ name: Velocity Georgian - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:37 * * *'
-    - cron: '08:37 * * *'
-    - cron: '16:37 * * *'
+    - cron: '37 0 * * *'
+    - cron: '37 8 * * *'
+    - cron: '37 16 * * *'
   workflow_dispatch:
     inputs:
       category:
