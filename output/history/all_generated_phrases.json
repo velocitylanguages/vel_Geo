@@ -19026,7 +19026,28 @@
       "transliteration": "Amoisuntq'e nela da gausevi dzazabuloba.",
       "category": "Health",
       "generated_at": "2026-11-27T19:22:01.196774"
+    },
+    {
+      "english": "What time does it start, exactly?",
+      "georgian": "ზუსტად რამდენ საათზე იწყება?",
+      "transliteration": "Zokat aq't, ramden saatis iattskeba?",
+      "category": "Time",
+      "generated_at": "2026-11-28T08:23:03.080158"
+    },
+    {
+      "english": "It’s already late, we should go.",
+      "georgian": "უკვე გვიანაა, წავიდეთ ჯობს.",
+      "transliteration": "Ukve gvianaa, tsavidet jobs.",
+      "category": "Time",
+      "generated_at": "2026-11-28T08:23:03.080172"
+    },
+    {
+      "english": "See you in the morning, okay?",
+      "georgian": "დილით გნახავ, კარგი?",
+      "transliteration": "Dilit gnahav, kargi?",
+      "category": "Time",
+      "generated_at": "2026-11-28T08:23:03.080173"
     }
   ],
-  "last_updated": "2026-11-27T19:22:01.196776"
+  "last_updated": "2026-11-28T08:23:03.080175"
 }
